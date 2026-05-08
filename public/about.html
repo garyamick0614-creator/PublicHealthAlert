@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>About · PublicHealthAlert</title>
+  <meta name="description" content="What PublicHealthAlert is, who runs it, what it does and does not do, and how the data is sourced." />
+  <meta name="theme-color" content="#0b1220" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314b8a6'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='system-ui' font-size='34' font-weight='800' fill='%230b1220'%3EP%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body data-page="about">
+  <header class="site-header" id="appHeader" role="banner"></header>
+
+  <main class="container narrow">
+    <section class="section">
+      <header class="section-head">
+        <div>
+          <h1 class="section-title" style="font-size: 1.6rem;">About PublicHealthAlert</h1>
+          <div class="section-subtitle">A public information project by TCG Solutions.</div>
+        </div>
+      </header>
+      <div class="panel">
+        <div class="prose">
+          <h2>What this is</h2>
+          <p>PublicHealthAlert is a public information dashboard that aggregates outbreak signals, travel advisories, imported cases, and lineage updates from public health publishers and presents them as a single reverse-chronological feed organized around the question that matters most for U.S. residents: <em>what started abroad and now has a U.S. link?</em></p>
+
+          <h2>What this is not</h2>
+          <ul>
+            <li>It is <strong>not</strong> a medical advice service. Always consult your physician or local public-health authority for clinical decisions.</li>
+            <li>It is <strong>not</strong> a real-time emergency alerting system. Updates are nightly. For emergencies, follow CDC and WHO directly.</li>
+            <li>It does <strong>not</strong> include any fabricated, simulated, or seeded events. Every row on this dashboard came from a public publisher you can click through to.</li>
+          </ul>
+
+          <h2>How it works</h2>
+          <p>Each night at 01:00 ET a Node.js scraper running on the operator PC pulls the latest content from CDC, WHO Disease Outbreak News, ECDC, PAHO, and Africa CDC. Rows are normalized into a common schema, deduplicated, and archived locally. At 02:00 ET a verifier validates freshness and source health, then pushes the result to GitHub and deploys to Netlify. If verification fails, the previous good day is republished with a <code>status: stale</code> flag instead of going empty.</p>
+
+          <h2>Priority pathogens</h2>
+          <p>The tracker watches every virus its keyword classifier can identify, but six are pinned as priority because of active 2026 cross-border movement and U.S. relevance:</p>
+          <ul>
+            <li><strong>Measles</strong> — currently the most directly relevant to U.S. importation risk. Travelers and under-vaccinated communities drive amplification.</li>
+            <li><strong>Chikungunya</strong> — large 2026 case totals in South America, especially Brazil and Suriname; risk is travel-imported plus local vector competence.</li>
+            <li><strong>Poliovirus</strong> — Level 2 advisory issued in March 2026 covering 30+ countries with active circulation.</li>
+            <li><strong>Oropouche</strong> — expansion from the 2024 Americas outbreak footprint with documented U.S. and Canada imported cases.</li>
+            <li><strong>Avian influenza</strong> — H5N1 / H9N2 / H7N9 zoonotic signals with cross-border traveler events.</li>
+            <li><strong>Yellow fever</strong> — Venezuela travel notice issued March 2026; U.S. risk is unvaccinated travelers returning from outbreak areas.</li>
+          </ul>
+
+          <h2>Data integrity</h2>
+          <p>The full source code is open at <a href="https://github.com/garyamick0614-creator/PublicHealthAlert" rel="noopener" target="_blank">github.com/garyamick0614-creator/PublicHealthAlert</a>. Every nightly publish becomes a git commit on <code>main</code>, so the publish history is fully reproducible — you can see exactly which event entered the feed when, and which version of the scraper produced it.</p>
+          <div class="callout">
+            <strong>Honest limitations.</strong> Keyword-based classification will sometimes mis-tag (or miss-tag) status, virus, or pathway. The dashboard prefers a <code>null</code> field over a guess. If you spot something wrong, file an issue — the classifier patterns are transparent and easy to amend.
+          </div>
+
+          <h2>Operator</h2>
+          <p>Operated by <a href="https://thatcomputerguy26.org" rel="noopener" target="_blank">TCG Solutions</a> — an MSP serving small businesses, dental, and medical offices. PublicHealthAlert is offered as a free public information project; we do not collect visitor analytics on this site.</p>
+
+          <h2>Contact</h2>
+          <p>Questions, corrections, or source suggestions: <a href="mailto:gary.amick0614@gmail.com">gary.amick0614@gmail.com</a> or open an issue on the GitHub repository.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="appFooter"></footer>
+  <script type="module" src="./assets/pages/about.js"></script>
+</body>
+</html>

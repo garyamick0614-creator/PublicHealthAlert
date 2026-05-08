@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sources · PublicHealthAlert</title>
+  <meta name="description" content="Live registry of every public-health source feeding the tracker, with last-scraped status and event count." />
+  <meta name="theme-color" content="#0b1220" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314b8a6'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='system-ui' font-size='34' font-weight='800' fill='%230b1220'%3EP%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body data-page="sources">
+  <header class="site-header" id="appHeader" role="banner"></header>
+
+  <main class="container">
+    <section class="section">
+      <header class="section-head">
+        <div>
+          <h1 class="section-title" style="font-size: 1.6rem;">Source registry</h1>
+          <div class="section-subtitle">Each source is tagged with its access type and last-scraped timestamp. Health is computed from the latest run log.</div>
+        </div>
+      </header>
+      <div class="source-grid" id="sourceGrid"></div>
+    </section>
+
+    <section class="section">
+      <header class="section-head">
+        <div>
+          <h2 class="section-title">Methodology</h2>
+          <div class="section-subtitle">How raw publisher feeds become rows on the dashboard.</div>
+        </div>
+      </header>
+      <div class="panel">
+        <div class="prose">
+          <p>Every night at <strong>01:00 ET</strong> a scheduled task on the operator PC runs <code>scripts/scrape.mjs</code>. Each connector below is invoked in parallel and emits rows into a normalized event schema. Raw per-source output is archived under <code>data/YYYY-MM-DD/</code> for full-day audit.</p>
+          <p>At <strong>02:00 ET</strong> the verifier runs <code>scripts/verify-publish.mjs</code>. It validates that:</p>
+          <ul>
+            <li>The 01:00 scrape file exists and is fresh (≤ 6h old).</li>
+            <li>At least one source produced events.</li>
+            <li>Total event count is above the configured minimum.</li>
+            <li>No fatal parser errors were logged for the day.</li>
+          </ul>
+          <p>If verification passes, the new feed is written to <code>public/data/events.json</code>, committed to GitHub, and pushed to Netlify. If verification fails, the previous publish is republished with a <code>status: stale</code> flag — the site never goes empty.</p>
+          <h3>Field-level normalization</h3>
+          <p>Each connector returns rows in this shape: <code>id</code>, <code>source</code>, <code>source_url</code>, <code>report_date</code>, <code>virus</code>, <code>event_type</code>, <code>status</code>, <code>origin_country</code>, <code>origin_setting</code>, <code>current_spread</code>, <code>us_pathway</code>, <code>us_cases</code>, <code>title</code>, <code>summary</code>, <code>region</code>, <code>latitude</code>, <code>longitude</code>, <code>scraped_at</code>.</p>
+          <p>Virus, status, event-type, and U.S. pathway are detected by deterministic keyword patterns over the title + summary. Country detection only scans the title to avoid false positives from incidental mentions in summary text. The full pattern set is open-source in <code>scripts/lib/schema.mjs</code>.</p>
+          <div class="callout">
+            <strong>Why the keyword approach?</strong> All five core publishers emit human-readable prose. A keyword classifier is honest about its precision: it tags only what it's confident in, and leaves uncertain fields <code>null</code> rather than guessing. Future iterations may add per-source structured extractors (e.g. WHO DON's bracketed country fields) — those will land in source-specific connectors, not as a global heuristic.
+          </div>
+          <h3>Access tags</h3>
+          <p><span class="access-tag" data-access="public">public</span> — confirmed reachable without authentication. <span class="access-tag" data-access="key_required">key_required</span> — endpoint requires a credential we do not architect against. <span class="access-tag">unknown</span> — access status not yet verified.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="appFooter"></footer>
+  <script type="module" src="./assets/pages/sources.js"></script>
+</body>
+</html>

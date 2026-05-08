@@ -1,78 +1,80 @@
-// Africa CDC — Disease pages and news index.
-// No documented public outbreak API exists; we capture the disease-class
-// pages and the news listing, filtered to virus-related items.
+// Africa CDC — news index. WordPress structure with a /news-item/<slug>/
+// pattern for individual posts. We harvest those anchors directly.
 
 import * as cheerio from "cheerio";
 import { fetchText } from "../lib/fetch.mjs";
 import { detectVirus, makeEvent } from "../lib/schema.mjs";
 
-const NEWS_URL = "https://africacdc.org/news/";
-const DISEASE_INDEX = "https://africacdc.org/disease/";
+const NEWS_PAGES = [
+  "https://africacdc.org/news/",
+];
+
+const FETCH_OPTS = { timeoutMs: 12_000, retries: 0 };
 
 const SOURCE = "Africa CDC";
 const SOURCE_ID = "africa-cdc";
 
 export const meta = {
   id: SOURCE_ID,
-  name: "Africa CDC — Outbreak Archive",
-  url: "https://africacdc.org/disease/",
+  name: "Africa CDC — News & Outbreak Archive",
+  url: "https://africacdc.org/news/",
 };
 
-async function scrapePage(url, logger) {
+async function harvestPage(url, logger) {
+  let html;
   try {
-    const html = await fetchText(url);
-    const $ = cheerio.load(html);
-    const rows = new Map();
-    $("article a, .post a, .entry-title a, h2 a, h3 a").each((_, a) => {
-      const $a = $(a);
-      const text = $a.text().trim();
-      const href = $a.attr("href");
-      if (!text || !href) return;
-      const virus = detectVirus(text);
-      if (!virus) return;
-      const u = href.startsWith("http") ? href : new URL(href, "https://africacdc.org").toString();
-      if (rows.has(u)) return;
-      const $card = $a.closest("article, .post");
-      const dateText = $card.find("time").attr("datetime") || null;
-      rows.set(u, { text, url: u, virus, dateText });
-    });
-    return [...rows.values()];
+    html = await fetchText(url, FETCH_OPTS);
   } catch (e) {
-    logger.warn("africa_cdc.page_unavailable", { url, error: e.message });
+    logger.warn("africa_cdc.fetch_failed", { url, error: e.message });
     return [];
   }
-}
-
-export async function scrape({ logger }) {
-  const [news, diseases] = await Promise.all([
-    scrapePage(NEWS_URL, logger),
-    scrapePage(DISEASE_INDEX, logger),
-  ]);
-  const combined = [...news, ...diseases];
+  const $ = cheerio.load(html);
   const events = [];
   const seen = new Set();
-  for (const r of combined) {
-    if (seen.has(r.url)) continue;
-    seen.add(r.url);
+
+  $('a[href*="/news-item/"]').each((_, a) => {
+    const $a = $(a);
+    const href = $a.attr("href") || "";
+    const text = $a.text().replace(/\s+/g, " ").trim();
+    if (!text || text.length < 8) return;
+    const u = href.startsWith("http") ? href : new URL(href, "https://africacdc.org").toString();
+    if (seen.has(u)) return;
+    seen.add(u);
+    const virus = detectVirus(text);
+    if (!virus) return;
+    // Try to find a date in a sibling element (.entry-date, time)
+    const $card = $a.closest("article, .post, .entry");
+    const dateAttr = $card.find("time").attr("datetime");
+    const reportDate = dateAttr ? new Date(dateAttr).toISOString() : null;
     events.push(
       makeEvent({
         source: SOURCE,
         source_id: SOURCE_ID,
-        source_url: r.url,
-        title: r.text,
+        source_url: u,
+        title: text,
         summary: "",
-        report_date: parseDate(r.dateText),
+        report_date: reportDate,
         region: "Africa",
-        virus: r.virus,
+        virus,
       })
     );
-  }
-  logger.info("africa_cdc.scraped", { count: events.length });
+  });
+
   return events;
 }
 
-function parseDate(s) {
-  if (!s) return null;
-  const d = new Date(s);
-  return Number.isNaN(d.getTime()) ? null : d.toISOString();
+export async function scrape({ logger }) {
+  const all = [];
+  for (const url of NEWS_PAGES) {
+    const events = await harvestPage(url, logger);
+    all.push(...events);
+  }
+  const seen = new Set();
+  const unique = all.filter((e) => {
+    if (seen.has(e.id)) return false;
+    seen.add(e.id);
+    return true;
+  });
+  logger.info("africa_cdc.scraped", { count: unique.length });
+  return unique;
 }

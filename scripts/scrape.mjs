@@ -13,6 +13,7 @@ import * as paho from "./sources/paho.mjs";
 import * as whoDon from "./sources/who-don.mjs";
 import * as ecdc from "./sources/ecdc.mjs";
 import * as africaCdc from "./sources/africa-cdc.mjs";
+import * as whoAfro from "./sources/who-afro.mjs";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const CONNECTORS = [
@@ -21,6 +22,7 @@ const CONNECTORS = [
   { mod: whoDon, id: "who-don" },
   { mod: ecdc, id: "ecdc" },
   { mod: africaCdc, id: "africa-cdc" },
+  { mod: whoAfro, id: "who-afro" },
 ];
 
 function parseArgs(argv) {
@@ -39,8 +41,17 @@ async function runConnector(c, logger) {
     error: (e, f) => logger.error(`[${c.id}] ${e}`, f),
   };
   const t0 = Date.now();
+  // Per-connector wall-clock cap so one slow source can't stall the nightly
+  // pipeline. The internal fetch timeouts handle individual requests; this is
+  // a belt-and-braces deadline for the connector as a whole.
+  const CONNECTOR_TIMEOUT_MS = 90_000;
   try {
-    const events = await c.mod.scrape({ logger: subLogger });
+    const events = await Promise.race([
+      c.mod.scrape({ logger: subLogger }),
+      new Promise((_, reject) =>
+        setTimeout(() => reject(new Error(`connector timeout after ${CONNECTOR_TIMEOUT_MS}ms`)), CONNECTOR_TIMEOUT_MS)
+      ),
+    ]);
     const ms = Date.now() - t0;
     logger.info("connector.done", { source: c.id, count: events.length, duration_ms: ms });
     return { id: c.id, ok: true, events, ms, error: null };

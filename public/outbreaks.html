@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Outbreaks · PublicHealthAlert</title>
+  <meta name="description" content="All scraped outbreak signals — filterable by virus, country, status, and U.S. pathway. Updated nightly." />
+  <meta name="theme-color" content="#0b1220" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314b8a6'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='system-ui' font-size='34' font-weight='800' fill='%230b1220'%3EP%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body data-page="outbreaks">
+  <header class="site-header" id="appHeader" role="banner"></header>
+
+  <main class="container wide">
+    <section class="section">
+      <header class="section-head">
+        <div>
+          <h1 class="section-title" style="font-size: 1.6rem;">All outbreak signals</h1>
+          <div class="section-subtitle">Reverse-chronological feed, deduped across CDC, WHO DON, ECDC, PAHO, and Africa CDC.</div>
+        </div>
+        <span class="status-pill" id="resultCount" data-status="ok"><span class="status-dot"></span><span class="status-text">—</span></span>
+      </header>
+
+      <div class="panel" style="margin-bottom: 1rem;">
+        <div class="filters" id="filters">
+          <label class="filter">
+            <span>Search</span>
+            <input type="search" id="filterQ" placeholder="Title, country, virus…" autocomplete="off" />
+          </label>
+          <label class="filter">
+            <span>Virus</span>
+            <select id="filterVirus"><option value="">All viruses</option></select>
+          </label>
+          <label class="filter">
+            <span>Country</span>
+            <select id="filterCountry"><option value="">All countries</option></select>
+          </label>
+          <label class="filter">
+            <span>Status</span>
+            <select id="filterStatus">
+              <option value="">Any status</option>
+              <option value="active">Active outbreak</option>
+              <option value="advisory">Travel advisory</option>
+              <option value="imported">Imported case</option>
+              <option value="monitoring">Monitoring</option>
+              <option value="contained">Contained</option>
+            </select>
+          </label>
+          <label class="filter">
+            <span>U.S. pathway</span>
+            <select id="filterPathway">
+              <option value="">All pathways</option>
+              <option value="air_travel">Air travel</option>
+              <option value="land_border">Land border</option>
+              <option value="returning_resident">Returning resident</option>
+              <option value="vector">Vector / mosquito</option>
+              <option value="animal_exposure">Animal exposure</option>
+            </select>
+          </label>
+          <label class="filter">
+            <span>Source</span>
+            <select id="filterSource"><option value="">All sources</option></select>
+          </label>
+          <button type="button" class="btn-reset" id="filterReset">Reset</button>
+        </div>
+      </div>
+
+      <div class="table-wrap">
+        <table class="events-table" id="eventsTable" aria-live="polite">
+          <thead>
+            <tr>
+              <th class="col-date" scope="col">Date</th>
+              <th class="col-virus" scope="col">Virus</th>
+              <th scope="col">Status</th>
+              <th scope="col">Origin</th>
+              <th scope="col">Event</th>
+              <th scope="col">U.S. pathway</th>
+              <th scope="col">Source</th>
+            </tr>
+          </thead>
+          <tbody id="eventsBody">
+            <tr><td colspan="7"><div class="empty-state"><strong>Loading events…</strong>Hold on while the latest feed loads.</div></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="appFooter"></footer>
+  <script type="module" src="./assets/pages/outbreaks.js"></script>
+</body>
+</html>

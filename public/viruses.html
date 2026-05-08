@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Viruses · PublicHealthAlert</title>
+  <meta name="description" content="Per-virus rollup of every event currently tracked, sorted by recent activity." />
+  <meta name="theme-color" content="#0b1220" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314b8a6'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='system-ui' font-size='34' font-weight='800' fill='%230b1220'%3EP%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body data-page="viruses">
+  <header class="site-header" id="appHeader" role="banner"></header>
+
+  <main class="container">
+    <section class="section">
+      <header class="section-head">
+        <div>
+          <h1 class="section-title" style="font-size: 1.6rem;">Viruses</h1>
+          <div class="section-subtitle">Each tile shows current event count and last-seen activity. Priority pathogens are pinned at the top.</div>
+        </div>
+        <span class="status-pill" id="virusCount" data-status="ok"><span class="status-dot"></span><span class="status-text">—</span></span>
+      </header>
+    </section>
+
+    <section class="section" aria-labelledby="prioTitle">
+      <h2 id="prioTitle" class="section-title">Priority pathogens</h2>
+      <div class="virus-grid" id="priorityGrid"></div>
+    </section>
+
+    <section class="section" aria-labelledby="otherTitle">
+      <h2 id="otherTitle" class="section-title">Other tracked viruses</h2>
+      <div class="virus-grid" id="otherGrid"></div>
+    </section>
+
+    <section class="section" id="emptyState" hidden>
+      <div class="panel">
+        <div class="empty-state">
+          <strong>No viruses tagged yet</strong>
+          The next nightly scrape (01:00 ET) will populate the registry. Until then the source connectors are live but no events have matched a tracked-virus pattern.
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="appFooter"></footer>
+  <script type="module" src="./assets/pages/viruses.js"></script>
+</body>
+</html>

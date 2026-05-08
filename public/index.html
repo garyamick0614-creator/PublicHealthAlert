@@ -3,127 +3,80 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>PublicHealthAlert &middot; Cross-Border Virus Spread Tracker</title>
-  <meta name="description" content="Public information dashboard tracking cross-border virus spread with relevance to the United States. Updated nightly from CDC, PAHO, WHO, and ECDC public sources." />
+  <title>PublicHealthAlert · Cross-border virus spread, refreshed nightly</title>
+  <meta name="description" content="A public information dashboard tracking outbreaks, travel advisories, and imported cases relevant to the United States. Updated nightly from CDC, PAHO, WHO, ECDC, and Africa CDC public sources." />
   <meta name="theme-color" content="#0b1220" />
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='28' fill='%2314b8a6'/%3E%3Ctext x='32' y='42' text-anchor='middle' font-family='system-ui' font-size='32' font-weight='700' fill='%230b1220'%3EP%3C/text%3E%3C/svg%3E" />
-  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
-  <link rel="stylesheet" href="./styles.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314b8a6'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='system-ui' font-size='34' font-weight='800' fill='%230b1220'%3EP%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./vendor/maplibre/maplibre-gl.css" />
+  <link rel="stylesheet" href="./assets/styles.css" />
 </head>
-<body>
-  <header class="site-header" role="banner">
-    <div class="brand">
-      <div class="brand-mark" aria-hidden="true">P</div>
-      <div class="brand-text">
-        <div class="brand-title">PublicHealthAlert</div>
-        <div class="brand-tagline">Cross-Border Virus Spread Tracker &middot; A TCG Solutions public information project</div>
-      </div>
-    </div>
-    <div class="status-bar" id="statusBar" aria-live="polite">
-      <span class="status-pill" data-status="loading">Loading status&hellip;</span>
-    </div>
-  </header>
+<body data-page="home">
+  <header class="site-header" id="appHeader" role="banner"></header>
 
   <main class="container">
-    <section class="panel" aria-labelledby="filtersTitle">
-      <h2 id="filtersTitle" class="panel-title">Filters</h2>
-      <div class="filters" id="filters">
-        <label class="filter">
-          <span>Virus</span>
-          <select id="filterVirus"><option value="">All viruses</option></select>
-        </label>
-        <label class="filter">
-          <span>Region</span>
-          <select id="filterRegion"><option value="">All regions</option></select>
-        </label>
-        <label class="filter">
-          <span>U.S. pathway</span>
-          <select id="filterPathway">
-            <option value="">All pathways</option>
-            <option value="air_travel">Air travel</option>
-            <option value="land_border">Land border</option>
-            <option value="returning_resident">Returning resident</option>
-            <option value="vector">Vector / mosquito</option>
-            <option value="animal_exposure">Animal exposure</option>
-          </select>
-        </label>
-        <label class="filter">
-          <span>Status</span>
-          <select id="filterStatus">
-            <option value="">Any status</option>
-            <option value="active">Active outbreak</option>
-            <option value="advisory">Travel advisory</option>
-            <option value="imported">Imported case</option>
-            <option value="monitoring">Monitoring</option>
-            <option value="contained">Contained</option>
-          </select>
-        </label>
-        <button type="button" class="filter-reset" id="filterReset">Reset</button>
+    <section class="hero fade-in">
+      <span class="hero-eyebrow"><span class="status-dot" style="background: var(--accent); box-shadow: 0 0 0 4px rgba(45,212,191,0.18);"></span> Live tracker · Updated nightly</span>
+      <h1 class="hero-title">Cross-border virus spread, organized for the United States.</h1>
+      <p class="hero-subtitle">PublicHealthAlert ingests outbreaks, travel advisories, and imported cases from CDC, WHO, PAHO, ECDC, and Africa CDC — normalized into one reverse-chronological feed so you can answer: <em>what started abroad and now has a U.S. link?</em></p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="./outbreaks.html">Browse all outbreaks</a>
+        <a class="btn" href="./map.html">Open spread map</a>
+        <a class="btn btn-ghost" href="./about.html">How this works</a>
       </div>
     </section>
 
-    <section class="panel" aria-labelledby="alertsTitle">
-      <header class="panel-header">
-        <h2 id="alertsTitle" class="panel-title">Recent events</h2>
-        <span class="muted" id="alertsCount">0 events</span>
+    <section class="section" aria-labelledby="statsTitle">
+      <h2 id="statsTitle" class="section-title" hidden>At a glance</h2>
+      <div class="stat-grid" id="statGrid"></div>
+    </section>
+
+    <section class="section" aria-labelledby="featuredTitle">
+      <header class="section-head">
+        <div>
+          <h2 id="featuredTitle" class="section-title">Most recent signals</h2>
+          <div class="section-subtitle">Newest virus-tagged events across all sources, regardless of region.</div>
+        </div>
+        <a class="btn btn-ghost" href="./outbreaks.html">See all →</a>
       </header>
-      <div class="table-wrap">
-        <table class="alerts-table">
-          <thead>
-            <tr>
-              <th scope="col">Date</th>
-              <th scope="col">Virus</th>
-              <th scope="col">Type</th>
-              <th scope="col">Origin</th>
-              <th scope="col">Event</th>
-              <th scope="col">U.S. pathway</th>
-              <th scope="col">Source</th>
-            </tr>
-          </thead>
-          <tbody id="alertsBody">
-            <tr class="empty-row"><td colspan="7">No events loaded yet. The first nightly scrape runs at 01:00 ET.</td></tr>
-          </tbody>
-        </table>
+      <div class="alert-grid" id="featuredGrid"></div>
+    </section>
+
+    <section class="section" aria-labelledby="prioTitle">
+      <header class="section-head">
+        <div>
+          <h2 id="prioTitle" class="section-title">Priority viruses</h2>
+          <div class="section-subtitle">The six pathogens this tracker watches first, with current event counts.</div>
+        </div>
+        <a class="btn btn-ghost" href="./viruses.html">All viruses →</a>
+      </header>
+      <div class="virus-grid" id="priorityGrid"></div>
+    </section>
+
+    <section class="section" aria-labelledby="mapPreviewTitle">
+      <header class="section-head">
+        <div>
+          <h2 id="mapPreviewTitle" class="section-title">Where it&rsquo;s happening</h2>
+          <div class="section-subtitle">Country-level signal density. Click into the full map for individual events.</div>
+        </div>
+        <a class="btn btn-ghost" href="./map.html">Open full map →</a>
+      </header>
+      <div class="map-shell">
+        <div id="map" class="map" aria-label="World map: country event density"></div>
+        <div class="map-overlay">
+          <div class="map-legend">
+            <strong style="color: var(--text);">Country density</strong>
+            <span><span class="legend-swatch" style="background: rgba(45,212,191,0.25);"></span>1</span>
+            <span><span class="legend-swatch" style="background: rgba(245,158,11,0.55);"></span>2–4</span>
+            <span><span class="legend-swatch" style="background: rgba(244,63,94,0.7);"></span>5+</span>
+          </div>
+        </div>
       </div>
-    </section>
-
-    <section class="panel" aria-labelledby="mapTitle">
-      <header class="panel-header">
-        <h2 id="mapTitle" class="panel-title">Spread map</h2>
-        <span class="muted">Geocoded events plotted as clusters</span>
-      </header>
-      <div id="map" class="map" role="img" aria-label="World map of recent virus spread events"></div>
-    </section>
-
-    <section class="panel" aria-labelledby="sourcesTitle">
-      <header class="panel-header">
-        <h2 id="sourcesTitle" class="panel-title">Source registry</h2>
-        <span class="muted">Each source tagged by access type and last-seen status</span>
-      </header>
-      <ul class="sources" id="sources"></ul>
     </section>
   </main>
 
-  <footer class="site-footer">
-    <div class="footer-grid">
-      <div>
-        <strong>PublicHealthAlert</strong> is a public information project operated by
-        <a href="https://thatcomputerguy26.org" rel="noopener">TCG Solutions</a>. Data is refreshed
-        nightly. Click any event to view the original publisher.
-      </div>
-      <div class="muted">
-        Not a substitute for clinical advice or official travel guidance. Always consult CDC, WHO,
-        or your local public-health authority for action-relevant information.
-      </div>
-      <div class="muted small">
-        Last refresh: <span id="footerRefresh">&mdash;</span> &middot;
-        Next refresh window: 01:00 ET daily &middot;
-        <a href="https://github.com/garyamick0614-creator/PublicHealthAlert" rel="noopener">Source code on GitHub</a>
-      </div>
-    </div>
-  </footer>
+  <footer class="site-footer" id="appFooter"></footer>
 
-  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
-  <script src="./app.js" type="module"></script>
+  <script src="./vendor/maplibre/maplibre-gl.js"></script>
+  <script type="module" src="./assets/pages/home.js"></script>
 </body>
 </html>

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Spread map · PublicHealthAlert</title>
+  <meta name="description" content="World choropleth of country-level event density. Click any country for the full event list." />
+  <meta name="theme-color" content="#0b1220" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314b8a6'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='system-ui' font-size='34' font-weight='800' fill='%230b1220'%3EP%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./vendor/maplibre/maplibre-gl.css" />
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body data-page="map">
+  <header class="site-header" id="appHeader" role="banner"></header>
+
+  <main class="container wide">
+    <section class="section" style="margin-bottom: 1rem;">
+      <header class="section-head">
+        <div>
+          <h1 class="section-title" style="font-size: 1.6rem;">Spread map</h1>
+          <div class="section-subtitle">Country fill = event count. Pins = individual events. Click a country or a pin for details.</div>
+        </div>
+      </header>
+    </section>
+
+    <div class="map-shell full">
+      <div id="map" class="map" aria-label="Interactive world map of virus spread events"></div>
+      <div class="map-overlay">
+        <div class="map-legend" id="mapLegend">
+          <strong style="color: var(--text);">Country density</strong>
+          <span><span class="legend-swatch" style="background: rgba(45,212,191,0.25);"></span>1</span>
+          <span><span class="legend-swatch" style="background: rgba(245,158,11,0.55);"></span>2–4</span>
+          <span><span class="legend-swatch" style="background: rgba(244,63,94,0.7);"></span>5+</span>
+        </div>
+      </div>
+      <aside class="map-side" id="mapSide" aria-label="Selected country events">
+        <header class="map-side-head">
+          <strong id="mapSideTitle">Pick a country</strong>
+          <span class="muted small" id="mapSideMeta">—</span>
+        </header>
+        <div class="map-side-list" id="mapSideList">
+          <div class="map-side-empty">Click any highlighted country or pin to see the events feeding the dashboard from there.</div>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="site-footer" id="appFooter"></footer>
+
+  <script src="./vendor/maplibre/maplibre-gl.js"></script>
+  <script type="module" src="./assets/pages/map.js"></script>
+</body>
+</html>
