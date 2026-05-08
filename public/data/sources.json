@@ -6,7 +6,9 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "United States",
-    "last_scraped": null
+    "last_scraped": "2026-05-08T02:32:08.341Z",
+    "last_event_count": 11,
+    "last_error": null
   },
   {
     "id": "paho",
@@ -15,7 +17,9 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Americas",
-    "last_scraped": null
+    "last_scraped": "2026-05-08T02:32:08.341Z",
+    "last_event_count": 0,
+    "last_error": null
   },
   {
     "id": "who-don",
@@ -24,7 +28,9 @@
     "format": "HTML / RSS",
     "access": "public",
     "region_scope": "Global",
-    "last_scraped": null
+    "last_scraped": "2026-05-08T02:32:08.341Z",
+    "last_event_count": 13,
+    "last_error": null
   },
   {
     "id": "ecdc",
@@ -33,7 +39,9 @@
     "format": "RSS + HTML (CDTR)",
     "access": "public",
     "region_scope": "Europe / global signal",
-    "last_scraped": null
+    "last_scraped": "2026-05-08T02:32:08.341Z",
+    "last_event_count": 0,
+    "last_error": null
   },
   {
     "id": "africa-cdc",
@@ -42,6 +50,8 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Africa",
-    "last_scraped": null
+    "last_scraped": "2026-05-08T02:32:08.341Z",
+    "last_event_count": 0,
+    "last_error": null
   }
 ]
