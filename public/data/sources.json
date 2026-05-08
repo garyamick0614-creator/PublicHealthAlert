@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cdc",
+    "name": "CDC — Outbreaks & Travel Advisories",
+    "url": "https://www.cdc.gov/outbreaks/",
+    "format": "HTML",
+    "access": "public",
+    "region_scope": "United States",
+    "last_scraped": null
+  },
+  {
+    "id": "paho",
+    "name": "PAHO — Pan American Health Organization",
+    "url": "https://www.paho.org/en/topics",
+    "format": "HTML",
+    "access": "public",
+    "region_scope": "Americas",
+    "last_scraped": null
+  },
+  {
+    "id": "who-don",
+    "name": "WHO — Disease Outbreak News",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news",
+    "format": "HTML / RSS",
+    "access": "public",
+    "region_scope": "Global",
+    "last_scraped": null
+  },
+  {
+    "id": "ecdc",
+    "name": "ECDC — Communicable Disease Threats",
+    "url": "https://www.ecdc.europa.eu/en/threats-and-outbreaks",
+    "format": "RSS + HTML (CDTR)",
+    "access": "public",
+    "region_scope": "Europe / global signal",
+    "last_scraped": null
+  },
+  {
+    "id": "africa-cdc",
+    "name": "Africa CDC — Outbreak Archive",
+    "url": "https://africacdc.org/disease/",
+    "format": "HTML",
+    "access": "public",
+    "region_scope": "Africa",
+    "last_scraped": null
+  }
+]

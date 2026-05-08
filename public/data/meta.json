@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "status": "scaffold",
+  "last_updated": null,
+  "next_run": "01:00 ET daily",
+  "event_count": 0,
+  "source_count": 5,
+  "operator": "TCG Solutions",
+  "notes": "Scaffold deploy. First nightly scrape will populate real events."
+}

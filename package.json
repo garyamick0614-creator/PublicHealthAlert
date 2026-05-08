@@ -1,0 +1,25 @@
+{
+  "name": "publichealthalert",
+  "version": "0.1.0",
+  "description": "Public information dashboard tracking cross-border virus spread relevant to the United States. Operated by TCG Solutions.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "verify": "node scripts/verify-publish.mjs",
+    "verify:dry": "node scripts/verify-publish.mjs --dry",
+    "test:connector": "node scripts/scrape.mjs --source"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "rss-parser": "^3.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garyamick0614-creator/PublicHealthAlert.git"
+  },
+  "license": "MIT"
+}

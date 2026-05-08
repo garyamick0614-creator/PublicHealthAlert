@@ -1,0 +1,28 @@
+# Local-only — daily raw archives, run logs, and ready_to_publish state
+# stay on the operator PC, not in git. Anchored to repo root so public/data/
+# (the published site feed) is NOT ignored.
+/data/
+/logs/
+/state/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
