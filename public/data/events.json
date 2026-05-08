@@ -1,5 +1,71 @@
 [
   {
+    "id": "c1e897ff2c4ac372",
+    "source": "Africa CDC",
+    "source_id": "africa-cdc",
+    "source_url": "https://africacdc.org/news-item/statement-on-multi-country-hantavirus-cluster-associated-with-cruise-ship-travel/",
+    "report_date": "2026-05-08T03:37:15.611Z",
+    "virus": "hantavirus",
+    "event_type": "outbreak",
+    "status": "active",
+    "origin_country": null,
+    "origin_setting": null,
+    "current_spread": null,
+    "us_pathway": null,
+    "us_cases": null,
+    "title": "Statement on Multi-Country Hantavirus Cluster Associated with Cruise Ship Travel 6 May 2026 |",
+    "summary": "",
+    "region": "Africa",
+    "latitude": null,
+    "longitude": null,
+    "scraped_at": "2026-05-08T03:37:15.612Z",
+    "raw": null
+  },
+  {
+    "id": "eba68278e70917fa",
+    "source": "WHO AFRO",
+    "source_id": "who-afro",
+    "source_url": "https://www.afro.who.int/news/nearly-20-million-lives-saved-africa-through-measles-vaccinations",
+    "report_date": "2026-05-08T03:37:04.899Z",
+    "virus": "measles",
+    "event_type": "news",
+    "status": "monitoring",
+    "origin_country": null,
+    "origin_setting": null,
+    "current_spread": null,
+    "us_pathway": null,
+    "us_cases": null,
+    "title": "Nearly 20 million lives saved in Africa through measles vaccinations",
+    "summary": "",
+    "region": "Africa",
+    "latitude": null,
+    "longitude": null,
+    "scraped_at": "2026-05-08T03:37:04.899Z",
+    "raw": null
+  },
+  {
+    "id": "31962f03612a6428",
+    "source": "WHO AFRO",
+    "source_id": "who-afro",
+    "source_url": "https://www.afro.who.int/countries/zimbabwe/news/zimbabwe-national-polio-and-measles-laboratory-full-accreditation-status-renewed",
+    "report_date": "2026-05-08T03:37:04.898Z",
+    "virus": "measles",
+    "event_type": "news",
+    "status": "monitoring",
+    "origin_country": "Zimbabwe",
+    "origin_setting": null,
+    "current_spread": null,
+    "us_pathway": null,
+    "us_cases": null,
+    "title": "Zimbabwe National Polio and Measles Laboratory full accreditation Status renewed",
+    "summary": "",
+    "region": "Africa",
+    "latitude": null,
+    "longitude": null,
+    "scraped_at": "2026-05-08T03:37:04.898Z",
+    "raw": null
+  },
+  {
     "id": "c702d1c8859df6c7",
     "source": "WHO DON",
     "source_id": "who-don",
@@ -18,7 +84,29 @@
     "region": "Global",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:35.450Z",
+    "scraped_at": "2026-05-08T03:37:09.010Z",
+    "raw": null
+  },
+  {
+    "id": "bf31def10a6f69d7",
+    "source": "PAHO",
+    "source_id": "paho",
+    "source_url": "https://www.paho.org/en/news/7-5-2026-paho-supports-international-response-hantavirus-pulmonary-syndrome-cases-linked",
+    "report_date": "2026-05-07T12:00:00Z",
+    "virus": "hantavirus",
+    "event_type": "news",
+    "status": "monitoring",
+    "origin_country": null,
+    "origin_setting": null,
+    "current_spread": null,
+    "us_pathway": null,
+    "us_cases": null,
+    "title": "PAHO supports the international response to hantavirus pulmonary syndrome cases linked to a cruise ship in the Atlantic",
+    "summary": "",
+    "region": "Americas",
+    "latitude": null,
+    "longitude": null,
+    "scraped_at": "2026-05-08T03:37:04.268Z",
     "raw": null
   },
   {
@@ -40,7 +128,7 @@
     "region": "Europe / global signal",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:42.294Z",
+    "scraped_at": "2026-05-08T03:37:13.894Z",
     "raw": null
   },
   {
@@ -62,7 +150,7 @@
     "region": "Global",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:35.451Z",
+    "scraped_at": "2026-05-08T03:37:09.011Z",
     "raw": null
   },
   {
@@ -84,7 +172,29 @@
     "region": "Global",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:35.452Z",
+    "scraped_at": "2026-05-08T03:37:09.012Z",
+    "raw": null
+  },
+  {
+    "id": "b07d60bba3c76cb4",
+    "source": "PAHO",
+    "source_id": "paho",
+    "source_url": "https://www.paho.org/en/news/23-4-2026-paho-calls-strengthen-vaccination-amid-rising-measles-cases-americas",
+    "report_date": "2026-04-23T12:00:00Z",
+    "virus": "measles",
+    "event_type": "news",
+    "status": "monitoring",
+    "origin_country": null,
+    "origin_setting": null,
+    "current_spread": null,
+    "us_pathway": null,
+    "us_cases": null,
+    "title": "PAHO calls to strengthen vaccination amid rising measles cases in the Americas",
+    "summary": "",
+    "region": "Americas",
+    "latitude": null,
+    "longitude": null,
+    "scraped_at": "2026-05-08T03:37:04.400Z",
     "raw": null
   },
   {
@@ -106,7 +216,7 @@
     "region": "Global",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:35.452Z",
+    "scraped_at": "2026-05-08T03:37:09.012Z",
     "raw": null
   },
   {
@@ -128,7 +238,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.671Z",
+    "scraped_at": "2026-05-08T03:37:04.198Z",
     "raw": null
   },
   {
@@ -150,7 +260,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.671Z",
+    "scraped_at": "2026-05-08T03:37:04.199Z",
     "raw": null
   },
   {
@@ -172,7 +282,7 @@
     "region": "Global",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:35.454Z",
+    "scraped_at": "2026-05-08T03:37:09.013Z",
     "raw": null
   },
   {
@@ -194,7 +304,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.671Z",
+    "scraped_at": "2026-05-08T03:37:04.199Z",
     "raw": null
   },
   {
@@ -216,7 +326,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.671Z",
+    "scraped_at": "2026-05-08T03:37:04.199Z",
     "raw": null
   },
   {
@@ -238,7 +348,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.671Z",
+    "scraped_at": "2026-05-08T03:37:04.199Z",
     "raw": null
   },
   {
@@ -260,7 +370,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.671Z",
+    "scraped_at": "2026-05-08T03:37:04.199Z",
     "raw": null
   },
   {
@@ -282,7 +392,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.671Z",
+    "scraped_at": "2026-05-08T03:37:04.199Z",
     "raw": null
   },
   {
@@ -304,7 +414,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.671Z",
+    "scraped_at": "2026-05-08T03:37:04.199Z",
     "raw": null
   },
   {
@@ -326,7 +436,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.672Z",
+    "scraped_at": "2026-05-08T03:37:04.199Z",
     "raw": null
   },
   {
@@ -348,7 +458,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.672Z",
+    "scraped_at": "2026-05-08T03:37:04.199Z",
     "raw": null
   },
   {
@@ -370,7 +480,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.672Z",
+    "scraped_at": "2026-05-08T03:37:04.199Z",
     "raw": null
   },
   {
@@ -392,7 +502,7 @@
     "region": "United States (advisory issuer)",
     "latitude": null,
     "longitude": null,
-    "scraped_at": "2026-05-08T03:05:30.672Z",
+    "scraped_at": "2026-05-08T03:37:04.200Z",
     "raw": null
   }
 ]
