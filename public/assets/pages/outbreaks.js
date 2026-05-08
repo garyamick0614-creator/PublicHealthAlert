@@ -101,6 +101,52 @@ function bindFilters(data) {
     writeFiltersToUrl();
     renderTable(data);
   });
+
+  document.getElementById("exportCsv")?.addEventListener("click", () => exportCsv(data));
+  document.getElementById("exportJson")?.addEventListener("click", () => exportJson(data));
+}
+
+function exportRows(data) {
+  const filtered = applyFilters(data.events, state.filters);
+  const ts = new Date().toISOString().slice(0, 10);
+  const filterTag = Object.values(state.filters).filter(Boolean).join("-").replace(/[^a-z0-9-]/gi, "_") || "all";
+  return { rows: filtered, filename: `publichealthalert-${ts}-${filterTag}` };
+}
+
+function downloadBlob(content, filename, mime) {
+  const blob = new Blob([content], { type: mime });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+function exportCsv(data) {
+  const { rows, filename } = exportRows(data);
+  const cols = ["report_date", "virus", "status", "event_type", "origin_country", "us_pathway", "title", "summary", "source", "source_url"];
+  const escape = (v) => {
+    const s = v == null ? "" : String(v);
+    return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+  };
+  const csv = [cols.join(",")]
+    .concat(rows.map((r) => cols.map((c) => escape(r[c])).join(",")))
+    .join("\n");
+  downloadBlob(csv, `${filename}.csv`, "text/csv;charset=utf-8");
+}
+
+function exportJson(data) {
+  const { rows, filename } = exportRows(data);
+  const out = JSON.stringify({
+    exported_at: new Date().toISOString(),
+    filters: state.filters,
+    count: rows.length,
+    events: rows,
+  }, null, 2);
+  downloadBlob(out, `${filename}.json`, "application/json");
 }
 
 (async function init() {

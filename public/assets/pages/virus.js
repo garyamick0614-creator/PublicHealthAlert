@@ -143,6 +143,7 @@ function renderStats(events) {
   document.getElementById("vName").textContent = label;
   document.getElementById("crumbName").textContent = label;
   document.getElementById("vListLink").href = `./outbreaks.html?virus=${encodeURIComponent(id)}`;
+  document.getElementById("vMapLink").href = `./map.html?virus=${encodeURIComponent(id)}`;
   document.getElementById("vMeta").textContent = events.length === 0
     ? `No current events tagged ${label} in the live feed.`
     : `${events.length} event${events.length === 1 ? "" : "s"} across ${new Set(events.map(e => e.source)).size} source${new Set(events.map(e => e.source)).size === 1 ? "" : "s"}. Newest ${fmtRelative(events[0]?.report_date)}.`;

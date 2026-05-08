@@ -17,9 +17,13 @@
       <header class="section-head">
         <div>
           <h1 class="section-title" style="font-size: 1.6rem;">All outbreak signals</h1>
-          <div class="section-subtitle">Reverse-chronological feed, deduped across CDC, WHO DON, ECDC, PAHO, and Africa CDC.</div>
+          <div class="section-subtitle">Reverse-chronological feed, deduped across all sources.</div>
         </div>
-        <span class="status-pill" id="resultCount" data-status="ok"><span class="status-dot"></span><span class="status-text">—</span></span>
+        <div style="display:flex; gap:0.5rem; align-items:center; flex-wrap:wrap;">
+          <span class="status-pill" id="resultCount" data-status="ok"><span class="status-dot"></span><span class="status-text">—</span></span>
+          <button type="button" class="btn btn-ghost" id="exportCsv">Export CSV</button>
+          <button type="button" class="btn btn-ghost" id="exportJson">Export JSON</button>
+        </div>
       </header>
 
       <div class="panel" style="margin-bottom: 1rem;">
