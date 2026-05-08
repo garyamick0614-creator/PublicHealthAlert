@@ -151,9 +151,78 @@ async function renderMapPreview(data) {
   });
 }
 
+function renderThisWeek(data) {
+  const cutoff = Date.now() - 7 * 24 * 3600 * 1000;
+  const recent = data.events.filter((e) => {
+    if (!e.report_date) return false;
+    const t = Date.parse(e.report_date);
+    return !Number.isNaN(t) && t >= cutoff;
+  });
+  const counter = document.getElementById("weekCount");
+  if (counter) {
+    counter.querySelector(".status-text").textContent =
+      `${recent.length} event${recent.length === 1 ? "" : "s"} in the last 7 days`;
+    counter.dataset.status = recent.length > 0 ? "ok" : "stale";
+  }
+
+  const renderBreakdown = (id, counts, total, hrefBuilder) => {
+    const el = document.getElementById(id);
+    if (!el) return;
+    const list = [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 6);
+    if (list.length === 0) {
+      el.innerHTML = `<li class="muted">No activity in the last 7 days</li>`;
+      return;
+    }
+    el.innerHTML = list.map(([name, count]) => {
+      const pct = Math.max(2, Math.round((count / Math.max(total, 1)) * 100));
+      const href = hrefBuilder?.(name);
+      const inner = `
+        <div>
+          <div class="b-name">${escapeHtml(name)}</div>
+          <span class="b-bar" style="width: ${pct}%"></span>
+        </div>
+        <div class="b-count">${count}</div>`;
+      return `<li>${href ? `<a href="${escapeAttr(href)}">${inner}</a>` : inner}</li>`;
+    }).join("");
+  };
+
+  const virusCounts = new Map();
+  const countryCounts = new Map();
+  const sourceCounts = new Map();
+  for (const e of recent) {
+    if (e.virus) virusCounts.set(virusLabel(e.virus), (virusCounts.get(virusLabel(e.virus)) || 0) + 1);
+    if (e.origin_country) countryCounts.set(e.origin_country, (countryCounts.get(e.origin_country) || 0) + 1);
+    if (e.source) sourceCounts.set(e.source, (sourceCounts.get(e.source) || 0) + 1);
+  }
+  // For the virus breakdown, link to the virus detail page using its key (not label).
+  // Reverse-lookup: build label->key map.
+  const labelToKey = new Map();
+  for (const [k, label] of Object.entries({
+    measles: "measles", chikungunya: "chikungunya", poliovirus: "poliovirus",
+    oropouche: "oropouche", avian_influenza: "avian_influenza", yellow_fever: "yellow_fever",
+    dengue: "dengue", zika: "zika", mpox: "mpox", ebola: "ebola", marburg: "marburg",
+    west_nile: "west_nile", covid_19: "covid_19", rsv: "rsv", norovirus: "norovirus",
+    hantavirus: "hantavirus", lassa: "lassa", nipah: "nipah", cholera: "cholera", rabies: "rabies",
+  })) {
+    labelToKey.set(virusLabel(k), k);
+  }
+
+  renderBreakdown("weekViruses", virusCounts, recent.length, (label) => {
+    const key = labelToKey.get(label);
+    return key ? `./virus.html?id=${encodeURIComponent(key)}` : null;
+  });
+  renderBreakdown("weekCountries", countryCounts, recent.length, (name) =>
+    `./outbreaks.html?country=${encodeURIComponent(name)}`
+  );
+  renderBreakdown("weekSources", sourceCounts, recent.length, (name) =>
+    `./outbreaks.html?source=${encodeURIComponent(name)}`
+  );
+}
+
 (async function init() {
   const data = await mount();
   renderStats(data);
+  renderThisWeek(data);
   renderFeatured(data);
   renderPriorityGrid(data);
   renderMapPreview(data).catch((e) => console.warn("map preview failed:", e));

@@ -6,7 +6,7 @@ import {
   STATUS_LABELS,
 } from "../format.js";
 
-const state = { selected: null };
+const state = { selected: null, virusFilter: "", map: null, allEvents: [], geo: null };
 
 function selectCountry(country, slot) {
   state.selected = country;
@@ -40,42 +40,73 @@ function selectCountry(country, slot) {
   `).join("");
 }
 
-(async function init() {
-  await mount();
-  const data = await loadAll();
-  const { geo } = await ensureGeo();
-  const aggregated = aggregateByCountry(data.events);
-
-  // Enrich the GeoJSON with phaCount so the choropleth fill expression has data
+function buildLayers(events) {
+  const aggregated = aggregateByCountry(events);
   const enriched = {
     type: "FeatureCollection",
-    features: geo.features.map((f) => {
+    features: state.geo.features.map((f) => {
       const name = f.properties?.NAME || f.properties?.NAME_LONG;
       const slot = name ? aggregated.get(name) : null;
       return {
         ...f,
-        properties: {
-          ...f.properties,
-          phaCount: slot?.count || 0,
-          phaName: name,
-        },
+        properties: { ...f.properties, phaCount: slot?.count || 0, phaName: name },
       };
     }),
   };
-
-  // Pin GeoJSON for individual events with detected origin_country
   const pins = {
     type: "FeatureCollection",
     features: [...aggregated.values()].map((s) => ({
       type: "Feature",
       geometry: { type: "Point", coordinates: [s.lng, s.lat] },
-      properties: {
-        country: s.country,
-        count: s.count,
-        viruses: s.viruses.join(", "),
-      },
+      properties: { country: s.country, count: s.count, viruses: s.viruses.join(", ") },
     })),
   };
+  return { enriched, pins, aggregated };
+}
+
+function applyVirusFilter() {
+  const filtered = state.virusFilter
+    ? state.allEvents.filter((e) => e.virus === state.virusFilter)
+    : state.allEvents;
+  const { enriched, pins, aggregated } = buildLayers(filtered);
+  if (state.map?.getSource("countries")) state.map.getSource("countries").setData(enriched);
+  if (state.map?.getSource("pins")) state.map.getSource("pins").setData(pins);
+  state.aggregated = aggregated;
+  // Refresh side panel if a country was selected
+  if (state.selected) {
+    const slot = aggregated.get(state.selected);
+    selectCountry(state.selected, slot);
+  }
+}
+
+(async function init() {
+  await mount();
+  const data = await loadAll();
+  const { geo } = await ensureGeo();
+  state.geo = geo;
+  state.allEvents = data.events;
+  const { enriched, pins, aggregated } = buildLayers(data.events);
+  state.aggregated = aggregated;
+
+  // Populate virus filter
+  const virusSel = document.getElementById("mapVirusFilter");
+  if (virusSel) {
+    virusSel.innerHTML = `<option value="">All viruses (${data.indices.viruses.length})</option>` +
+      data.indices.viruses.sort().map((v) => {
+        const count = (data.indices.byVirus.get(v) || []).length;
+        return `<option value="${escapeAttr(v)}">${escapeHtml(virusLabel(v))} (${count})</option>`;
+      }).join("");
+    virusSel.addEventListener("change", () => {
+      state.virusFilter = virusSel.value;
+      applyVirusFilter();
+    });
+    // Pre-select from URL
+    const presel = new URLSearchParams(window.location.search).get("virus");
+    if (presel && data.indices.byVirus.has(presel)) {
+      virusSel.value = presel;
+      state.virusFilter = presel;
+    }
+  }
 
   const map = new maplibregl.Map({
     container: "map",
@@ -90,11 +121,13 @@ function selectCountry(country, slot) {
     maxZoom: 7,
     attributionControl: false,
   });
+  state.map = map;
   map.addControl(new maplibregl.NavigationControl({ showCompass: false, visualizePitch: false }), "bottom-left");
 
   map.on("load", () => {
     map.addSource("countries", { type: "geojson", data: enriched });
     map.addSource("pins", { type: "geojson", data: pins });
+    if (state.virusFilter) applyVirusFilter();
 
     map.addLayer({
       id: "country-fill",
@@ -146,7 +179,7 @@ function selectCountry(country, slot) {
       if (!f) return;
       const name = f.properties?.phaName;
       if (!name) return;
-      const slot = aggregated.get(name);
+      const slot = state.aggregated.get(name);
       selectCountry(name, slot);
       if (slot) {
         map.flyTo({ center: [slot.lng, slot.lat], zoom: Math.max(map.getZoom(), 3.2), duration: 700 });
@@ -156,7 +189,7 @@ function selectCountry(country, slot) {
       const f = e.features?.[0];
       if (!f) return;
       const name = f.properties?.country;
-      const slot = aggregated.get(name);
+      const slot = state.aggregated.get(name);
       selectCountry(name, slot);
       map.flyTo({ center: f.geometry.coordinates, zoom: Math.max(map.getZoom(), 3.2), duration: 700 });
     });
@@ -193,8 +226,8 @@ function selectCountry(country, slot) {
   });
 
   // If user passes ?country=X, auto-select it
-  const presel = new URLSearchParams(window.location.search).get("country");
-  if (presel && aggregated.has(presel)) {
-    selectCountry(presel, aggregated.get(presel));
+  const preCountry = new URLSearchParams(window.location.search).get("country");
+  if (preCountry && state.aggregated.has(preCountry)) {
+    selectCountry(preCountry, state.aggregated.get(preCountry));
   }
 })();

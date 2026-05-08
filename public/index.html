@@ -18,10 +18,38 @@
       <span class="hero-eyebrow"><span class="status-dot" style="background: var(--accent); box-shadow: 0 0 0 4px rgba(45,212,191,0.18);"></span> Live tracker · Updated nightly</span>
       <h1 class="hero-title">Cross-border virus spread, organized for the United States.</h1>
       <p class="hero-subtitle">PublicHealthAlert ingests outbreaks, travel advisories, and imported cases from CDC, WHO, PAHO, ECDC, and Africa CDC — normalized into one reverse-chronological feed so you can answer: <em>what started abroad and now has a U.S. link?</em></p>
+      <form class="hero-search" id="heroSearch" role="search" action="./outbreaks.html" method="get">
+        <input type="search" name="q" id="heroQ" placeholder="Search events: virus, country, keyword…" autocomplete="off" aria-label="Search events" />
+        <button type="submit" class="btn btn-primary">Search</button>
+      </form>
       <div class="hero-actions">
-        <a class="btn btn-primary" href="./outbreaks.html">Browse all outbreaks</a>
+        <a class="btn" href="./outbreaks.html">Browse all outbreaks</a>
         <a class="btn" href="./map.html">Open spread map</a>
         <a class="btn btn-ghost" href="./about.html">How this works</a>
+      </div>
+    </section>
+
+    <section class="section trending-section" aria-labelledby="trendingTitle">
+      <header class="section-head">
+        <div>
+          <h2 id="trendingTitle" class="section-title">This week</h2>
+          <div class="section-subtitle">Activity from the last seven days, grouped by virus, country, and source.</div>
+        </div>
+        <span class="status-pill" id="weekCount" data-status="ok"><span class="status-dot"></span><span class="status-text">—</span></span>
+      </header>
+      <div class="trending-grid">
+        <div class="panel">
+          <header class="panel-header"><h3 class="panel-title">Trending viruses</h3></header>
+          <ul class="breakdown" id="weekViruses"></ul>
+        </div>
+        <div class="panel">
+          <header class="panel-header"><h3 class="panel-title">Active countries</h3></header>
+          <ul class="breakdown" id="weekCountries"></ul>
+        </div>
+        <div class="panel">
+          <header class="panel-header"><h3 class="panel-title">Reporting sources</h3></header>
+          <ul class="breakdown" id="weekSources"></ul>
+        </div>
       </div>
     </section>
 
