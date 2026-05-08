@@ -8,6 +8,7 @@ import { fetchText } from "../lib/fetch.mjs";
 import { detectVirus, makeEvent } from "../lib/schema.mjs";
 
 const TRAVEL_RSS = "https://wwwnc.cdc.gov/travel/rss/notices.xml";
+const NEWSROOM_RSS = "https://tools.cdc.gov/api/v2/resources/media/132608.rss";
 const OUTBREAKS_HTML = "https://www.cdc.gov/outbreaks/index.html";
 
 const SOURCE = "CDC";
@@ -51,6 +52,51 @@ async function scrapeTravelRss(logger) {
     return events;
   } catch (e) {
     logger.warn("cdc.travel_feed_unavailable", { error: e.message });
+    return [];
+  }
+}
+
+// CDC's newsroom RSS includes years of historical items. We only want
+// content within the recency window — old policy/funding announcements that
+// happen to mention a virus name are noise on a current-events dashboard.
+const NEWSROOM_RECENCY_DAYS = 180;
+
+async function scrapeNewsroomRss(logger) {
+  try {
+    const parser = new Parser({ timeout: 30_000 });
+    const xml = await fetchText(NEWSROOM_RSS, { accept: "application/rss+xml,application/xml" });
+    const feed = await parser.parseString(xml);
+    logger.info("cdc.newsroom_feed_loaded", { items: feed.items.length });
+    const cutoff = Date.now() - NEWSROOM_RECENCY_DAYS * 24 * 3600 * 1000;
+    const events = [];
+    for (const item of feed.items) {
+      const title = item.title || "";
+      const summary = item.contentSnippet || item.content || "";
+      // The recency filter does the heavy lifting; we keep matching on
+      // title + summary so press releases that mention the virus in the
+      // body (but not the headline) still get through.
+      const dt = item.isoDate || item.pubDate;
+      const ts = dt ? Date.parse(dt) : NaN;
+      if (Number.isNaN(ts) || ts < cutoff) continue;
+      const virus = detectVirus(`${title} ${summary}`);
+      if (!virus) continue;
+      events.push(
+        makeEvent({
+          source: SOURCE,
+          source_id: SOURCE_ID,
+          source_url: item.link || NEWSROOM_RSS,
+          title,
+          summary,
+          report_date: dt,
+          region: "United States",
+          virus,
+        })
+      );
+    }
+    logger.info("cdc.newsroom_filtered", { kept: events.length, recency_days: NEWSROOM_RECENCY_DAYS });
+    return events;
+  } catch (e) {
+    logger.warn("cdc.newsroom_feed_unavailable", { error: e.message });
     return [];
   }
 }
@@ -100,18 +146,24 @@ async function scrapeOutbreaksHtml(logger) {
 }
 
 export async function scrape({ logger }) {
-  const [travel, outbreaks] = await Promise.all([
+  const [travel, newsroom, outbreaks] = await Promise.all([
     scrapeTravelRss(logger),
+    scrapeNewsroomRss(logger),
     scrapeOutbreaksHtml(logger),
   ]);
-  const combined = [...travel, ...outbreaks];
-  // De-dupe across both feeds by id
+  const combined = [...travel, ...newsroom, ...outbreaks];
+  // De-dupe across all feeds by id
   const seen = new Set();
   const unique = combined.filter((e) => {
     if (seen.has(e.id)) return false;
     seen.add(e.id);
     return true;
   });
-  logger.info("cdc.scraped", { total: unique.length, travel: travel.length, outbreaks: outbreaks.length });
+  logger.info("cdc.scraped", {
+    total: unique.length,
+    travel: travel.length,
+    newsroom: newsroom.length,
+    outbreaks: outbreaks.length,
+  });
   return unique;
 }

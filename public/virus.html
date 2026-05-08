@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Virus detail · PublicHealthAlert</title>
+  <meta name="description" content="Per-virus rollup with timeline, country breakdown, source attribution, and full event list." />
+  <meta name="theme-color" content="#0b1220" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314b8a6'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='system-ui' font-size='34' font-weight='800' fill='%230b1220'%3EP%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./assets/styles.css" />
+  <style>
+    .v-hero {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 1.25rem;
+      align-items: center;
+      padding: 1.5rem 1.5rem;
+      background: linear-gradient(135deg, rgba(45, 212, 191, 0.06) 0%, rgba(167, 139, 250, 0.04) 100%), var(--bg-1);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-xl);
+      margin-bottom: 1.25rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .v-hero::before {
+      content: ""; position: absolute; inset: -2px;
+      background: radial-gradient(circle at 20% 0%, rgba(45,212,191,0.18), transparent 35%);
+      pointer-events: none;
+    }
+    .v-glyph {
+      width: 80px; height: 80px;
+      border-radius: 16px;
+      background: linear-gradient(135deg, #14b8a6 0%, #22d3ee 100%);
+      color: var(--bg-0);
+      display: grid; place-items: center;
+      font-weight: 800; font-size: 2.5rem;
+      box-shadow: 0 12px 30px -8px rgba(45, 212, 191, 0.4);
+    }
+    .v-name { margin: 0; font-size: clamp(1.6rem, 3.5vw, 2.25rem); font-weight: 700; letter-spacing: -0.02em; }
+    .v-meta { color: var(--text-muted); margin-top: 0.3rem; font-size: 0.95rem; }
+    .v-actions { display: flex; gap: 0.5rem; margin-top: 0.85rem; flex-wrap: wrap; }
+    .v-grid {
+      display: grid;
+      grid-template-columns: 1.5fr 1fr;
+      gap: 1.25rem;
+      margin-bottom: 1.25rem;
+    }
+    @media (max-width: 900px) { .v-grid { grid-template-columns: 1fr; } }
+    .timeline-svg { width: 100%; height: 140px; display: block; }
+    .timeline-bar { fill: var(--accent); transition: fill 0.15s; }
+    .timeline-bar:hover { fill: var(--text); }
+    .timeline-label { fill: var(--text-muted); font-size: 10px; }
+    .breakdown { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.4rem; }
+    .breakdown li { display: grid; grid-template-columns: 1fr auto; gap: 0.5rem; align-items: center; padding: 0.4rem 0.55rem; background: var(--bg-2); border-radius: 6px; font-size: 0.92rem; }
+    .breakdown li .b-bar { display: block; height: 3px; background: var(--accent); border-radius: 2px; margin-top: 0.3rem; }
+    .breakdown li .b-name { font-weight: 500; }
+    .breakdown li .b-count { font-variant-numeric: tabular-nums; color: var(--accent); font-weight: 600; }
+  </style>
+</head>
+<body data-page="viruses">
+  <header class="site-header" id="appHeader" role="banner"></header>
+
+  <main class="container">
+    <nav class="muted small" style="margin-bottom: 1rem;">
+      <a href="./index.html">Overview</a> · <a href="./viruses.html">Viruses</a> · <span id="crumbName">—</span>
+    </nav>
+
+    <section class="v-hero" id="vHero">
+      <div class="v-glyph" id="vGlyph">·</div>
+      <div>
+        <h1 class="v-name" id="vName">—</h1>
+        <div class="v-meta" id="vMeta">Loading…</div>
+        <div class="v-actions">
+          <a class="btn btn-ghost" id="vListLink" href="./outbreaks.html">View as filtered list</a>
+          <a class="btn btn-ghost" id="vMapLink" href="./map.html">Open on map</a>
+          <a class="btn" href="./viruses.html">All viruses</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="stat-grid" id="vStatGrid"></section>
+
+    <section class="v-grid">
+      <div class="panel">
+        <header class="panel-header">
+          <h2 class="panel-title">Activity timeline</h2>
+          <span class="muted small" id="timelineRange">—</span>
+        </header>
+        <svg class="timeline-svg" id="timelineSvg" viewBox="0 0 800 140" preserveAspectRatio="none" aria-label="Events per week"></svg>
+        <div class="muted small" id="timelineHint" style="margin-top:0.5rem;">Bars are events per week. Hover for the count.</div>
+      </div>
+      <div class="panel">
+        <header class="panel-header">
+          <h2 class="panel-title">Top origin countries</h2>
+        </header>
+        <ul class="breakdown" id="countryBreakdown"></ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <header class="section-head">
+        <h2 class="section-title">Reporting sources</h2>
+      </header>
+      <ul class="breakdown" id="sourceBreakdown"></ul>
+    </section>
+
+    <section class="section">
+      <header class="section-head">
+        <h2 class="section-title">All events</h2>
+        <span class="muted small" id="allCount">—</span>
+      </header>
+      <div class="alert-grid" id="vEvents"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="appFooter"></footer>
+  <script type="module" src="./assets/pages/virus.js"></script>
+</body>
+</html>

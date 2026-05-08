@@ -14,6 +14,7 @@ import * as whoDon from "./sources/who-don.mjs";
 import * as ecdc from "./sources/ecdc.mjs";
 import * as africaCdc from "./sources/africa-cdc.mjs";
 import * as whoAfro from "./sources/who-afro.mjs";
+import * as outbreakNewsToday from "./sources/outbreak-news-today.mjs";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const CONNECTORS = [
@@ -23,6 +24,7 @@ const CONNECTORS = [
   { mod: ecdc, id: "ecdc" },
   { mod: africaCdc, id: "africa-cdc" },
   { mod: whoAfro, id: "who-afro" },
+  { mod: outbreakNewsToday, id: "outbreak-news-today" },
 ];
 
 function parseArgs(argv) {
@@ -134,19 +136,37 @@ async function main() {
       events: allEvents,
     });
 
-    // Update sources.json with last_scraped per source (preserves entries
-    // we didn't run if --source filter was used)
+    // Update sources.json with last_scraped per source. If a connector ran
+    // for a source that isn't yet in the registry (e.g. a new connector was
+    // added since the last manual edit), seed an entry from the connector's
+    // exported `meta` so the dashboard registry stays in sync automatically.
     const sourcesPath = path.join(ROOT, "public", "data", "sources.json");
     let registry = [];
     try { registry = JSON.parse(fs.readFileSync(sourcesPath, "utf8")); } catch {}
     const now = new Date().toISOString();
     for (const r of results) {
-      const idx = registry.findIndex((s) => s.id === r.id);
-      if (idx !== -1 && r.ok) {
+      const target = targets.find((t) => t.id === r.id);
+      const meta = target?.mod?.meta;
+      let idx = registry.findIndex((s) => s.id === r.id);
+      if (idx === -1) {
+        registry.push({
+          id: r.id,
+          name: meta?.name || r.id,
+          url: meta?.url || "",
+          format: meta?.format || "—",
+          access: meta?.access || "public",
+          region_scope: meta?.region_scope || "—",
+          last_scraped: null,
+          last_event_count: 0,
+          last_error: null,
+        });
+        idx = registry.length - 1;
+      }
+      if (r.ok) {
         registry[idx].last_scraped = now;
         registry[idx].last_event_count = r.events.length;
         registry[idx].last_error = null;
-      } else if (idx !== -1) {
+      } else {
         registry[idx].last_error = r.error;
       }
     }

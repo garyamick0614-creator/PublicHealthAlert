@@ -8,7 +8,7 @@ import {
 function tile(virus, list) {
   const newest = list[0];
   return `
-    <a class="virus-tile fade-in" href="./outbreaks.html?virus=${encodeURIComponent(virus)}">
+    <a class="virus-tile fade-in" href="./virus.html?id=${encodeURIComponent(virus)}">
       <div class="virus-glyph">${escapeHtml(virusGlyph(virusLabel(virus)))}</div>
       <div>
         <div class="virus-name">${escapeHtml(virusLabel(virus))}</div>

@@ -72,7 +72,7 @@ function renderPriorityGrid(data) {
     const list = data.indices.byVirus.get(v) || [];
     const newest = list[0];
     return `
-      <a class="virus-tile fade-in" href="./outbreaks.html?virus=${encodeURIComponent(v)}">
+      <a class="virus-tile fade-in" href="./virus.html?id=${encodeURIComponent(v)}">
         <div class="virus-glyph">${escapeHtml(virusGlyph(virusLabel(v)))}</div>
         <div>
           <div class="virus-name">${escapeHtml(virusLabel(v))}</div>
