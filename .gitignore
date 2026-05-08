@@ -26,3 +26,6 @@ desktop.ini
 .idea/
 *.swp
 *.swo
+
+# Netlify CLI local link state
+.netlify/

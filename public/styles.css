@@ -180,6 +180,10 @@ a:hover, a:focus { text-decoration: underline; }
 .event-type[data-type="imported"] { color: var(--imported); border-color: var(--imported); }
 .event-type[data-type="monitoring"] { color: var(--monitor); border-color: var(--monitor); }
 .event-type[data-type="contained"] { color: var(--muted); }
+.event-cell { max-width: 420px; }
+.event-title { font-weight: 500; }
+.event-title a { color: inherit; }
+.event-summary { margin-top: 0.25rem; line-height: 1.4; }
 
 /* Map */
 .map {

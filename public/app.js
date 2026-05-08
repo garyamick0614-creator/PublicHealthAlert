@@ -102,19 +102,27 @@ function renderAlerts(events) {
     tbody.innerHTML = `<tr class="empty-row"><td colspan="7">No events match the current filters.</td></tr>`;
     return;
   }
-  tbody.innerHTML = events.map((e) => `
+  tbody.innerHTML = events.map((e) => {
+    const virusLabel = e.virus
+      ? (window.PHA_VIRUS_LABELS?.[e.virus] || e.virus.replace(/_/g, " "))
+      : "—";
+    const titleHtml = e.source_url
+      ? `<a href="${escapeAttr(e.source_url)}" rel="noopener" target="_blank">${escapeHtml(e.title || "")}</a>`
+      : escapeHtml(e.title || "");
+    return `
     <tr>
       <td>${fmtDate(e.report_date)}</td>
-      <td><strong>${escapeHtml(e.virus || "—")}</strong></td>
+      <td><strong>${escapeHtml(virusLabel)}</strong></td>
       <td><span class="event-type" data-type="${escapeAttr(e.status || "")}">${escapeHtml(STATUS_LABELS[e.status] || e.event_type || "—")}</span></td>
       <td>${escapeHtml(e.origin_country || "—")}${e.origin_setting ? `<div class="muted small">${escapeHtml(e.origin_setting)}</div>` : ""}</td>
-      <td>${escapeHtml(formatList(e.current_spread))}</td>
+      <td class="event-cell">
+        <div class="event-title">${titleHtml}</div>
+        ${e.summary ? `<div class="event-summary muted small">${escapeHtml(truncate(e.summary, 180))}</div>` : ""}
+      </td>
       <td>${escapeHtml(PATHWAY_LABELS[e.us_pathway] || e.us_pathway || "—")}</td>
-      <td>${e.source_url
-        ? `<a href="${escapeAttr(e.source_url)}" rel="noopener" target="_blank">${escapeHtml(e.source || "link")}</a>`
-        : escapeHtml(e.source || "—")}</td>
-    </tr>
-  `).join("");
+      <td>${escapeHtml(e.source || "—")}</td>
+    </tr>`;
+  }).join("");
 }
 
 function renderSources() {
@@ -243,6 +251,34 @@ function formatList(v) {
   if (Array.isArray(v)) return v.join(", ");
   return String(v);
 }
+function truncate(s, n) {
+  const t = String(s || "");
+  if (t.length <= n) return t;
+  return t.slice(0, n - 1).trimEnd() + "…";
+}
+
+window.PHA_VIRUS_LABELS = {
+  measles: "Measles",
+  chikungunya: "Chikungunya",
+  poliovirus: "Poliovirus",
+  oropouche: "Oropouche",
+  avian_influenza: "Avian influenza",
+  yellow_fever: "Yellow fever",
+  dengue: "Dengue",
+  zika: "Zika",
+  mpox: "Mpox",
+  ebola: "Ebola",
+  marburg: "Marburg",
+  west_nile: "West Nile",
+  covid_19: "COVID-19",
+  rsv: "RSV",
+  norovirus: "Norovirus",
+  hantavirus: "Hantavirus",
+  lassa: "Lassa fever",
+  nipah: "Nipah",
+  cholera: "Cholera",
+  rabies: "Rabies",
+};
 
 (async function init() {
   setStatus("Loading status…", "loading");
