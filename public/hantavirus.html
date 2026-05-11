@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hantavirus Outbreaks - United States · PublicHealthAlert</title>
+  <meta name="description" content="Detailed hantavirus surveillance for the United States. Tracks HPS case counts by state, CDC Health Alert Network advisories, state health-department updates, and rolling-90-day news coverage. Updated daily from CDC and state public-health sources." />
+  <meta name="theme-color" content="#0b1220" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314b8a6'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='system-ui' font-size='34' font-weight='800' fill='%230b1220'%3EP%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./assets/styles.css" />
+  <style>
+    .hv-hero {
+      display: grid;
+      gap: 1rem;
+      padding: 1.5rem;
+      background: linear-gradient(135deg, rgba(244, 63, 94, 0.08) 0%, rgba(245, 158, 11, 0.05) 100%), var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 1.25rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .hv-hero h1 { margin: 0; font-size: clamp(1.5rem, 3vw, 2.1rem); line-height: 1.15; }
+    .hv-hero .eyebrow { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+    .hv-hero .eyebrow .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--alert); box-shadow: 0 0 0 4px rgba(239,68,68,0.18); }
+    .hv-statgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 0.85rem; }
+    .hv-stat { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 0.95rem 1rem; }
+    .hv-stat .label { font-size: 0.78rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+    .hv-stat .value { font-size: 1.6rem; font-weight: 700; margin-top: 0.3rem; }
+    .hv-stat .sub   { font-size: 0.8rem; color: var(--muted); margin-top: 0.2rem; }
+
+    .hv-section { margin: 1.5rem 0; }
+    .hv-section h2 { margin: 0 0 0.5rem; font-size: 1.15rem; }
+    .hv-section .sub { color: var(--muted); font-size: 0.88rem; margin-bottom: 0.85rem; }
+    .hv-grid-2 { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.1rem; }
+    @media (max-width: 800px) { .hv-grid-2 { grid-template-columns: 1fr; } }
+
+    .hv-map-wrap {
+      background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+      padding: 1rem; overflow: hidden;
+    }
+    .hv-map svg { width: 100%; height: auto; display: block; }
+    .hv-map path { stroke: rgba(255,255,255,0.18); stroke-width: 0.5; fill: #1f2a47; cursor: pointer; transition: fill 0.15s; }
+    .hv-map path[data-bucket="1"] { fill: rgba(20, 184, 166, 0.35); }
+    .hv-map path[data-bucket="2"] { fill: rgba(20, 184, 166, 0.6); }
+    .hv-map path[data-bucket="3"] { fill: rgba(245, 158, 11, 0.7); }
+    .hv-map path[data-bucket="4"] { fill: rgba(244, 63, 94, 0.78); }
+    .hv-map path[data-selected="true"] { stroke: #fff; stroke-width: 1.6; }
+    .hv-map path:hover { stroke: var(--accent); stroke-width: 1.4; }
+    .hv-map-legend { display: flex; gap: 0.85rem; flex-wrap: wrap; margin-top: 0.7rem; font-size: 0.8rem; color: var(--muted); }
+    .hv-map-legend .sw { display: inline-block; width: 14px; height: 14px; border-radius: 3px; margin-right: 0.35rem; vertical-align: middle; }
+
+    .hv-table {
+      width: 100%; border-collapse: collapse; font-size: 0.92rem;
+      background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden;
+    }
+    .hv-table th, .hv-table td { text-align: left; padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--border); }
+    .hv-table th { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); background: rgba(255,255,255,0.02); cursor: pointer; user-select: none; }
+    .hv-table tbody tr:last-child td { border-bottom: 0; }
+    .hv-table tbody tr.active { background: rgba(20,184,166,0.06); }
+
+    .hv-list { list-style: none; padding: 0; margin: 0; }
+    .hv-list li { padding: 0.7rem 0.85rem; border-bottom: 1px solid var(--border); }
+    .hv-list li:last-child { border-bottom: 0; }
+    .hv-list a { color: var(--text); font-weight: 600; }
+    .hv-list .meta { font-size: 0.78rem; color: var(--muted); margin-top: 0.25rem; }
+    .hv-list .pill { display: inline-block; padding: 0.1rem 0.45rem; border-radius: 999px; font-size: 0.72rem; background: rgba(244,63,94,0.12); color: #fda4af; margin-right: 0.3rem; }
+    .hv-list .pill.info { background: rgba(20,184,166,0.12); color: #5eead4; }
+    .hv-list .pill.state { background: rgba(129,140,248,0.12); color: #a5b4fc; }
+
+    .hv-filter-row { display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap; margin-bottom: 0.6rem; font-size: 0.88rem; }
+    .hv-filter-row button { background: var(--card); border: 1px solid var(--border); color: var(--text); padding: 0.35rem 0.7rem; border-radius: 6px; cursor: pointer; font-size: 0.85rem; }
+    .hv-filter-row button.active { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+    .hv-empty { color: var(--muted); padding: 1rem; font-style: italic; text-align: center; }
+
+    .hv-attrib { margin-top: 1.25rem; padding: 1rem; background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); font-size: 0.82rem; color: var(--muted); line-height: 1.6; }
+    .hv-attrib a { color: var(--accent); }
+  </style>
+</head>
+<body data-page="hantavirus">
+  <header class="site-header" id="appHeader" role="banner"></header>
+
+  <main class="container">
+    <section class="hv-hero fade-in">
+      <span class="eyebrow"><span class="dot"></span> United States surveillance · updated daily 05:50 ET</span>
+      <h1>Hantavirus Outbreaks — United States</h1>
+      <p style="margin: 0; color: var(--muted); max-width: 70ch;">A dedicated tracker for hantavirus pulmonary syndrome (HPS) across U.S. states. We pull case counts from CDC, advisories from CDC's Health Alert Network and state health departments in the 14 most-affected states, and rolling 90-day news coverage from regional outlets. HPS has a roughly 38% case-fatality rate per CDC, so any cluster matters.</p>
+      <div class="hv-statgrid" id="hvStats">
+        <div class="hv-stat"><div class="label">Total cumulative cases</div><div class="value" id="statTotal">—</div><div class="sub">across hv_cases table</div></div>
+        <div class="hv-stat"><div class="label">States with cases</div><div class="value" id="statStates">—</div><div class="sub">recorded in data</div></div>
+        <div class="hv-stat"><div class="label">Case-fatality rate</div><div class="value">~38%</div><div class="sub">CDC HPS overview</div></div>
+        <div class="hv-stat"><div class="label">Last update</div><div class="value" id="statLastRun">—</div><div class="sub">UTC</div></div>
+      </div>
+    </section>
+
+    <section class="hv-section">
+      <h2>U.S. case-count map</h2>
+      <div class="sub">Click a state to filter the table and news list below. Color reflects cumulative cases across all years in the dataset; sparse states are unshaded.</div>
+      <div class="hv-grid-2">
+        <div class="hv-map-wrap">
+          <div class="hv-map" id="hvMap" aria-label="United States hantavirus case-count choropleth"></div>
+          <div class="hv-map-legend">
+            <span><span class="sw" style="background:#1f2a47;"></span>0 cases</span>
+            <span><span class="sw" style="background:rgba(20,184,166,0.35);"></span>1–9</span>
+            <span><span class="sw" style="background:rgba(20,184,166,0.6);"></span>10–49</span>
+            <span><span class="sw" style="background:rgba(245,158,11,0.7);"></span>50–149</span>
+            <span><span class="sw" style="background:rgba(244,63,94,0.78);"></span>150+</span>
+          </div>
+        </div>
+
+        <div class="hv-map-wrap" style="padding: 0;">
+          <table class="hv-table" id="hvStateTable" aria-label="Cases by state">
+            <thead>
+              <tr><th data-sort="state">State</th><th data-sort="state_code">Code</th><th data-sort="total" style="text-align:right;">Cases</th></tr>
+            </thead>
+            <tbody id="hvStateBody"><tr><td colspan="3" class="hv-empty">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="hv-section">
+      <h2>Recent advisories</h2>
+      <div class="sub">CDC Health Alert Network items and state Department-of-Health hantavirus pages.</div>
+      <ul class="hv-list" id="hvAdvisories"><li class="hv-empty">Loading…</li></ul>
+    </section>
+
+    <section class="hv-section">
+      <h2 id="newsTitle">News (last 90 days)</h2>
+      <div class="hv-filter-row" id="hvNewsFilter">
+        <button class="active" data-state="">All states</button>
+      </div>
+      <ul class="hv-list" id="hvNews"><li class="hv-empty">Loading…</li></ul>
+    </section>
+
+    <section class="hv-attrib">
+      <strong>Sources.</strong> Case-count baselines from
+      <a href="https://www.cdc.gov/hantavirus/about/" target="_blank" rel="noopener">CDC Hantavirus Overview</a>,
+      <a href="https://www.cdc.gov/hantavirus/data-research/index.html" target="_blank" rel="noopener">CDC Hantavirus Data &amp; Research</a>, and
+      <a href="https://emergency.cdc.gov/han/" target="_blank" rel="noopener">CDC Health Alert Network</a>.
+      State-level updates pulled from 14 state health departments (NM, AZ, CO, CA, WA, MT, ND, SD, NV, OR, UT, WY, TX, ID).
+      News coverage indexed via Firecrawl across regional and national outlets, rolling 90 days.
+      Snapshot regenerated daily at 05:50 ET by the <code>TCG-Hantavirus-Daily</code> scheduled task.
+      Mortality rate of ~38% per <a href="https://www.cdc.gov/hantavirus/about/" target="_blank" rel="noopener">CDC</a>.
+      Nothing here is medical advice; contact your local health department for case investigation.
+    </section>
+  </main>
+
+  <footer class="site-footer" id="appFooter" role="contentinfo"></footer>
+
+  <script type="module" src="./assets/layout.js"></script>
+  <script>
+    // hantavirus.html bootstrap — vanilla JS, no deps.
+    // 1. Pre-render from local snapshot data/hantavirus.json (instant first paint).
+    // 2. Re-render with /api/public/hantavirus/snapshot if newer (live update).
+    // 3. Inline SVG US map drawn from a compact path table embedded below.
+
+    (function () {
+      const API_BASE = 'https://api.thatcomputerguy26.org/api/public/hantavirus';
+      const LOCAL_JSON = './data/hantavirus.json';
+
+      const $ = sel => document.querySelector(sel);
+      const $$ = sel => Array.from(document.querySelectorAll(sel));
+
+      // Minimal US choropleth — 50 states + DC + PR, simplified centroid-based
+      // squares (Albers-USA inspired tile map). Better than nothing without a
+      // 200kB geojson dependency, and works fully offline.
+      const TILE_MAP = [
+        ['AK',0,7],['ME',10,0],
+        ['VT',8,1],['NH',9,1],['WA',1,1],['ID',2,2],['MT',3,1],['ND',4,1],['MN',5,1],['WI',6,1],['MI',7,2],['NY',8,2],['MA',9,2],['RI',10,2],
+        ['OR',1,2],['UT',2,3],['WY',3,2],['SD',4,2],['IA',5,2],['IL',6,2],['IN',7,3],['OH',7,2],['PA',8,3],['NJ',9,3],['CT',10,3],
+        ['CA',1,3],['NV',2,2],['CO',3,3],['NE',4,3],['MO',5,3],['KY',6,3],['WV',8,4],['VA',9,4],['MD',10,4],['DE',11,4],
+        ['AZ',2,4],['NM',3,4],['KS',4,4],['AR',5,4],['TN',6,4],['NC',8,5],['SC',9,5],['HI',0,6],
+        ['OK',4,5],['LA',5,5],['MS',6,5],['AL',7,5],['GA',8,6],['FL',9,7],
+        ['TX',4,6],['DC',10,4],['PR',10,7]
+      ];
+      const TILE_W = 11, TILE_H = 8, CELL = 36, GAP = 4;
+
+      function buildSvg(byState) {
+        const buckets = (n) => {
+          if (!n || n <= 0) return '0';
+          if (n < 10) return '1';
+          if (n < 50) return '2';
+          if (n < 150) return '3';
+          return '4';
+        };
+        const w = TILE_W * (CELL + GAP);
+        const h = TILE_H * (CELL + GAP);
+        const cells = TILE_MAP.map(([code, col, row]) => {
+          const x = col * (CELL + GAP);
+          const y = row * (CELL + GAP);
+          const total = (byState[code] && byState[code].total) || 0;
+          const b = buckets(total);
+          const safeCode = code.replace(/[^A-Z0-9]/g, '');
+          return `<g class="hv-cell" data-state="${safeCode}" tabindex="0" role="button" aria-label="${safeCode}: ${total} cases">
+            <path d="M${x},${y} h${CELL} v${CELL} h-${CELL} z" data-bucket="${b}" data-state="${safeCode}" />
+            <text x="${x + CELL / 2}" y="${y + CELL / 2 + 4}" text-anchor="middle" font-size="11" font-weight="700" fill="#e7ecf5" style="pointer-events:none;">${safeCode}</text>
+            <text x="${x + CELL / 2}" y="${y + CELL - 4}" text-anchor="middle" font-size="8.5" fill="rgba(231,236,245,0.65)" style="pointer-events:none;">${total || ''}</text>
+          </g>`;
+        }).join('');
+        return `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="xMidYMid meet">${cells}</svg>`;
+      }
+
+      let snapshot = null;
+      let selectedState = null;
+      let allNews = [];
+      let allAdvisories = [];
+
+      function fmtTs(ts) {
+        if (!ts) return '—';
+        try { return new Date(ts).toISOString().slice(0, 16).replace('T',' '); } catch { return String(ts).slice(0, 16); }
+      }
+
+      function renderStats() {
+        $('#statTotal').textContent = (snapshot.totals?.cases_all_time ?? 0).toLocaleString();
+        $('#statStates').textContent = snapshot.totals?.states_with_cases ?? 0;
+        const lr = snapshot.lastRun?.ts || snapshot.generatedAt;
+        $('#statLastRun').textContent = fmtTs(lr);
+      }
+
+      function renderMap() {
+        const byState = {};
+        for (const r of (snapshot.stateRollup || [])) {
+          if (r.state_code) byState[r.state_code] = { state: r.state, total: r.total };
+        }
+        const svgEl = $('#hvMap');
+        svgEl.innerHTML = buildSvg(byState);
+        // Click-to-filter
+        svgEl.querySelectorAll('path[data-state]').forEach(p => {
+          p.addEventListener('click', () => {
+            const code = p.getAttribute('data-state');
+            selectedState = (selectedState === code) ? null : code;
+            svgEl.querySelectorAll('path[data-state]').forEach(x => x.setAttribute('data-selected', x.getAttribute('data-state') === selectedState ? 'true' : 'false'));
+            renderTable();
+            renderNews();
+            $('#newsTitle').textContent = selectedState ? `News for ${selectedState} (last 90 days)` : 'News (last 90 days)';
+          });
+        });
+      }
+
+      function renderTable() {
+        const tbody = $('#hvStateBody');
+        const rows = (snapshot.stateRollup || []).filter(r => r.state_code).slice();
+        if (!rows.length) {
+          tbody.innerHTML = '<tr><td colspan="3" class="hv-empty">No case counts parsed yet. Run TCG-Hantavirus-Daily or check the data sources.</td></tr>';
+          return;
+        }
+        tbody.innerHTML = rows.map(r => {
+          const active = selectedState === r.state_code ? 'active' : '';
+          return `<tr class="${active}" data-state="${r.state_code}">
+            <td>${escapeHtml(r.state || '')}</td>
+            <td>${escapeHtml(r.state_code || '')}</td>
+            <td style="text-align:right; font-variant-numeric: tabular-nums;">${(r.total || 0).toLocaleString()}</td>
+          </tr>`;
+        }).join('');
+        tbody.querySelectorAll('tr[data-state]').forEach(tr => {
+          tr.addEventListener('click', () => {
+            const code = tr.getAttribute('data-state');
+            selectedState = (selectedState === code) ? null : code;
+            renderMap();
+            renderTable();
+            renderNews();
+            $('#newsTitle').textContent = selectedState ? `News for ${selectedState} (last 90 days)` : 'News (last 90 days)';
+          });
+        });
+      }
+
+      function renderAdvisories() {
+        const ul = $('#hvAdvisories');
+        const items = allAdvisories;
+        if (!items.length) { ul.innerHTML = '<li class="hv-empty">No advisories captured yet.</li>'; return; }
+        ul.innerHTML = items.map(a => `
+          <li>
+            <a href="${escapeAttr(a.url || '#')}" target="_blank" rel="noopener">${escapeHtml(a.title || a.url || '(untitled)')}</a>
+            <div class="meta">
+              <span class="pill info">${escapeHtml(a.source || 'CDC')}</span>
+              ${a.severity ? `<span class="pill">${escapeHtml(a.severity)}</span>` : ''}
+              <span>${fmtTs(a.ts || a.fetched_at)}</span>
+            </div>
+          </li>`).join('');
+      }
+
+      function renderNews() {
+        const ul = $('#hvNews');
+        let items = allNews;
+        if (selectedState) items = items.filter(n => (n.mentioned_states || []).includes(selectedState));
+        if (!items.length) { ul.innerHTML = '<li class="hv-empty">No news matched the current filter.</li>'; return; }
+        ul.innerHTML = items.slice(0, 50).map(n => `
+          <li>
+            <a href="${escapeAttr(n.url || '#')}" target="_blank" rel="noopener">${escapeHtml(n.headline || n.url || '(no title)')}</a>
+            <div class="meta">
+              <span class="pill info">${escapeHtml(n.publisher || '')}</span>
+              ${(n.mentioned_states || []).slice(0,4).map(s => `<span class="pill state">${escapeHtml(s)}</span>`).join('')}
+              <span>${fmtTs(n.published_at || n.fetched_at)}</span>
+            </div>
+          </li>`).join('');
+      }
+
+      function renderNewsFilters() {
+        // Build filter chips from states that appear in news
+        const seen = new Set();
+        for (const n of allNews) {
+          for (const s of (n.mentioned_states || [])) if (s) seen.add(s);
+        }
+        const states = Array.from(seen).sort();
+        const row = $('#hvNewsFilter');
+        row.innerHTML = `<button class="${selectedState ? '' : 'active'}" data-state="">All states</button>` +
+          states.map(s => `<button class="${selectedState===s?'active':''}" data-state="${escapeAttr(s)}">${escapeHtml(s)}</button>`).join('');
+        row.querySelectorAll('button').forEach(b => {
+          b.addEventListener('click', () => {
+            selectedState = b.getAttribute('data-state') || null;
+            renderMap();
+            renderTable();
+            renderNews();
+            renderNewsFilters();
+            $('#newsTitle').textContent = selectedState ? `News for ${selectedState} (last 90 days)` : 'News (last 90 days)';
+          });
+        });
+      }
+
+      function applySnapshot(s) {
+        snapshot = s || { totals: {}, stateRollup: [], recentAdvisories: [], recentNews: [] };
+        allNews = snapshot.recentNews || [];
+        allAdvisories = snapshot.recentAdvisories || [];
+        renderStats();
+        renderMap();
+        renderTable();
+        renderAdvisories();
+        renderNews();
+        renderNewsFilters();
+      }
+
+      function escapeHtml(s) {
+        return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      }
+      function escapeAttr(s) { return escapeHtml(s); }
+
+      // 1. Pre-render from local JSON (instant)
+      fetch(LOCAL_JSON, { cache: 'no-cache' })
+        .then(r => r.ok ? r.json() : null)
+        .then(j => { if (j) applySnapshot(j); })
+        .catch(() => { /* swallow — we'll try API */ })
+        .finally(() => {
+          // 2. Refresh from API if reachable
+          fetch(`${API_BASE}/snapshot`, { cache: 'no-cache' })
+            .then(r => r.ok ? r.json() : null)
+            .then(j => { if (j && j.ok && j.hv_db) applySnapshot(j); })
+            .catch(() => { /* offline-OK; keep local snapshot */ });
+        });
+    })();
+  </script>
+</body>
+</html>
