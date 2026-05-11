@@ -1,0 +1,1350 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-11T19:54:48.131Z",
+  "operator": "TCG Solutions",
+  "counts": {
+    "advisories": 60,
+    "court_cases": 15,
+    "news": 60,
+    "outbreaks": 0
+  },
+  "advisories": [
+    {
+      "id": 96,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh",
+      "title": "Mission & Vision",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/mission-and-vision",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 97,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh",
+      "title": "Boards and Commissions",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/boards-and-commissions",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 98,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh",
+      "title": "Organizational Chart",
+      "severity": "info",
+      "url": "https://www.in.gov/health/files/Org-Chart-2026.pdf",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 99,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh",
+      "title": "Public Records Request",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/public-records-requests",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 100,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh",
+      "title": "Notice of Nondiscrimination",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/notice-of-nondiscrimination",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 101,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh",
+      "title": "Notice of Privacy Practices",
+      "severity": "info",
+      "url": "https://www.in.gov/health/files/Notice-of-Privacy-Practices-Approved-by-OPA.pdf",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 102,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh",
+      "title": "Media Contact Us",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/contact-and-information/contact-us#media",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 103,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh",
+      "title": "State Laboratories",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/contact-and-information/contact-us#statelab",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 104,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh-press",
+      "title": "Mission & Vision",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/mission-and-vision",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 105,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh-press",
+      "title": "Boards and Commissions",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/boards-and-commissions",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 106,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh-press",
+      "title": "Organizational Chart",
+      "severity": "info",
+      "url": "https://www.in.gov/health/files/Org-Chart-2026.pdf",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 107,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh-press",
+      "title": "Public Records Request",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/public-records-requests",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 108,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh-press",
+      "title": "Notice of Nondiscrimination",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/notice-of-nondiscrimination",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 109,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh-press",
+      "title": "Notice of Privacy Practices",
+      "severity": "info",
+      "url": "https://www.in.gov/health/files/Notice-of-Privacy-Practices-Approved-by-OPA.pdf",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 110,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh-press",
+      "title": "Media Contact Us",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/contact-and-information/contact-us#media",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 111,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idoh-press",
+      "title": "State Laboratories",
+      "severity": "info",
+      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/contact-and-information/contact-us#statelab",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 112,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Skip to main content",
+      "severity": "info",
+      "url": "https://dph.illinois.gov/search.html?contentType=news&q=#main",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 115,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Toggle Search",
+      "severity": "info",
+      "url": "https://dph.illinois.gov/search.html?contentType=news&q=#",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 116,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Illinois Rises to Top Tier in National Emergency Preparedness Rankings",
+      "severity": "critical",
+      "url": "https://dph.illinois.gov/resource-center/news/2026/may/release-20260508.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 117,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Illinois Maintains High Childhood Vaccination Rates Outpacing National Trends",
+      "severity": "info",
+      "url": "https://dph.illinois.gov/resource-center/news/2026/may/illinois-maintains-high-childhood-vaccination-rates.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 118,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "IDPH Issues Updated Sport Fish Consumption Advisories",
+      "severity": "info",
+      "url": "https://dph.illinois.gov/resource-center/news/2026/april/release-20260415.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 119,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "IDPH Spotlights the Power of Prevention During 30 Days of Public Health in April",
+      "severity": "info",
+      "url": "https://dph.illinois.gov/resource-center/news/2026/april/30daysofpublichealth2026.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 120,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Director Vohra Dear Colleagues",
+      "severity": "info",
+      "url": "https://dph.illinois.gov/resource-center/communications/director-letters/2026/letter-03202026.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 121,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Tax Season Provides Opportunity to Support Public Health Through Voluntary Contribution Program",
+      "severity": "info",
+      "url": "https://dph.illinois.gov/resource-center/news/2026/march/taxseasonpublichealth.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 122,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "IDPH Releases Carbon Monoxide Surveillance Report",
+      "severity": "info",
+      "url": "https://dph.illinois.gov/resource-center/news/2026/march/carbonmonoxidesurveillancereport.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 123,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "First Measles Case of 2026 Identified in Metro East Area",
+      "severity": "info",
+      "url": "https://dph.illinois.gov/resource-center/news/2026/february/2026measles.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 124,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Trump Administration Cuts Critical Public Health Programs Across Illinois",
+      "severity": "critical",
+      "url": "https://dph.illinois.gov/resource-center/news/2026/february/release-20260212.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 125,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Advisory Boards",
+      "severity": "warn",
+      "url": "https://dph.illinois.gov/resource-center/advisory-boards.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 126,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Office of the Inspector General",
+      "severity": "info",
+      "url": "https://oeig.illinois.gov/",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 127,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Centers for Disease Control and Prevention",
+      "severity": "info",
+      "url": "https://www.cdc.gov/",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 128,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Office of Governor JB Pritzker",
+      "severity": "info",
+      "url": "https://gov.illinois.gov/",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 129,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Illinois Jobs",
+      "severity": "info",
+      "url": "https://illinois.jobs2web.com/",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 130,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Illinois.gov home page",
+      "severity": "info",
+      "url": "https://www.illinois.gov/",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 131,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "idph-il",
+      "title": "Employment Opportunities",
+      "severity": "info",
+      "url": "https://dph.illinois.gov/about/employment-opportunities.html",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 132,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "odh-oh",
+      "title": "Error 404 Image",
+      "severity": "info",
+      "url": "https://odh.ohio.gov/errorpages/assets/images/error-404.png",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 133,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "odh-oh",
+      "title": "Innovate Ohio Platform Logo",
+      "severity": "info",
+      "url": "https://odh.ohio.gov/errorpages/assets/logos/iop-logo-gray.png",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 134,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "kdph-ky",
+      "title": "Skip to main navigation",
+      "severity": "info",
+      "url": "https://www.chfs.ky.gov/agencies/dph/Pages/default.aspx#primary-nav",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 135,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "kdph-ky",
+      "title": "Skip to main content",
+      "severity": "info",
+      "url": "https://www.chfs.ky.gov/agencies/dph/Pages/default.aspx#mainContentWrap",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 136,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "kdph-ky",
+      "title": "child in wheelchair with his sister at the park smiling",
+      "severity": "info",
+      "url": "https://www.chfs.ky.gov/agencies/PublishingImages/OCSHCN.jpg",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 137,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "kdph-ky",
+      "title": "January 2026",
+      "severity": "info",
+      "url": "https://www.chfs.ky.gov/agencies/dph/Documents/AdminRegNoticeJan2026.pdf",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 138,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "kdph-ky",
+      "title": "February 2026",
+      "severity": "info",
+      "url": "https://www.chfs.ky.gov/agencies/dph/Documents/AdminRegNoticeFeb2026.pdf",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 139,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "Skip to main content",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom#pagebody",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 140,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "MDHHS director hosts Foster Care Month roundtable",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/05/05/mdhhs-director-hosts-foster-care-month-roundtable",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 141,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "MDHHS highlights progress in updated Tobacco-Free Report Card for Michigan colleges and universities",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/05/04/tobacco-report",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 142,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "MDHHS helps amplify statewide efforts highlighting the crisis of missing and murdered Indigenous people",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/05/04/mdhhs-helps-highlight-the-crisis-of-missing-and-murdered-indigenous-people",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 143,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "MDHHS and MDARD urge residents to avoid mosquito and tick bites during flood cleanup",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/05/04/ticks-mosquitoes",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 144,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "MDHHS presented innovative CSA teaming model at Child Welfare League of America national conference",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/05/01/mdhhs-presented-innovative-csa-teaming-model-at-child-welfare-league-of-america-national-conference",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 145,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "MDHHS director visits Epicenter of Worship Neighborhood Wellness Center and Ingham County MI Mobile Health Unit",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/04/30/nwc-visit",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 146,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "MDHHS launches statewide map to expand access to free gun locks and promote safe firearm storage",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/04/27/lock-map",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 147,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "MDHHS seeks public comment on State Plan on Aging",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/04/23/aging-plan",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 148,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "MDHHS seeks proposals for development of anti-bullying initiatives for students with special health care needs",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/04/23/antibullying-gfo",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 149,
+      "ts": "2026-05-11T19:53:45.194Z",
+      "source": "mdhhs-mi",
+      "title": "Gov. Whitmer proclaims April as Child Abuse Prevention Month; highlights importance of prevention services",
+      "severity": "info",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/04/20/april-as-child-abuse-prevention-month",
+      "fetched_at": "2026-05-11T19:53:45.194Z"
+    },
+    {
+      "id": 7,
+      "ts": "2026-05-11T19:53:41.478Z",
+      "source": "cdc-outbreaks",
+      "title": "Skip directly to site content",
+      "severity": "info",
+      "url": "https://www.cdc.gov/outbreaks/index.html#content",
+      "fetched_at": "2026-05-11T19:53:41.478Z"
+    },
+    {
+      "id": 8,
+      "ts": "2026-05-11T19:53:41.478Z",
+      "source": "cdc-outbreaks",
+      "title": "Skip directly to search",
+      "severity": "info",
+      "url": "https://www.cdc.gov/outbreaks/index.html#cdc-search__input",
+      "fetched_at": "2026-05-11T19:53:41.478Z"
+    },
+    {
+      "id": 9,
+      "ts": "2026-05-11T19:53:41.478Z",
+      "source": "cdc-outbreaks",
+      "title": "Here's how you know",
+      "severity": "info",
+      "url": "https://www.cdc.gov/outbreaks/index.html#gov-notice",
+      "fetched_at": "2026-05-11T19:53:41.478Z"
+    },
+    {
+      "id": 10,
+      "ts": "2026-05-11T19:53:41.478Z",
+      "source": "cdc-outbreaks",
+      "title": "U.S. Outbreaks",
+      "severity": "info",
+      "url": "https://www.cdc.gov/outbreaks/index.html#cdc_homepage_feed1-u-s-outbreaks",
+      "fetched_at": "2026-05-11T19:53:41.478Z"
+    },
+    {
+      "id": 11,
+      "ts": "2026-05-11T19:53:41.478Z",
+      "source": "cdc-outbreaks",
+      "title": "International Outbreaks",
+      "severity": "info",
+      "url": "https://www.cdc.gov/outbreaks/index.html#cdc_homepage_feed3-international-outbreaks",
+      "fetched_at": "2026-05-11T19:53:41.478Z"
+    },
+    {
+      "id": 12,
+      "ts": "2026-05-11T19:53:41.478Z",
+      "source": "cdc-outbreaks",
+      "title": "International Travel Health Notices",
+      "severity": "info",
+      "url": "https://www.cdc.gov/outbreaks/index.html#cdc_homepage_feed2-international-travel-health-notices",
+      "fetched_at": "2026-05-11T19:53:41.478Z"
+    },
+    {
+      "id": 13,
+      "ts": "2026-05-11T19:53:41.478Z",
+      "source": "cdc-outbreaks",
+      "title": "_Salmonella_ Outbreak Linked to Pet Veiled Chameleons",
+      "severity": "critical",
+      "url": "https://www.cdc.gov/salmonella/outbreaks/chameleons-05-26/index.html",
+      "fetched_at": "2026-05-11T19:53:41.478Z"
+    },
+    {
+      "id": 14,
+      "ts": "2026-05-11T19:53:41.478Z",
+      "source": "cdc-outbreaks",
+      "title": "_Salmonella_ Outbreak Linked to Backyard Poultry",
+      "severity": "critical",
+      "url": "https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/index.html",
+      "fetched_at": "2026-05-11T19:53:41.478Z"
+    }
+  ],
+  "court_cases": [
+    {
+      "id": 1,
+      "court_id": "ded",
+      "case_name": "In Re: Hudson 1701/1706 LLC",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73321665/in-re-hudson-17011706-llc/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 2,
+      "court_id": "flnd",
+      "case_name": "JOSHI v. OPENAI FOUNDATION",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-10",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73320881/joshi-v-openai-foundation/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 3,
+      "court_id": "ohnd",
+      "case_name": "Derbin v. City of Euclid",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-09",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73320727/derbin-v-city-of-euclid/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 4,
+      "court_id": "mdd",
+      "case_name": "In Re Administrative Subpoenas to Children's Hospitals",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-08",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73320154/in-re-administrative-subpoenas-to-childrens-hospitals/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 5,
+      "court_id": "txwd",
+      "case_name": "Doe v. Instructure, Inc.",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-08",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73320023/doe-v-instructure-inc/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 6,
+      "court_id": "cand",
+      "case_name": "Ivey v. Instructure Holdings, Inc.",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-08",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73320012/ivey-v-instructure-holdings-inc/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 7,
+      "court_id": "ord",
+      "case_name": "Lohr v. State of Oregon",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-08",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73319680/lohr-v-state-of-oregon/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 8,
+      "court_id": "cafc",
+      "case_name": "Burlap and Barrel, Inc. v. Trump",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-08",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73318463/burlap-and-barrel-inc-v-trump/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 9,
+      "court_id": "wied",
+      "case_name": "City of Green Bay v. REV GROUP, INC",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-08",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73318216/city-of-green-bay-v-rev-group-inc/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 10,
+      "court_id": "wied",
+      "case_name": "City of Allentown v. REV Group Inc",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-08",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73317153/city-of-allentown-v-rev-group-inc/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 11,
+      "court_id": "paed",
+      "case_name": "MONASTIERO v. NOVO NORDISK INC.",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-08",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73316205/monastiero-v-novo-nordisk-inc/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 12,
+      "court_id": "flmb",
+      "case_name": "CHS TX, INC.",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-08",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73315655/chs-tx-inc/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 13,
+      "court_id": "ded",
+      "case_name": "10X Genomics, Inc. v. Element Biosciences, Inc.",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-08",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73314878/10x-genomics-inc-v-element-biosciences-inc/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 14,
+      "court_id": "paed",
+      "case_name": "UFCW Local 1500 Welfare Fund v. Takeda Pharmaceuticals USA, Inc.",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-07",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73315198/ufcw-local-1500-welfare-fund-v-takeda-pharmaceuticals-usa-inc/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    },
+    {
+      "id": 15,
+      "court_id": "nysd",
+      "case_name": "Shuman v. The City of New York",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-05-07",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73314468/shuman-v-the-city-of-new-york/",
+      "fetched_at": "2026-05-11T19:54:43.722Z"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "headline": "Go to the Reuters.com Homepage",
+      "source": "reuters-health",
+      "publisher": "Reuters Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.reuters.com/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 2,
+      "headline": "Enable accessibility",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/health#",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 3,
+      "headline": "Russia-Ukraine war",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/hub/russia-ukraine",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 4,
+      "headline": "Trump rejects Iran's response to latest US proposal to end the war",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 5,
+      "headline": "One evacuated passenger tests positive for hantavirus and another develops symptoms on flight home",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/article/hantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 6,
+      "headline": "Remains of US soldier who went missing during military exercises in Morocco have been recovered",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/article/morocco-united-states-soldier-missing-recovered-ab35255fa6bf01ba5f87ec897c1a6950",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 8,
+      "headline": "The Afternoon Wire\\\\\n\\\\\nGet caught up on what you may have missed throughout the day.",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/newsletters?id=Afternoon+Wire",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 10,
+      "headline": "The Morning Wire\\\\\n\\\\\nOur flagship newsletter breaks down the biggest headlines of the day.",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/newsletters?id=Morning+Wire+Subscribers",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 12,
+      "headline": "Test Your News I.Q. — take today’s quiz",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/quizzes",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 13,
+      "headline": "The latest AP-NORC polls",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/projects/polling-tracker/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 14,
+      "headline": "Oregon Democrats found a way to improve roads. Now their gas tax goes before voters as prices soar",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/article/oregon-primary-gas-tax-iran-war-affordability-9c032b3da58afa28d2b4bab22ba2b539",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 15,
+      "headline": "Iran war could make Trump's trip to China a bit chillier than his first-term visit",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 16,
+      "headline": "Young Americans’ job market optimism falls as older adults stay upbeat, new Gallup poll finds",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/article/global-jobs-economy-poll-youth-older-adults-efa927fc1ddfb481294178becbbf3a1b",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 17,
+      "headline": "Ground Game\\\\\n\\\\\nExclusive insights and key stories from the world of politics.",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/newsletters?id=Ground_Game",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 18,
+      "headline": "See All Newsletters",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/newsletters",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 19,
+      "headline": "Spieth and Scheffler are one leg from the career Grand Slam. It looks farther away for Spieth",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/article/pga-championship-spieth-aronimink-scheffler-grand-slam-9a2c5a10dd5e1b0b06a21d3b4363f189",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 20,
+      "headline": "Wembanyama gets ejected early in Spurs-Wolves Game 4 for elbowing Reid and drawing a Flagrant 2 foul",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/article/nba-playoffs-spurs-timberwolves-wembanyama-ejected-34edaeeed1c10e43803d7b3c30eada74",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 21,
+      "headline": "Washington wins NBA draft lottery, chance to pick first on June 23",
+      "source": "ap-health",
+      "publisher": "AP Health",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://apnews.com/article/nba-draft-lottery-9a53adf2f370c8d78623b1ca23d3d8bd",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 22,
+      "headline": "Skip to Main Content",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/category/health/#wrapper",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 23,
+      "headline": "The connection between periods and mental health",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/11/health-news-connection-between-periods-and-mental-health/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 24,
+      "headline": "Animal skin disease confirmed in clusters of European men who have sex with men",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/11/rare-animal-skin-infection-msm-clusters-europe-dermatophilus-congolensis/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 25,
+      "headline": "STAT Plus: Five years after disaster, a rare disease community gets new chance at treatment",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/11/astellas-gene-therapy-trials-resume-promising-myotubular-myopathy-treatment/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 26,
+      "headline": "Experts wonder ‘Where is the CDC?’ as hantavirus outbreak unfolds",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/09/mv-hondius-hantavirus-outbreak-cdc-takes-back-seat-to-who/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 27,
+      "headline": "Spain readies for evacuations as a hantavirus-hit cruise ship heads for the Canary Islands",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/08/hantavirus-outbreak-cruise-ship-spain-evacuations-canary-islands/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 28,
+      "headline": "Former FDA leaders, pharma speak out on mifepristone",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/08/supreme-court-mifepristone-amicus-briefs-pharma-former-fda-leaders/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 29,
+      "headline": "The aging scientific workforce collides with rising fabricating citations in medical journals",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/08/health-news-aging-scientific-workforce-and-fake-ai-citations/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 30,
+      "headline": "Key takeaways from WHO briefing on hantavirus cruise ship outbreak",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/07/hantavirus-outbreak-key-takeaways-who-cruise-ship-briefing/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 31,
+      "headline": "Official leading CDC’s cruise ship program retires",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/07/luis-rodriguez-retires-cdc-vessel-sanitation-program-amid-hantavirus-outbreak/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 32,
+      "headline": "Hospital shootings steadily increased since 2000",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/07/health-news-hospital-shootings-steadily-on-the-rise/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 33,
+      "headline": "Eugene Braunwald, ‘father of modern cardiology,’ told me he had two dreams. One came true",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/07/eugene-braunwald-obituary-cardiology-legacy/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 34,
+      "headline": "STAT Plus: Oregon hospitals won’t outsource to national physician chain after all",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/06/peacehealth-drops-eugene-oregon-emergency-room-outsource-plan-apollomd/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 35,
+      "headline": "Trump administration’s drug strategy is at odds with recent actions on funding, policy",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/06/white-house-drug-control-policy-at-odds-recent-actions/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 36,
+      "headline": "STAT Plus: Color Health moving deeper into cancer services, complete with virtual ‘tumor boards’",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/06/cancer-care-color-health-virtual-clinics-driven-by-ai/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 37,
+      "headline": "Why the FDA is authorizing fruit-flavored vapes",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/06/fda-approval-new-flavored-vapes-trump-role-questioned/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 38,
+      "headline": "HHS tackles ‘overmedication’",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/06/health-news-hhs-tackles-alleged-overmedication/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 39,
+      "headline": "STAT Plus: A new attack on AMA’s billing codes",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/05/cpt-codes-draw-scrutiny-dc-diagnosis-newsletter/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 40,
+      "headline": "What you need to know about hantavirus (don’t panic)",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/05/health-news-hantavirus-what-to-know-dont-panic-though/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 41,
+      "headline": "STAT Plus: Top lawmaker takes aim at doctor lobby, linking AMA’s billing codes to fraud fight",
+      "source": "stat-news",
+      "publisher": "STAT News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.statnews.com/2026/05/05/ama-payment-codes-fraud-target-gop-oversight-james-comer/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 42,
+      "headline": "Skip to main content",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/topics/public-health/#main",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 43,
+      "headline": "Trump’s Drug Strategy Aims To Bolster Addiction Services — Despite Gutting of Government Support",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/public-health/trump-national-drug-control-strategy-addiction-treatment-funding-cuts/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 44,
+      "headline": "States Eye Aid To Prop Up Distressed Hospitals Amid Federal Medicaid Cuts",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/health-care-costs/medicaid-cuts-distressed-hospitals-aid-california/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 45,
+      "headline": "Bernard J. Wolfson",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/author/bernard-j-wolfson/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 46,
+      "headline": "Guns, Race, and Profit",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/series/guns-race-and-profit/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 47,
+      "headline": "She Survived 2 Shootings. Research Helps Explain Why Her Pain Persists Years Later.",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/public-health/gun-violence-survivor-phantom-pain-research-minnesota/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 48,
+      "headline": "Alma Beauvais, The Trace",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/author/alma-beauvais-the-trace/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 49,
+      "headline": "KFF Health News On Air",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/topics/on-air/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 50,
+      "headline": "Journalists Share Latest on Baby Formula Safety, Estrogen Patches, and Postcancer Costs",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/on-air/on-air-may-2-2026-baby-formula-safety-test-menopause-postcancer-care-costs/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 51,
+      "headline": "Prevention Efforts Increasingly See Suicide Through a Broader Lens",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/mental-health/the-week-in-brief-suicide-prevention-efforts-broader-approach/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 52,
+      "headline": "When Natural Disasters Strike, Another Crisis Hits Those Recovering From Opioid Addiction",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/public-health/substance-use-disorder-treatment-natural-disasters-opioid-suboxone-emergency-supply/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 53,
+      "headline": "Saving Lives by Changing Lives: The Next Frontier in Suicide Prevention",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/mental-health/suicide-prevention-mental-health-upstream-solutions-eleven-minutes/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 54,
+      "headline": "How Would You Fix It?",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/series/how-would-you-fix-it/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 55,
+      "headline": "Watch: Acknowledging Health Care’s Great Divide",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/health-industry/health-care-policy-political-divide-david-blumenthal-interview/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 57,
+      "headline": "RFK Jr. vs. Congress",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/podcast/what-the-health-443-rfk-robert-kennedy-jr-congress-hearings-april-23-2026/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 58,
+      "headline": "What the Health? From KFF Health News",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/podcast-series/what-the-health/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 59,
+      "headline": "A New CDC Nominee, Again",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/podcast/what-the-health-442-cdc-director-nominee-rfk-hearing-april-17-2026/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 60,
+      "headline": "As US Birth Rate Falls, Feds’ Response May Make Pregnancy More Dangerous",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/public-health/us-birth-rate-decline-title-x-family-planning-grants-contraception-pronatalist/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 61,
+      "headline": "New Orleans Takes Steps To Assess and Clean Lead in Playgrounds After Investigation",
+      "source": "kffhealth",
+      "publisher": "KFF Health News",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://kffhealthnews.org/public-health/lead-testing-new-orleans-playgrounds-investigation-cleanup/",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 62,
+      "headline": "Topics & ProjectsToggle submenu",
+      "source": "cidrap",
+      "publisher": "CIDRAP",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.cidrap.umn.edu/#mm-2",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 63,
+      "headline": "Antimicrobial Resistance",
+      "source": "cidrap",
+      "publisher": "CIDRAP",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    },
+    {
+      "id": 64,
+      "headline": "Chronic Wasting Disease",
+      "source": "cidrap",
+      "publisher": "CIDRAP",
+      "published_at": "2026-05-11T19:53:55.855Z",
+      "url": "https://www.cidrap.umn.edu/chronic-wasting-disease",
+      "state": null,
+      "fetched_at": "2026-05-11T19:53:55.855Z"
+    }
+  ],
+  "outbreaks": [],
+  "runs": [
+    {
+      "id": 5,
+      "ts": "2026-05-11T19:54:48.120Z",
+      "source_kind": "courtlistener",
+      "items_inserted": 15,
+      "items_skipped": 5,
+      "error_message": null
+    },
+    {
+      "id": 4,
+      "ts": "2026-05-11T19:54:03.259Z",
+      "source_kind": "news",
+      "items_inserted": 110,
+      "items_skipped": 0,
+      "error_message": null
+    },
+    {
+      "id": 3,
+      "ts": "2026-05-11T19:53:55.855Z",
+      "source_kind": "courtlistener",
+      "items_inserted": 0,
+      "items_skipped": 48,
+      "error_message": null
+    },
+    {
+      "id": 2,
+      "ts": "2026-05-11T19:53:49.009Z",
+      "source_kind": "state-feeds",
+      "items_inserted": 54,
+      "items_skipped": 0,
+      "error_message": null
+    },
+    {
+      "id": 1,
+      "ts": "2026-05-11T19:53:45.190Z",
+      "source_kind": "cdc",
+      "items_inserted": 95,
+      "items_skipped": 14,
+      "error_message": null
+    }
+  ]
+}
