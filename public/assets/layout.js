@@ -9,7 +9,10 @@ const NAV = [
   { id: "home", href: "./index.html", label: "Overview" },
   { id: "outbreaks", href: "./outbreaks.html", label: "Outbreaks" },
   { id: "map", href: "./map.html", label: "Map" },
+  { id: "state", href: "./state.html", label: "By state" },
+  { id: "country", href: "./country.html", label: "By country" },
   { id: "viruses", href: "./viruses.html", label: "Viruses" },
+  { id: "feeds", href: "./feeds.html", label: "Feed registry" },
   { id: "sources", href: "./sources.html", label: "Sources" },
   { id: "about", href: "./about.html", label: "About" },
 ];
