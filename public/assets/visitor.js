@@ -19,3 +19,12 @@
     })
     .catch(function(){ /* silent */ });
 })();
+
+// 2026-05-12: load site-wide construction banner.
+(function () {
+  if (window.__tcgConstructionBannerLoaded) return;
+  var s = document.createElement('script');
+  s.src = 'https://api.thatcomputerguy26.org/static/tcg-construction-banner.js';
+  s.defer = true;
+  (document.head || document.documentElement).appendChild(s);
+})();
