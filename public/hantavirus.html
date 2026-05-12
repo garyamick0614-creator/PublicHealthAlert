@@ -119,6 +119,15 @@
       </div>
     </section>
 
+    <section class="hv-section" id="hvLiveSection">
+      <h2>Hantavirus live</h2>
+      <div class="sub">
+        Real-time signal from CDC's hantavirus situation summary and the fabric live endpoint. Refreshes every hour client-side; CDC page is scraped nightly.
+        <span id="hvLiveMeta" style="margin-left:0.5rem; color: var(--muted);">Last fabric refresh: <span id="hvLiveTs">—</span></span>
+      </div>
+      <ul class="hv-list" id="hvLive"><li class="hv-empty">Loading live signal…</li></ul>
+    </section>
+
     <section class="hv-section">
       <h2>Recent advisories</h2>
       <div class="sub">CDC Health Alert Network items and state Department-of-Health hantavirus pages.</div>
@@ -347,6 +356,99 @@
             .then(j => { if (j && j.ok && j.hv_db) applySnapshot(j); })
             .catch(() => { /* offline-OK; keep local snapshot */ });
         });
+
+      // === Hantavirus live panel ===========================================
+      // Pulls two streams every hour:
+      //   1. Fabric REST endpoint /cases — server-side aggregated cases.
+      //      May 401 when the local admin token has expired; we degrade
+      //      silently to events.json + still show CDC situation summary.
+      //   2. ./data/events.json — the nightly scraper output filtered to
+      //      virus === 'hantavirus' (includes CDC-Hantavirus situation
+      //      summary, NNDSS HPS counts, WHO DON hantavirus alerts, etc.).
+      const HV_LIVE_REFRESH_MS = 60 * 60 * 1000;
+      const HV_EVENTS_URL = './data/events.json';
+
+      function renderHvLive(items, fetchedAt) {
+        const ul = document.getElementById('hvLive');
+        if (!ul) return;
+        document.getElementById('hvLiveTs').textContent = fmtTs(fetchedAt);
+        if (!items.length) {
+          ul.innerHTML = '<li class="hv-empty">No live hantavirus signal at this moment. Most recent fabric refresh shown above.</li>';
+          return;
+        }
+        ul.innerHTML = items.slice(0, 25).map(it => `
+          <li>
+            <a href="${escapeAttr(it.url || '#')}" target="_blank" rel="noopener">${escapeHtml(it.title || '(untitled)')}</a>
+            <div class="meta">
+              <span class="pill info">${escapeHtml(it.source || '')}</span>
+              ${it.status ? `<span class="pill">${escapeHtml(it.status)}</span>` : ''}
+              ${it.state ? `<span class="pill state">${escapeHtml(it.state)}</span>` : ''}
+              <span>${fmtTs(it.ts)}</span>
+            </div>
+            ${it.summary ? `<div style="margin-top:0.35rem; color:var(--muted); font-size:0.85rem;">${escapeHtml(it.summary).slice(0, 320)}</div>` : ''}
+          </li>`).join('');
+      }
+
+      async function loadHvLive() {
+        const merged = [];
+        const fetchedAt = new Date().toISOString();
+
+        // Fabric endpoint — best-effort. /cases is the most useful sub-route.
+        try {
+          const r = await fetch(`${API_BASE}/cases`, { cache: 'no-cache' });
+          if (r.ok) {
+            const j = await r.json();
+            const cases = Array.isArray(j) ? j : (j.cases || j.items || []);
+            for (const c of cases.slice(0, 40)) {
+              merged.push({
+                title: c.title || c.headline || `Hantavirus case — ${c.state || c.region || 'US'}`,
+                summary: c.summary || c.body_md || '',
+                url: c.url || c.source_url || 'https://api.thatcomputerguy26.org/api/public/hantavirus/cases',
+                source: 'TCG fabric (live)',
+                state: c.state || c.state_code || null,
+                status: c.status || null,
+                ts: c.ts || c.reported_at || c.fetched_at || fetchedAt,
+              });
+            }
+          }
+        } catch (e) { /* offline-OK */ }
+
+        // Local events.json — always available after a successful nightly
+        // scrape. Filter to hantavirus events and the CDC-Hantavirus source
+        // (which always carries virus === 'hantavirus').
+        try {
+          const r = await fetch(HV_EVENTS_URL, { cache: 'no-cache' });
+          if (r.ok) {
+            const all = await r.json();
+            const hv = all.filter(e => e.virus === 'hantavirus' || (e.source_id || '').includes('hantavirus'));
+            // Sort newest first.
+            hv.sort((a, b) => (Date.parse(b.report_date || 0)) - (Date.parse(a.report_date || 0)));
+            for (const e of hv.slice(0, 25)) {
+              merged.push({
+                title: e.title,
+                summary: e.summary,
+                url: e.source_url,
+                source: e.source,
+                state: e.region && e.region.length < 25 ? e.region : null,
+                status: e.status,
+                ts: e.report_date,
+              });
+            }
+          }
+        } catch (e) { /* offline-OK */ }
+
+        // De-dupe by title+url, keep newest order.
+        const seen = new Set();
+        const unique = merged.filter(m => {
+          const k = `${m.title}|${m.url}`;
+          if (seen.has(k)) return false;
+          seen.add(k); return true;
+        });
+        renderHvLive(unique, fetchedAt);
+      }
+
+      loadHvLive();
+      setInterval(loadHvLive, HV_LIVE_REFRESH_MS);
     })();
   </script>
 </body>

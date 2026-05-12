@@ -6,7 +6,7 @@
     "format": "RSS + HTML",
     "access": "public",
     "region_scope": "United States",
-    "last_scraped": "2026-05-12T16:05:14.063Z",
+    "last_scraped": "2026-05-12T19:20:39.884Z",
     "last_event_count": 15,
     "last_error": null
   },
@@ -17,8 +17,8 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Americas",
-    "last_scraped": "2026-05-12T16:05:14.063Z",
-    "last_event_count": 3,
+    "last_scraped": "2026-05-12T19:20:39.884Z",
+    "last_event_count": 2,
     "last_error": null
   },
   {
@@ -28,7 +28,7 @@
     "format": "JSON API (OData)",
     "access": "public",
     "region_scope": "Global",
-    "last_scraped": "2026-05-12T16:05:14.063Z",
+    "last_scraped": "2026-05-12T19:20:39.884Z",
     "last_event_count": 47,
     "last_error": null
   },
@@ -39,7 +39,7 @@
     "format": "RSS + HTML (CDTR)",
     "access": "public",
     "region_scope": "Europe / global signal",
-    "last_scraped": "2026-05-12T16:05:14.063Z",
+    "last_scraped": "2026-05-12T19:20:39.884Z",
     "last_event_count": 1,
     "last_error": null
   },
@@ -50,7 +50,7 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Africa",
-    "last_scraped": "2026-05-12T16:05:14.063Z",
+    "last_scraped": "2026-05-12T19:20:39.884Z",
     "last_event_count": 1,
     "last_error": null
   },
@@ -61,7 +61,7 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Africa",
-    "last_scraped": "2026-05-12T16:05:14.063Z",
+    "last_scraped": "2026-05-12T19:20:39.884Z",
     "last_event_count": 1,
     "last_error": null
   },
@@ -72,8 +72,52 @@
     "format": "RSS",
     "access": "public",
     "region_scope": "Global / independent",
-    "last_scraped": "2026-05-12T16:05:14.063Z",
+    "last_scraped": "2026-05-12T19:20:39.884Z",
     "last_event_count": 6,
+    "last_error": null
+  },
+  {
+    "id": "cdc-nndss",
+    "name": "CDC NNDSS — Weekly Notifiable Disease Counts",
+    "url": "https://wwwn.cdc.gov/nndss/",
+    "format": "JSON API (Socrata)",
+    "access": "public",
+    "region_scope": "United States (by state)",
+    "last_scraped": "2026-05-12T19:20:39.884Z",
+    "last_event_count": 371,
+    "last_error": null
+  },
+  {
+    "id": "healthmap",
+    "name": "HealthMap — Global outbreak intelligence",
+    "url": "https://www.healthmap.org/",
+    "format": "JSON",
+    "access": "public",
+    "region_scope": "Global",
+    "last_scraped": "2026-05-12T19:20:39.884Z",
+    "last_event_count": 1689,
+    "last_error": null
+  },
+  {
+    "id": "state-dph",
+    "name": "State Departments of Health (IN, IL, KY)",
+    "url": "https://www.in.gov/health/idepd/",
+    "format": "RSS (via nitter) + HTML",
+    "access": "public",
+    "region_scope": "United States (Indiana, Illinois, Kentucky)",
+    "last_scraped": "2026-05-12T19:20:39.884Z",
+    "last_event_count": 0,
+    "last_error": null
+  },
+  {
+    "id": "cdc-hantavirus",
+    "name": "CDC Hantavirus — Situation Summary & Reported Cases",
+    "url": "https://www.cdc.gov/hantavirus/situation-summary/index.html",
+    "format": "HTML",
+    "access": "public",
+    "region_scope": "United States",
+    "last_scraped": "2026-05-12T19:20:39.884Z",
+    "last_event_count": 2,
     "last_error": null
   }
 ]

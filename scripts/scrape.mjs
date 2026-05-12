@@ -15,6 +15,10 @@ import * as ecdc from "./sources/ecdc.mjs";
 import * as africaCdc from "./sources/africa-cdc.mjs";
 import * as whoAfro from "./sources/who-afro.mjs";
 import * as outbreakNewsToday from "./sources/outbreak-news-today.mjs";
+import * as cdcNndss from "./sources/cdc-nndss.mjs";
+import * as healthmap from "./sources/healthmap.mjs";
+import * as stateDph from "./sources/state-dph.mjs";
+import * as cdcHantavirus from "./sources/cdc-hantavirus.mjs";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const CONNECTORS = [
@@ -25,6 +29,10 @@ const CONNECTORS = [
   { mod: africaCdc, id: "africa-cdc" },
   { mod: whoAfro, id: "who-afro" },
   { mod: outbreakNewsToday, id: "outbreak-news-today" },
+  { mod: cdcNndss, id: "cdc-nndss" },
+  { mod: healthmap, id: "healthmap" },
+  { mod: stateDph, id: "state-dph" },
+  { mod: cdcHantavirus, id: "cdc-hantavirus" },
 ];
 
 function parseArgs(argv) {
