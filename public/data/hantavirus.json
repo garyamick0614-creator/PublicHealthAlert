@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-11T19:56:44.122Z",
+  "generatedAt": "2026-05-12T09:51:09.647Z",
   "lastRun": {
-    "ts": "2026-05-11T19:56:44.121Z",
+    "ts": "2026-05-12T09:50:28.715Z",
     "source_kind": "news",
-    "items_inserted": 22,
-    "items_skipped": 6,
+    "items_inserted": 0,
+    "items_skipped": 28,
     "error_message": null
   },
   "totals": {

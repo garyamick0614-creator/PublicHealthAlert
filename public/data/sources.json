@@ -6,8 +6,8 @@
     "format": "RSS + HTML",
     "access": "public",
     "region_scope": "United States",
-    "last_scraped": "2026-05-08T05:00:15.520Z",
-    "last_event_count": 14,
+    "last_scraped": "2026-05-12T16:05:14.063Z",
+    "last_event_count": 15,
     "last_error": null
   },
   {
@@ -17,8 +17,8 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Americas",
-    "last_scraped": "2026-05-08T05:00:15.520Z",
-    "last_event_count": 2,
+    "last_scraped": "2026-05-12T16:05:14.063Z",
+    "last_event_count": 3,
     "last_error": null
   },
   {
@@ -28,7 +28,7 @@
     "format": "JSON API (OData)",
     "access": "public",
     "region_scope": "Global",
-    "last_scraped": "2026-05-08T05:00:15.520Z",
+    "last_scraped": "2026-05-12T16:05:14.063Z",
     "last_event_count": 47,
     "last_error": null
   },
@@ -39,7 +39,7 @@
     "format": "RSS + HTML (CDTR)",
     "access": "public",
     "region_scope": "Europe / global signal",
-    "last_scraped": "2026-05-08T05:00:15.520Z",
+    "last_scraped": "2026-05-12T16:05:14.063Z",
     "last_event_count": 1,
     "last_error": null
   },
@@ -50,7 +50,7 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Africa",
-    "last_scraped": "2026-05-08T05:00:15.520Z",
+    "last_scraped": "2026-05-12T16:05:14.063Z",
     "last_event_count": 1,
     "last_error": null
   },
@@ -61,8 +61,8 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Africa",
-    "last_scraped": "2026-05-08T05:00:15.520Z",
-    "last_event_count": 2,
+    "last_scraped": "2026-05-12T16:05:14.063Z",
+    "last_event_count": 1,
     "last_error": null
   },
   {
@@ -72,7 +72,7 @@
     "format": "RSS",
     "access": "public",
     "region_scope": "Global / independent",
-    "last_scraped": "2026-05-08T05:00:15.520Z",
+    "last_scraped": "2026-05-12T16:05:14.063Z",
     "last_event_count": 6,
     "last_error": null
   }
