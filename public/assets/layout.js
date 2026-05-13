@@ -12,6 +12,7 @@ const NAV = [
   { id: "state", href: "./state.html", label: "By state" },
   { id: "country", href: "./country.html", label: "By country" },
   { id: "viruses", href: "./viruses.html", label: "Viruses" },
+  { id: "hantavirus", href: "./hantavirus.html", label: "Hantavirus" },
   { id: "feeds", href: "./feeds.html", label: "Feed registry" },
   { id: "sources", href: "./sources.html", label: "Sources" },
   { id: "about", href: "./about.html", label: "About" },
@@ -55,7 +56,11 @@ function renderFooter() {
         <h4>Browse</h4>
         <a href="./outbreaks.html">All outbreaks</a>
         <a href="./viruses.html">By virus</a>
+        <a href="./hantavirus.html">Hantavirus tracker</a>
         <a href="./map.html">Spread map</a>
+        <a href="./state.html">By US state</a>
+        <a href="./country.html">By country</a>
+        <a href="./feeds.html">Feed registry</a>
       </div>
       <div class="footer-col">
         <h4>Operator</h4>

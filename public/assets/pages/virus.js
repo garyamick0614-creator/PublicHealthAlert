@@ -128,6 +128,53 @@ function renderStats(events) {
   await mount();
   const data = await loadAll();
   const id = getVirusId();
+
+  // No id passed -> render a helpful index of all viruses rather than an empty
+  // "Unspecified" shell. Each virus link populates ?id= and reloads with data.
+  if (!id) {
+    document.title = `Pick a virus · PublicHealthAlert`;
+    const glyph = document.getElementById("vGlyph");
+    const name = document.getElementById("vName");
+    const meta = document.getElementById("vMeta");
+    const crumb = document.getElementById("crumbName");
+    if (glyph) glyph.textContent = "?";
+    if (name) name.textContent = "Pick a virus";
+    if (crumb) crumb.textContent = "Pick a virus";
+    if (meta) {
+      meta.textContent =
+        `No virus selected. The URL needs ?id=<virus> (e.g. ?id=measles). ` +
+        `${data.indices.viruses.length} viruses are currently tracked.`;
+    }
+    document.getElementById("vListLink")?.setAttribute("href", "./outbreaks.html");
+    document.getElementById("vMapLink")?.setAttribute("href", "./map.html");
+
+    const grid = document.getElementById("vEvents");
+    const tiles = data.indices.viruses
+      .map((v) => [v, data.indices.byVirus.get(v) || []])
+      .sort(([, a], [, b]) => b.length - a.length);
+    document.getElementById("allCount").textContent =
+      `${data.indices.viruses.length} viruses tracked`;
+    grid.innerHTML = tiles.length === 0
+      ? `<div class="panel" style="grid-column:1/-1"><div class="empty-state"><strong>No virus data yet</strong>Next nightly scrape at 01:00 ET will populate the registry.</div></div>`
+      : tiles.map(([v, list]) => `
+        <a class="alert-card" href="./virus.html?id=${encodeURIComponent(v)}">
+          <div class="alert-meta"><span class="alert-virus">${escapeHtml(virusGlyph(virusLabel(v)))}</span></div>
+          <div class="alert-headline">${escapeHtml(virusLabel(v))}</div>
+          <div class="alert-footer">
+            <span class="chip">${list.length} event${list.length === 1 ? "" : "s"}</span>
+            <span>${list[0]?.report_date ? `Newest ${escapeHtml(fmtRelative(list[0].report_date))}` : "no dated activity"}</span>
+          </div>
+        </a>`).join("");
+
+    // Empty out timeline/breakdown panels gracefully
+    document.getElementById("vStatGrid").innerHTML = "";
+    document.getElementById("timelineSvg").innerHTML = "";
+    document.getElementById("timelineRange").textContent = "—";
+    document.getElementById("countryBreakdown").innerHTML = `<li class="muted">Pick a virus to see country breakdown.</li>`;
+    document.getElementById("sourceBreakdown").innerHTML = `<li class="muted">Pick a virus to see reporting sources.</li>`;
+    return;
+  }
+
   const events = data.indices.byVirus.get(id) || [];
 
   // Sort by report_date desc; events without a date sort to the end
