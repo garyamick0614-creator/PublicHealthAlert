@@ -6,14 +6,28 @@
   <title>PublicHealthAlert · Cross-border virus spread, refreshed nightly</title>
   <meta name="description" content="A public information dashboard tracking outbreaks, travel advisories, and imported cases relevant to the United States. Updated nightly from CDC, PAHO, WHO, ECDC, and Africa CDC public sources." />
   <meta name="theme-color" content="#0b1220" />
+  <link rel="canonical" href="https://publichealthalert.netlify.app/" />
+  <meta name="robots" content="index,follow,max-image-preview:large" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="PublicHealthAlert" />
+  <meta property="og:title" content="PublicHealthAlert · Cross-border virus spread, refreshed nightly" />
+  <meta property="og:description" content="Outbreaks, travel advisories, and imported cases relevant to the United States. CDC, WHO, PAHO, ECDC, and Africa CDC, updated nightly." />
+  <meta property="og:url" content="https://publichealthalert.netlify.app/" />
+  <meta property="og:image" content="https://publichealthalert.netlify.app/og-card.svg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="PublicHealthAlert · Cross-border virus spread" />
+  <meta name="twitter:description" content="Outbreaks, travel advisories, and imported cases relevant to the United States." />
+  <meta name="twitter:image" content="https://publichealthalert.netlify.app/og-card.svg" />
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314b8a6'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='system-ui' font-size='34' font-weight='800' fill='%230b1220'%3EP%3C/text%3E%3C/svg%3E" />
   <link rel="stylesheet" href="./vendor/maplibre/maplibre-gl.css" />
   <link rel="stylesheet" href="./assets/styles.css" />
+  <script defer src="https://api.thatcomputerguy26.org/static/tcg-visitor.js"></script>
 </head>
 <body data-page="home">
+  <a href="#main" class="tcg-skip-link" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;background:#14b8a6;color:#0b1220;padding:10px 16px;border-radius:6px;font-weight:700;text-decoration:none;z-index:9999" onfocus="this.style.left='10px';this.style.top='10px';this.style.width='auto';this.style.height='auto';" onblur="this.style.left='-9999px';">Skip to main content</a>
   <header class="site-header" id="appHeader" role="banner"></header>
 
-  <main class="container">
+  <main class="container" id="main">
     <section class="hero fade-in">
       <span class="hero-eyebrow"><span class="status-dot" style="background: var(--accent); box-shadow: 0 0 0 4px rgba(45,212,191,0.18);"></span> Live tracker · Updated nightly</span>
       <h1 class="hero-title">Cross-border virus spread, organized for the United States.</h1>
@@ -100,6 +114,72 @@
         </div>
       </div>
     </section>
+
+    <!-- D12 (Phase D, 2026-05-20) — US state choropleth of 7-day advisory count -->
+    <section class="section" aria-labelledby="d12Title" data-marker="d12-choropleth">
+      <header class="section-head">
+        <div>
+          <h2 id="d12Title" class="section-title">U.S. by state · 7-day advisory load</h2>
+          <div class="section-subtitle">Each state shaded by the number of PHA advisories that explicitly tagged it in the last 7 days. Click a state to drill into its outbreak detail.</div>
+        </div>
+        <a class="btn btn-ghost" href="./outbreaks.html">Open all outbreaks →</a>
+      </header>
+      <div id="d12-host" style="background:rgba(15,21,46,.42);border:1px solid rgba(255,255,255,.08);border-radius:14px;padding:16px;min-height:360px;position:relative">
+        <div id="d12-status" style="color:var(--muted);font-size:13px;margin-bottom:8px">Loading state data…</div>
+        <div id="d12-svg"></div>
+        <div id="d12-legend" style="display:flex;gap:14px;flex-wrap:wrap;margin-top:10px;font-size:12.5px;color:var(--muted)"></div>
+        <div id="d12-detail" style="margin-top:14px;padding:10px 12px;background:rgba(15,21,46,.55);border:1px dashed rgba(255,255,255,.12);border-radius:10px;font-size:13.5px;color:var(--text);min-height:30px;display:none"></div>
+      </div>
+    </section>
+
+    <!-- D13 (Phase D, 2026-05-20) — newsletter subscribe -->
+    <section class="section" aria-labelledby="d13Title" data-marker="d13-subscribe">
+      <header class="section-head">
+        <div>
+          <h2 id="d13Title" class="section-title">Subscribe to the daily digest</h2>
+          <div class="section-subtitle">One short email per day with the most-significant new signals. Pick which states to highlight; unsubscribe in one click.</div>
+        </div>
+      </header>
+      <form id="d13-form" style="background:rgba(15,21,46,.42);border:1px solid rgba(255,255,255,.08);border-radius:14px;padding:18px 20px;display:grid;grid-template-columns:1fr 1fr;gap:14px;max-width:780px">
+        <label style="grid-column:1/-1;font-size:13px;color:var(--muted)">Email
+          <input type="email" id="d13-email" required autocomplete="email" placeholder="you@example.com" style="display:block;width:100%;margin-top:6px;padding:10px 12px;background:rgba(15,21,46,.7);color:var(--text);border:1px solid rgba(255,255,255,.18);border-radius:8px;font:14px/1.2 inherit">
+        </label>
+        <label style="font-size:13px;color:var(--muted)">Focus states (optional)
+          <input type="text" id="d13-states" placeholder="IN,IL,OH,KY" maxlength="80" style="display:block;width:100%;margin-top:6px;padding:10px 12px;background:rgba(15,21,46,.7);color:var(--text);border:1px solid rgba(255,255,255,.18);border-radius:8px;font:14px/1.2 inherit;text-transform:uppercase">
+          <span style="display:block;color:var(--muted);font-size:11px;margin-top:4px">Comma-separated 2-letter codes. Empty = all states.</span>
+        </label>
+        <label style="font-size:13px;color:var(--muted)">Conditions (optional)
+          <input type="text" id="d13-conditions" placeholder="measles,h5n1,hantavirus" maxlength="120" style="display:block;width:100%;margin-top:6px;padding:10px 12px;background:rgba(15,21,46,.7);color:var(--text);border:1px solid rgba(255,255,255,.18);border-radius:8px;font:14px/1.2 inherit;text-transform:lowercase">
+          <span style="display:block;color:var(--muted);font-size:11px;margin-top:4px">Empty = all conditions.</span>
+        </label>
+        <div style="grid-column:1/-1;display:flex;gap:14px;align-items:center;flex-wrap:wrap">
+          <button type="submit" style="padding:10px 18px;background:linear-gradient(135deg,#14b8a6,#0ea5e9);color:#0a0f1a;border:none;border-radius:8px;font:700 13.5px/1.2 inherit;cursor:pointer;letter-spacing:.03em">Subscribe</button>
+          <span id="d13-status" role="status" aria-live="polite" style="font-size:13px;color:var(--muted)"></span>
+        </div>
+        <div style="grid-column:1/-1;font-size:11.5px;color:var(--muted);line-height:1.55">By subscribing you authorize storage of your email locally on the TCG fabric for the purpose of sending the daily digest. No third-party sharing. Reply <strong>UNSUBSCRIBE</strong> to any digest to remove yourself.</div>
+      </form>
+    </section>
+
+    <!-- D15 (Phase D, 2026-05-20) — Web Push enrollment (cross-site; that-seymour-page
+         is the operator-approved push site, but the surface is enabled here so PHA
+         viewers can opt-in to real-time outbreak alerts. Cadence capped at 1/day
+         until operator approves higher per plan rules). -->
+    <section class="section" aria-labelledby="d15Title" data-marker="d15-push">
+      <header class="section-head">
+        <div>
+          <h2 id="d15Title" class="section-title">Browser push alerts</h2>
+          <div class="section-subtitle">Get a notification when a new high-severity outbreak is added — even when this tab is closed. Up to 1 push/day to start; you can revoke anytime.</div>
+        </div>
+      </header>
+      <div style="background:rgba(15,21,46,.42);border:1px solid rgba(255,255,255,.08);border-radius:14px;padding:18px 20px;max-width:680px">
+        <div id="d15-state" style="color:var(--muted);font-size:13px;margin-bottom:12px">Checking browser support…</div>
+        <div style="display:flex;gap:10px;flex-wrap:wrap">
+          <button type="button" id="d15-enable" style="padding:10px 18px;background:rgba(168,85,247,.22);color:#c084fc;border:1px solid rgba(168,85,247,.45);border-radius:8px;font:700 13px/1.2 inherit;cursor:pointer" disabled>Enable push alerts</button>
+          <button type="button" id="d15-disable" style="padding:10px 18px;background:rgba(248,113,113,.15);color:#fca5a5;border:1px solid rgba(248,113,113,.4);border-radius:8px;font:700 13px/1.2 inherit;cursor:pointer" disabled>Disable</button>
+        </div>
+        <div style="margin-top:12px;font-size:11.5px;color:var(--muted);line-height:1.55">Push uses the standard Web Push API. Your subscription endpoint and keys are stored locally to send alerts — no email or identity attached. Stop alerts any time via this page or your browser's site settings.</div>
+      </div>
+    </section>
   </main>
 
   <footer class="site-footer" id="appFooter"></footer>
@@ -115,5 +195,11 @@
   <script src="./assets/live-deep-feed.js" defer></script>
   <!-- iter12-pha-state-outbreaks (2026-05-12) - per-state outbreak grid -->
   <script src="./assets/state-outbreaks.js" defer></script>
+
+  <!-- D12 + D13 + D15 (Phase D, 2026-05-20) — choropleth, newsletter subscribe,
+       push notifications. Standalone IIFEs, no module deps. -->
+  <script src="./assets/phix-d12-choropleth.js" defer></script>
+  <script src="./assets/phix-d13-subscribe.js" defer></script>
+  <script src="./assets/phix-d15-push.js" defer></script>
 </body>
 </html>
