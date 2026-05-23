@@ -189,15 +189,31 @@ async function main() {
   const gitResult = args.skipPush ? { committed: false, skipped: true } : gitPushIfChanged(logger, runId, publishMode);
   const deployResult = args.skipDeploy ? { ok: false, skipped: true } : netlifyDeploy(logger, runId);
 
-  writeJson(lastPublishFile, {
-    run: runId,
-    scrape_run: scrape?.run ?? null,
-    mode: publishMode,
-    published_at: new Date().toISOString(),
-    event_count: eventsToPublish.length,
-    git: gitResult,
-    netlify: deployResult,
-  });
+  // 2026-05-23 — Only update last_publish.json when this run ACTUALLY published
+  // (either committed to git or deployed to Netlify). Otherwise the hourly
+  // refresh (which runs with --no-push --no-deploy purely for cache priming)
+  // overwrites scrape_run with the new id, and the next legitimate daily run
+  // sees scrape_run === lastPublish.scrape_run and early-exits as
+  // "already_published" — silently skipping git push + netlify deploy.
+  // Root-cause fix for the deploy gap (deployed site stale ~24h every day).
+  const didPublish = gitResult.committed === true || deployResult.ok === true;
+  if (didPublish) {
+    writeJson(lastPublishFile, {
+      run: runId,
+      scrape_run: scrape?.run ?? null,
+      mode: publishMode,
+      published_at: new Date().toISOString(),
+      event_count: eventsToPublish.length,
+      git: gitResult,
+      netlify: deployResult,
+    });
+  } else {
+    logger.info("verify.publish_skipped_no_state_write", {
+      reason: "git+deploy both skipped or failed; preserving previous last_publish.json so the next real publish run is not mis-flagged as already-published",
+      git_skipped: gitResult.skipped === true,
+      deploy_skipped: deployResult.skipped === true,
+    });
+  }
 
   // Set ready_to_publish flag (carries the run id of the freshest published run)
   fs.writeFileSync(

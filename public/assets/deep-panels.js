@@ -1,8 +1,11 @@
 // PublicHealthAlert — deep-fill panels (additive)
 //
-// Reads the consolidated deep snapshot at ./data/deep-snapshot.json (written
-// daily by H:\TCG Group\TCGBatch\pha-deep-fill.mjs) and renders four new
-// panels into a container appended at the end of <main>:
+// 2026-05-20 — Operator rule: OneSource (api.thatcomputerguy26.org) is the
+// canonical source of truth. Previously this read ./data/deep-snapshot.json
+// from the site bundle (60 stale advisories, last updated when the site was
+// last deployed). Now it reads the live OneSource endpoint
+// /api/public/pha/deep/snapshot which is refreshed daily by
+// TCG-PHA-Deep-Daily and TCG-PHA-Hourly-Refresh.
 //
 //   1) Outbreaks by condition
 //   2) State advisories
@@ -10,11 +13,12 @@
 //   4) National health news
 //
 // Each panel paginates client-side (20 items / page) with prev/next buttons.
-// If the snapshot is missing or empty, the whole block is hidden gracefully.
+// If OneSource is unreachable, the block renders a "server offline" pill
+// instead of falling back to stale bundled data.
 // Styles reuse the existing CSS variables (--text, --muted, --panel-bg, etc.)
 // so the panels look native to the site.
 
-const SNAPSHOT_URL = "./data/deep-snapshot.json";
+const SNAPSHOT_URL = "https://api.thatcomputerguy26.org/api/public/pha/deep/snapshot";
 const PAGE_SIZE = 20;
 
 function escapeHtml(s) {
@@ -153,24 +157,39 @@ function setPill(elId, count, ok) {
   el.dataset.status = ok ? "ok" : "warn";
 }
 
+function showServerOffline() {
+  const wrap = buildContainer();
+  if (!wrap) return;
+  const runAt = document.getElementById("deepFillRunAt");
+  if (runAt) runAt.textContent = "OneSource (api.thatcomputerguy26.org) unreachable — deep feed unavailable.";
+  ["deepAdvCount","deepCaseCount","deepNewsCount","deepOutCount"].forEach((id) => {
+    const el = document.getElementById(id);
+    if (!el) return;
+    const txt = el.querySelector(".status-text");
+    if (txt) txt.textContent = "server offline";
+    el.dataset.status = "warn";
+  });
+}
+
 (async function initDeepPanels() {
   let snap = null;
   try {
     const r = await fetch(SNAPSHOT_URL, { cache: "no-store" });
-    if (!r.ok) return;
+    if (!r.ok) { showServerOffline(); return; }
     snap = await r.json();
-  } catch { return; }
-  if (!snap || !snap.counts) return;
+  } catch { showServerOffline(); return; }
+  if (!snap || !snap.counts) { showServerOffline(); return; }
   const total = (snap.counts.advisories || 0) + (snap.counts.court_cases || 0) + (snap.counts.news || 0) + (snap.counts.outbreaks || 0);
-  if (total === 0) return;
+  if (total === 0) { showServerOffline(); return; }
 
   const wrap = buildContainer();
   if (!wrap) return;
 
   const runAt = document.getElementById("deepFillRunAt");
   if (runAt) {
-    const ts = snap.generated_at;
-    runAt.textContent = ts ? `Last harvested ${fmtRel(ts)}.` : "";
+    // OneSource envelope uses fetchedAt; legacy bundled JSON used generated_at.
+    const ts = snap.fetchedAt || snap.generated_at;
+    runAt.textContent = ts ? `Live OneSource snapshot · refreshed ${fmtRel(ts)}.` : "Live OneSource snapshot.";
   }
 
   // Advisories
