@@ -1,6 +1,6 @@
 import { mount } from "../layout.js";
 import { loadAll } from "../data.js";
-import { ensureGeo, aggregateByCountry } from "../geo.js";
+import { ensureGeo, aggregateByCountry, geocodeEvent } from "../geo.js";
 import {
   virusLabel, fmtDate, fmtRelative, escapeHtml, escapeAttr, truncate,
   STATUS_LABELS,
@@ -53,14 +53,31 @@ function buildLayers(events) {
       };
     }),
   };
-  const pins = {
-    type: "FeatureCollection",
-    features: [...aggregated.values()].map((s) => ({
+  // One pin PER EVENT (not per country). Every data point that can be placed
+  // gets its own marker, deterministically jittered around its country centroid
+  // so co-located events form a readable cluster instead of stacking on one dot.
+  const pinFeatures = [];
+  let placed = 0, unplaceable = 0;
+  for (const e of events) {
+    const coords = geocodeEvent(e);
+    if (!coords) { unplaceable++; continue; }
+    placed++;
+    pinFeatures.push({
       type: "Feature",
-      geometry: { type: "Point", coordinates: [s.lng, s.lat] },
-      properties: { country: s.country, count: s.count, viruses: s.viruses.join(", ") },
-    })),
-  };
+      geometry: { type: "Point", coordinates: [coords.lng, coords.lat] },
+      properties: {
+        country: e.origin_country || "",
+        virus: e.virus || "",
+        status: e.status || "monitoring",
+        title: e.title || "",
+        report_date: e.report_date || "",
+        source: e.source || "",
+        source_url: e.source_url || "",
+      },
+    });
+  }
+  if (unplaceable) console.info(`pha.map placed ${placed} event pins, ${unplaceable} without resolvable location`);
+  const pins = { type: "FeatureCollection", features: pinFeatures };
   return { enriched, pins, aggregated };
 }
 
@@ -162,15 +179,20 @@ function applyVirusFilter() {
       type: "circle",
       source: "pins",
       paint: {
-        "circle-radius": ["interpolate", ["linear"], ["get", "count"], 1, 6, 5, 12, 20, 22],
+        // Fixed-size per-event dots that grow slightly as you zoom in.
+        "circle-radius": ["interpolate", ["linear"], ["zoom"], 1, 3.2, 4, 5, 7, 7],
+        // Colour by event status so the cluster is readable at a glance.
         "circle-color": [
-          "step", ["get", "count"],
-          "rgba(45, 212, 191, 0.9)",
-          2, "rgba(245, 158, 11, 0.95)",
-          5, "rgba(244, 63, 94, 0.95)",
+          "match", ["get", "status"],
+          "active", "rgba(244, 63, 94, 0.92)",
+          "advisory", "rgba(245, 158, 11, 0.95)",
+          "imported", "rgba(168, 85, 247, 0.92)",
+          "contained", "rgba(110, 130, 170, 0.85)",
+          /* monitoring + default */ "rgba(45, 212, 191, 0.9)",
         ],
         "circle-stroke-color": "#04070d",
-        "circle-stroke-width": 1.5,
+        "circle-stroke-width": 1,
+        "circle-opacity": 0.92,
       },
     });
 
@@ -189,8 +211,8 @@ function applyVirusFilter() {
       const f = e.features?.[0];
       if (!f) return;
       const name = f.properties?.country;
-      const slot = state.aggregated.get(name);
-      selectCountry(name, slot);
+      const slot = name ? state.aggregated.get(name) : null;
+      if (slot) selectCountry(name, slot);
       map.flyTo({ center: f.geometry.coordinates, zoom: Math.max(map.getZoom(), 3.2), duration: 700 });
     });
 
@@ -223,6 +245,23 @@ function applyVirusFilter() {
         .addTo(map);
     });
     map.on("mouseleave", "country-fill", () => popup.remove());
+
+    // Per-event hover popup on individual pins.
+    const pinPopup = new maplibregl.Popup({ closeButton: false, closeOnClick: false, offset: 8 });
+    map.on("mousemove", "pins-circle", (e) => {
+      const f = e.features?.[0];
+      if (!f) return;
+      const p = f.properties || {};
+      pinPopup
+        .setLngLat(f.geometry.coordinates)
+        .setHTML(
+          `<strong>${escapeHtml(virusLabel(p.virus))}</strong>` +
+          `<br>${escapeHtml(truncate(p.title || "Untitled", 90))}` +
+          `<br><span style="opacity:0.7">${escapeHtml(p.country || "")} · ${escapeHtml(fmtDate(p.report_date))}</span>`
+        )
+        .addTo(map);
+    });
+    map.on("mouseleave", "pins-circle", () => pinPopup.remove());
   });
 
   // If user passes ?country=X, auto-select it
