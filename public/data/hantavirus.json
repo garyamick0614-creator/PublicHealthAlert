@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-22T09:53:12.240Z",
+  "generatedAt": "2026-05-31T09:54:17.489Z",
   "lastRun": {
-    "ts": "2026-05-22T09:53:11.359Z",
+    "ts": "2026-05-31T09:54:17.431Z",
     "source_kind": "news",
     "items_inserted": 0,
     "items_skipped": 4,
@@ -21,6 +21,16 @@
   ],
   "yearRollup": [],
   "recentAdvisories": [
+    {
+      "id": 14,
+      "ts": "2026-05-24T09:55:53.540Z",
+      "source": "Utah DOH",
+      "title": "Utah: Google Search",
+      "body_md": "Google Search If you're having trouble accessing Google Search, please click here , or send feedback .",
+      "severity": "info",
+      "url": "https://epi.health.utah.gov/hantavirus/",
+      "fetched_at": "2026-05-24T09:55:53.546Z"
+    },
     {
       "id": 13,
       "ts": "2026-05-11T19:56:01.031Z",
