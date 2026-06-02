@@ -6,7 +6,7 @@
     "format": "RSS + HTML",
     "access": "public",
     "region_scope": "United States",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
+    "last_scraped": "2026-06-02T05:05:15.739Z",
     "last_event_count": 31,
     "last_error": null
   },
@@ -17,7 +17,7 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Americas",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
+    "last_scraped": "2026-06-02T05:05:15.739Z",
     "last_event_count": 2,
     "last_error": null
   },
@@ -28,7 +28,7 @@
     "format": "JSON API (OData)",
     "access": "public",
     "region_scope": "Global",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
+    "last_scraped": "2026-06-02T05:05:15.739Z",
     "last_event_count": 48,
     "last_error": null
   },
@@ -39,8 +39,8 @@
     "format": "RSS + HTML (CDTR)",
     "access": "public",
     "region_scope": "Europe / global signal",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
-    "last_event_count": 2,
+    "last_scraped": "2026-06-02T05:05:15.739Z",
+    "last_event_count": 3,
     "last_error": null
   },
   {
@@ -50,7 +50,7 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Africa",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
+    "last_scraped": "2026-06-02T05:05:15.739Z",
     "last_event_count": 0,
     "last_error": null
   },
@@ -61,8 +61,8 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "Africa",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
-    "last_event_count": 3,
+    "last_scraped": "2026-06-02T05:05:15.739Z",
+    "last_event_count": 4,
     "last_error": null
   },
   {
@@ -72,7 +72,7 @@
     "format": "RSS",
     "access": "public",
     "region_scope": "Global / independent",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
+    "last_scraped": "2026-06-02T05:05:15.739Z",
     "last_event_count": 6,
     "last_error": null
   },
@@ -83,7 +83,7 @@
     "format": "JSON API (Socrata)",
     "access": "public",
     "region_scope": "United States (by state)",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
+    "last_scraped": "2026-06-02T05:05:15.739Z",
     "last_event_count": 363,
     "last_error": null
   },
@@ -94,8 +94,8 @@
     "format": "JSON",
     "access": "public",
     "region_scope": "Global",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
-    "last_event_count": 726,
+    "last_scraped": "2026-06-02T05:05:15.739Z",
+    "last_event_count": 677,
     "last_error": null
   },
   {
@@ -105,7 +105,7 @@
     "format": "RSS (via nitter) + HTML",
     "access": "public",
     "region_scope": "United States (Indiana, Illinois, Kentucky)",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
+    "last_scraped": "2026-06-02T05:05:15.739Z",
     "last_event_count": 0,
     "last_error": null
   },
@@ -116,7 +116,7 @@
     "format": "HTML",
     "access": "public",
     "region_scope": "United States",
-    "last_scraped": "2026-06-01T05:05:15.277Z",
+    "last_scraped": "2026-06-02T05:05:15.739Z",
     "last_event_count": 2,
     "last_error": null
   }
