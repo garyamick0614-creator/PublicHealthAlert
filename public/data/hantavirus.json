@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-03T09:55:03.044Z",
+  "generatedAt": "2026-06-03T22:13:21.446Z",
   "lastRun": {
-    "ts": "2026-06-03T09:55:02.331Z",
+    "ts": "2026-06-03T22:13:21.443Z",
     "source_kind": "news",
-    "items_inserted": 22,
-    "items_skipped": 278,
+    "items_inserted": 21,
+    "items_skipped": 279,
     "error_message": "firecrawl-search-skipped-quota-402"
   },
   "totals": {
@@ -164,6 +164,78 @@
   ],
   "recentNews": [
     {
+      "id": 534,
+      "headline": "Bend Doctor Returns Home to Finish Quarantine After Hantavirus Outbreak on Cruise Ship - Yahoo",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOU01DSFBhQTE5S3F1YkNTS3hZMVpyWGNsUUdQMEZyaFRrbGJlcTlvSFZoT2Y3Szd6NmlIck1pb0lheUVTaDFXOEZ1a2tNeUU2ZVhkWndVWGlOU1RpVG1RRk9ET3VjTlZ5aExpRW1qNmxrOGJSVmYzYTlrSWgtOGt5Wm92MlhyTFU?oc=5\" target=\"_blank\"&gt;Bend Doctor Returns Home to Finish Quarantine After Hantavirus Outbreak on Cruise Ship&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
+      "publisher": "Yahoo",
+      "published_at": "2026-06-03T21:19:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU01DSFBhQTE5S3F1YkNTS3hZMVpyWGNsUUdQMEZyaFRrbGJlcTlvSFZoT2Y3Szd6NmlIck1pb0lheUVTaDFXOEZ1a2tNeUU2ZVhkWndVWGlOU1RpVG1RRk9ET3VjTlZ5aExpRW1qNmxrOGJSVmYzYTlrSWgtOGt5Wm92MlhyTFU?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-03T22:13:20.189Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 532,
+      "headline": "Hantavirus Cruise Passengers Being Surveilled at Home Around the Clock - MedPage Today",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUWw3eXF3OTU0VVlEUExrSHFRUW13eGVBSVFlRVRGeWIwem1nSi1WVVA0bnZoWXhNS0ZpeUROOWtOeTFIc2g2N3l4NDUwMmJ4eTNLSnhEdTVJSXNhVUhEeW9EYXVoRkNObGcyTjRkT3pzXzc2?oc=5\" target=\"_blank\"&gt;Hantavirus Cruise Passengers Being Surveilled at Home Around the Clock&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MedPage Today&lt;/font&gt;",
+      "publisher": "MedPage Today",
+      "published_at": "2026-06-03T20:41:56.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUWw3eXF3OTU0VVlEUExrSHFRUW13eGVBSVFlRVRGeWIwem1nSi1WVVA0bnZoWXhNS0ZpeUROOWtOeTFIc2g2N3l4NDUwMmJ4eTNLSnhEdTVJSXNhVUhEeW9EYXVoRkNObGcyTjRkT3pzXzc2?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-03T22:13:20.181Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 536,
+      "headline": "Pasadena’s Caltech Team Creates Hantavirus Vaccine Candidate in Just Two Days - Pasadena Now",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzZ4bDdtNDZjMWZXN0lSalZydDhGSWpWYS1kMlVDR3J2cUFFcFVkOFR2T2F3MUxOaXcyRUlkOWM1ZzZicUtiV2dIQ3VGMlBtYmpMd0FaQXlROG5wWHBxb3JuMnNrOURETjFjMnJYNG9RM0tJTFkxRG1hU1NaWkdiTlNtS19HLTY2aldfNGpiNzlsbUVXM1VmTlloM0tWekpJbk12VnZtYVI?oc=5\" target=\"_blank\"&gt;Pasadena’s Caltech Team Creates Hantavirus Vaccine Candidate in Just Two Days&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Pasadena Now&lt;/font&gt;",
+      "publisher": "Pasadena Now",
+      "published_at": "2026-06-03T20:16:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzZ4bDdtNDZjMWZXN0lSalZydDhGSWpWYS1kMlVDR3J2cUFFcFVkOFR2T2F3MUxOaXcyRUlkOWM1ZzZicUtiV2dIQ3VGMlBtYmpMd0FaQXlROG5wWHBxb3JuMnNrOURETjFjMnJYNG9RM0tJTFkxRG1hU1NaWkdiTlNtS19HLTY2aldfNGpiNzlsbUVXM1VmTlloM0tWekpJbk12VnZtYVI?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-03T22:13:20.191Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 535,
+      "headline": "Bend Doctor Exposed While Treating Hantavirus Patients Returns to Oregon - FM News 101 KXL",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzdidDB2VXRxLWJQNml3OUdjeDVReWpHYlZ1cklDUFZsVTFKX2hKZGREUWxIT1hSeWpJcEY5ZjF3RHRLRkJpeEFPTUdfZ2NGN3IyWExoZlJ3ZjZVNnpySXJhZ0kwQmNfYVhuWGszUm9Ybl9NSjk4Q0JFclBzeks5SFpSb1NlYWU4elZZX0k5YkRwblFTM3R1bDY3bzJDRk9CXy04?oc=5\" target=\"_blank\"&gt;Bend Doctor Exposed While Treating Hantavirus Patients Returns to Oregon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FM News 101 KXL&lt;/font&gt;",
+      "publisher": "FM News 101 KXL",
+      "published_at": "2026-06-03T16:54:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzdidDB2VXRxLWJQNml3OUdjeDVReWpHYlZ1cklDUFZsVTFKX2hKZGREUWxIT1hSeWpJcEY5ZjF3RHRLRkJpeEFPTUdfZ2NGN3IyWExoZlJ3ZjZVNnpySXJhZ0kwQmNfYVhuWGszUm9Ybl9NSjk4Q0JFclBzeks5SFpSb1NlYWU4elZZX0k5YkRwblFTM3R1bDY3bzJDRk9CXy04?oc=5",
+      "mentioned_states_json": "[\"OR\"]",
+      "fetched_at": "2026-06-03T22:13:20.190Z",
+      "mentioned_states": [
+        "OR"
+      ]
+    },
+    {
+      "id": 533,
+      "headline": "Oregonian returns home after cruise ship hantavirus exposure - Elkhorn Media Group",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTzByQkQwaWZSdTRybEZsdXZLbEtOWGdjYm8wbjNqaUpGdUE0TVlPWFNMZVU4dDlZanRfajM5d0cyLUNMeWRXN2YyVDBES0Jadzh2S3FCMEJNWVMxbEZrNHZNWUxFSW5zVG9BR1IyeWh0X0FFaG5kSTliWVhmY0k5ZTdTazZxWHVJckxGWXdtV2FBa3ItWFE?oc=5\" target=\"_blank\"&gt;Oregonian returns home after cruise ship hantavirus exposure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Elkhorn Media Group&lt;/font&gt;",
+      "publisher": "Elkhorn Media Group",
+      "published_at": "2026-06-03T15:38:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTzByQkQwaWZSdTRybEZsdXZLbEtOWGdjYm8wbjNqaUpGdUE0TVlPWFNMZVU4dDlZanRfajM5d0cyLUNMeWRXN2YyVDBES0Jadzh2S3FCMEJNWVMxbEZrNHZNWUxFSW5zVG9BR1IyeWh0X0FFaG5kSTliWVhmY0k5ZTdTazZxWHVJckxGWXdtV2FBa3ItWFE?oc=5",
+      "mentioned_states_json": "[\"OR\"]",
+      "fetched_at": "2026-06-03T22:13:20.187Z",
+      "mentioned_states": [
+        "OR"
+      ]
+    },
+    {
+      "id": 531,
+      "headline": "Sin Nombre Hantavirus Strain Kills One In Arizona - Forbes",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBEZUwyVk0xMXh2VENZNDF2UlNYMU45RjdNeGo3ZkhWNDhHZFFhOGRKU01CalZ2UmhUbWxUbUpIUWU0ckNiY3VSVElzXzBkSTZTZ3FDeG1CbloyQl91NktLNHVubnE2dHc4d1YwQzdETVdIc3Nscjl5NmhtdGkwNV82dkV6c2V1QlBESFFwRk1jUGlzeWpqUG1HekNVNm1jX1JVS3BrWllYYXFVZ3Bkb3g4bkxGdDJQblpVQmR5bm9zcllJeVhWaWRqRVUzcTg?oc=5\" target=\"_blank\"&gt;Sin Nombre Hantavirus Strain Kills One In Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Forbes&lt;/font&gt;",
+      "publisher": "Forbes",
+      "published_at": "2026-06-03T14:05:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBEZUwyVk0xMXh2VENZNDF2UlNYMU45RjdNeGo3ZkhWNDhHZFFhOGRKU01CalZ2UmhUbWxUbUpIUWU0ckNiY3VSVElzXzBkSTZTZ3FDeG1CbloyQl91NktLNHVubnE2dHc4d1YwQzdETVdIc3Nscjl5NmhtdGkwNV82dkV6c2V1QlBESFFwRk1jUGlzeWpqUG1HekNVNm1jX1JVS3BrWllYYXFVZ3Bkb3g4bkxGdDJQblpVQmR5bm9zcllJeVhWaWRqRVUzcTg?oc=5",
+      "mentioned_states_json": "[\"AZ\"]",
+      "fetched_at": "2026-06-03T22:13:20.170Z",
+      "mentioned_states": [
+        "AZ"
+      ]
+    },
+    {
       "id": 510,
       "headline": "Five Americans exposed to hantavirus released from quarantine - News Channel 5 Nashville",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQODVEaHdqd2J3X3I3eldOVkRTT1RKaU1kWld6QXFZZGJKbmpGaGNYSlBvSmNoaXEyMkNTbk0wS3hKV09qV21lVW1wdUsxRTlxYktuUm1qYzB4Tk1qTm5CcGNYWWVWbk5kbFZzTkgxVXU0TktSM0R5dTlXUXAwRGdrU1BRdGo1NjNFa010Yi1rcTYzMTNlaHR6SWM4UktYYzFsLWg5TWJpbktkbVc3TXVBcUZOdUI?oc=5\" target=\"_blank\"&gt;Five Americans exposed to hantavirus released from quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;News Channel 5 Nashville&lt;/font&gt;",
@@ -222,6 +294,84 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0lYX09ITTQtZ2s0WTVBczljY2ZwbjZnaVUwMkRDRF9KQzZsQ1JVdE03VWFqSEhqT2I0UTEzRUYteWFlSXVXckg1V3FOUVVQNU5FbHBteV9sa2ozRkw1SDQzZ2R3UHI3ZTVCb2ZsRFZveFZXQnFXZGZIUDQxaDN5VGlpUDhta1V5TkxmeG5ZNlI?oc=5",
       "mentioned_states_json": "[\"AZ\"]",
       "fetched_at": "2026-06-03T09:55:00.263Z",
+      "mentioned_states": [
+        "AZ"
+      ]
+    },
+    {
+      "id": 537,
+      "headline": "First hantavirus death in 2026 reported in Arizona - WAFF",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUJRcklUOW05U3lYQWEyeTlVTTRnSXpyOU94Qm91WlFnUWZwYi1ZYmJQUlFOa2N4c0JvdmJrX3JYRUlaVkJhOU5QTmZlbFlCRTZEQ1pKc0hzWVBOOENQT2h4ME92d3hMRWhmNkFWSThMNm9UZ0ZIdUdYeFlIOU5KbXdCMTRJRVJadGNR?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WAFF&lt;/font&gt;",
+      "publisher": "WAFF",
+      "published_at": "2026-06-03T04:32:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUJRcklUOW05U3lYQWEyeTlVTTRnSXpyOU94Qm91WlFnUWZwYi1ZYmJQUlFOa2N4c0JvdmJrX3JYRUlaVkJhOU5QTmZlbFlCRTZEQ1pKc0hzWVBOOENQT2h4ME92d3hMRWhmNkFWSThMNm9UZ0ZIdUdYeFlIOU5KbXdCMTRJRVJadGNR?oc=5",
+      "mentioned_states_json": "[\"AZ\"]",
+      "fetched_at": "2026-06-03T22:13:20.193Z",
+      "mentioned_states": [
+        "AZ"
+      ]
+    },
+    {
+      "id": 538,
+      "headline": "First hantavirus death in 2026 reported in Arizona - WALB",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWVBa3JvdkdFM2paVklxQ0tSSFQwR2liOTR6RmQ0eWpKcGtJX29NeVdDZ000X3VSY3ozV29VdW16Rm9QdkllTjFqZ29PVFozMEllR2ZQeWVNYVVWT01PMlRQTl82MGUyc3BtSXc3dF9sVGFXal9HUGxWdmZhMlJPYjR5dXRELUFRTkI4?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WALB&lt;/font&gt;",
+      "publisher": "WALB",
+      "published_at": "2026-06-03T04:32:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWVBa3JvdkdFM2paVklxQ0tSSFQwR2liOTR6RmQ0eWpKcGtJX29NeVdDZ000X3VSY3ozV29VdW16Rm9QdkllTjFqZ29PVFozMEllR2ZQeWVNYVVWT01PMlRQTl82MGUyc3BtSXc3dF9sVGFXal9HUGxWdmZhMlJPYjR5dXRELUFRTkI4?oc=5",
+      "mentioned_states_json": "[\"AZ\"]",
+      "fetched_at": "2026-06-03T22:13:20.194Z",
+      "mentioned_states": [
+        "AZ"
+      ]
+    },
+    {
+      "id": 539,
+      "headline": "First hantavirus death in 2026 reported in Arizona - WAVE News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0c05FMFZqTHFSLU5yZGw0YXRKWklxMWNnYXdyN25XWm42OVdQc3U2SG1pck1wOHpoVXJKRlhmMTAyVTAyT2N2UUlHM3E0Uk5MaXh4UnlzQ3lXWE9TVm15X1NoOFM4bmdEX3JEdEVWdE91cmFtSE42ZWtKUHdhTzhxdzExMWtYLVdQMQ?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WAVE News&lt;/font&gt;",
+      "publisher": "WAVE News",
+      "published_at": "2026-06-03T04:32:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0c05FMFZqTHFSLU5yZGw0YXRKWklxMWNnYXdyN25XWm42OVdQc3U2SG1pck1wOHpoVXJKRlhmMTAyVTAyT2N2UUlHM3E0Uk5MaXh4UnlzQ3lXWE9TVm15X1NoOFM4bmdEX3JEdEVWdE91cmFtSE42ZWtKUHdhTzhxdzExMWtYLVdQMQ?oc=5",
+      "mentioned_states_json": "[\"AZ\"]",
+      "fetched_at": "2026-06-03T22:13:20.194Z",
+      "mentioned_states": [
+        "AZ"
+      ]
+    },
+    {
+      "id": 540,
+      "headline": "First hantavirus death in 2026 reported in Arizona - Hawaii News Now",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNa01GbW8zaFNXYVFxOWFMbU5kR2o4VG1rNFFQUDBqczBYVjIyNElHQVdJNzF0TXF5RXBRNng5clhFemQxcWVLQTFQUGFFbHVNQXNRU1VwdWRGam16RkluUmpvdVZGcDZTRjI4V05PWktneGEydXZoUC1KTnRYdlc4Q2x4WEhDV3VBZ01zZ2RyWTVjLV96ZGJZ?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Hawaii News Now&lt;/font&gt;",
+      "publisher": "Hawaii News Now",
+      "published_at": "2026-06-03T04:32:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa01GbW8zaFNXYVFxOWFMbU5kR2o4VG1rNFFQUDBqczBYVjIyNElHQVdJNzF0TXF5RXBRNng5clhFemQxcWVLQTFQUGFFbHVNQXNRU1VwdWRGam16RkluUmpvdVZGcDZTRjI4V05PWktneGEydXZoUC1KTnRYdlc4Q2x4WEhDV3VBZ01zZ2RyWTVjLV96ZGJZ?oc=5",
+      "mentioned_states_json": "[\"AZ\"]",
+      "fetched_at": "2026-06-03T22:13:20.194Z",
+      "mentioned_states": [
+        "AZ"
+      ]
+    },
+    {
+      "id": 541,
+      "headline": "First hantavirus death in 2026 reported in Arizona - WBTV",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0lnQXVUenNtc2NaekhmR0E2QWt5dFR2bUNPZ214VktYclVlX1g4UWF0aUFrTVJCTzA5YW5tRGtjN1pvcFJSRlFzbXMtdUIyc2NCZU13TkcxWXRMNTZaeGItRkF2Q1hiQ3RNTWtSdDhZdHdDNEV4bF9uOTVqRUhYZTBIVTh1T3hoUFFB?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WBTV&lt;/font&gt;",
+      "publisher": "WBTV",
+      "published_at": "2026-06-03T04:32:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0lnQXVUenNtc2NaekhmR0E2QWt5dFR2bUNPZ214VktYclVlX1g4UWF0aUFrTVJCTzA5YW5tRGtjN1pvcFJSRlFzbXMtdUIyc2NCZU13TkcxWXRMNTZaeGItRkF2Q1hiQ3RNTWtSdDhZdHdDNEV4bF9uOTVqRUhYZTBIVTh1T3hoUFFB?oc=5",
+      "mentioned_states_json": "[\"AZ\"]",
+      "fetched_at": "2026-06-03T22:13:20.196Z",
+      "mentioned_states": [
+        "AZ"
+      ]
+    },
+    {
+      "id": 542,
+      "headline": "First hantavirus death in 2026 reported in Arizona - WSAZ",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnc0ckZnY1VaY3NEOXZLc1BxVWM0X1Vua3Vhb1YxTThiZkRHWkk4djA2RzNXOHlCWER5WDhUZlBxU2VreWVYQ3VxZEtMMG96dlN4OUx0WVAxLV9OZ2dxbi1Nc0kwVHBUS3VKMWxRLUVZN3ZCTEwtSGZ6UVMyWU50MzB4b3hrXzJHblJR?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WSAZ&lt;/font&gt;",
+      "publisher": "WSAZ",
+      "published_at": "2026-06-03T04:32:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnc0ckZnY1VaY3NEOXZLc1BxVWM0X1Vua3Vhb1YxTThiZkRHWkk4djA2RzNXOHlCWER5WDhUZlBxU2VreWVYQ3VxZEtMMG96dlN4OUx0WVAxLV9OZ2dxbi1Nc0kwVHBUS3VKMWxRLUVZN3ZCTEwtSGZ6UVMyWU50MzB4b3hrXzJHblJR?oc=5",
+      "mentioned_states_json": "[\"AZ\"]",
+      "fetched_at": "2026-06-03T22:13:20.197Z",
       "mentioned_states": [
         "AZ"
       ]
@@ -612,142 +762,6 @@
       "mentioned_states": [
         "OR"
       ]
-    },
-    {
-      "id": 445,
-      "headline": "Five former hantavirus cruise passengers choose to leave UNMC quarantine in Nebraska - KETV",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0ZsOV8zTnVfTldEQmRCOXEwNThYMlhsVXV4dTAtbU5aN29WRTNhUy1lazFVX1diVi1qTFhKUk1QOW01dnZOc04zb3FOU0I0ZExDSHN3cEx2UzhXeFpqVGxWWmpCSHh2VzRpRUpjVlZFZlg4cW9PNTJqRlBFVERxNW5xUFZMLTJuNU1HQXNuekxlbC1RRksyUUVEbmlfMEU?oc=5\" target=\"_blank\"&gt;Five former hantavirus cruise passengers choose to leave UNMC quarantine in Nebraska&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KETV&lt;/font&gt;",
-      "publisher": "KETV",
-      "published_at": "2026-06-02T17:57:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0ZsOV8zTnVfTldEQmRCOXEwNThYMlhsVXV4dTAtbU5aN29WRTNhUy1lazFVX1diVi1qTFhKUk1QOW01dnZOc04zb3FOU0I0ZExDSHN3cEx2UzhXeFpqVGxWWmpCSHh2VzRpRUpjVlZFZlg4cW9PNTJqRlBFVERxNW5xUFZMLTJuNU1HQXNuekxlbC1RRksyUUVEbmlfMEU?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T19:12:33.925Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 498,
-      "headline": "Verifying viral odd claims about hantavirus on social media - Dubawa",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNX1EzZU9nbEtHTGxOWGowbXljTUZuSGRXNEZqWXhLTmhLMjMtTzRxVG52VElhekpyWWNMMlpSNTVrdVBoTmhkMmpiYnBBSlZOYjVNUVBySVRRSWhtbGx4OFBDQXN1NldnYndHdWgzS2NENHlEVU9aNjVLdk5kQ3FObWF0Rm0yd9IBjgFBVV95cUxNaXlVRENPTEtmblZXVlNnX1Z2QlBjQk8zdndGczZPVEo3SmQwTkU0VXVya2Z4bHVqeHVuU0c3SDU4and5Zll0aUFHemZtWUdrOHhMRzlZaXdCc3hNNm1EekhtdDNyTV9zSWY4bUFzSGpPVVFxV3ROaDFlMi10TnZVUGFfTFl1WEdkUUNGbFln?oc=5\" target=\"_blank\"&gt;Verifying viral odd claims about hantavirus on social media&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Dubawa&lt;/font&gt;",
-      "publisher": "Dubawa",
-      "published_at": "2026-06-02T17:44:37.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX1EzZU9nbEtHTGxOWGowbXljTUZuSGRXNEZqWXhLTmhLMjMtTzRxVG52VElhekpyWWNMMlpSNTVrdVBoTmhkMmpiYnBBSlZOYjVNUVBySVRRSWhtbGx4OFBDQXN1NldnYndHdWgzS2NENHlEVU9aNjVLdk5kQ3FObWF0Rm0yd9IBjgFBVV95cUxNaXlVRENPTEtmblZXVlNnX1Z2QlBjQk8zdndGczZPVEo3SmQwTkU0VXVya2Z4bHVqeHVuU0c3SDU4and5Zll0aUFHemZtWUdrOHhMRzlZaXdCc3hNNm1EekhtdDNyTV9zSWY4bUFzSGpPVVFxV3ROaDFlMi10TnZVUGFfTFl1WEdkUUNGbFln?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T21:52:59.984Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 451,
-      "headline": "Bend doctor who aided hantavirus-stricken cruise passengers returns home for final quarantine - Central Oregon Daily",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMmFjdGNyVVFjOEFlLWphZlpDUUlsRkItcUVpbjZ0U2hRQ3lKZERJVVBoR3JEUURpdWRzSnB0aHoydF9PNUdnMGtiRHpVbkU4dVNEb04zWWwxcUZQTkgxbnNJZmp6a295LVRvMUJ5RmpEa0w5N21QeEs1c0drMGhBTjFGU3hZYVVTMlplak83RTJCdjJFQWxocTY1eG1VekxkZjJjTzBLWEhnX3BhNzVBYk10cWJxcDNSU2NYbWtmX1hCdEFueWd2WG5sVzBhVDkzSjVYYjJaSjRaX3U5NTZJRTZmNUlOS0wz?oc=5\" target=\"_blank\"&gt;Bend doctor who aided hantavirus-stricken cruise passengers returns home for final quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Central Oregon Daily&lt;/font&gt;",
-      "publisher": "Central Oregon Daily",
-      "published_at": "2026-06-02T17:24:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMmFjdGNyVVFjOEFlLWphZlpDUUlsRkItcUVpbjZ0U2hRQ3lKZERJVVBoR3JEUURpdWRzSnB0aHoydF9PNUdnMGtiRHpVbkU4dVNEb04zWWwxcUZQTkgxbnNJZmp6a295LVRvMUJ5RmpEa0w5N21QeEs1c0drMGhBTjFGU3hZYVVTMlplak83RTJCdjJFQWxocTY1eG1VekxkZjJjTzBLWEhnX3BhNzVBYk10cWJxcDNSU2NYbWtmX1hCdEFueWd2WG5sVzBhVDkzSjVYYjJaSjRaX3U5NTZJRTZmNUlOS0wz?oc=5",
-      "mentioned_states_json": "[\"OR\"]",
-      "fetched_at": "2026-06-02T19:12:33.929Z",
-      "mentioned_states": [
-        "OR"
-      ]
-    },
-    {
-      "id": 443,
-      "headline": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak - KATU",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZi16eU53MVdRRjU5VFBIcV9hU2d2dWFDYlJ2LXdfUGRZLUVoZV9WWGRWSE9pQjNVQWtvdHNlcVM5SkFNZUJGU3g3UlBmR0RSSS1nZXIwbWNwakM4NG9YMlFra3NmRE1OeHVxWEZMTWtjcWxfSXJabGhkd2JpZVJBVkNtaXY2eENKMGVzYXVEMU5mcHNjdkxkdE5oQ3NiZ2RxTjZWRWxDa1NjSU1ldzlrSkVFY05Cc0p4Y3NoNEZmT2dzS09YU1dCVmdyWkJSVVBpb004X2NyNlpsZ01TZlRDanpMTQ?oc=5\" target=\"_blank\"&gt;Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KATU&lt;/font&gt;",
-      "publisher": "KATU",
-      "published_at": "2026-06-02T17:11:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZi16eU53MVdRRjU5VFBIcV9hU2d2dWFDYlJ2LXdfUGRZLUVoZV9WWGRWSE9pQjNVQWtvdHNlcVM5SkFNZUJGU3g3UlBmR0RSSS1nZXIwbWNwakM4NG9YMlFra3NmRE1OeHVxWEZMTWtjcWxfSXJabGhkd2JpZVJBVkNtaXY2eENKMGVzYXVEMU5mcHNjdkxkdE5oQ3NiZ2RxTjZWRWxDa1NjSU1ldzlrSkVFY05Cc0p4Y3NoNEZmT2dzS09YU1dCVmdyWkJSVVBpb004X2NyNlpsZ01TZlRDanpMTQ?oc=5",
-      "mentioned_states_json": "[\"OR\"]",
-      "fetched_at": "2026-06-02T19:12:33.925Z",
-      "mentioned_states": [
-        "OR"
-      ]
-    },
-    {
-      "id": 508,
-      "headline": "5 Americans released from quarantine after cruise ship hantavirus exposure - KSBY News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOanFjSFdiQkJ6NTgwZG9QSllJV0xwelVZUmtMSE8yeFEybG5xZVN4WjdFRXc2WjRvY29OZkxaR1BVeGRfUEpUTklPVE5aTVNUMm9CbzdUbnk5RUQ2bFFseWd2dDNVcTFxaXRVMEtPYkFiekNrWXhEVFZHMkkwdUVwQ1kzWFMzUWRzcFllVlZBWmViYUNSNzJ5ZGV6VjJuMU1ZcE9ORQ?oc=5\" target=\"_blank\"&gt;5 Americans released from quarantine after cruise ship hantavirus exposure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KSBY News&lt;/font&gt;",
-      "publisher": "KSBY News",
-      "published_at": "2026-06-02T16:37:54.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanFjSFdiQkJ6NTgwZG9QSllJV0xwelVZUmtMSE8yeFEybG5xZVN4WjdFRXc2WjRvY29OZkxaR1BVeGRfUEpUTklPVE5aTVNUMm9CbzdUbnk5RUQ2bFFseWd2dDNVcTFxaXRVMEtPYkFiekNrWXhEVFZHMkkwdUVwQ1kzWFMzUWRzcFllVlZBWmViYUNSNzJ5ZGV6VjJuMU1ZcE9ORQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T21:53:01.890Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 434,
-      "headline": "Hantavirus death reported in Mohave County - KTAR News 92.3 FM",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1wYXRBcXNDVFNJRHhVUnJ0bVJsUk1IZHRRT0hSd0tuM0ZfQXg4MzBha2o3SndLbjBZWm9LVjh0bWM1R3JtQ015eXdaUXBKbHRPZGtUSEg3OXhmcC1NUUZIWlVEVHdId0lOSmdIWjhneDhoSDl1TzhQYw?oc=5\" target=\"_blank\"&gt;Hantavirus death reported in Mohave County&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KTAR News 92.3 FM&lt;/font&gt;",
-      "publisher": "KTAR News 92.3 FM",
-      "published_at": "2026-06-02T16:18:10.000Z",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wYXRBcXNDVFNJRHhVUnJ0bVJsUk1IZHRRT0hSd0tuM0ZfQXg4MzBha2o3SndLbjBZWm9LVjh0bWM1R3JtQ015eXdaUXBKbHRPZGtUSEg3OXhmcC1NUUZIWlVEVHdId0lOSmdIWjhneDhoSDl1TzhQYw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T19:12:33.918Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 461,
-      "headline": "Five passengers from hantavirus-stricken cruise ship depart quarantine in Omaha - Omaha World-Herald",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFhrVTRKdWFVd2lLTmpaT0NLOVdOaGktZGxEX1NYbUxnNFZ3bDRFdEtDcFMzWTJSVE9FOHRCeGlXa05ZamxjQVMwVE5UU0ZoY0xHVU8xRC02YTNxS3RTdXBEVjBQd2RSV18yVkRVdURuaTFoaDA5VWN6Zl9KanZUMnlXc1pTTllmR01XYWlzOEtxcXNjWXgybzZEMVJ0aTM1?oc=5\" target=\"_blank\"&gt;Five passengers from hantavirus-stricken cruise ship depart quarantine in Omaha&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Omaha World-Herald&lt;/font&gt;",
-      "publisher": "Omaha World-Herald",
-      "published_at": "2026-06-02T16:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFhrVTRKdWFVd2lLTmpaT0NLOVdOaGktZGxEX1NYbUxnNFZ3bDRFdEtDcFMzWTJSVE9FOHRCeGlXa05ZamxjQVMwVE5UU0ZoY0xHVU8xRC02YTNxS3RTdXBEVjBQd2RSV18yVkRVdURuaTFoaDA5VWN6Zl9KanZUMnlXc1pTTllmR01XYWlzOEtxcXNjWXgybzZEMVJ0aTM1?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T19:12:33.935Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 447,
-      "headline": "Hantavirus risk to cruisers 'very, very low' says expert, instead focus on preventing the usual suspects like the flu, and increasingly, measles - KHNS Radio",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTmhoUUk1WE52STJMUHlYbWdiMjVqX0JTVWRSYjM3UFFzbkVablFYOU5iUm9NRnhzLXhQU0c4UkYtRHlHb2ljdWFQZVFPeHpUYVlTSWhyMmlLMUVaWU5pYTBuQjdRZmVqMnl6OEM1T1ZFT3RjVUl1dGR4VUdYamNUVjZySk9vaktCbHNrenctMlRDXzBNZzFleXVFUUVlS0FpRDN4Vm5TcnNWNzZnQjI3Vm0zU3ZTRnRxLXVpeC1PZGZOdVFyOHdWcm9SU3ZrZVlUYUlTNXRIMmRhTE11ZnoySEJqNzlBMWl4VTVnZg?oc=5\" target=\"_blank\"&gt;Hantavirus risk to cruisers 'very, very low' says expert, instead focus on preventing the usual suspects like the flu, and increasingly, measles&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KHNS Radio&lt;/font&gt;",
-      "publisher": "KHNS Radio",
-      "published_at": "2026-06-02T15:40:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTmhoUUk1WE52STJMUHlYbWdiMjVqX0JTVWRSYjM3UFFzbkVablFYOU5iUm9NRnhzLXhQU0c4UkYtRHlHb2ljdWFQZVFPeHpUYVlTSWhyMmlLMUVaWU5pYTBuQjdRZmVqMnl6OEM1T1ZFT3RjVUl1dGR4VUdYamNUVjZySk9vaktCbHNrenctMlRDXzBNZzFleXVFUUVlS0FpRDN4Vm5TcnNWNzZnQjI3Vm0zU3ZTRnRxLXVpeC1PZGZOdVFyOHdWcm9SU3ZrZVlUYUlTNXRIMmRhTE11ZnoySEJqNzlBMWl4VTVnZg?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T19:12:33.927Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 496,
-      "headline": "France confirms hantavirus in cruise outbreak is not new or more transmissible - Scripps News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxON2R6Ym56OFdDampDU3ZXaFFZMkhEdzFVaWpoS3gtVFV1ZXhRZlJaLXJFRXI0dmh4RXZDbmdjemptdWJsLXp0V0ZraTFmdlRVVTFkc2RlcEdrSzl5c3VTVEVTcFhZZ3VweTNRb0V2R1dUOXdCZDEtWTc1UFlYN3FLbWwwUFlaSVBSUTBfNnBLQVM0OTFTaWExMkhNM3F2dXdZSjd1RlIwLVV1MGxzTXpCX2FFWQ?oc=5\" target=\"_blank\"&gt;France confirms hantavirus in cruise outbreak is not new or more transmissible&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Scripps News&lt;/font&gt;",
-      "publisher": "Scripps News",
-      "published_at": "2026-06-02T15:40:33.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2R6Ym56OFdDampDU3ZXaFFZMkhEdzFVaWpoS3gtVFV1ZXhRZlJaLXJFRXI0dmh4RXZDbmdjemptdWJsLXp0V0ZraTFmdlRVVTFkc2RlcEdrSzl5c3VTVEVTcFhZZ3VweTNRb0V2R1dUOXdCZDEtWTc1UFlYN3FLbWwwUFlaSVBSUTBfNnBLQVM0OTFTaWExMkhNM3F2dXdZSjd1RlIwLVV1MGxzTXpCX2FFWQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T21:52:59.982Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 458,
-      "headline": "Five Americans exposed to hantavirus released from quarantine - WRTV",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEpXWEpmOEJ3N0o3VURsajJpdjlRZ1J6Z0F4NWkwTDlZZF96ZUFfd0NCVmh5ZF9MSkF6R2xMOVpvZDEyUlJxeVlNN1cwdzNDZ2RNS1RiY2E2WnpZc0dwbUd6MGEta19SbFEzUlV1YWNkcF83cEhZSTF5dDFMVjhRSTc4ZzVTNW95eF9XS0VjRzQ3X01XRk90ZHl6N3U?oc=5\" target=\"_blank\"&gt;Five Americans exposed to hantavirus released from quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WRTV&lt;/font&gt;",
-      "publisher": "WRTV",
-      "published_at": "2026-06-02T15:13:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEpXWEpmOEJ3N0o3VURsajJpdjlRZ1J6Z0F4NWkwTDlZZF96ZUFfd0NCVmh5ZF9MSkF6R2xMOVpvZDEyUlJxeVlNN1cwdzNDZ2RNS1RiY2E2WnpZc0dwbUd6MGEta19SbFEzUlV1YWNkcF83cEhZSTF5dDFMVjhRSTc4ZzVTNW95eF9XS0VjRzQ3X01XRk90ZHl6N3U?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T19:12:33.934Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 460,
-      "headline": "Five Americans exposed to hantavirus released from quarantine - WXYZ Channel 7",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVbTNJckxqQUswQ2FQc0hnNVBjZTJRbm1fQVVaQXFUQU9Zc1BxbHlpWHY0aURROUIxSmU5Nms4MUFRN1MzbVQ4enhuWk9pYVNod0JIRjhfN0JaWWdTR2MxLWVwQkU5dC0yWkk3a2RrTFFzREM3YldUZTk3NHdqT2hOQmpyZ2NDLWRVekNLU1JIa2VZNGF2Q0lZb0lZTDJ2UHYwaEFLX0I2UQ?oc=5\" target=\"_blank\"&gt;Five Americans exposed to hantavirus released from quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WXYZ Channel 7&lt;/font&gt;",
-      "publisher": "WXYZ Channel 7",
-      "published_at": "2026-06-02T15:13:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVbTNJckxqQUswQ2FQc0hnNVBjZTJRbm1fQVVaQXFUQU9Zc1BxbHlpWHY0aURROUIxSmU5Nms4MUFRN1MzbVQ4enhuWk9pYVNod0JIRjhfN0JaWWdTR2MxLWVwQkU5dC0yWkk3a2RrTFFzREM3YldUZTk3NHdqT2hOQmpyZ2NDLWRVekNLU1JIa2VZNGF2Q0lZb0lZTDJ2UHYwaEFLX0I2UQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T19:12:33.934Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 463,
-      "headline": "Five Americans exposed to hantavirus released from quarantine - KGUN 9",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVd3Qm1FMGM4czFrdkw1bFNrZDJfZUJ0NjRYYWFpSnR5NFJLUmNQaG1UTGZZQ1pBZFdaY0RKdlR2QVlqd1lTNTNGYVhhUDc2Ymd3a0JmWDM2U3V6UGRqbmFMSXBuWm1USV9SNFlsWWxRZnA5VXJHcFNVM3p5RUZ6QTVvMU1IejVDSjM5VUwwWDBmS3hSS3M1UlFtUnpLaERiSC1wbzkxUjZWa0pqS01r?oc=5\" target=\"_blank\"&gt;Five Americans exposed to hantavirus released from quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KGUN 9&lt;/font&gt;",
-      "publisher": "KGUN 9",
-      "published_at": "2026-06-02T15:13:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVd3Qm1FMGM4czFrdkw1bFNrZDJfZUJ0NjRYYWFpSnR5NFJLUmNQaG1UTGZZQ1pBZFdaY0RKdlR2QVlqd1lTNTNGYVhhUDc2Ymd3a0JmWDM2U3V6UGRqbmFMSXBuWm1USV9SNFlsWWxRZnA5VXJHcFNVM3p5RUZ6QTVvMU1IejVDSjM5VUwwWDBmS3hSS3M1UlFtUnpLaERiSC1wbzkxUjZWa0pqS01r?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T19:12:33.936Z",
-      "mentioned_states": []
     }
   ],
   "targetStates": [
