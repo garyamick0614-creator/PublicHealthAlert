@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-04T09:53:20.201Z",
+  "generatedAt": "2026-06-04T21:53:08.970Z",
   "lastRun": {
-    "ts": "2026-06-04T09:53:20.196Z",
+    "ts": "2026-06-04T21:53:08.924Z",
     "source_kind": "news",
-    "items_inserted": 35,
-    "items_skipped": 267,
+    "items_inserted": 22,
+    "items_skipped": 278,
     "error_message": "firecrawl-search-skipped-quota-402"
   },
   "totals": {
@@ -164,6 +164,94 @@
   ],
   "recentNews": [
     {
+      "id": 590,
+      "headline": "Hantavirus and Ebola strain a post-Trump global health system - Good Authority",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnRmVEVDOUxMRlVCTWxGb3lyVmkxNHhHM3M1b3k2U2QtendsQ1haQW5KLW5Wall3LXhIOHFCajZQWHRPa3RySjZzU3hmUzRtcUd3XzBKald3V05ub1ZKTDRMV2kxdFRBTU1feFA2X3ZqX3FJTjlxN3ZPMl9EU0R3VGdzZmdSYk0xOTBKUzVpMEd0UGVrMXRkWQ?oc=5\" target=\"_blank\"&gt;Hantavirus and Ebola strain a post-Trump global health system&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Good Authority&lt;/font&gt;",
+      "publisher": "Good Authority",
+      "published_at": "2026-06-04T19:20:30.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnRmVEVDOUxMRlVCTWxGb3lyVmkxNHhHM3M1b3k2U2QtendsQ1haQW5KLW5Wall3LXhIOHFCajZQWHRPa3RySjZzU3hmUzRtcUd3XzBKald3V05ub1ZKTDRMV2kxdFRBTU1feFA2X3ZqX3FJTjlxN3ZPMl9EU0R3VGdzZmdSYk0xOTBKUzVpMEd0UGVrMXRkWQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.294Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 587,
+      "headline": "Bend doctor at center of hantavirus outbreak back home — but still in quarantine - Rogue Valley Times",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1RpN1VRNm4zeFduYmFWZTV2eXlna214eTI0cU1DeFNRa3l0dlpDT21WMGNzSFNQT2RGWWhacDBqemMxU2JXMS1rX1dZb2tjWFJmZngxd1Z0aDY0Q2poMVRQc2lyNmtkOTdnTU1kQ3VfNjQ5eUQwUWE0M05aZExLeHdKTW13bmQ5Uk5YTTdLclVpRzZSV1dzNkpScG42NVRTWVpydWFsaWNobU9IdUVWMQ?oc=5\" target=\"_blank\"&gt;Bend doctor at center of hantavirus outbreak back home — but still in quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Rogue Valley Times&lt;/font&gt;",
+      "publisher": "Rogue Valley Times",
+      "published_at": "2026-06-04T18:53:03.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1RpN1VRNm4zeFduYmFWZTV2eXlna214eTI0cU1DeFNRa3l0dlpDT21WMGNzSFNQT2RGWWhacDBqemMxU2JXMS1rX1dZb2tjWFJmZngxd1Z0aDY0Q2poMVRQc2lyNmtkOTdnTU1kQ3VfNjQ5eUQwUWE0M05aZExLeHdKTW13bmQ5Uk5YTTdLclVpRzZSV1dzNkpScG42NVRTWVpydWFsaWNobU9IdUVWMQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.284Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 604,
+      "headline": "Bend doctor at center of hantavirus outbreak back home — but still in quarantine - bendbulletin.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE14LTNtWm9IaHdHTXlYbDNwZ0JxMngxOHNrZ0piMW1EME9XNW16Nkpqb0pDRVZsbnUzS1lqM2ZSaEtXZXRJTXVkVWdxcU91RUZlZm1NVTdFYUQxX0Z6S0J6SmRMaDZVeDR0Ri11eGRJY09zZw?oc=5\" target=\"_blank\"&gt;Bend doctor at center of hantavirus outbreak back home — but still in quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;bendbulletin.com&lt;/font&gt;",
+      "publisher": "bendbulletin.com",
+      "published_at": "2026-06-04T17:48:19.000Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14LTNtWm9IaHdHTXlYbDNwZ0JxMngxOHNrZ0piMW1EME9XNW16Nkpqb0pDRVZsbnUzS1lqM2ZSaEtXZXRJTXVkVWdxcU91RUZlZm1NVTdFYUQxX0Z6S0J6SmRMaDZVeDR0Ri11eGRJY09zZw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:08.457Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 599,
+      "headline": "Immunotherapy Shows Early Promise Against Severe Hantavirus Lung Disease: Study - Health and Me",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWXJTU2JVd29KTjNsZzRIYlgySkx5R2hrZWQ3bkVnYW1LbEZHR2xjb1pzaXpuZTlCZDk5eV9sLVI1d2R6c1FtVlB6NTU2NmVlcjBmVm1BaDZPeXVqeVpOU3phUWZYaGh0WUZaVmlndkpRNXlkM3BWNmphbW9zc2tLaVVrRjZHeFNrcldzS19LRlZpcTJIRXJsZ3U2WVhuTTJvQVFpb3BKVDVZcDJZeEtHUGRyOTZBVFBxUW9NTDdjdFdHemV2WEN2Ukk5Wk15MFpYYVE?oc=5\" target=\"_blank\"&gt;Immunotherapy Shows Early Promise Against Severe Hantavirus Lung Disease: Study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Health and Me&lt;/font&gt;",
+      "publisher": "Health and Me",
+      "published_at": "2026-06-04T14:30:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWXJTU2JVd29KTjNsZzRIYlgySkx5R2hrZWQ3bkVnYW1LbEZHR2xjb1pzaXpuZTlCZDk5eV9sLVI1d2R6c1FtVlB6NTU2NmVlcjBmVm1BaDZPeXVqeVpOU3phUWZYaGh0WUZaVmlndkpRNXlkM3BWNmphbW9zc2tLaVVrRjZHeFNrcldzS19LRlZpcTJIRXJsZ3U2WVhuTTJvQVFpb3BKVDVZcDJZeEtHUGRyOTZBVFBxUW9NTDdjdFdHemV2WEN2Ukk5Wk15MFpYYVE?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.972Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 589,
+      "headline": "County health officials: No ‘immediate risk’ locally from hantavirus, Ebola - Olean Times Herald",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVE16bE1NdWdSd1pYWnRhVFVwTDlRZU1weVFsY0x1TF9oVm5DSDE1NGQ3a3l2VnNIa3JyVnU4bEMzZHlvYXVZRGJHbkFwVW1QcGJuLWEzN21IMFhvV0VBS3FTYTZkUXRQYnBla0taRU9qTWh3cmZFNUtZa3VoeFVvZGZBSk9EOHJkY2Roek1XVmdUQ1R2ZzR4LWVPRklCWEZfdTBUaURydmtXSFlGdUQ1clFmTlVEWXc?oc=5\" target=\"_blank\"&gt;County health officials: No ‘immediate risk’ locally from hantavirus, Ebola&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Olean Times Herald&lt;/font&gt;",
+      "publisher": "Olean Times Herald",
+      "published_at": "2026-06-04T13:31:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVE16bE1NdWdSd1pYWnRhVFVwTDlRZU1weVFsY0x1TF9oVm5DSDE1NGQ3a3l2VnNIa3JyVnU4bEMzZHlvYXVZRGJHbkFwVW1QcGJuLWEzN21IMFhvV0VBS3FTYTZkUXRQYnBla0taRU9qTWh3cmZFNUtZa3VoeFVvZGZBSk9EOHJkY2Roek1XVmdUQ1R2ZzR4LWVPRklCWEZfdTBUaURydmtXSFlGdUQ1clFmTlVEWXc?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.293Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 588,
+      "headline": "Should You Cancel Your Cruise as Deadly Hantavirus Emerges? - American Community Media",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUxUUFZLcmtPZnlhTXpvWV9nWEY4MENGM1J6QzFhcFF4LW1EU3h2LXItWXhHYkhISnM1bndwVk9IcDQ5dnZhY2d5QWtWX0FwS0JFT2dONzBCWDVESGhGbzF6dTlwWHZJcXNhZTJDbk9MZDRVQW00YTJlZlhBdC0wcEp6STF2VDlXMjY4OW5NMDh6a193XzJzSnU2YXFreDQ2b0FCeW9rQ3hWdw?oc=5\" target=\"_blank\"&gt;Should You Cancel Your Cruise as Deadly Hantavirus Emerges?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;American Community Media&lt;/font&gt;",
+      "publisher": "American Community Media",
+      "published_at": "2026-06-04T12:00:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUxUUFZLcmtPZnlhTXpvWV9nWEY4MENGM1J6QzFhcFF4LW1EU3h2LXItWXhHYkhISnM1bndwVk9IcDQ5dnZhY2d5QWtWX0FwS0JFT2dONzBCWDVESGhGbzF6dTlwWHZJcXNhZTJDbk9MZDRVQW00YTJlZlhBdC0wcEp6STF2VDlXMjY4OW5NMDh6a193XzJzSnU2YXFreDQ2b0FCeW9rQ3hWdw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.293Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 591,
+      "headline": "Amid Ebola, Hantavirus Outbreaks, Democrats Decry Trump’s Health Cuts - hepmag.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPUG4xOTUwMzJkdkxQdkpiZVJjOGwxLUJNbUxJYUNSMnZyR3c4X3h2b1NiRG1zQ0VhWFlTZGRvQ3h4bW85OGs0QTNKam5OUW9penZXTFU3Y040MFZkMFJZTGZIXzc5Y2tpbVNvdXBQT1NZeFhfM2JYbUp5OUlvRURuOWdOcjhhWjlWa050Qm01OFVoZzhaaWZSSjJ2cXU4dw?oc=5\" target=\"_blank\"&gt;Amid Ebola, Hantavirus Outbreaks, Democrats Decry Trump’s Health Cuts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;hepmag.com&lt;/font&gt;",
+      "publisher": "hepmag.com",
+      "published_at": "2026-06-04T10:07:20.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUG4xOTUwMzJkdkxQdkpiZVJjOGwxLUJNbUxJYUNSMnZyR3c4X3h2b1NiRG1zQ0VhWFlTZGRvQ3h4bW85OGs0QTNKam5OUW9penZXTFU3Y040MFZkMFJZTGZIXzc5Y2tpbVNvdXBQT1NZeFhfM2JYbUp5OUlvRURuOWdOcjhhWjlWa050Qm01OFVoZzhaaWZSSjJ2cXU4dw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.297Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 596,
+      "headline": "EU secures emergency deliveries of potential treatment against hantavirus - BusinessWorld - BusinessWorld Online",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTZoc2EtY0lRYVVyUUl1T2RkTnBQaURvTFdUNTMwX2lzcTlmZ2R1RDNTVmdjRlNmc3BGU2d1Y3NnTzhCVEgwNUhyWXoxalhTeThWamhJeDQ2U0cyNEVVNUFlb21sTW1YRlVpT0lYSmp6elZaUjRQVUx0a2tOVE56V0p6ZHdGdWc2eFFIV05TVlM1dHc4TThWQkEyYWxZWTdTOFhkUkpGclBTdlZTc2xra2xtYkNZZnF1aDRESWRDR1M?oc=5\" target=\"_blank\"&gt;EU secures emergency deliveries of potential treatment against hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BusinessWorld - BusinessWorld Online&lt;/font&gt;",
+      "publisher": "BusinessWorld - BusinessWorld Online",
+      "published_at": "2026-06-04T09:11:31.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTZoc2EtY0lRYVVyUUl1T2RkTnBQaURvTFdUNTMwX2lzcTlmZ2R1RDNTVmdjRlNmc3BGU2d1Y3NnTzhCVEgwNUhyWXoxalhTeThWamhJeDQ2U0cyNEVVNUFlb21sTW1YRlVpT0lYSmp6elZaUjRQVUx0a2tOVE56V0p6ZHdGdWc2eFFIV05TVlM1dHc4TThWQkEyYWxZWTdTOFhkUkpGclBTdlZTc2xra2xtYkNZZnF1aDRESWRDR1M?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.314Z",
+      "mentioned_states": []
+    },
+    {
       "id": 569,
       "headline": "Hantavirus Not New Pandemic Threat But Risks Should Not Be Ignored - Specialist - Bernama",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SUkEtcm1SUk40OFF6aHEydFBCcDUyQVd1Y3Jrdk1VTzhELTFrcjduSm40OWF0cjR5UWFfRjlGVmRteDdHU2NHZ1VmV0V5OEZCYml4cU54Um9VM0lkUFBR?oc=5\" target=\"_blank\"&gt;Hantavirus Not New Pandemic Threat But Risks Should Not Be Ignored - Specialist&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bernama&lt;/font&gt;",
@@ -186,6 +274,17 @@
       "mentioned_states": []
     },
     {
+      "id": 605,
+      "headline": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - The Killeen Daily Herald",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPb0RQY3BzampxcUxGampOcDQzLWh5Y3RtUFV3ZGFBckNDX21wRlhsZkdjaThYNGEwNHdLTXhmU2RsNHBUS0VjaVNzUnpiNU4yY212WTVOWTZGZW9rMzNIVmp6RlBvTVh5MEZFczNUU0prREtkMlh3WG9Id19yby1veFU2cmlZSE9zZy1xYTc2QTM2MW5pVEJnYmFGZFBPR2hwMklvZlZHOFoxOTV4X2l2SU5RUzRNWmw5cElxck1td2VvZkdybC01SWxyMEwzRnJjMm5HNEZiVW1CUVd6U3JmZXAwOWltX09tRkdWRzl2MEUtb1FYRl9hcGh6WXhDRzI2QmNrTnFhM3pEcGM?oc=5\" target=\"_blank\"&gt;Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Killeen Daily Herald&lt;/font&gt;",
+      "publisher": "The Killeen Daily Herald",
+      "published_at": "2026-06-04T03:49:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPb0RQY3BzampxcUxGampOcDQzLWh5Y3RtUFV3ZGFBckNDX21wRlhsZkdjaThYNGEwNHdLTXhmU2RsNHBUS0VjaVNzUnpiNU4yY212WTVOWTZGZW9rMzNIVmp6RlBvTVh5MEZFczNUU0prREtkMlh3WG9Id19yby1veFU2cmlZSE9zZy1xYTc2QTM2MW5pVEJnYmFGZFBPR2hwMklvZlZHOFoxOTV4X2l2SU5RUzRNWmw5cElxck1td2VvZkdybC01SWxyMEwzRnJjMm5HNEZiVW1CUVd6U3JmZXAwOWltX09tRkdWRzl2MEUtb1FYRl9hcGh6WXhDRzI2QmNrTnFhM3pEcGM?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:08.460Z",
+      "mentioned_states": []
+    },
+    {
       "id": 552,
       "headline": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - AP News",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPVDJQNm9fb0lEaEdjV1FpVWdrQ1U4Y0JiaTNpQmFfWThSZVNQRVMtMzhXVlc0N0pwbkZ1SUoyM1VUSzBTM2w0eWRiY0hyMllLTjJFNnFhVG1JX2V6VTlndnFvXzF3cFRKUzBSRGs0Y1Btd1JfX2FyR3hobFMxb3IzYzB6RDlGdVhCbHRicEZfQ29hSWstYTJCeV9iTVV6dVM5ODF4STM5NU1BRTVvanlkbVRKLUlWeTA?oc=5\" target=\"_blank\"&gt;Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AP News&lt;/font&gt;",
@@ -194,6 +293,17 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVDJQNm9fb0lEaEdjV1FpVWdrQ1U4Y0JiaTNpQmFfWThSZVNQRVMtMzhXVlc0N0pwbkZ1SUoyM1VUSzBTM2w0eWRiY0hyMllLTjJFNnFhVG1JX2V6VTlndnFvXzF3cFRKUzBSRGs0Y1Btd1JfX2FyR3hobFMxb3IzYzB6RDlGdVhCbHRicEZfQ29hSWstYTJCeV9iTVV6dVM5ODF4STM5NU1BRTVvanlkbVRKLUlWeTA?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-04T09:53:18.663Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 592,
+      "headline": "Researchers in Chile hope for further funding for their hantavirus treatment trials - AP News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHdmRjJNSTkwN1VuTDVROGVZcnZCbFcyTTZwRUFCU3hJem5EbGF1LVNwdkt4WjNxdVNFUlVNbUR5VlhFaHNUa0hYR05YWHdVODhpeVhIT19hTURyMnlwdWlzS2pEM3p1YVloUnZYTVNuWlpSRDBJOS0xaWN0SFJpYlJsa01LM1ZRaG1SclBMeERDb2c4Zzh3OFhsMFRrU000M21tUFozNDFHUGxSZzhTR2FSd1FrVVNWN2pBYnpfVGJwOW1Gb3gwVUl6eDVXV2xwNGt3U0RUZGw?oc=5\" target=\"_blank\"&gt;Researchers in Chile hope for further funding for their hantavirus treatment trials&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AP News&lt;/font&gt;",
+      "publisher": "AP News",
+      "published_at": "2026-06-04T03:16:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHdmRjJNSTkwN1VuTDVROGVZcnZCbFcyTTZwRUFCU3hJem5EbGF1LVNwdkt4WjNxdVNFUlVNbUR5VlhFaHNUa0hYR05YWHdVODhpeVhIT19hTURyMnlwdWlzS2pEM3p1YVloUnZYTVNuWlpSRDBJOS0xaWN0SFJpYlJsa01LM1ZRaG1SclBMeERDb2c4Zzh3OFhsMFRrU000M21tUFozNDFHUGxSZzhTR2FSd1FrVVNWN2pBYnpfVGJwOW1Gb3gwVUl6eDVXV2xwNGt3U0RUZGw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.299Z",
       "mentioned_states": []
     },
     {
@@ -263,6 +373,17 @@
       "mentioned_states": []
     },
     {
+      "id": 597,
+      "headline": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - chronicleonline.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxPMkNrTUJpVExjQzNvMGNKWnNISFJtNUpYMXlfWEkyWndyakhxVEVRSFc1aGZmQnhNX1M5anhyQjZOU25mN195SkcxMFRhRG91ejhPSXpuTThBMjl2N18tSlRtSHh4NVBSVjhmSTgtOTVjN3VMRmRXcllCT3NOQ3dwM3hvMTZsZFA5VHFZQ3gySlgzZ29OVmwxLUtYc2RDNW9VRGZOMHdySXNtcTlVSWhSN3pibFo4ZkNjdUtrWlZyMmo0bVgwOG5WMU1PTW9nMVJKUFVSRHlhOGdLR2pwV3ZKeUVkRDlTYk12Q2pORkxRVEM3UHZYTHotNzlVS0xoVllab2F3S3N0MUFBREVSY1BHdjVkckt3eXM?oc=5\" target=\"_blank\"&gt;Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;chronicleonline.com&lt;/font&gt;",
+      "publisher": "chronicleonline.com",
+      "published_at": "2026-06-03T23:19:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPMkNrTUJpVExjQzNvMGNKWnNISFJtNUpYMXlfWEkyWndyakhxVEVRSFc1aGZmQnhNX1M5anhyQjZOU25mN195SkcxMFRhRG91ejhPSXpuTThBMjl2N18tSlRtSHh4NVBSVjhmSTgtOTVjN3VMRmRXcllCT3NOQ3dwM3hvMTZsZFA5VHFZQ3gySlgzZ29OVmwxLUtYc2RDNW9VRGZOMHdySXNtcTlVSWhSN3pibFo4ZkNjdUtrWlZyMmo0bVgwOG5WMU1PTW9nMVJKUFVSRHlhOGdLR2pwV3ZKeUVkRDlTYk12Q2pORkxRVEM3UHZYTHotNzlVS0xoVllab2F3S3N0MUFBREVSY1BHdjVkckt3eXM?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.315Z",
+      "mentioned_states": []
+    },
+    {
       "id": 556,
       "headline": "Small number of hantavirus cases not uncommon in Arizona, data shows - azcentral.com and The Arizona Republic",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXdrR0EyTjdUYThnWmh5Q2xEOUtGS1JZSlpZTGVOcGx3NWZqRGI4Y2h6bG9mUDQ4Sy1WOTBVbDBEbk0yS2lSZldCUWh0a0hkQlc0bXJxWjN3T1VxZFZHN0RVWU5YWkVaR2VXUkxZdGJqdU05NER6ak1wcEtqNl94TFc3TnliejlnWGpFNVMycU5UTmNDZDNXa1ZYblJFZENIREl3cVpXWUk5MjlwWmdRVEhvNEVSQQ?oc=5\" target=\"_blank\"&gt;Small number of hantavirus cases not uncommon in Arizona, data shows&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;azcentral.com and The Arizona Republic&lt;/font&gt;",
@@ -295,6 +416,17 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR29oYzhkM1o0eGtTLVh0RVZDc1BVTDZpd0Z1VldGTEFPZi1CblgtOTY4bVZnX1dJT2RZTE05Qng5bXdEbU1jREl4eGt6cW5ja2RBQkU5NzF0eUZ2TDJudll2bHY4SEV2WkdCZE5YVkxsZm5RUHJpczM3M3RtRjZtZEJjMU8xaUJocWNzVmljTzE2VEtuVmc?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-04T09:53:18.689Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 594,
+      "headline": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - Oskaloosa Herald",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxOUVY0S3JXZl8tT2NjRVBWVUN5VnBmZV9rZXlSV0hQM0QwRUhpd0NST1JBVXBiTlJzdTA4akdXYzllT3E2VUU3UERfUTdONFhvMGhfbVNFOS04SURwY1dxMWFDRWVLZzZTVzRKWEl6VTlWaVVBUmhKbi1SUEgtNmdma3p3clhUdVVsWjRneEx3U04wTjNXUUFJek9Nb3hBYmdjYU5feGF6UURnMEtHMUlxVmpFaHFqZEp2dkhtRHgweVc0OHFWcUZId184Rnh5N0VVMVBYNzFjMF9MNHFqdVFjdGJRQ1cwNWdPYkxRVHlVREF6ZTRlWjQ2U3M0VHgtN0RKTldXUUJoT1JVeTV0b3lGUmU1eFZ0NXVVa3c?oc=5\" target=\"_blank\"&gt;Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Oskaloosa Herald&lt;/font&gt;",
+      "publisher": "Oskaloosa Herald",
+      "published_at": "2026-06-03T22:41:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOUVY0S3JXZl8tT2NjRVBWVUN5VnBmZV9rZXlSV0hQM0QwRUhpd0NST1JBVXBiTlJzdTA4akdXYzllT3E2VUU3UERfUTdONFhvMGhfbVNFOS04SURwY1dxMWFDRWVLZzZTVzRKWEl6VTlWaVVBUmhKbi1SUEgtNmdma3p3clhUdVVsWjRneEx3U04wTjNXUUFJek9Nb3hBYmdjYU5feGF6UURnMEtHMUlxVmpFaHFqZEp2dkhtRHgweVc0OHFWcUZId184Rnh5N0VVMVBYNzFjMF9MNHFqdVFjdGJRQ1cwNWdPYkxRVHlVREF6ZTRlWjQ2U3M0VHgtN0RKTldXUUJoT1JVeTV0b3lGUmU1eFZ0NXVVa3c?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.313Z",
       "mentioned_states": []
     },
     {
@@ -350,6 +482,17 @@
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNTHZ1cHVjOW1vY0RkTExnSnIxQmd5RnNKV1ZVMS0zRVdPVEs1U1JOU1dxOGFCdl9tejVYMDZLX053RGU0QXFrSVFFQTBoT0pyak56ZFBkU0tuOGJBMkd2VzgwcUlMd0J0OGVyazZoVlJEQkdqTk5VenI1eFRBWENucUxLTEJGXzE4aGFwRGxfcW9BdVBGUzZONDFaLVZ6ZkpvazVOeDZDSkQzbmt6dHNvOUFsMlZRb1NQbElDMWY2MWhFUGpxNF9wWV9aNGVpY18tWkhBc1J4ZGtkZ2hDWUx3V190czdsUHBmSy1lUGp6MDh0Z01ORzh5dG0xa3RDWEhHdTJyckJFT3h2Z0E4Qmw2b0xfdXlsSW9NM2ZSQmc1RGNNXzBZSU12RURjb1kzZw?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-04T09:53:18.689Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 593,
+      "headline": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - KING5.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxQQzh2b25qc3lqcVlXbHM2RlZxZnpOdEpqc2FSZV9jUVl1YmhXMExyWWlpb19BN0tkYTFPSVVEaFhWSkg0WEtXZXdJLUZ2YUxWSEpNbUlGQjRqZmZrQjhtdUFfTWVHLUlsUUotMnBEektJVC00clRRZVNFMW84QllyMWotSlNPVDZJYXU0M0RaU0hJcDJSQTBxYVN5Q3BaTjhEa2lZRzgtMGRkRWpGdHNhNHdrejk2YjExY1ljUDlPdzR0MzA5QnRGOUNJUnpRci12X25sMkxBVDB6ZjBOczdvSkVFNjJ2R1pGeEVfREdtRXNiWE9CQ0tjaUtsNWh2cDk1YXBmYUExX3lUQlE4X1N0TnE1RnZrLUdUbXF4NUg1aw?oc=5\" target=\"_blank\"&gt;Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KING5.com&lt;/font&gt;",
+      "publisher": "KING5.com",
+      "published_at": "2026-06-03T22:30:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQQzh2b25qc3lqcVlXbHM2RlZxZnpOdEpqc2FSZV9jUVl1YmhXMExyWWlpb19BN0tkYTFPSVVEaFhWSkg0WEtXZXdJLUZ2YUxWSEpNbUlGQjRqZmZrQjhtdUFfTWVHLUlsUUotMnBEektJVC00clRRZVNFMW84QllyMWotSlNPVDZJYXU0M0RaU0hJcDJSQTBxYVN5Q3BaTjhEa2lZRzgtMGRkRWpGdHNhNHdrejk2YjExY1ljUDlPdzR0MzA5QnRGOUNJUnpRci12X25sMkxBVDB6ZjBOczdvSkVFNjJ2R1pGeEVfREdtRXNiWE9CQ0tjaUtsNWh2cDk1YXBmYUExX3lUQlE4X1N0TnE1RnZrLUdUbXF4NUg1aw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T21:53:07.312Z",
       "mentioned_states": []
     },
     {
@@ -600,161 +743,6 @@
       "fetched_at": "2026-06-03T09:54:59.936Z",
       "mentioned_states": [
         "OR"
-      ]
-    },
-    {
-      "id": 509,
-      "headline": "Five people have left hantavirus quarantine facility in Nebraska - The Washington Post",
-      "body_md": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTZYWkFwY0tJQmsxUnIyWG5OUW5CTkxoMFlFaTF4YU1IZmhHLUlmdVgzcHlrMGw0Z3RGYXY2dzBwNE0xeDczc2JHNTRQQXJVWExVZURWWTVzb0hReGVkWkZnOENxNk01QnUxRmN6RXJEYW5tLWVsY0JMVjV6djhldXBfcmZGbkhRblp3YkUzdnFZc1VqT1lSZ1Exd1ZOb1A5YzhNN1cyQ0g5YklQbEJlVA?oc=5\" target=\"_blank\"&gt;Five people have left hantavirus quarantine facility in Nebraska&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Washington Post&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQUmE2WlBtWW92bXdOR1U4eXVucDhUSVJhSF9yS2dTeTlueVJ3dGpBMlI5S2RGMUpZTl94bnNzLVhUcDJGVFZya1FLREdmcVIwWFE2UVJPbFNyeXZtNWV0LW85dEJQVzZldXV3X1JqVUFrbGFkVFdBZ1Y1dmtWYjhWcDJKTzFSUQ?oc=5\" target=\"_blank\"&gt;5 People Leave Hantavirus Quarantine in Omaha&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFo3LThLeHdIWHlacXUzd2dkRkF3M2RKMTlpeC1uTXNUVWpFQUU5U3ZzLXF1Z2dFVjlTMjdQQ1FUZjA3Q3B0NHAyNEcwNlRMSklDcGwzYzNaWllOYUw2Uk5McktuTUVJQnBVelg1R1E4MmtjWHJNQU9ZOHpDS3hlWWhvY3BxVjNiQ0l3OUJmakJjX3dFaW43bDNiR1Y5SjBWVG83SUJQUkplWV9od3BQVldCNUxjMFY3bVlZWF9ITQ?oc=5\" target=\"_blank\"&gt;State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC News&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;",
-      "publisher": "The Washington Post",
-      "published_at": "2026-06-03T01:44:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTZYWkFwY0tJQmsxUnIyWG5OUW5CTkxoMFlFaTF4YU1IZmhHLUlmdVgzcHlrMGw0Z3RGYXY2dzBwNE0xeDczc2JHNTRQQXJVWExVZURWWTVzb0hReGVkWkZnOENxNk01QnUxRmN6RXJEYW5tLWVsY0JMVjV6djhldXBfcmZGbkhRblp3YkUzdnFZc1VqT1lSZ1Exd1ZOb1A5YzhNN1cyQ0g5YklQbEJlVA?oc=5",
-      "mentioned_states_json": "[\"WA\"]",
-      "fetched_at": "2026-06-03T09:54:57.711Z",
-      "mentioned_states": [
-        "WA"
-      ]
-    },
-    {
-      "id": 514,
-      "headline": "Oregonian exposed to hantavirus returns home, goes into quarantine - Statesman Journal",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0NDQkN3TVhjWkZ1SGZMcFdkcU9oek83OU9ja3kzbEgxdTJpTWRVTlFyYWw5UFpyN2FSNXdDaF9lSlhUWEIwc3J4YXJaejJpT1l4SVB4TFhmWTZ4aVF2WjFEUDlqV2RQcFFBQ0Z1Mmg1V2dPUlZjTWxrRl9JLTZiTzlsbkNKbmtzS2Y2eThZVHp0NmpuSi1yQ3htRXpVblVTRjUzck5Gb2Fxd1J2RHM4M0I1ZW5XRmZDdlE?oc=5\" target=\"_blank\"&gt;Oregonian exposed to hantavirus returns home, goes into quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Statesman Journal&lt;/font&gt;",
-      "publisher": "Statesman Journal",
-      "published_at": "2026-06-03T00:39:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0NDQkN3TVhjWkZ1SGZMcFdkcU9oek83OU9ja3kzbEgxdTJpTWRVTlFyYWw5UFpyN2FSNXdDaF9lSlhUWEIwc3J4YXJaejJpT1l4SVB4TFhmWTZ4aVF2WjFEUDlqV2RQcFFBQ0Z1Mmg1V2dPUlZjTWxrRl9JLTZiTzlsbkNKbmtzS2Y2eThZVHp0NmpuSi1yQ3htRXpVblVTRjUzck5Gb2Fxd1J2RHM4M0I1ZW5XRmZDdlE?oc=5",
-      "mentioned_states_json": "[\"OR\"]",
-      "fetched_at": "2026-06-03T09:54:59.935Z",
-      "mentioned_states": [
-        "OR"
-      ]
-    },
-    {
-      "id": 520,
-      "headline": "Oregon resident exposed to hantavirus from cruise ship returns home - KGW",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd3F2ckJuQTlWd2ROSk50ek9fZTQ2MGNsSlV6N1dJMlJBSENyM3ktMzVHanVlVkRMNXFUbU9WREZmRnlUcVZFajJGcm5hdUc3VWxVWFJQN3VqUkRPZlZOSmotNlRKYnlvRURVbUpfZDBTOUVFNmMxd3RtVmpHQ0lhYjhPdzdhdmM2OGJMMkcwQ3M4MTdMRGJBaGlwQ0gyZDNTdUwzRG0zaGVJMzR6NmQ2UEFLVUJrUzNvRWlpcUFFQm9LanZRemRiLVBFSGkxQUhsdjVIYkhjZGlHVU82bUo0?oc=5\" target=\"_blank\"&gt;Oregon resident exposed to hantavirus from cruise ship returns home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KGW&lt;/font&gt;",
-      "publisher": "KGW",
-      "published_at": "2026-06-03T00:16:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd3F2ckJuQTlWd2ROSk50ek9fZTQ2MGNsSlV6N1dJMlJBSENyM3ktMzVHanVlVkRMNXFUbU9WREZmRnlUcVZFajJGcm5hdUc3VWxVWFJQN3VqUkRPZlZOSmotNlRKYnlvRURVbUpfZDBTOUVFNmMxd3RtVmpHQ0lhYjhPdzdhdmM2OGJMMkcwQ3M4MTdMRGJBaGlwQ0gyZDNTdUwzRG0zaGVJMzR6NmQ2UEFLVUJrUzNvRWlpcUFFQm9LanZRemRiLVBFSGkxQUhsdjVIYkhjZGlHVU82bUo0?oc=5",
-      "mentioned_states_json": "[\"OR\"]",
-      "fetched_at": "2026-06-03T09:55:00.265Z",
-      "mentioned_states": [
-        "OR"
-      ]
-    },
-    {
-      "id": 526,
-      "headline": "Province Provides Hantavirus Update - DiscoverWestman",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1KZ0hKSlV2VzU5OWhQYjZ2SFN5R1p1ZlI0TTJUc2FQdGJOdkcyWVdHWUFyTWRFaU9tZFlRaTZyYVkyVG5xMENKcFZwQWZUQ3dnR04tdFI4S1hNbmNOMlEtNkk3TGN4MU9YeDF3WjlQcHZRTTBoT2o1UURNd0k?oc=5\" target=\"_blank\"&gt;Province Provides Hantavirus Update&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;DiscoverWestman&lt;/font&gt;",
-      "publisher": "DiscoverWestman",
-      "published_at": "2026-06-02T23:41:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KZ0hKSlV2VzU5OWhQYjZ2SFN5R1p1ZlI0TTJUc2FQdGJOdkcyWVdHWUFyTWRFaU9tZFlRaTZyYVkyVG5xMENKcFZwQWZUQ3dnR04tdFI4S1hNbmNOMlEtNkk3TGN4MU9YeDF3WjlQcHZRTTBoT2o1UURNd0k?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-03T09:55:00.371Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 512,
-      "headline": "Hantavirus case confirmed near Southern Nevada - Las Vegas Review-Journal",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUkFnOURUUy1ndVJpai0zeWdrT2Itc1VVRTdFeTJ6eE9hWjFFWTY0MUJoWUlwb2xJSlplZEk1eTIxYkhoM2F6TllZSzdTUkF4MjRGLXFfejMwYXNBQlZ3X2lHRkpqaXlSZ0F5LXdhb1ZUYVk0cHpSVVNnM2F0eC0taE8wU3hlSVg5RTJMSg?oc=5\" target=\"_blank\"&gt;Hantavirus case confirmed near Southern Nevada&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Las Vegas Review-Journal&lt;/font&gt;",
-      "publisher": "Las Vegas Review-Journal",
-      "published_at": "2026-06-02T23:22:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUkFnOURUUy1ndVJpai0zeWdrT2Itc1VVRTdFeTJ6eE9hWjFFWTY0MUJoWUlwb2xJSlplZEk1eTIxYkhoM2F6TllZSzdTUkF4MjRGLXFfejMwYXNBQlZ3X2lHRkpqaXlSZ0F5LXdhb1ZUYVk0cHpSVVNnM2F0eC0taE8wU3hlSVg5RTJMSg?oc=5",
-      "mentioned_states_json": "[\"NV\"]",
-      "fetched_at": "2026-06-03T09:54:58.180Z",
-      "mentioned_states": [
-        "NV"
-      ]
-    },
-    {
-      "id": 519,
-      "headline": "Panic as Arizona hantavirus case known as ‘Sin Nombre’ kills 1 - New York Post",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORm5IVWRkUmsxcWJuUGhoenRLWjdBNGExREFYSk9xd3ZmaTZUZDFZLW5EYk5GdjFmbUdwZDdHZ01TYVJ2dzd0LWpBLW5UazhMNFFqVEczS1o1SkwxRFgxdUVWdEZ2dlRvcXlRS09mRFZzSnRRU2FjVk9jSm9ReXNyLTg4MVpQY284SnhXWVBINHhnd1NP?oc=5\" target=\"_blank\"&gt;Panic as Arizona hantavirus case known as ‘Sin Nombre’ kills 1&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New York Post&lt;/font&gt;",
-      "publisher": "New York Post",
-      "published_at": "2026-06-02T23:17:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORm5IVWRkUmsxcWJuUGhoenRLWjdBNGExREFYSk9xd3ZmaTZUZDFZLW5EYk5GdjFmbUdwZDdHZ01TYVJ2dzd0LWpBLW5UazhMNFFqVEczS1o1SkwxRFgxdUVWdEZ2dlRvcXlRS09mRFZzSnRRU2FjVk9jSm9ReXNyLTg4MVpQY284SnhXWVBINHhnd1NP?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T09:55:00.265Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 521,
-      "headline": "More Americans exposed to hantavirus leave federal quarantine - WDRB",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTBFYkxTUzlXTmxrUGEzRlNocHNyOUFjVUg4Z0EzcDh0T1YxRnVuN3ZNenp3WVFCRkZwWDFxTklWT2xrSWVuR0xBQXVTRnZTN0JoTl9TWW5CT25URXZVMG9WeGpQRHQyRVpmeWQ1YVZpMERlbWl0Y0ItMGs4UjRVM0RkYUE0Q25nNlppaVlRekk5UWE0OGYtQ2tzQVRzUzlfWldzaGlhcXJIVlBXdGd2RVVVdUFJWEpJNlctR3EtYnBTUXRVOFVYbmFn?oc=5\" target=\"_blank\"&gt;More Americans exposed to hantavirus leave federal quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WDRB&lt;/font&gt;",
-      "publisher": "WDRB",
-      "published_at": "2026-06-02T22:50:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTBFYkxTUzlXTmxrUGEzRlNocHNyOUFjVUg4Z0EzcDh0T1YxRnVuN3ZNenp3WVFCRkZwWDFxTklWT2xrSWVuR0xBQXVTRnZTN0JoTl9TWW5CT25URXZVMG9WeGpQRHQyRVpmeWQ1YVZpMERlbWl0Y0ItMGs4UjRVM0RkYUE0Q25nNlppaVlRekk5UWE0OGYtQ2tzQVRzUzlfWldzaGlhcXJIVlBXdGd2RVVVdUFJWEpJNlctR3EtYnBTUXRVOFVYbmFn?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-03T09:55:00.266Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 523,
-      "headline": "Some passengers released from hantavirus quarantine after cruise exposure - cbs19.tv",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUVYMnluSFN0ZS1tbDFObEg4TWtTQmJQOUZLU1ZWRnVSUUVya1RIVEhxTDZ2Zlh3QW52UzNhYzVUXzR5N3UtWmNaOUNSTERzZDFqdG1QZG9vTU5ELUxwTjhVR19vQTlKOWhqd1ZRMU5KQnU4NXhmSVlHc24ydjR0Y0FiT3laaVQtUXhPRkRtUlNwNjlRTXU3QVBDemJJNEhYbEdidW5nN0ZZemRqUnF3TUttSDNYT1Z1WkJvQWhmT2RNampBU3Y1ekhtMmRpMUJreGVOVUlzMFdFanZwU1NWNG5qQ0czc2M?oc=5\" target=\"_blank\"&gt;Some passengers released from hantavirus quarantine after cruise exposure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;cbs19.tv&lt;/font&gt;",
-      "publisher": "cbs19.tv",
-      "published_at": "2026-06-02T22:23:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUVYMnluSFN0ZS1tbDFObEg4TWtTQmJQOUZLU1ZWRnVSUUVya1RIVEhxTDZ2Zlh3QW52UzNhYzVUXzR5N3UtWmNaOUNSTERzZDFqdG1QZG9vTU5ELUxwTjhVR19vQTlKOWhqd1ZRMU5KQnU4NXhmSVlHc24ydjR0Y0FiT3laaVQtUXhPRkRtUlNwNjlRTXU3QVBDemJJNEhYbEdidW5nN0ZZemRqUnF3TUttSDNYT1Z1WkJvQWhmT2RNampBU3Y1ekhtMmRpMUJreGVOVUlzMFdFanZwU1NWNG5qQ0czc2M?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-03T09:55:00.338Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 517,
-      "headline": "Five U.S. passengers from hantavirus-hit cruise ship depart quarantine in Omaha - KLKN-TV",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlNtVENvRVY0ZUZPZ04yZWRLOHVPSmVGdUVLeUVsMV9oakxaRzR3UVhUdWUxMFRFVjVQc2l5dXpMU3RMZklISFJJR3pOMjVLOXo2cURPZWplRWJ2bmRXNHdvTXVlWk42c0J0WDdiVWVJOU53SzA0UEJlWWRoZl9rakE1Y0JBZXpuY1JmeWJPNHVOUm9KN3N5cXF0MF90LUVlMmN1RQ?oc=5\" target=\"_blank\"&gt;Five U.S. passengers from hantavirus-hit cruise ship depart quarantine in Omaha&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KLKN-TV&lt;/font&gt;",
-      "publisher": "KLKN-TV",
-      "published_at": "2026-06-02T22:10:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlNtVENvRVY0ZUZPZ04yZWRLOHVPSmVGdUVLeUVsMV9oakxaRzR3UVhUdWUxMFRFVjVQc2l5dXpMU3RMZklISFJJR3pOMjVLOXo2cURPZWplRWJ2bmRXNHdvTXVlWk42c0J0WDdiVWVJOU53SzA0UEJlWWRoZl9rakE1Y0JBZXpuY1JmeWJPNHVOUm9KN3N5cXF0MF90LUVlMmN1RQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-03T09:55:00.262Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 502,
-      "headline": "MV Hondius To Resume Sailing 34 Days After Hantavirus Outbreak Passengers Disembarked - Travel Noire",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iQS1OdW5JcFc3RmlFT2FaZUR3clV0YUROeVZmRUpIUG84RmhJaExJZFQ2ZVNfMF9EMWFSQjlaamJhVmN6bUwwUTZiSzRDV3dQcGpDVm8xLXVvZ1FNRTlnT0h5RDQ?oc=5\" target=\"_blank\"&gt;MV Hondius To Resume Sailing 34 Days After Hantavirus Outbreak Passengers Disembarked&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Travel Noire&lt;/font&gt;",
-      "publisher": "Travel Noire",
-      "published_at": "2026-06-02T21:49:19.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iQS1OdW5JcFc3RmlFT2FaZUR3clV0YUROeVZmRUpIUG84RmhJaExJZFQ2ZVNfMF9EMWFSQjlaamJhVmN6bUwwUTZiSzRDV3dQcGpDVm8xLXVvZ1FNRTlnT0h5RDQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T21:52:59.986Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 501,
-      "headline": "Five MV Hondius passengers leave hantavirus quarantine in Nebraska - AOL.com",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5wME9sQVNkcUJuRVdkUUZNWmxiUFlCdEFSQm9xMEZvaTB6ajJOdnVKWVc0Ujd1VVRjRmJIRnlGLWRRQ19lVUt0U0JfZnNTTVN1LV9xRjFXNnIwOEhsaVNOb0thQlFQU3RXVTU4ODNPZVYtVC1MR1F3RDUzZkY?oc=5\" target=\"_blank\"&gt;Five MV Hondius passengers leave hantavirus quarantine in Nebraska&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
-      "publisher": "AOL.com",
-      "published_at": "2026-06-02T21:47:41.000Z",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wME9sQVNkcUJuRVdkUUZNWmxiUFlCdEFSQm9xMEZvaTB6ajJOdnVKWVc0Ujd1VVRjRmJIRnlGLWRRQ19lVUt0U0JfZnNTTVN1LV9xRjFXNnIwOEhsaVNOb0thQlFQU3RXVTU4ODNPZVYtVC1MR1F3RDUzZkY?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T21:52:59.986Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 495,
-      "headline": "5 Americans exposed to hantavirus on a cruise ship are leaving quarantine - WUSA9",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPazY0aTdKN1huMUhoa1FlLUU0SzlSbXVaRTN3U1FBdjY3dnNpMkRDV01VSWl2SnQ2aWg5WFgtVWxvRXpsTWZOOGhuZmJ1QWswZWhqUEU4WTlRLWpmcnpISXVyMnpTUWgzSmJ6bWswSVBqZTVDaEdrOTdOUC1LQ0R5aXZqVEpjOEFfNWNORDZ5MElqZlc5SC1zU2hWbGlJZ0JBb0VCbElfTGtyQy1md3AybG5DLWd1MkxnM01YaUpSU2RadDNjTjl3OVFSU2lGTlN6dmt6Zno5MVpkS3NYcWtLdkYxbHlES0Y3cDlER2gwR2ZjWlNidVhTU05n?oc=5\" target=\"_blank\"&gt;5 Americans exposed to hantavirus on a cruise ship are leaving quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WUSA9&lt;/font&gt;",
-      "publisher": "WUSA9",
-      "published_at": "2026-06-02T21:41:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPazY0aTdKN1huMUhoa1FlLUU0SzlSbXVaRTN3U1FBdjY3dnNpMkRDV01VSWl2SnQ2aWg5WFgtVWxvRXpsTWZOOGhuZmJ1QWswZWhqUEU4WTlRLWpmcnpISXVyMnpTUWgzSmJ6bWswSVBqZTVDaEdrOTdOUC1LQ0R5aXZqVEpjOEFfNWNORDZ5MElqZlc5SC1zU2hWbGlJZ0JBb0VCbElfTGtyQy1md3AybG5DLWd1MkxnM01YaUpSU2RadDNjTjl3OVFSU2lGTlN6dmt6Zno5MVpkS3NYcWtLdkYxbHlES0Y3cDlER2gwR2ZjWlNidVhTU05n?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-02T21:52:59.981Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 497,
-      "headline": "Five Americans on hantavirus ship homebound after quarantine - Washington Examiner",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlFBWTRpSllCNlo2V0xBeWxXYjRZZEljZHVFTkFXenhYTHB3UmNGeFFoWEFVclhheEdHSWpQVlo2bEVad21LeUlaRWVtRXdqTnlXYzJBdExuS3NBR2JFMGowNUxWcXlUdWs4cmVmdkJNYzROZmRtVmZVVVZEMDF1SWpLY1k2R0ZrMlYwN1lQYlN1cVNEcnBWR1BNN3RLMFdPWmpGUzk1UUlqNFJhdFlCT0N4Zks?oc=5\" target=\"_blank\"&gt;Five Americans on hantavirus ship homebound after quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Washington Examiner&lt;/font&gt;",
-      "publisher": "Washington Examiner",
-      "published_at": "2026-06-02T21:17:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlFBWTRpSllCNlo2V0xBeWxXYjRZZEljZHVFTkFXenhYTHB3UmNGeFFoWEFVclhheEdHSWpQVlo2bEVad21LeUlaRWVtRXdqTnlXYzJBdExuS3NBR2JFMGowNUxWcXlUdWs4cmVmdkJNYzROZmRtVmZVVVZEMDF1SWpLY1k2R0ZrMlYwN1lQYlN1cVNEcnBWR1BNN3RLMFdPWmpGUzk1UUlqNFJhdFlCT0N4Zks?oc=5",
-      "mentioned_states_json": "[\"WA\"]",
-      "fetched_at": "2026-06-02T21:52:59.983Z",
-      "mentioned_states": [
-        "WA"
       ]
     }
   ],
