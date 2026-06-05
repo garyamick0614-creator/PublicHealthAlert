@@ -171,10 +171,18 @@ function showServerOffline() {
   });
 }
 
+let dpBackoff = 0;
 (async function initDeepPanels() {
   let snap = null;
   try {
     const r = await fetch(SNAPSHOT_URL, { cache: "no-store" });
+    // 429 = rate-limited, NOT offline. Back off and retry silently instead of
+    // flashing "server offline" on normal multi-tab / rapid-reload traffic.
+    if (r.status === 429) {
+      dpBackoff = Math.min(60000, (dpBackoff || 5000) * 2);
+      setTimeout(initDeepPanels, dpBackoff);
+      return;
+    }
     if (!r.ok) { showServerOffline(); return; }
     snap = await r.json();
   } catch { showServerOffline(); return; }

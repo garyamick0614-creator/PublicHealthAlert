@@ -230,7 +230,24 @@
       grid.innerHTML = tiles.join("");
     }
     const u = document.getElementById("stateOutbreaksUpdated");
-    if (u) u.textContent = "Last refreshed " + new Date().toLocaleTimeString();
+    if (u) {
+      // Show the AGE OF THE DATA (newest week_ending / fetched_at in the set),
+      // not the browser's clock — a frontend refresh does not mean fresh data.
+      let newestWeek = "", newestFetch = "";
+      for (const it of latest) {
+        const w = String(it.week_ending || "");
+        if (w > newestWeek) newestWeek = w;
+        const f = String(it.fetched_at || "");
+        if (f > newestFetch) newestFetch = f;
+      }
+      const parts = [];
+      if (newestWeek) parts.push("data through week ending " + newestWeek);
+      if (newestFetch) {
+        const d = new Date(newestFetch);
+        if (!isNaN(d)) parts.push("last sync " + d.toISOString().slice(0, 10));
+      }
+      u.textContent = parts.length ? parts.join(" · ") : "Source freshness unavailable";
+    }
   }
 
   async function fetchData() {

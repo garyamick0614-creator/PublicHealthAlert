@@ -166,7 +166,7 @@
       '<div class="phx-state-tabs" role="tablist"></div>' +
       '<div class="phx-history-block">' +
         '<article class="panel"><h3 class="panel-title">Weekly trend (last 26 wk)</h3><div id="phxHistoryBody">Loading…</div></article>' +
-        '<article class="panel"><h3 class="panel-title">Top counties (latest week)</h3><div id="phxCountiesBody">Loading…</div></article>' +
+        '<article class="panel"><h3 class="panel-title">Top counties (most recent week on record)</h3><div id="phxCountiesBody">Loading…</div></article>' +
       "</div>";
     main.appendChild(wrap);
 

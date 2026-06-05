@@ -232,7 +232,7 @@
         <span><strong style="color:var(--text)">${esc(totals.total_rows ?? items.length)}</strong> detections</span>
         <span><strong style="color:var(--text)">${esc(totals.states_affected ?? "—")}</strong> states</span>
         <span><strong style="color:var(--text)">${esc(totals.premises_affected ?? "—")}</strong> premises</span>
-        <span>latest: ${esc(totals.latest_date || "—")}</span>
+        <span>latest detection on record: ${esc(totals.latest_date || "—")}</span>
       </div>
       <table>
         <thead><tr><th>Date</th><th>State</th><th>County</th><th>Premises</th><th>Notes</th></tr></thead>

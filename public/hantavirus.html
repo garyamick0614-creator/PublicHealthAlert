@@ -86,7 +86,7 @@
       <h1>Hantavirus Outbreaks — United States</h1>
       <p style="margin: 0; color: var(--muted); max-width: 70ch;">A dedicated tracker for hantavirus pulmonary syndrome (HPS) across U.S. states. We pull case counts from CDC, advisories from CDC's Health Alert Network and state health departments in the 14 most-affected states, and rolling 90-day news coverage from regional outlets. HPS has a roughly 38% case-fatality rate per CDC, so any cluster matters.</p>
       <div class="hv-statgrid" id="hvStats">
-        <div class="hv-stat"><div class="label">Total cumulative cases</div><div class="value" id="statTotal">—</div><div class="sub">across hv_cases table</div></div>
+        <div class="hv-stat"><div class="label">Total cumulative cases</div><div class="value" id="statTotal">—</div><div class="sub">across all U.S. states on record</div></div>
         <div class="hv-stat"><div class="label">States with cases</div><div class="value" id="statStates">—</div><div class="sub">recorded in data</div></div>
         <div class="hv-stat"><div class="label">Case-fatality rate</div><div class="value">~38%</div><div class="sub">CDC HPS overview</div></div>
         <div class="hv-stat"><div class="label">Last update</div><div class="value" id="statLastRun">—</div><div class="sub">UTC</div></div>
@@ -222,7 +222,7 @@
 
       function renderStats() {
         $('#statTotal').textContent = (snapshot.totals?.cases_all_time ?? 0).toLocaleString();
-        $('#statStates').textContent = snapshot.totals?.states_with_cases ?? 0;
+        $('#statStates').textContent = (snapshot.stateRollup || []).filter(r => (r.total || 0) > 0).length || (snapshot.totals?.states_with_cases ?? 0);
         const lr = snapshot.lastRun?.ts || snapshot.generatedAt;
         $('#statLastRun').textContent = fmtTs(lr);
       }
