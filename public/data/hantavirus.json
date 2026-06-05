@@ -1,25 +1,284 @@
 {
-  "generatedAt": "2026-06-04T21:53:08.970Z",
+  "generatedAt": "2026-06-05T09:55:17.198Z",
   "lastRun": {
-    "ts": "2026-06-04T21:53:08.924Z",
+    "ts": "2026-06-05T09:55:17.176Z",
     "source_kind": "news",
-    "items_inserted": 22,
-    "items_skipped": 278,
+    "items_inserted": 16,
+    "items_skipped": 284,
     "error_message": "firecrawl-search-skipped-quota-402"
   },
   "totals": {
-    "cases_all_time": 49,
-    "states_with_cases": 1,
+    "cases_all_time": 78,
+    "states_with_cases": 51,
     "mortality_rate_pct": 38
   },
   "stateRollup": [
     {
       "state_code": "MT",
       "state": "Montana",
-      "total": 49
+      "total": 50
+    },
+    {
+      "state_code": "NM",
+      "state": "New Mexico",
+      "total": 4
+    },
+    {
+      "state_code": "CO",
+      "state": "Colorado",
+      "total": 3
+    },
+    {
+      "state_code": "NV",
+      "state": "Nevada",
+      "total": 3
+    },
+    {
+      "state_code": "AZ",
+      "state": "Arizona",
+      "total": 2
+    },
+    {
+      "state_code": "CA",
+      "state": "California",
+      "total": 2
+    },
+    {
+      "state_code": "ME",
+      "state": "Maine",
+      "total": 2
+    },
+    {
+      "state_code": "OR",
+      "state": "Oregon",
+      "total": 2
+    },
+    {
+      "state_code": "UT",
+      "state": "Utah",
+      "total": 2
+    },
+    {
+      "state_code": "ID",
+      "state": "Idaho",
+      "total": 1
+    },
+    {
+      "state_code": "IL",
+      "state": "Illinois",
+      "total": 1
+    },
+    {
+      "state_code": "KS",
+      "state": "Kansas",
+      "total": 1
+    },
+    {
+      "state_code": "KY",
+      "state": "Kentucky",
+      "total": 1
+    },
+    {
+      "state_code": "ND",
+      "state": "North Dakota",
+      "total": 1
+    },
+    {
+      "state_code": "NY",
+      "state": "New York",
+      "total": 1
+    },
+    {
+      "state_code": "WA",
+      "state": "Washington",
+      "total": 1
+    },
+    {
+      "state_code": "WV",
+      "state": "West Virginia",
+      "total": 1
+    },
+    {
+      "state_code": "AK",
+      "state": "Alaska",
+      "total": 0
+    },
+    {
+      "state_code": "AL",
+      "state": "Alabama",
+      "total": 0
+    },
+    {
+      "state_code": "AR",
+      "state": "Arkansas",
+      "total": 0
+    },
+    {
+      "state_code": "DC",
+      "state": "District of Columbia",
+      "total": 0
+    },
+    {
+      "state_code": "DE",
+      "state": "Delaware",
+      "total": 0
+    },
+    {
+      "state_code": "FL",
+      "state": "Florida",
+      "total": 0
+    },
+    {
+      "state_code": "GA",
+      "state": "Georgia",
+      "total": 0
+    },
+    {
+      "state_code": "HI",
+      "state": "Hawaii",
+      "total": 0
+    },
+    {
+      "state_code": "IA",
+      "state": "Iowa",
+      "total": 0
+    },
+    {
+      "state_code": "IN",
+      "state": "Indiana",
+      "total": 0
+    },
+    {
+      "state_code": "LA",
+      "state": "Louisiana",
+      "total": 0
+    },
+    {
+      "state_code": "MA",
+      "state": "Massachusetts",
+      "total": 0
+    },
+    {
+      "state_code": "MD",
+      "state": "Maryland",
+      "total": 0
+    },
+    {
+      "state_code": "MI",
+      "state": "Michigan",
+      "total": 0
+    },
+    {
+      "state_code": "MN",
+      "state": "Minnesota",
+      "total": 0
+    },
+    {
+      "state_code": "MO",
+      "state": "Missouri",
+      "total": 0
+    },
+    {
+      "state_code": "MS",
+      "state": "Mississippi",
+      "total": 0
+    },
+    {
+      "state_code": "NC",
+      "state": "North Carolina",
+      "total": 0
+    },
+    {
+      "state_code": "NE",
+      "state": "Nebraska",
+      "total": 0
+    },
+    {
+      "state_code": "NH",
+      "state": "New Hampshire",
+      "total": 0
+    },
+    {
+      "state_code": "NJ",
+      "state": "New Jersey",
+      "total": 0
+    },
+    {
+      "state_code": "OH",
+      "state": "Ohio",
+      "total": 0
+    },
+    {
+      "state_code": "OK",
+      "state": "Oklahoma",
+      "total": 0
+    },
+    {
+      "state_code": "PA",
+      "state": "Pennsylvania",
+      "total": 0
+    },
+    {
+      "state_code": "PR",
+      "state": "Puerto Rico",
+      "total": 0
+    },
+    {
+      "state_code": "RI",
+      "state": "Rhode Island",
+      "total": 0
+    },
+    {
+      "state_code": "SC",
+      "state": "South Carolina",
+      "total": 0
+    },
+    {
+      "state_code": "SD",
+      "state": "South Dakota",
+      "total": 0
+    },
+    {
+      "state_code": "TN",
+      "state": "Tennessee",
+      "total": 0
+    },
+    {
+      "state_code": "TX",
+      "state": "Texas",
+      "total": 0
+    },
+    {
+      "state_code": "VA",
+      "state": "Virginia",
+      "total": 0
+    },
+    {
+      "state_code": "VT",
+      "state": "Vermont",
+      "total": 0
+    },
+    {
+      "state_code": "WI",
+      "state": "Wisconsin",
+      "total": 0
+    },
+    {
+      "state_code": "WY",
+      "state": "Wyoming",
+      "total": 0
     }
   ],
-  "yearRollup": [],
+  "yearRollup": [
+    {
+      "year": 2026,
+      "total": 13
+    },
+    {
+      "year": 2025,
+      "total": 16
+    }
+  ],
   "recentAdvisories": [
     {
       "id": 14,
@@ -164,6 +423,105 @@
   ],
   "recentNews": [
     {
+      "id": 622,
+      "headline": "Commentary: The most concerning outbreak right now isn’t Ebola or hantavirus - Saw Swee Hock School of Public Health",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFVpd0s1M2lFZTltTzI5Q1ZwSE1ocmdOdmxUejllcFRKWVZMU3E4WlkwSmt6a2cxTVh0M0dlNi1PbmpXazB0cnRpUlIzQVJVMmtXdzNmeHl6b0l3MU5fZHJqNWhvOXB0RDNZZGlndGdDUS0tWFdrNW5rQzYxWEFZcWRnd3RybjRBRWc4akJUXzZrM29fdlFGdWtTYThDbmdxQlVHNVRn?oc=5\" target=\"_blank\"&gt;Commentary: The most concerning outbreak right now isn’t Ebola or hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Saw Swee Hock School of Public Health&lt;/font&gt;",
+      "publisher": "Saw Swee Hock School of Public Health",
+      "published_at": "2026-06-05T09:25:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFVpd0s1M2lFZTltTzI5Q1ZwSE1ocmdOdmxUejllcFRKWVZMU3E4WlkwSmt6a2cxTVh0M0dlNi1PbmpXazB0cnRpUlIzQVJVMmtXdzNmeHl6b0l3MU5fZHJqNWhvOXB0RDNZZGlndGdDUS0tWFdrNW5rQzYxWEFZcWRnd3RybjRBRWc4akJUXzZrM29fdlFGdWtTYThDbmdxQlVHNVRn?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T09:55:15.962Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 625,
+      "headline": "Is the hantavirus outbreak a warning sign of climate change? - Modern Ghana",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4bUJSYjYwRnZIMHZNRktBTGdvM3d0WnFqZEtFTmVJeThnV0ZZMDJXNDNhNmV0REs5WnkySnRLdXVuX0xrNHlDN3JsMTRMdVdNTWZvTXVQb1M3Mml1X0UzWVdR0gFcQVVfeXFMUGdfSWNQUk9iR3NnelhvQnZlZi1ORkQzMk54cXJMZ3lwdHE4WDhfLVFMTUF4eklJbU1HVXczYkFJMlhzaWNaeHVvdVM0UGg3S19oQlBzWUd4TUQ1aHE?oc=5\" target=\"_blank\"&gt;Is the hantavirus outbreak a warning sign of climate change?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Modern Ghana&lt;/font&gt;",
+      "publisher": "Modern Ghana",
+      "published_at": "2026-06-05T08:41:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4bUJSYjYwRnZIMHZNRktBTGdvM3d0WnFqZEtFTmVJeThnV0ZZMDJXNDNhNmV0REs5WnkySnRLdXVuX0xrNHlDN3JsMTRMdVdNTWZvTXVQb1M3Mml1X0UzWVdR0gFcQVVfeXFMUGdfSWNQUk9iR3NnelhvQnZlZi1ORkQzMk54cXJMZ3lwdHE4WDhfLVFMTUF4eklJbU1HVXczYkFJMlhzaWNaeHVvdVM0UGg3S19oQlBzWUd4TUQ1aHE?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T09:55:15.968Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 618,
+      "headline": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' - Yahoo",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3RFTy1IUnlPZTlGbmp1TTZaOUNNcjZ5TlVWM1lkMWpHQ0JGMy01TWVmdFNubmd6MFpSYUZJU1prSEt1YWtCa21CWlBQZmFibGt1OUloTDlqOWJQUnZrX005VHRyOFAtaDFFdldYRnN0ZjVMNkVoNmxGTERIdHBJbkZrUVN5ekVwdzZIU2l0aDBoal9sUTE1a056cWIzS2V3?oc=5\" target=\"_blank\"&gt;Experts refute claims hantavirus derived name from Hebrew for 'nonsense'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
+      "publisher": "Yahoo",
+      "published_at": "2026-06-05T08:38:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3RFTy1IUnlPZTlGbmp1TTZaOUNNcjZ5TlVWM1lkMWpHQ0JGMy01TWVmdFNubmd6MFpSYUZJU1prSEt1YWtCa21CWlBQZmFibGt1OUloTDlqOWJQUnZrX005VHRyOFAtaDFFdldYRnN0ZjVMNkVoNmxGTERIdHBJbkZrUVN5ekVwdzZIU2l0aDBoal9sUTE1a056cWIzS2V3?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T09:55:15.955Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 619,
+      "headline": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' - Yahoo News Malaysia",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHRHZDBzanJTQjdiN3BiUzRsd2VTUFlZMjFfeXhVQWFtUm1FT3lTcGFNZGIwS1FxUGM5d1FiYm55VnB0M2ZSVkhYNDU4ZEVldHItS2h2TmN6UTVhYjh2V3Y3dEJWaTZYdkk1emFPZnQzNV9kTWNkb0txN29DcG5EajFnVXpsRy1HNHAzaUwwSDk?oc=5\" target=\"_blank\"&gt;Experts refute claims hantavirus derived name from Hebrew for 'nonsense'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo News Malaysia&lt;/font&gt;",
+      "publisher": "Yahoo News Malaysia",
+      "published_at": "2026-06-05T08:38:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHRHZDBzanJTQjdiN3BiUzRsd2VTUFlZMjFfeXhVQWFtUm1FT3lTcGFNZGIwS1FxUGM5d1FiYm55VnB0M2ZSVkhYNDU4ZEVldHItS2h2TmN6UTVhYjh2V3Y3dEJWaTZYdkk1emFPZnQzNV9kTWNkb0txN29DcG5EajFnVXpsRy1HNHAzaUwwSDk?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T09:55:15.957Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 617,
+      "headline": "I Was on the Deadly Hantavirus Cruise. Now I'm One of 18 People in Quarantine. - Outside Magazine",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNV3FfNEZOUy1zdmd4QTBrQV9oakY5bmVndE1jN21hVk9YbVVIazJvM3NLOWlaYUZzYXlXVTBnN3pTUy1zN2RFT2JHTk1CQWplRy1wV1lKWmV6Y3BfYlVHc0M0c3d5RGJjUFF1ZGdJY3lIdlJwcjJ0NGdjUGVlRW9sNw?oc=5\" target=\"_blank\"&gt;I Was on the Deadly Hantavirus Cruise. Now I'm One of 18 People in Quarantine.&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Outside Magazine&lt;/font&gt;",
+      "publisher": "Outside Magazine",
+      "published_at": "2026-06-05T07:12:38.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV3FfNEZOUy1zdmd4QTBrQV9oakY5bmVndE1jN21hVk9YbVVIazJvM3NLOWlaYUZzYXlXVTBnN3pTUy1zN2RFT2JHTk1CQWplRy1wV1lKWmV6Y3BfYlVHc0M0c3d5RGJjUFF1ZGdJY3lIdlJwcjJ0NGdjUGVlRW9sNw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T09:55:15.933Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 620,
+      "headline": "OR: DOC BACK HOME AFTER HANTAVIRUS OUTBREAK ON SHIP - Local 3 News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRXRadjE4MGt6TlZveWh5LW9XOHdWTDJSNFRVbjY3M2YzSFQtV1p4Q1l2YXZ5VHlTam04dzdKUmdOWGRYaXhSMXlHYnU2aWpsVDJ0SHBidC1oTzVKQkdEanU1ZDEyT1VFQzlHZmlSVWdra0hPTUpXMDBySVpiREU2NVJtbjlTQjQ1UWMxb3dEUEVqdDJmM3l3M0pUQUllUUVGZm9qbjJyeUJTdC1GZ1hpeG4tOGJZbU5ZcFpOd1hyVXhfX0hHZlJTM2dLZG9MRDF2RFNfQmdPaWZRMjA?oc=5\" target=\"_blank\"&gt;OR: DOC BACK HOME AFTER HANTAVIRUS OUTBREAK ON SHIP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Local 3 News&lt;/font&gt;",
+      "publisher": "Local 3 News",
+      "published_at": "2026-06-05T03:00:03.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRXRadjE4MGt6TlZveWh5LW9XOHdWTDJSNFRVbjY3M2YzSFQtV1p4Q1l2YXZ5VHlTam04dzdKUmdOWGRYaXhSMXlHYnU2aWpsVDJ0SHBidC1oTzVKQkdEanU1ZDEyT1VFQzlHZmlSVWdra0hPTUpXMDBySVpiREU2NVJtbjlTQjQ1UWMxb3dEUEVqdDJmM3l3M0pUQUllUUVGZm9qbjJyeUJTdC1GZ1hpeG4tOGJZbU5ZcFpOd1hyVXhfX0hHZlJTM2dLZG9MRDF2RFNfQmdPaWZRMjA?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T09:55:15.959Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 623,
+      "headline": "Spain discharges first Hantavirus patient linked to MV Hondius outbreak - Qazinform",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVjNzNFlrRVdXZ29Qcnp0dWJlVTV3aDRuT0VYZHFHZGpwVGRTVkxVNmo5aGY2RVlYY01EYWc4OFA5MGNFVzVUWEpoUmxoVW9CZmdsVFNyRm5CYlJXU3ZWZUpqM05qZmVkVHRHbS1FZGZYdFZySmgtbHVHTzdlTUdMR1hZZmdBVnpENk16TUk0MnFUbW4wV0thTlU4Nk9MMTdNeE83WUVETUTSAagBQVVfeXFMT1YyVVI1Y2FRblJZR09MQjFiaURlT2JhcGk4YWNtdkwzVllXeG1QbDdIaS1kOHYzM0R1NDlCcHU5emNyUkhSYVZuX1l3Qm40aS0wSkpJT2k4ZG1MbTRWVTBlXzQyVUJKcTFPMWQ5ZGhzUTd2ZWx4cFVVRnlLdkhpelJtOWdqSi1WN2NFT3RZNmhYZGV5Z0NDTk9WRDNLVl9NYjRtRVdrc3VF?oc=5\" target=\"_blank\"&gt;Spain discharges first Hantavirus patient linked to MV Hondius outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Qazinform&lt;/font&gt;",
+      "publisher": "Qazinform",
+      "published_at": "2026-06-05T00:45:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVjNzNFlrRVdXZ29Qcnp0dWJlVTV3aDRuT0VYZHFHZGpwVGRTVkxVNmo5aGY2RVlYY01EYWc4OFA5MGNFVzVUWEpoUmxoVW9CZmdsVFNyRm5CYlJXU3ZWZUpqM05qZmVkVHRHbS1FZGZYdFZySmgtbHVHTzdlTUdMR1hZZmdBVnpENk16TUk0MnFUbW4wV0thTlU4Nk9MMTdNeE83WUVETUTSAagBQVVfeXFMT1YyVVI1Y2FRblJZR09MQjFiaURlT2JhcGk4YWNtdkwzVllXeG1QbDdIaS1kOHYzM0R1NDlCcHU5emNyUkhSYVZuX1l3Qm40aS0wSkpJT2k4ZG1MbTRWVTBlXzQyVUJKcTFPMWQ5ZGhzUTd2ZWx4cFVVRnlLdkhpelJtOWdqSi1WN2NFT3RZNmhYZGV5Z0NDTk9WRDNLVl9NYjRtRVdrc3VF?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T09:55:15.962Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 628,
+      "headline": "Hantavirus not new pandemic threat but risks should not be ignored, says specialist - Borneo Post",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUt6UVE1Z1M1WTdRTVZjVEZYaEVwNmRoaDdHUGxaN3BBYTMyYjRtaEQ0OTJoOXhOTDhyRGZ5NHRFaTNrTU5sNkVpTmxkRExqS2x3WmttYWd1UGstWklfRmZhb1dDNG1YSkJKbDlwZFB0TzdueTlrcGJuWkRmbC1DQjFBWkduNGt5SGZwS0hSMnY2QUwwTjgzdGZlVEtodmNTQzBjMHRITEZPWXFObVdNT1VtTk54UmhvdEwyV29iZjE0UQ?oc=5\" target=\"_blank\"&gt;Hantavirus not new pandemic threat but risks should not be ignored, says specialist&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Borneo Post&lt;/font&gt;",
+      "publisher": "Borneo Post",
+      "published_at": "2026-06-05T00:02:55.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUt6UVE1Z1M1WTdRTVZjVEZYaEVwNmRoaDdHUGxaN3BBYTMyYjRtaEQ0OTJoOXhOTDhyRGZ5NHRFaTNrTU5sNkVpTmxkRExqS2x3WmttYWd1UGstWklfRmZhb1dDNG1YSkJKbDlwZFB0TzdueTlrcGJuWkRmbC1DQjFBWkduNGt5SGZwS0hSMnY2QUwwTjgzdGZlVEtodmNTQzBjMHRITEZPWXFObVdNT1VtTk54UmhvdEwyV29iZjE0UQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T09:55:16.442Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 609,
+      "headline": "Bend Doctor Who Took Charge During Deadly Hantavirus Outbreak Finally Returns Home - KTVZ",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONTV6TVhYNG1sN01jbUhRdkNpM0FCaHdYWFdoU0JZN3I5ZDlBNzhKd3FvYlNvY1A2dG1nTnJIbWlWZ3RBc0hJWnZaZmtUSDdWRFczeVFla01IQ1laSEZhREp3MkhGdE5MQlN1TVlnbDZSLWF3WHBzdkJwVElabU1HcFF1NWR3NUZmZjhBbE10VXVqT3JBX1BkY1VIUkt2OGZMUVIyTW1Va2dQMEJjZGJmUjdPZFQ1WWtBc0RmSUVITmNac2I3VE52ZERtWQ?oc=5\" target=\"_blank\"&gt;Bend Doctor Who Took Charge During Deadly Hantavirus Outbreak Finally Returns Home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KTVZ&lt;/font&gt;",
+      "publisher": "KTVZ",
+      "published_at": "2026-06-04T23:32:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONTV6TVhYNG1sN01jbUhRdkNpM0FCaHdYWFdoU0JZN3I5ZDlBNzhKd3FvYlNvY1A2dG1nTnJIbWlWZ3RBc0hJWnZaZmtUSDdWRFczeVFla01IQ1laSEZhREp3MkhGdE5MQlN1TVlnbDZSLWF3WHBzdkJwVElabU1HcFF1NWR3NUZmZjhBbE10VXVqT3JBX1BkY1VIUkt2OGZMUVIyTW1Va2dQMEJjZGJmUjdPZFQ1WWtBc0RmSUVITmNac2I3VE52ZERtWQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T23:37:14.068Z",
+      "mentioned_states": []
+    },
+    {
       "id": 590,
       "headline": "Hantavirus and Ebola strain a post-Trump global health system - Good Authority",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnRmVEVDOUxMRlVCTWxGb3lyVmkxNHhHM3M1b3k2U2QtendsQ1haQW5KLW5Wall3LXhIOHFCajZQWHRPa3RySjZzU3hmUzRtcUd3XzBKald3V05ub1ZKTDRMV2kxdFRBTU1feFA2X3ZqX3FJTjlxN3ZPMl9EU0R3VGdzZmdSYk0xOTBKUzVpMEd0UGVrMXRkWQ?oc=5\" target=\"_blank\"&gt;Hantavirus and Ebola strain a post-Trump global health system&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Good Authority&lt;/font&gt;",
@@ -208,6 +566,17 @@
       "mentioned_states": []
     },
     {
+      "id": 610,
+      "headline": "A cruise ship outbreak made the world aware of hantavirus. Scientists want to use this new fame - AOL.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQekp6RjFEUFFJRVd6RVFWeWdZakNqTURIdUd1bFNfN1RkRFplUDJlVkVXRUdPQk1FN1ZCMktQeFp4V1BfcGU1OEZLN1NFYlk5bGM4MGZ5T2dzVVJPSGlGakhHcl9OMVVOcUlmZ2NDOHByTDlBQWtBUjhLWmZMbGFtYw?oc=5\" target=\"_blank\"&gt;A cruise ship outbreak made the world aware of hantavirus. Scientists want to use this new fame&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
+      "publisher": "AOL.com",
+      "published_at": "2026-06-04T13:38:16.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQekp6RjFEUFFJRVd6RVFWeWdZakNqTURIdUd1bFNfN1RkRFplUDJlVkVXRUdPQk1FN1ZCMktQeFp4V1BfcGU1OEZLN1NFYlk5bGM4MGZ5T2dzVVJPSGlGakhHcl9OMVVOcUlmZ2NDOHByTDlBQWtBUjhLWmZMbGFtYw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-04T23:37:14.091Z",
+      "mentioned_states": []
+    },
+    {
       "id": 589,
       "headline": "County health officials: No ‘immediate risk’ locally from hantavirus, Ebola - Olean Times Herald",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVE16bE1NdWdSd1pYWnRhVFVwTDlRZU1weVFsY0x1TF9oVm5DSDE1NGQ3a3l2VnNIa3JyVnU4bEMzZHlvYXVZRGJHbkFwVW1QcGJuLWEzN21IMFhvV0VBS3FTYTZkUXRQYnBla0taRU9qTWh3cmZFNUtZa3VoeFVvZGZBSk9EOHJkY2Roek1XVmdUQ1R2ZzR4LWVPRklCWEZfdTBUaURydmtXSFlGdUQ1clFmTlVEWXc?oc=5\" target=\"_blank\"&gt;County health officials: No ‘immediate risk’ locally from hantavirus, Ebola&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Olean Times Herald&lt;/font&gt;",
@@ -241,6 +610,17 @@
       "mentioned_states": []
     },
     {
+      "id": 621,
+      "headline": "Amid Ebola, Hantavirus Outbreaks, Democrats Decry Trump’s Health Cuts - Cancer Health",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNUERxSEU3aFlKcnE4UWxNSDd5YllqZWtGVlZzbGJkQzUxbkxRQl9lUEtRZExWR2p4a3dYckdaX19fNTFMZDhBbkZsd092R0w3b2M5NkRkQXVrNVg2ZDZWMHJvOXEyemY0NUNYYVMtQ2FHT19OWkZvbUp3X0tTcGFGbW9ZZjdxR3JvNnNBNk9WWDM3NDhTcHpoSUp6U3o2d09ENlRpbEpR?oc=5\" target=\"_blank\"&gt;Amid Ebola, Hantavirus Outbreaks, Democrats Decry Trump’s Health Cuts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Cancer Health&lt;/font&gt;",
+      "publisher": "Cancer Health",
+      "published_at": "2026-06-04T10:07:18.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUERxSEU3aFlKcnE4UWxNSDd5YllqZWtGVlZzbGJkQzUxbkxRQl9lUEtRZExWR2p4a3dYckdaX19fNTFMZDhBbkZsd092R0w3b2M5NkRkQXVrNVg2ZDZWMHJvOXEyemY0NUNYYVMtQ2FHT19OWkZvbUp3X0tTcGFGbW9ZZjdxR3JvNnNBNk9WWDM3NDhTcHpoSUp6U3o2d09ENlRpbEpR?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T09:55:15.962Z",
+      "mentioned_states": []
+    },
+    {
       "id": 596,
       "headline": "EU secures emergency deliveries of potential treatment against hantavirus - BusinessWorld - BusinessWorld Online",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTZoc2EtY0lRYVVyUUl1T2RkTnBQaURvTFdUNTMwX2lzcTlmZ2R1RDNTVmdjRlNmc3BGU2d1Y3NnTzhCVEgwNUhyWXoxalhTeThWamhJeDQ2U0cyNEVVNUFlb21sTW1YRlVpT0lYSmp6elZaUjRQVUx0a2tOVE56V0p6ZHdGdWc2eFFIV05TVlM1dHc4TThWQkEyYWxZWTdTOFhkUkpGclBTdlZTc2xra2xtYkNZZnF1aDRESWRDR1M?oc=5\" target=\"_blank\"&gt;EU secures emergency deliveries of potential treatment against hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BusinessWorld - BusinessWorld Online&lt;/font&gt;",
@@ -260,6 +640,17 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SUkEtcm1SUk40OFF6aHEydFBCcDUyQVd1Y3Jrdk1VTzhELTFrcjduSm40OWF0cjR5UWFfRjlGVmRteDdHU2NHZ1VmV0V5OEZCYml4cU54Um9VM0lkUFBR?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-04T09:53:18.698Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 624,
+      "headline": "A cruise ship outbreak made the hantavirus famous. Scientists want to use this fame - The Independent",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHlxYUY1Ujd1Q0YyakZseUEycUlEbTUtaDlHTE5DSWQtLTViQ2swYUhNMzc5eEhpRW1lNENydlRfbjF6bWVJZjZfbGJxd1BKQnkxVW51cWs2OUhQNFhaXzNPZ2tOcDIyVXBGak5qQ21oOXVkNWFoNW14R3BsSTBSOG1RY1MxQk9ZXzVibWJqbUdDcU1m?oc=5\" target=\"_blank\"&gt;A cruise ship outbreak made the hantavirus famous. Scientists want to use this fame&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Independent&lt;/font&gt;",
+      "publisher": "The Independent",
+      "published_at": "2026-06-04T06:21:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHlxYUY1Ujd1Q0YyakZseUEycUlEbTUtaDlHTE5DSWQtLTViQ2swYUhNMzc5eEhpRW1lNENydlRfbjF6bWVJZjZfbGJxd1BKQnkxVW51cWs2OUhQNFhaXzNPZ2tOcDIyVXBGak5qQ21oOXVkNWFoNW14R3BsSTBSOG1RY1MxQk9ZXzVibWJqbUdDcU1m?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T09:55:15.966Z",
       "mentioned_states": []
     },
     {
@@ -588,162 +979,6 @@
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-03T09:54:58.070Z",
       "mentioned_states": []
-    },
-    {
-      "id": 516,
-      "headline": "First hantavirus death reported in Arizona in 2026 - AZ Family",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5\" target=\"_blank\"&gt;First hantavirus death reported in Arizona in 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AZ Family&lt;/font&gt;",
-      "publisher": "AZ Family",
-      "published_at": "2026-06-03T04:33:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T09:54:59.937Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 511,
-      "headline": "First hantavirus death in 2026 reported in Arizona - WDBJ7",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUd5VXFDLUh1UG0tb0lmZ0Nya2tFV2k5Sk95T0xJMkQ0aGItTFNqMldZbmVYeTBSZmQ0VVdsNGtpb19TRjN0eDM4S2hITDM5UGJacW1JUmk3cjZoYVFLWnlyTjh4aXdJZHJSaWpFZWpHZWdjTlAxVy1sRDlSSGNmWGE5OE83OXBKRV9uaQ?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WDBJ7&lt;/font&gt;",
-      "publisher": "WDBJ7",
-      "published_at": "2026-06-03T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUd5VXFDLUh1UG0tb0lmZ0Nya2tFV2k5Sk95T0xJMkQ0aGItTFNqMldZbmVYeTBSZmQ0VVdsNGtpb19TRjN0eDM4S2hITDM5UGJacW1JUmk3cjZoYVFLWnlyTjh4aXdJZHJSaWpFZWpHZWdjTlAxVy1sRDlSSGNmWGE5OE83OXBKRV9uaQ?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T09:54:58.071Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 513,
-      "headline": "First hantavirus death in 2026 reported in Arizona - KPTV",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWUJnX0xETk1xZ2hTWUZwQkxGMy1PVkFvVlAzOV9hMHpYeVo3Tks0c3FHclBIQThBUHpvbHg5WlhJdktKNWFHREsyeTh3bzk0ODdNT2JSZXdWM0diU1JFaWdSdE9KeUhicV9hc1BuZmZXcUNfRi1MODA3UkZWRThER1FXRUNWUE5vRlBN?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KPTV&lt;/font&gt;",
-      "publisher": "KPTV",
-      "published_at": "2026-06-03T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWUJnX0xETk1xZ2hTWUZwQkxGMy1PVkFvVlAzOV9hMHpYeVo3Tks0c3FHclBIQThBUHpvbHg5WlhJdktKNWFHREsyeTh3bzk0ODdNT2JSZXdWM0diU1JFaWdSdE9KeUhicV9hc1BuZmZXcUNfRi1MODA3UkZWRThER1FXRUNWUE5vRlBN?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T09:54:59.810Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 518,
-      "headline": "First hantavirus death in 2026 reported in Arizona - fox8live.com",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0lYX09ITTQtZ2s0WTVBczljY2ZwbjZnaVUwMkRDRF9KQzZsQ1JVdE03VWFqSEhqT2I0UTEzRUYteWFlSXVXckg1V3FOUVVQNU5FbHBteV9sa2ozRkw1SDQzZ2R3UHI3ZTVCb2ZsRFZveFZXQnFXZGZIUDQxaDN5VGlpUDhta1V5TkxmeG5ZNlI?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;fox8live.com&lt;/font&gt;",
-      "publisher": "fox8live.com",
-      "published_at": "2026-06-03T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0lYX09ITTQtZ2s0WTVBczljY2ZwbjZnaVUwMkRDRF9KQzZsQ1JVdE03VWFqSEhqT2I0UTEzRUYteWFlSXVXckg1V3FOUVVQNU5FbHBteV9sa2ozRkw1SDQzZ2R3UHI3ZTVCb2ZsRFZveFZXQnFXZGZIUDQxaDN5VGlpUDhta1V5TkxmeG5ZNlI?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T09:55:00.263Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 537,
-      "headline": "First hantavirus death in 2026 reported in Arizona - WAFF",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUJRcklUOW05U3lYQWEyeTlVTTRnSXpyOU94Qm91WlFnUWZwYi1ZYmJQUlFOa2N4c0JvdmJrX3JYRUlaVkJhOU5QTmZlbFlCRTZEQ1pKc0hzWVBOOENQT2h4ME92d3hMRWhmNkFWSThMNm9UZ0ZIdUdYeFlIOU5KbXdCMTRJRVJadGNR?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WAFF&lt;/font&gt;",
-      "publisher": "WAFF",
-      "published_at": "2026-06-03T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUJRcklUOW05U3lYQWEyeTlVTTRnSXpyOU94Qm91WlFnUWZwYi1ZYmJQUlFOa2N4c0JvdmJrX3JYRUlaVkJhOU5QTmZlbFlCRTZEQ1pKc0hzWVBOOENQT2h4ME92d3hMRWhmNkFWSThMNm9UZ0ZIdUdYeFlIOU5KbXdCMTRJRVJadGNR?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T22:13:20.193Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 538,
-      "headline": "First hantavirus death in 2026 reported in Arizona - WALB",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWVBa3JvdkdFM2paVklxQ0tSSFQwR2liOTR6RmQ0eWpKcGtJX29NeVdDZ000X3VSY3ozV29VdW16Rm9QdkllTjFqZ29PVFozMEllR2ZQeWVNYVVWT01PMlRQTl82MGUyc3BtSXc3dF9sVGFXal9HUGxWdmZhMlJPYjR5dXRELUFRTkI4?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WALB&lt;/font&gt;",
-      "publisher": "WALB",
-      "published_at": "2026-06-03T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWVBa3JvdkdFM2paVklxQ0tSSFQwR2liOTR6RmQ0eWpKcGtJX29NeVdDZ000X3VSY3ozV29VdW16Rm9QdkllTjFqZ29PVFozMEllR2ZQeWVNYVVWT01PMlRQTl82MGUyc3BtSXc3dF9sVGFXal9HUGxWdmZhMlJPYjR5dXRELUFRTkI4?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T22:13:20.194Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 539,
-      "headline": "First hantavirus death in 2026 reported in Arizona - WAVE News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0c05FMFZqTHFSLU5yZGw0YXRKWklxMWNnYXdyN25XWm42OVdQc3U2SG1pck1wOHpoVXJKRlhmMTAyVTAyT2N2UUlHM3E0Uk5MaXh4UnlzQ3lXWE9TVm15X1NoOFM4bmdEX3JEdEVWdE91cmFtSE42ZWtKUHdhTzhxdzExMWtYLVdQMQ?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WAVE News&lt;/font&gt;",
-      "publisher": "WAVE News",
-      "published_at": "2026-06-03T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0c05FMFZqTHFSLU5yZGw0YXRKWklxMWNnYXdyN25XWm42OVdQc3U2SG1pck1wOHpoVXJKRlhmMTAyVTAyT2N2UUlHM3E0Uk5MaXh4UnlzQ3lXWE9TVm15X1NoOFM4bmdEX3JEdEVWdE91cmFtSE42ZWtKUHdhTzhxdzExMWtYLVdQMQ?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T22:13:20.194Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 540,
-      "headline": "First hantavirus death in 2026 reported in Arizona - Hawaii News Now",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNa01GbW8zaFNXYVFxOWFMbU5kR2o4VG1rNFFQUDBqczBYVjIyNElHQVdJNzF0TXF5RXBRNng5clhFemQxcWVLQTFQUGFFbHVNQXNRU1VwdWRGam16RkluUmpvdVZGcDZTRjI4V05PWktneGEydXZoUC1KTnRYdlc4Q2x4WEhDV3VBZ01zZ2RyWTVjLV96ZGJZ?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Hawaii News Now&lt;/font&gt;",
-      "publisher": "Hawaii News Now",
-      "published_at": "2026-06-03T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa01GbW8zaFNXYVFxOWFMbU5kR2o4VG1rNFFQUDBqczBYVjIyNElHQVdJNzF0TXF5RXBRNng5clhFemQxcWVLQTFQUGFFbHVNQXNRU1VwdWRGam16RkluUmpvdVZGcDZTRjI4V05PWktneGEydXZoUC1KTnRYdlc4Q2x4WEhDV3VBZ01zZ2RyWTVjLV96ZGJZ?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T22:13:20.194Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 541,
-      "headline": "First hantavirus death in 2026 reported in Arizona - WBTV",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0lnQXVUenNtc2NaekhmR0E2QWt5dFR2bUNPZ214VktYclVlX1g4UWF0aUFrTVJCTzA5YW5tRGtjN1pvcFJSRlFzbXMtdUIyc2NCZU13TkcxWXRMNTZaeGItRkF2Q1hiQ3RNTWtSdDhZdHdDNEV4bF9uOTVqRUhYZTBIVTh1T3hoUFFB?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WBTV&lt;/font&gt;",
-      "publisher": "WBTV",
-      "published_at": "2026-06-03T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0lnQXVUenNtc2NaekhmR0E2QWt5dFR2bUNPZ214VktYclVlX1g4UWF0aUFrTVJCTzA5YW5tRGtjN1pvcFJSRlFzbXMtdUIyc2NCZU13TkcxWXRMNTZaeGItRkF2Q1hiQ3RNTWtSdDhZdHdDNEV4bF9uOTVqRUhYZTBIVTh1T3hoUFFB?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T22:13:20.196Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 542,
-      "headline": "First hantavirus death in 2026 reported in Arizona - WSAZ",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnc0ckZnY1VaY3NEOXZLc1BxVWM0X1Vua3Vhb1YxTThiZkRHWkk4djA2RzNXOHlCWER5WDhUZlBxU2VreWVYQ3VxZEtMMG96dlN4OUx0WVAxLV9OZ2dxbi1Nc0kwVHBUS3VKMWxRLUVZN3ZCTEwtSGZ6UVMyWU50MzB4b3hrXzJHblJR?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WSAZ&lt;/font&gt;",
-      "publisher": "WSAZ",
-      "published_at": "2026-06-03T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnc0ckZnY1VaY3NEOXZLc1BxVWM0X1Vua3Vhb1YxTThiZkRHWkk4djA2RzNXOHlCWER5WDhUZlBxU2VreWVYQ3VxZEtMMG96dlN4OUx0WVAxLV9OZ2dxbi1Nc0kwVHBUS3VKMWxRLUVZN3ZCTEwtSGZ6UVMyWU50MzB4b3hrXzJHblJR?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T22:13:20.197Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 565,
-      "headline": "First hantavirus death in 2026 reported in Arizona - WTOC",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGN5djNpOG5ZSC1MVWZEZ1JvRm5JbV9helVGZ3hfM2tYMDJWT2YxUzU1VkZQN3JHbE91WkFoYnZ4c0Z4Ny0xNHhHeEpCVk9VQktyRUo1RnF5cEdBZlZVUTlrM1RwUmZlUGFzN2g4VjBIQU9vVjZFTWFCbXR4NmtvcnBpRU5hb2hETUww?oc=5\" target=\"_blank\"&gt;First hantavirus death in 2026 reported in Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WTOC&lt;/font&gt;",
-      "publisher": "WTOC",
-      "published_at": "2026-06-03T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGN5djNpOG5ZSC1MVWZEZ1JvRm5JbV9helVGZ3hfM2tYMDJWT2YxUzU1VkZQN3JHbE91WkFoYnZ4c0Z4Ny0xNHhHeEpCVk9VQktyRUo1RnF5cEdBZlZVUTlrM1RwUmZlUGFzN2g4VjBIQU9vVjZFTWFCbXR4NmtvcnBpRU5hb2hETUww?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-04T09:53:18.695Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 515,
-      "headline": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship - OregonLive.com",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQd2RzN2MxZ3d3cFpDU284V0VjNW53VVE1OG4ycFN0a1ptVGRvbDRUUlIwekZPWks3Y0RrcDdWNERjQmZqWkhyYVVQRkplVFZ5UUs4clk5Um9pZGg1RXU1TVdZVHVQSkdpdDN0ejdvME1ndjA0d1p1UzBVbjNHOWw5RGNuR19JM3FrLVZpRGwtX0Y3elNqQ084YUZNUGNLa2xUM3RhVDBMYnJNa3FTRzIwcXlTRzRsR0RDVFJudlBITTh2Y2RQejh6T1NsNlZZZ9IB4gFBVV95cUxOMjRxYWdyQl9ONkx2OVVQbm5XUXVWaFNlREhIbEJ5cmdqTXI1cFZLN2Q2UmtDNHBHQUc2Y3M3dmd3ZWFWQWFiVWx3dlFEM2VpcDZkOW15Qk1RcTNSMWVjbnpfM05hTDhma2VGRFJ5ZmhtTDY4QV9QZDVtVXJ3Q09sQ2pOc1htd08tR2luR3lDNlZzZVpOOXM2NHZuRmJZelcxeDhKdTN5eGl5TjFPZHMyeWEyRkM3TjdLRVV5dlJPbWdDQ2g1OVBWN2RmX0QtdWZBZ2g2Q1g1aFRzbWJ1OWdmanhR?oc=5\" target=\"_blank\"&gt;Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;OregonLive.com&lt;/font&gt;",
-      "publisher": "OregonLive.com",
-      "published_at": "2026-06-03T03:26:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd2RzN2MxZ3d3cFpDU284V0VjNW53VVE1OG4ycFN0a1ptVGRvbDRUUlIwekZPWks3Y0RrcDdWNERjQmZqWkhyYVVQRkplVFZ5UUs4clk5Um9pZGg1RXU1TVdZVHVQSkdpdDN0ejdvME1ndjA0d1p1UzBVbjNHOWw5RGNuR19JM3FrLVZpRGwtX0Y3elNqQ084YUZNUGNLa2xUM3RhVDBMYnJNa3FTRzIwcXlTRzRsR0RDVFJudlBITTh2Y2RQejh6T1NsNlZZZ9IB4gFBVV95cUxOMjRxYWdyQl9ONkx2OVVQbm5XUXVWaFNlREhIbEJ5cmdqTXI1cFZLN2Q2UmtDNHBHQUc2Y3M3dmd3ZWFWQWFiVWx3dlFEM2VpcDZkOW15Qk1RcTNSMWVjbnpfM05hTDhma2VGRFJ5ZmhtTDY4QV9QZDVtVXJ3Q09sQ2pOc1htd08tR2luR3lDNlZzZVpOOXM2NHZuRmJZelcxeDhKdTN5eGl5TjFPZHMyeWEyRkM3TjdLRVV5dlJPbWdDQ2g1OVBWN2RmX0QtdWZBZ2g2Q1g1aFRzbWJ1OWdmanhR?oc=5",
-      "mentioned_states_json": "[\"OR\"]",
-      "fetched_at": "2026-06-03T09:54:59.936Z",
-      "mentioned_states": [
-        "OR"
-      ]
     }
   ],
   "targetStates": [
