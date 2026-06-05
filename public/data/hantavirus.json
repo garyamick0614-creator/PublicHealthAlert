@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-05T09:55:17.198Z",
+  "generatedAt": "2026-06-05T22:09:22.369Z",
   "lastRun": {
-    "ts": "2026-06-05T09:55:17.176Z",
+    "ts": "2026-06-05T22:09:22.363Z",
     "source_kind": "news",
-    "items_inserted": 16,
-    "items_skipped": 284,
+    "items_inserted": 10,
+    "items_skipped": 191,
     "error_message": "firecrawl-search-skipped-quota-402"
   },
   "totals": {
@@ -422,6 +422,83 @@
     }
   ],
   "recentNews": [
+    {
+      "id": 638,
+      "headline": "5 things to know about the hantavirus in Mohave County - The Kingman Daily Miner",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOSy0xeEFMRlFkU1Y2UXVXOWlzYkIzcFd3NXc0LXNuWFcxMEJsQkFUM1BSMGx1V3lSN2J4ODQ4MEdlWmdKaFR0MTFlYnRCTVFNTzhwcEc3TWViTHVpS0hKeUtqbW5yOUJ5X2xsU2dVNVVPenJDaEh5RVh6cEpUWS1aajVRd1NYNkxMM0dwQWRwdjlYMjNSS1ZIUEdPcnFiRW52LXVKYTVxYWJVN2xPcXd1VTZ1anF1WFVzTTJxdWRBcnZWWFhyd215VzdSMm5hQQ?oc=5\" target=\"_blank\"&gt;5 things to know about the hantavirus in Mohave County&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Kingman Daily Miner&lt;/font&gt;",
+      "publisher": "The Kingman Daily Miner",
+      "published_at": "2026-06-05T19:47:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSy0xeEFMRlFkU1Y2UXVXOWlzYkIzcFd3NXc0LXNuWFcxMEJsQkFUM1BSMGx1V3lSN2J4ODQ4MEdlWmdKaFR0MTFlYnRCTVFNTzhwcEc3TWViTHVpS0hKeUtqbW5yOUJ5X2xsU2dVNVVPenJDaEh5RVh6cEpUWS1aajVRd1NYNkxMM0dwQWRwdjlYMjNSS1ZIUEdPcnFiRW52LXVKYTVxYWJVN2xPcXd1VTZ1anF1WFVzTTJxdWRBcnZWWFhyd215VzdSMm5hQQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T22:04:58.908Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 633,
+      "headline": "New hantavirus sequencing tool maps whole genomes from hard-to-test samples - Medical Xpress",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0E5QUVOX29Fa0pjMGhaZUp2Z0FlTmEyX2ZfSmc5c0FwQUhjazFIeHNvSzFCVGpEQjZjYXAzS0o5UEhFLThlelBadUs2alNuQno2YTJuUDkybDBDRVdpN2U5NmpqLVpHcGNpanBkbHJJNlYza3ZvRWNyUFFqUzhZaktaSGowNGJrN0w4?oc=5\" target=\"_blank\"&gt;New hantavirus sequencing tool maps whole genomes from hard-to-test samples&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Medical Xpress&lt;/font&gt;",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-05T18:20:04.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0E5QUVOX29Fa0pjMGhaZUp2Z0FlTmEyX2ZfSmc5c0FwQUhjazFIeHNvSzFCVGpEQjZjYXAzS0o5UEhFLThlelBadUs2alNuQno2YTJuUDkybDBDRVdpN2U5NmpqLVpHcGNpanBkbHJJNlYza3ZvRWNyUFFqUzhZaktaSGowNGJrN0w4?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T21:57:20.832Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 635,
+      "headline": "New Tool Quickly Sequences Hantavirus Genome - American Society for Microbiology",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlhsdHVIU2Y1MjFwX2dKXzZ0NUhPT3REQVNCV3RBYU9LYlNkMDR5M2kzUGFBZG5WMkxpNFJfMDZmaVNaVTFCQndGb0NjU3d6akljbVo2NjBIZzQ3Y1pIa0pKSWxkMUg3MlZkQXpQalNDSmRyS1YyTV91VDlUREVCNlowcDFOMVppWmxPYzBn?oc=5\" target=\"_blank\"&gt;New Tool Quickly Sequences Hantavirus Genome&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;American Society for Microbiology&lt;/font&gt;",
+      "publisher": "American Society for Microbiology",
+      "published_at": "2026-06-05T15:39:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlhsdHVIU2Y1MjFwX2dKXzZ0NUhPT3REQVNCV3RBYU9LYlNkMDR5M2kzUGFBZG5WMkxpNFJfMDZmaVNaVTFCQndGb0NjU3d6akljbVo2NjBIZzQ3Y1pIa0pKSWxkMUg3MlZkQXpQalNDSmRyS1YyTV91VDlUREVCNlowcDFOMVppWmxPYzBn?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T22:00:14.199Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 634,
+      "headline": "Politicization of Grants; Lessons From the 2014 Ebola Outbreak; Hantavirus Update - MedPage Today",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzLXRUeHJTcmlNOTM5TGxtcHlIWElPZ1lPVm1WTS03WHh0UnR2UDlqYkRZSVFGelR5UG81TEdPOEluY0g1UXJBdDRGS21PbUFoOFd3dnpldjJIZjB4d0FfQzJIRFk?oc=5\" target=\"_blank\"&gt;Politicization of Grants; Lessons From the 2014 Ebola Outbreak; Hantavirus Update&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MedPage Today&lt;/font&gt;",
+      "publisher": "MedPage Today",
+      "published_at": "2026-06-05T15:30:30.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzLXRUeHJTcmlNOTM5TGxtcHlIWElPZ1lPVm1WTS03WHh0UnR2UDlqYkRZSVFGelR5UG81TEdPOEluY0g1UXJBdDRGS21PbUFoOFd3dnpldjJIZjB4d0FfQzJIRFk?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T21:58:45.209Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 639,
+      "headline": "New Tool Rapidly Decodes Hantavirus Genome - Bioengineer.org",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaVBfdDh0eFlydS10bUxxdi1JeTJoN3plWVJFSUFaSjlublBvdWRRcmxGS0Y4OENNVE9kblpva0NpNXpVQTlycTdDTGNFdURFb28zZWVBM3AxdEd6ZFRZTjBkXzU4eFlEbmZnbklvQmlpLWFiRWc?oc=5\" target=\"_blank\"&gt;New Tool Rapidly Decodes Hantavirus Genome&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bioengineer.org&lt;/font&gt;",
+      "publisher": "Bioengineer.org",
+      "published_at": "2026-06-05T15:02:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaVBfdDh0eFlydS10bUxxdi1JeTJoN3plWVJFSUFaSjlublBvdWRRcmxGS0Y4OENNVE9kblpva0NpNXpVQTlycTdDTGNFdURFb28zZWVBM3AxdEd6ZFRZTjBkXzU4eFlEbmZnbklvQmlpLWFiRWc?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T22:05:39.715Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 637,
+      "headline": "WVU infectious disease expert weighs Ebola, hantavirus outbreaks and U.S. risk - WV News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWlKXzN1R09uV3BjQzRhM2ZQTm5tNm5fYTdRUXJyX3RKRkZjZkotamQzMzFZN0tzcWtDZmtlMm55TDhYcFdrT1lBZXEyOUgzTVgzeXdBQzNJTFFURmFwUVhEUFFXQ0ZmMDYxR1hSa0tqOHoxbG5mZVF0bHd1OHhYRDd2REhRS0tUVWxhLUpseVdLQ3BtVUNSY0xJUkhvQjRwT0FzdVdpMUdSZjRnclNlM3hrWnF0aHJKcFAxeXhySTh2MlM4YUdmd1hsbWdUZGJnMHpzUVVKUkVVelhYU0dhNjMyZEZrN2ZEUURlZ1ZBSFNkZy1PdDZkTDZZQQ?oc=5\" target=\"_blank\"&gt;WVU infectious disease expert weighs Ebola, hantavirus outbreaks and U.S. risk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WV News&lt;/font&gt;",
+      "publisher": "WV News",
+      "published_at": "2026-06-05T15:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWlKXzN1R09uV3BjQzRhM2ZQTm5tNm5fYTdRUXJyX3RKRkZjZkotamQzMzFZN0tzcWtDZmtlMm55TDhYcFdrT1lBZXEyOUgzTVgzeXdBQzNJTFFURmFwUVhEUFFXQ0ZmMDYxR1hSa0tqOHoxbG5mZVF0bHd1OHhYRDd2REhRS0tUVWxhLUpseVdLQ3BtVUNSY0xJUkhvQjRwT0FzdVdpMUdSZjRnclNlM3hrWnF0aHJKcFAxeXhySTh2MlM4YUdmd1hsbWdUZGJnMHpzUVVKUkVVelhYU0dhNjMyZEZrN2ZEUURlZ1ZBSFNkZy1PdDZkTDZZQQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T22:03:19.855Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 636,
+      "headline": "Doctor who said he treated patients with Hantavirus on cruise ship returns home - KTVB",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcl9rbU1OTUNjVUhQSmFrUmszckNOU3cyR1g0YlpacXQ4b01jU2tqVjkxZjN2ZkNfeW4zbEZBVFhqTGxKTk93cjZJaDBBUHlDWTU4NjRPZ0lMUHlhSUwwUVROMXBrSG1JQy1TNE1GWl9aYmNsbWNKenBRbUMwSDh1NlRBdU5PVTFoSFFGekstZWpuZHl6Z2M3eHFaVlcxMTRRdnJSQ2pzM19VckFITElsM3RUTlV6UnJaNU1DOWJQUUcyc1JoM3BHR2tHNEpfX0RBMWMtQ3dyVUJtbVhad0FnYUN1aEhmSnVmM2FhcDZYRQ?oc=5\" target=\"_blank\"&gt;Doctor who said he treated patients with Hantavirus on cruise ship returns home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KTVB&lt;/font&gt;",
+      "publisher": "KTVB",
+      "published_at": "2026-06-05T12:47:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcl9rbU1OTUNjVUhQSmFrUmszckNOU3cyR1g0YlpacXQ4b01jU2tqVjkxZjN2ZkNfeW4zbEZBVFhqTGxKTk93cjZJaDBBUHlDWTU4NjRPZ0lMUHlhSUwwUVROMXBrSG1JQy1TNE1GWl9aYmNsbWNKenBRbUMwSDh1NlRBdU5PVTFoSFFGekstZWpuZHl6Z2M3eHFaVlcxMTRRdnJSQ2pzM19VckFITElsM3RUTlV6UnJaNU1DOWJQUUcyc1JoM3BHR2tHNEpfX0RBMWMtQ3dyVUJtbVhad0FnYUN1aEhmSnVmM2FhcDZYRQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-05T22:00:41.788Z",
+      "mentioned_states": []
+    },
     {
       "id": 622,
       "headline": "Commentary: The most concerning outbreak right now isn’t Ebola or hantavirus - Saw Swee Hock School of Public Health",
@@ -895,89 +972,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU01DSFBhQTE5S3F1YkNTS3hZMVpyWGNsUUdQMEZyaFRrbGJlcTlvSFZoT2Y3Szd6NmlIck1pb0lheUVTaDFXOEZ1a2tNeUU2ZVhkWndVWGlOU1RpVG1RRk9ET3VjTlZ5aExpRW1qNmxrOGJSVmYzYTlrSWgtOGt5Wm92MlhyTFU?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-03T22:13:20.189Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 532,
-      "headline": "Hantavirus Cruise Passengers Being Surveilled at Home Around the Clock - MedPage Today",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUWw3eXF3OTU0VVlEUExrSHFRUW13eGVBSVFlRVRGeWIwem1nSi1WVVA0bnZoWXhNS0ZpeUROOWtOeTFIc2g2N3l4NDUwMmJ4eTNLSnhEdTVJSXNhVUhEeW9EYXVoRkNObGcyTjRkT3pzXzc2?oc=5\" target=\"_blank\"&gt;Hantavirus Cruise Passengers Being Surveilled at Home Around the Clock&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MedPage Today&lt;/font&gt;",
-      "publisher": "MedPage Today",
-      "published_at": "2026-06-03T20:41:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUWw3eXF3OTU0VVlEUExrSHFRUW13eGVBSVFlRVRGeWIwem1nSi1WVVA0bnZoWXhNS0ZpeUROOWtOeTFIc2g2N3l4NDUwMmJ4eTNLSnhEdTVJSXNhVUhEeW9EYXVoRkNObGcyTjRkT3pzXzc2?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-03T22:13:20.181Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 536,
-      "headline": "Pasadena’s Caltech Team Creates Hantavirus Vaccine Candidate in Just Two Days - Pasadena Now",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzZ4bDdtNDZjMWZXN0lSalZydDhGSWpWYS1kMlVDR3J2cUFFcFVkOFR2T2F3MUxOaXcyRUlkOWM1ZzZicUtiV2dIQ3VGMlBtYmpMd0FaQXlROG5wWHBxb3JuMnNrOURETjFjMnJYNG9RM0tJTFkxRG1hU1NaWkdiTlNtS19HLTY2aldfNGpiNzlsbUVXM1VmTlloM0tWekpJbk12VnZtYVI?oc=5\" target=\"_blank\"&gt;Pasadena’s Caltech Team Creates Hantavirus Vaccine Candidate in Just Two Days&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Pasadena Now&lt;/font&gt;",
-      "publisher": "Pasadena Now",
-      "published_at": "2026-06-03T20:16:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzZ4bDdtNDZjMWZXN0lSalZydDhGSWpWYS1kMlVDR3J2cUFFcFVkOFR2T2F3MUxOaXcyRUlkOWM1ZzZicUtiV2dIQ3VGMlBtYmpMd0FaQXlROG5wWHBxb3JuMnNrOURETjFjMnJYNG9RM0tJTFkxRG1hU1NaWkdiTlNtS19HLTY2aldfNGpiNzlsbUVXM1VmTlloM0tWekpJbk12VnZtYVI?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-03T22:13:20.191Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 571,
-      "headline": "Five Americans exposed to hantavirus released from quarantine - TMJ4 News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9WM0tJcmx2TXdjZjNFNVF1M2RtbG51OFF5NG03RkpPeXpYQlNzQUx2cEZ4LXpzVzRZak5nZHVQQTdId3RnYXFpdEpJaVFLRTByaElQTGhOTDZSU09Vc2ppa0pxVHpsQ19Md3dvcEU0cTEzR1EySEdrTlZQdVBtSXNNcy1vcW1sUUxQQTJ2M3ZHNjl6bVRERXY3eXJCZzVDSEhaVzJsWDdmQQ?oc=5\" target=\"_blank\"&gt;Five Americans exposed to hantavirus released from quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TMJ4 News&lt;/font&gt;",
-      "publisher": "TMJ4 News",
-      "published_at": "2026-06-03T18:59:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9WM0tJcmx2TXdjZjNFNVF1M2RtbG51OFF5NG03RkpPeXpYQlNzQUx2cEZ4LXpzVzRZak5nZHVQQTdId3RnYXFpdEpJaVFLRTByaElQTGhOTDZSU09Vc2ppa0pxVHpsQ19Md3dvcEU0cTEzR1EySEdrTlZQdVBtSXNNcy1vcW1sUUxQQTJ2M3ZHNjl6bVRERXY3eXJCZzVDSEhaVzJsWDdmQQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-04T09:53:18.698Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 535,
-      "headline": "Bend Doctor Exposed While Treating Hantavirus Patients Returns to Oregon - FM News 101 KXL",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzdidDB2VXRxLWJQNml3OUdjeDVReWpHYlZ1cklDUFZsVTFKX2hKZGREUWxIT1hSeWpJcEY5ZjF3RHRLRkJpeEFPTUdfZ2NGN3IyWExoZlJ3ZjZVNnpySXJhZ0kwQmNfYVhuWGszUm9Ybl9NSjk4Q0JFclBzeks5SFpSb1NlYWU4elZZX0k5YkRwblFTM3R1bDY3bzJDRk9CXy04?oc=5\" target=\"_blank\"&gt;Bend Doctor Exposed While Treating Hantavirus Patients Returns to Oregon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FM News 101 KXL&lt;/font&gt;",
-      "publisher": "FM News 101 KXL",
-      "published_at": "2026-06-03T16:54:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzdidDB2VXRxLWJQNml3OUdjeDVReWpHYlZ1cklDUFZsVTFKX2hKZGREUWxIT1hSeWpJcEY5ZjF3RHRLRkJpeEFPTUdfZ2NGN3IyWExoZlJ3ZjZVNnpySXJhZ0kwQmNfYVhuWGszUm9Ybl9NSjk4Q0JFclBzeks5SFpSb1NlYWU4elZZX0k5YkRwblFTM3R1bDY3bzJDRk9CXy04?oc=5",
-      "mentioned_states_json": "[\"OR\"]",
-      "fetched_at": "2026-06-03T22:13:20.190Z",
-      "mentioned_states": [
-        "OR"
-      ]
-    },
-    {
-      "id": 533,
-      "headline": "Oregonian returns home after cruise ship hantavirus exposure - Elkhorn Media Group",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTzByQkQwaWZSdTRybEZsdXZLbEtOWGdjYm8wbjNqaUpGdUE0TVlPWFNMZVU4dDlZanRfajM5d0cyLUNMeWRXN2YyVDBES0Jadzh2S3FCMEJNWVMxbEZrNHZNWUxFSW5zVG9BR1IyeWh0X0FFaG5kSTliWVhmY0k5ZTdTazZxWHVJckxGWXdtV2FBa3ItWFE?oc=5\" target=\"_blank\"&gt;Oregonian returns home after cruise ship hantavirus exposure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Elkhorn Media Group&lt;/font&gt;",
-      "publisher": "Elkhorn Media Group",
-      "published_at": "2026-06-03T15:38:48.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTzByQkQwaWZSdTRybEZsdXZLbEtOWGdjYm8wbjNqaUpGdUE0TVlPWFNMZVU4dDlZanRfajM5d0cyLUNMeWRXN2YyVDBES0Jadzh2S3FCMEJNWVMxbEZrNHZNWUxFSW5zVG9BR1IyeWh0X0FFaG5kSTliWVhmY0k5ZTdTazZxWHVJckxGWXdtV2FBa3ItWFE?oc=5",
-      "mentioned_states_json": "[\"OR\"]",
-      "fetched_at": "2026-06-03T22:13:20.187Z",
-      "mentioned_states": [
-        "OR"
-      ]
-    },
-    {
-      "id": 531,
-      "headline": "Sin Nombre Hantavirus Strain Kills One In Arizona - Forbes",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBEZUwyVk0xMXh2VENZNDF2UlNYMU45RjdNeGo3ZkhWNDhHZFFhOGRKU01CalZ2UmhUbWxUbUpIUWU0ckNiY3VSVElzXzBkSTZTZ3FDeG1CbloyQl91NktLNHVubnE2dHc4d1YwQzdETVdIc3Nscjl5NmhtdGkwNV82dkV6c2V1QlBESFFwRk1jUGlzeWpqUG1HekNVNm1jX1JVS3BrWllYYXFVZ3Bkb3g4bkxGdDJQblpVQmR5bm9zcllJeVhWaWRqRVUzcTg?oc=5\" target=\"_blank\"&gt;Sin Nombre Hantavirus Strain Kills One In Arizona&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Forbes&lt;/font&gt;",
-      "publisher": "Forbes",
-      "published_at": "2026-06-03T14:05:07.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBEZUwyVk0xMXh2VENZNDF2UlNYMU45RjdNeGo3ZkhWNDhHZFFhOGRKU01CalZ2UmhUbWxUbUpIUWU0ckNiY3VSVElzXzBkSTZTZ3FDeG1CbloyQl91NktLNHVubnE2dHc4d1YwQzdETVdIc3Nscjl5NmhtdGkwNV82dkV6c2V1QlBESFFwRk1jUGlzeWpqUG1HekNVNm1jX1JVS3BrWllYYXFVZ3Bkb3g4bkxGdDJQblpVQmR5bm9zcllJeVhWaWRqRVUzcTg?oc=5",
-      "mentioned_states_json": "[\"AZ\"]",
-      "fetched_at": "2026-06-03T22:13:20.170Z",
-      "mentioned_states": [
-        "AZ"
-      ]
-    },
-    {
-      "id": 510,
-      "headline": "Five Americans exposed to hantavirus released from quarantine - News Channel 5 Nashville",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQODVEaHdqd2J3X3I3eldOVkRTT1RKaU1kWld6QXFZZGJKbmpGaGNYSlBvSmNoaXEyMkNTbk0wS3hKV09qV21lVW1wdUsxRTlxYktuUm1qYzB4Tk1qTm5CcGNYWWVWbk5kbFZzTkgxVXU0TktSM0R5dTlXUXAwRGdrU1BRdGo1NjNFa010Yi1rcTYzMTNlaHR6SWM4UktYYzFsLWg5TWJpbktkbVc3TXVBcUZOdUI?oc=5\" target=\"_blank\"&gt;Five Americans exposed to hantavirus released from quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;News Channel 5 Nashville&lt;/font&gt;",
-      "publisher": "News Channel 5 Nashville",
-      "published_at": "2026-06-03T08:57:28.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODVEaHdqd2J3X3I3eldOVkRTT1RKaU1kWld6QXFZZGJKbmpGaGNYSlBvSmNoaXEyMkNTbk0wS3hKV09qV21lVW1wdUsxRTlxYktuUm1qYzB4Tk1qTm5CcGNYWWVWbk5kbFZzTkgxVXU0TktSM0R5dTlXUXAwRGdrU1BRdGo1NjNFa010Yi1rcTYzMTNlaHR6SWM4UktYYzFsLWg5TWJpbktkbVc3TXVBcUZOdUI?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-03T09:54:58.070Z",
       "mentioned_states": []
     }
   ],
