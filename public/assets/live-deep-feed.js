@@ -8,7 +8,11 @@
 //
 // Endpoints (api.thatcomputerguy26.org):
 //   GET /api/public/pha/deep/snapshot
-//   GET /api/public/pha/h5n1-dairy?limit=30
+//   GET /api/public/pha/h5n1-dairy?limit=200
+//
+// H5N1 row shape (confirmed live 2026-06-05):
+//   { state, county, premises_id, date_confirmed, herd_size, status, source_url, fetched_at }
+//   status is a raw code e.g. "confirmed:Dairy Milking Cattle" — decoded for display.
 //
 // CSP: connect-src already permits api.thatcomputerguy26.org (visitor badge).
 // MARKER: iter6-pha-deep-live
@@ -16,10 +20,36 @@
 (function () {
   const API = "https://api.thatcomputerguy26.org";
   const SNAPSHOT_URL = API + "/api/public/pha/deep/snapshot";
-  const H5N1_URL     = API + "/api/public/pha/h5n1-dairy?limit=30";
+  const H5N1_URL     = API + "/api/public/pha/h5n1-dairy?limit=200";
   const REFRESH_MS   = 30 * 60 * 1000;  // 30 min
   const LIMIT_PER_PANEL = 15;
+  const H5N1_ROWS    = 100;  // rows surfaced in the H5N1 table (endpoint holds 348)
   let backoff = 0;
+
+  // Decode the raw "status" code (e.g. "confirmed:Dairy Milking Cattle") into a
+  // human status + flock/herd type, consistent with the site's decode-everything rule.
+  function decodeH5N1Status(raw) {
+    const s = String(raw == null ? "" : raw).trim();
+    if (!s) return { status: "—", herdType: "" };
+    const idx = s.indexOf(":");
+    if (idx === -1) {
+      const cap = s.charAt(0).toUpperCase() + s.slice(1);
+      return { status: cap, herdType: "" };
+    }
+    const statePart = s.slice(0, idx);
+    const typePart = s.slice(idx + 1).trim();
+    const statusMap = {
+      confirmed: "Confirmed",
+      presumptive: "Presumptive positive",
+      suspected: "Suspected",
+      pending: "Pending",
+      resolved: "Resolved",
+      released: "Quarantine released",
+    };
+    const status = statusMap[statePart.toLowerCase()]
+      || (statePart.charAt(0).toUpperCase() + statePart.slice(1));
+    return { status, herdType: typePart };
+  }
 
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"']/g,
@@ -222,7 +252,7 @@
       body.innerHTML = `
         <div class="empty-note">
           <strong>No detections currently in the feed.</strong><br><br>
-          USDA APHIS publishes H5N1 dairy cattle detections via a Tableau visualization only — no public REST endpoint. The fetcher is shipped and the API contract is ready; once a structured source is unblocked, this panel will auto-fill with date / state / premises affected.<br><br>
+          The H5N1 livestock feed is sourced from USDA APHIS and refreshed on each sync. No rows are present for the current query.<br><br>
           Authoritative source: <a href="https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/livestock" target="_blank" rel="noopener noreferrer">USDA APHIS — HPAI in Livestock</a>
         </div>`;
       return;
@@ -235,18 +265,23 @@
         <span>latest detection on record: ${esc(totals.latest_date || "—")}</span>
       </div>
       <table>
-        <thead><tr><th>Date</th><th>State</th><th>County</th><th>Premises</th><th>Notes</th></tr></thead>
+        <thead><tr><th>Confirmed</th><th>State</th><th>County</th><th>Herd / flock type</th><th>Status</th><th>Herd size</th></tr></thead>
         <tbody>
-          ${items.slice(0, 30).map((r) => `
+          ${items.slice(0, H5N1_ROWS).map((r) => {
+            const d = decodeH5N1Status(r.status);
+            return `
             <tr>
-              <td>${esc(r.detection_date || r.date || "—")}</td>
+              <td>${esc(r.date_confirmed || "—")}</td>
               <td>${esc(r.state || "—")}</td>
               <td>${esc(r.county || "—")}</td>
-              <td>${esc(r.premises_type || r.premises || "—")}</td>
-              <td>${esc(r.notes || r.flock_type || "")}</td>
-            </tr>`).join("")}
+              <td>${esc(d.herdType || "—")}</td>
+              <td>${esc(d.status)}</td>
+              <td>${esc(r.herd_size != null ? r.herd_size : "—")}</td>
+            </tr>`;
+          }).join("")}
         </tbody>
       </table>
+      ${items.length > H5N1_ROWS ? `<div class="meta" style="margin-top:10px;font-size:.8rem;color:var(--muted)">Showing ${esc(H5N1_ROWS)} most recent of ${esc(totals.total_rows ?? items.length)} detections on record.</div>` : ""}
     `;
     const upd = document.getElementById("h5n1Updated");
     if (upd) upd.textContent = "USDA APHIS source · last sync " + fmtRel(j.fetchedAt || new Date().toISOString()) + ".";
