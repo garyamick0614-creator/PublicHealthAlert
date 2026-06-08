@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-07T09:52:54.221Z",
+  "generatedAt": "2026-06-08T09:53:11.340Z",
   "lastRun": {
-    "ts": "2026-06-07T09:52:54.210Z",
+    "ts": "2026-06-08T09:53:11.047Z",
     "source_kind": "news",
     "items_inserted": 17,
     "items_skipped": 283,
@@ -423,6 +423,61 @@
   ],
   "recentNews": [
     {
+      "id": 713,
+      "headline": "Two Singaporeans complete quarantine after returning from cruise with deadly hantavirus outbreak - Malay Mail",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ19IU2gyZmwteWo3ZlVhTTR6cDV2WHAxb1gyZVJlOUhrRjVjZEpEY0c0S0YzaE9hU1M0bG5KSnBvaU1CcDlwUlFRQnVfZk02eGhsVm03SDRQZ0J0VHZCd1NfSUo2MEQ3UHBKb2dBZjduZzFMOUZFOUNhenp5X1ItUVNhUmxvVVZUbExsWS1Ic1RJUTdvQ2VfNWlxLWFZSDg2QUlXdEhHbWIwRmhQUnNRYzd1czQyNE50NHMzTGw3SGtjWkNRTTU2QVRvWm1KQnU0bF9iV3NtM3BZUU5DYV9GTWRzNGNLdUlsRzdj0gHwAUFVX3lxTE4xUW5FZS15OS1oQjhELVlqeEQ5WHhtMlRuYjhQbXBiN0E0MnZDa2xYQU9uS1NMZGZhNjJnamktZm1iUDZ3OGkxV1Vpcnd2RmxPblNaS1hvbTdDdEd5a01MWUkzNy1JbUlqZmxDazEwVVJxUUdmQ0QzRVhRbGhzdUdybS1vT0V2VUpjdFBua21Sd3lBWXl6SmRyUVUyTTVZQWxSUHk1U0FpaWJicnV3UVprcE0zYjJvVnBBMzFiLUN3RDlSTWdlUFBJajBBVlFpQld0WHdFWFlxQVhSOHlqYmg4TG85eUhoYTRsb0piWTMtXw?oc=5\" target=\"_blank\"&gt;Two Singaporeans complete quarantine after returning from cruise with deadly hantavirus outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Malay Mail&lt;/font&gt;",
+      "publisher": "Malay Mail",
+      "published_at": "2026-06-08T04:41:51.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ19IU2gyZmwteWo3ZlVhTTR6cDV2WHAxb1gyZVJlOUhrRjVjZEpEY0c0S0YzaE9hU1M0bG5KSnBvaU1CcDlwUlFRQnVfZk02eGhsVm03SDRQZ0J0VHZCd1NfSUo2MEQ3UHBKb2dBZjduZzFMOUZFOUNhenp5X1ItUVNhUmxvVVZUbExsWS1Ic1RJUTdvQ2VfNWlxLWFZSDg2QUlXdEhHbWIwRmhQUnNRYzd1czQyNE50NHMzTGw3SGtjWkNRTTU2QVRvWm1KQnU0bF9iV3NtM3BZUU5DYV9GTWRzNGNLdUlsRzdj0gHwAUFVX3lxTE4xUW5FZS15OS1oQjhELVlqeEQ5WHhtMlRuYjhQbXBiN0E0MnZDa2xYQU9uS1NMZGZhNjJnamktZm1iUDZ3OGkxV1Vpcnd2RmxPblNaS1hvbTdDdEd5a01MWUkzNy1JbUlqZmxDazEwVVJxUUdmQ0QzRVhRbGhzdUdybS1vT0V2VUpjdFBua21Sd3lBWXl6SmRyUVUyTTVZQWxSUHk1U0FpaWJicnV3UVprcE0zYjJvVnBBMzFiLUN3RDlSTWdlUFBJajBBVlFpQld0WHdFWFlxQVhSOHlqYmg4TG85eUhoYTRsb0piWTMtXw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-08T09:53:10.784Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 703,
+      "headline": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - Santa Fe New Mexican",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaGxkTldfRnA0WGo0aUU4VlVBZUNQMXZURHhVMVFPYzlRVGVrUnJNTUJmT3l3ZXNhVUFXTHNHYjRhSmtfYmRydGVGNVdpR0lFWkhsYzZSaTh2REg4UVNWUWVvOVA0WG9qN25WcFVVZWRMOC1XNUVfOURZbGpWYTR4TlA0UkJLWnNVQlZFWlFIbW80UGcyR1p3TmlaNHYzSmJvUVRCNGFQbnhicFVUdHktTUlYZTlJd2VQZVh3NGlSUnNxX1QyZ0thbGR3VVowa0kyZ09DcjFFMVlkQkRCZnJTNXNEd0w2SFJCaEtRaTB1bmotRTBKYUpNWkZ6U3NUNUFDU0l2alhIMEdKZ1JuN05mSDdZaGoyTU5hQ0tNTUR2QVlzYUlRN1hkcHAtcw?oc=5\" target=\"_blank\"&gt;Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Santa Fe New Mexican&lt;/font&gt;",
+      "publisher": "Santa Fe New Mexican",
+      "published_at": "2026-06-08T03:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaGxkTldfRnA0WGo0aUU4VlVBZUNQMXZURHhVMVFPYzlRVGVrUnJNTUJmT3l3ZXNhVUFXTHNHYjRhSmtfYmRydGVGNVdpR0lFWkhsYzZSaTh2REg4UVNWUWVvOVA0WG9qN25WcFVVZWRMOC1XNUVfOURZbGpWYTR4TlA0UkJLWnNVQlZFWlFIbW80UGcyR1p3TmlaNHYzSmJvUVRCNGFQbnhicFVUdHktTUlYZTlJd2VQZVh3NGlSUnNxX1QyZ0thbGR3VVowa0kyZ09DcjFFMVlkQkRCZnJTNXNEd0w2SFJCaEtRaTB1bmotRTBKYUpNWkZ6U3NUNUFDU0l2alhIMEdKZ1JuN05mSDdZaGoyTU5hQ0tNTUR2QVlzYUlRN1hkcHAtcw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-08T09:53:09.148Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 704,
+      "headline": "Hantavirus: Of mice, men and cruise ships - The Medical Journal of Australia",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3VVVTJ0X3FqYUxNZTFFbFVGcS1xSzJtRE02aEFLRHFwMEU2alpmTVVKZHFtZHdWOWRNY2taUEdwclFhTFlJUGM1cU1qY2U0dWYxbGFUeWg3enZjZWFZUUxsbUNNeWFYWkFodWRqeFpNTldmYTUyZ09JWURpOXJOOTVTMEs?oc=5\" target=\"_blank\"&gt;Hantavirus: Of mice, men and cruise ships&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Medical Journal of Australia&lt;/font&gt;",
+      "publisher": "The Medical Journal of Australia",
+      "published_at": "2026-06-08T01:05:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3VVVTJ0X3FqYUxNZTFFbFVGcS1xSzJtRE02aEFLRHFwMEU2alpmTVVKZHFtZHdWOWRNY2taUEdwclFhTFlJUGM1cU1qY2U0dWYxbGFUeWg3enZjZWFZUUxsbUNNeWFYWkFodWRqeFpNTldmYTUyZ09JWURpOXJOOTVTMEs?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-08T09:53:09.150Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 702,
+      "headline": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1aVlB1OXl2bjJwOVlhNVgyeWFQZzYzdXYwRkxGWW5vbHJtV3RwelNBbWVkNkNldjdWdXBsUFpIWFM4d25JWU1ZLS13N0R0TUpDZ2V6clNjbWk5QVdJQ3ZXQjJ1YVpFRVRidWt5aVV0RjdZLW5JUThDRk13?oc=5\" target=\"_blank\"&gt;NZ cruise passenger tests negative for hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Taipei Times&lt;/font&gt;",
+      "publisher": "Taipei Times",
+      "published_at": "2026-06-07T16:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aVlB1OXl2bjJwOVlhNVgyeWFQZzYzdXYwRkxGWW5vbHJtV3RwelNBbWVkNkNldjdWdXBsUFpIWFM4d25JWU1ZLS13N0R0TUpDZ2V6clNjbWk5QVdJQ3ZXQjJ1YVpFRVRidWt5aVV0RjdZLW5JUThDRk13?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-08T09:53:09.139Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 701,
+      "headline": "Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak - NL Times",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjE2MFRzQWppM2h2NUQ5SXVocUd3SGdrS290eU1rejAxVGhMZHVUZGNzNWdyWU04TF9LMXRSZ3otdDJUaHpLVjJ2UGdvOWY2aDcyTTY2eUNDZ2RkcDhoa2dIallmSmdOcG9uZkEzU3JVd2FCNnpvVWRjT2htNm9lY1pXTUlPNFhQdUJLSEZYV2xMZzdfaEp4aVdxWXA0OUZpY19B?oc=5\" target=\"_blank\"&gt;Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NL Times&lt;/font&gt;",
+      "publisher": "NL Times",
+      "published_at": "2026-06-07T11:55:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjE2MFRzQWppM2h2NUQ5SXVocUd3SGdrS290eU1rejAxVGhMZHVUZGNzNWdyWU04TF9LMXRSZ3otdDJUaHpLVjJ2UGdvOWY2aDcyTTY2eUNDZ2RkcDhoa2dIallmSmdOcG9uZkEzU3JVd2FCNnpvVWRjT2htNm9lY1pXTUlPNFhQdUJLSEZYV2xMZzdfaEp4aVdxWXA0OUZpY19B?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-08T09:53:08.994Z",
+      "mentioned_states": []
+    },
+    {
       "id": 695,
       "headline": "Cruise passenger released from hantavirus quarantine in Taiwan - Taiwan News",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LWmlGWUotUXlKZml5VHRkLVg2UGlhdlU3ZnphNmJMNkxsX3F0NENsUTYyVl9tWU5VbU5vSmhtQTQ5S3VXalRVa0ZCMHZmOEJpODFncWNQakM?oc=5\" target=\"_blank\"&gt;Cruise passenger released from hantavirus quarantine in Taiwan&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Taiwan News&lt;/font&gt;",
@@ -635,6 +690,17 @@
       "mentioned_states": []
     },
     {
+      "id": 712,
+      "headline": "Spectrum of Gastrointestinal, Hepatobiliary, and Pancreatic Involvement in Hantavirus Infection: A Narrative Review - Cureus",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxON2ZWWVZ6ek1sX0ZPYk0wSGVKaXU3TnVYYkp2cldjZW8tZ1NkRjM4U3pDVzNOdHNpd3VLTWhwMERVREQ1QV9TbEJzaHhXV0FWZUlab21rT0JESXgwT3NaY3Z0aXU5M1pSNi1uNF9Xbnl6b0ZMWGxiS3JkeEMtNllUZF9oWjVZUzZVV2JZMG5IMmxPaTJYWDFnTzdhNXNiQkM1SktfT0RjSE9EMEpoa2s5VTFFcE9xeGx0NkRSVWJtTGZMbGRLcnVVeXBmZ2hBZUJjWmhVZy1hT2NmNDlpbDBQSEtpeFJIdTdpc2phdHRIM2JLWENPdWtZVk42MF82WGM?oc=5\" target=\"_blank\"&gt;Spectrum of Gastrointestinal, Hepatobiliary, and Pancreatic Involvement in Hantavirus Infection: A Narrative Review&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Cureus&lt;/font&gt;",
+      "publisher": "Cureus",
+      "published_at": "2026-06-06T13:08:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxON2ZWWVZ6ek1sX0ZPYk0wSGVKaXU3TnVYYkp2cldjZW8tZ1NkRjM4U3pDVzNOdHNpd3VLTWhwMERVREQ1QV9TbEJzaHhXV0FWZUlab21rT0JESXgwT3NaY3Z0aXU5M1pSNi1uNF9Xbnl6b0ZMWGxiS3JkeEMtNllUZF9oWjVZUzZVV2JZMG5IMmxPaTJYWDFnTzdhNXNiQkM1SktfT0RjSE9EMEpoa2s5VTFFcE9xeGx0NkRSVWJtTGZMbGRLcnVVeXBmZ2hBZUJjWmhVZy1hT2NmNDlpbDBQSEtpeFJIdTdpc2phdHRIM2JLWENPdWtZVk42MF82WGM?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-08T09:53:09.925Z",
+      "mentioned_states": []
+    },
+    {
       "id": 674,
       "headline": "Scientists testing rodents for hantavirus in Argentina’s famous wine region of Mendoza after cruise ship outbreak - AOL.com",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeFpXUTVFaXhnaWNidmxuT3F3b1R5ZDJNRHZySjhtQVBGdFlIVURQM0VXTkdCeXk1VVJvd3JVVlFndFZvdnZQOEJyVkpjX1lBeER4QzVSeDFlYjRwUG1LQ0VORU1GZENYTFlnU2ZFTEgtTW12S3MwSmdzQWE1czZvQXprb3Qwdw?oc=5\" target=\"_blank\"&gt;Scientists testing rodents for hantavirus in Argentina’s famous wine region of Mendoza after cruise ship outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
@@ -698,6 +764,28 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-06T09:56:18.165Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 708,
+      "headline": "Novel technique enables rapid sequencing of rare hantaviruses - News-Medical",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUVsclJYWTZEaDJvQ0RBMS1nU081WUtOSXRoNTR2QXlGWUUxZUxrSWVJQ2VNMjltejBSWlQzRTFjNWxRb3c0LW1oS1ItQnJLSE1BUkdJY3k1YnJIRW5fbHQwNExSR2IxWlFtTHpUYm5nSzBHU2JaNnp5VjVYSDVFNVFmOUpHNnh1VFI4OFVDWnFIaWQ3cGFSSkJ4SExfZllZVjRkbkR0emJwVUdEMXc?oc=5\" target=\"_blank\"&gt;Novel technique enables rapid sequencing of rare hantaviruses&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;News-Medical&lt;/font&gt;",
+      "publisher": "News-Medical",
+      "published_at": "2026-06-06T02:36:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUVsclJYWTZEaDJvQ0RBMS1nU081WUtOSXRoNTR2QXlGWUUxZUxrSWVJQ2VNMjltejBSWlQzRTFjNWxRb3c0LW1oS1ItQnJLSE1BUkdJY3k1YnJIRW5fbHQwNExSR2IxWlFtTHpUYm5nSzBHU2JaNnp5VjVYSDVFNVFmOUpHNnh1VFI4OFVDWnFIaWQ3cGFSSkJ4SExfZllZVjRkbkR0emJwVUdEMXc?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-08T09:53:09.475Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 705,
+      "headline": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - ABC News - Breaking News, Latest News and Videos",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFdnUzlLQTRFOUpGa0E3Y1ljR0dfLVR1NVBER1ZWRFNmOEc1bzdaZ2x6Ui1lRWg3eUs3eE1SbnQzX2Fac1NHanBYajh6bkI3cDEtdGxiaXlwNExicnhBYVl3NTZLR1VsVXUwdmtZajEwdkZzeGdETjlBN3B0UFptTHhTYS1Sc21JTlhnc3RsT19ObTR5UkVSMXpOcE9VdDIzWGRaQlk0ZjLSAa4BQVVfeXFMTTBoWm1HaHoxZnpmejhpcURLOGladUZsZngxamc1WllnMnZqbTQ2Rl95YzU1cHEzRWFidGV5T1dMM2ItXzR5WEw3SG14V0JLUTVNenktWkdZZC01czBQd3FMVENtWThMRkxPMmFCUVNEZ0xzcUV2R19rLUt1bDJUbkhkdDJDeUJuWHhxaWtrYUpjVi15ZE5FSFhxaFdEVzBpRjZrRGVqYW1nNjlCZkxn?oc=5\" target=\"_blank\"&gt;Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ABC News - Breaking News, Latest News and Videos&lt;/font&gt;",
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-06-06T01:18:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFdnUzlLQTRFOUpGa0E3Y1ljR0dfLVR1NVBER1ZWRFNmOEc1bzdaZ2x6Ui1lRWg3eUs3eE1SbnQzX2Fac1NHanBYajh6bkI3cDEtdGxiaXlwNExicnhBYVl3NTZLR1VsVXUwdmtZajEwdkZzeGdETjlBN3B0UFptTHhTYS1Sc21JTlhnc3RsT19ObTR5UkVSMXpOcE9VdDIzWGRaQlk0ZjLSAa4BQVVfeXFMTTBoWm1HaHoxZnpmejhpcURLOGladUZsZngxamc1WllnMnZqbTQ2Rl95YzU1cHEzRWFidGV5T1dMM2ItXzR5WEw3SG14V0JLUTVNenktWkdZZC01czBQd3FMVENtWThMRkxPMmFCUVNEZ0xzcUV2R19rLUt1bDJUbkhkdDJDeUJuWHhxaWtrYUpjVi15ZE5FSFhxaFdEVzBpRjZrRGVqYW1nNjlCZkxn?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-08T09:53:09.153Z",
       "mentioned_states": []
     },
     {
@@ -789,6 +877,17 @@
       "mentioned_states": []
     },
     {
+      "id": 714,
+      "headline": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - The Killeen Daily Herald",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd3VmS0JZd21HbTI1ek9iWWNXNzN3RVlwYnJqY0RLdW9lMGFYRU00bVV4WTN3aE84aDlwRkM3eXAxeUJZZFBjRWtJYjNEZTFTMFA3Y2s1NHFfYWYzbzdKWUdiQmZaSFIzbW4zRW1pTGltQU5wYzh2dF96RTgzU3dFaDhvMUlDRHc0THk5MWJwc1kwMjBhNngtYnZWRnhpYTVYdF93czA0Wk9QZzRLakpXVnU4amZTOWxaQm5tRUVYa3RuYThFcllZanBvUlc3UGhmTkt6emVNQ1ByUkg1WEo2Z0czaEItRURhUFFHemRNd3BJVl9s?oc=5\" target=\"_blank\"&gt;Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Killeen Daily Herald&lt;/font&gt;",
+      "publisher": "The Killeen Daily Herald",
+      "published_at": "2026-06-05T23:27:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd3VmS0JZd21HbTI1ek9iWWNXNzN3RVlwYnJqY0RLdW9lMGFYRU00bVV4WTN3aE84aDlwRkM3eXAxeUJZZFBjRWtJYjNEZTFTMFA3Y2s1NHFfYWYzbzdKWUdiQmZaSFIzbW4zRW1pTGltQU5wYzh2dF96RTgzU3dFaDhvMUlDRHc0THk5MWJwc1kwMjBhNngtYnZWRnhpYTVYdF93czA0Wk9QZzRLakpXVnU4amZTOWxaQm5tRUVYa3RuYThFcllZanBvUlc3UGhmTkt6emVNQ1ByUkg1WEo2Z0czaEItRURhUFFHemRNd3BJVl9s?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-08T09:53:10.785Z",
+      "mentioned_states": []
+    },
+    {
       "id": 643,
       "headline": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - AP News",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQYV9WYXctbkRkNHQxeTVCd2VsSHRfRTI0UEJVYVJNOERaVVpBOFg3SDZIdEpvaG42S3RNZ3R2NzVlcTNRd1NPeExsUzNnQmlLLVpyVnd3QTV0V0hiNjVFaU1mTGJXTDA0ZzZWRjRDSWtSOElBS042RmZKZnQtZEJuV0ZpX01SMXFFYURtcFRQYnAxT3piX3V4aldNZHBRbUdUUXlvTV9XdldvUmFGX1F2ME13VFg?oc=5\" target=\"_blank\"&gt;Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AP News&lt;/font&gt;",
@@ -866,6 +965,17 @@
       "mentioned_states": []
     },
     {
+      "id": 706,
+      "headline": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' - Fact Check AFP",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TTkFrUDJ4SHNxTy1JRkZycWNPYm0tY0VvZUxvUTItLWlDbnM1ZWhUWDRtS2M2MVBHUEJCZlNpWDRkNF9aTk9sZ09xRWt5YzJkalF6RnR0MWg?oc=5\" target=\"_blank\"&gt;Experts refute claims hantavirus derived name from Hebrew for 'nonsense'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fact Check AFP&lt;/font&gt;",
+      "publisher": "Fact Check AFP",
+      "published_at": "2026-06-05T16:29:02.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TTkFrUDJ4SHNxTy1JRkZycWNPYm0tY0VvZUxvUTItLWlDbnM1ZWhUWDRtS2M2MVBHUEJCZlNpWDRkNF9aTk9sZ09xRWt5YzJkalF6RnR0MWg?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-08T09:53:09.229Z",
+      "mentioned_states": []
+    },
+    {
       "id": 635,
       "headline": "New Tool Quickly Sequences Hantavirus Genome - American Society for Microbiology",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlhsdHVIU2Y1MjFwX2dKXzZ0NUhPT3REQVNCV3RBYU9LYlNkMDR5M2kzUGFBZG5WMkxpNFJfMDZmaVNaVTFCQndGb0NjU3d6akljbVo2NjBIZzQ3Y1pIa0pKSWxkMUg3MlZkQXpQalNDSmRyS1YyTV91VDlUREVCNlowcDFOMVppWmxPYzBn?oc=5\" target=\"_blank\"&gt;New Tool Quickly Sequences Hantavirus Genome&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;American Society for Microbiology&lt;/font&gt;",
@@ -874,116 +984,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlhsdHVIU2Y1MjFwX2dKXzZ0NUhPT3REQVNCV3RBYU9LYlNkMDR5M2kzUGFBZG5WMkxpNFJfMDZmaVNaVTFCQndGb0NjU3d6akljbVo2NjBIZzQ3Y1pIa0pKSWxkMUg3MlZkQXpQalNDSmRyS1YyTV91VDlUREVCNlowcDFOMVppWmxPYzBn?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-05T22:00:14.199Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 634,
-      "headline": "Politicization of Grants; Lessons From the 2014 Ebola Outbreak; Hantavirus Update - MedPage Today",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzLXRUeHJTcmlNOTM5TGxtcHlIWElPZ1lPVm1WTS03WHh0UnR2UDlqYkRZSVFGelR5UG81TEdPOEluY0g1UXJBdDRGS21PbUFoOFd3dnpldjJIZjB4d0FfQzJIRFk?oc=5\" target=\"_blank\"&gt;Politicization of Grants; Lessons From the 2014 Ebola Outbreak; Hantavirus Update&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MedPage Today&lt;/font&gt;",
-      "publisher": "MedPage Today",
-      "published_at": "2026-06-05T15:30:30.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzLXRUeHJTcmlNOTM5TGxtcHlIWElPZ1lPVm1WTS03WHh0UnR2UDlqYkRZSVFGelR5UG81TEdPOEluY0g1UXJBdDRGS21PbUFoOFd3dnpldjJIZjB4d0FfQzJIRFk?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-05T21:58:45.209Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 639,
-      "headline": "New Tool Rapidly Decodes Hantavirus Genome - Bioengineer.org",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaVBfdDh0eFlydS10bUxxdi1JeTJoN3plWVJFSUFaSjlublBvdWRRcmxGS0Y4OENNVE9kblpva0NpNXpVQTlycTdDTGNFdURFb28zZWVBM3AxdEd6ZFRZTjBkXzU4eFlEbmZnbklvQmlpLWFiRWc?oc=5\" target=\"_blank\"&gt;New Tool Rapidly Decodes Hantavirus Genome&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bioengineer.org&lt;/font&gt;",
-      "publisher": "Bioengineer.org",
-      "published_at": "2026-06-05T15:02:07.000Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaVBfdDh0eFlydS10bUxxdi1JeTJoN3plWVJFSUFaSjlublBvdWRRcmxGS0Y4OENNVE9kblpva0NpNXpVQTlycTdDTGNFdURFb28zZWVBM3AxdEd6ZFRZTjBkXzU4eFlEbmZnbklvQmlpLWFiRWc?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-05T22:05:39.715Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 637,
-      "headline": "WVU infectious disease expert weighs Ebola, hantavirus outbreaks and U.S. risk - WV News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWlKXzN1R09uV3BjQzRhM2ZQTm5tNm5fYTdRUXJyX3RKRkZjZkotamQzMzFZN0tzcWtDZmtlMm55TDhYcFdrT1lBZXEyOUgzTVgzeXdBQzNJTFFURmFwUVhEUFFXQ0ZmMDYxR1hSa0tqOHoxbG5mZVF0bHd1OHhYRDd2REhRS0tUVWxhLUpseVdLQ3BtVUNSY0xJUkhvQjRwT0FzdVdpMUdSZjRnclNlM3hrWnF0aHJKcFAxeXhySTh2MlM4YUdmd1hsbWdUZGJnMHpzUVVKUkVVelhYU0dhNjMyZEZrN2ZEUURlZ1ZBSFNkZy1PdDZkTDZZQQ?oc=5\" target=\"_blank\"&gt;WVU infectious disease expert weighs Ebola, hantavirus outbreaks and U.S. risk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WV News&lt;/font&gt;",
-      "publisher": "WV News",
-      "published_at": "2026-06-05T15:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWlKXzN1R09uV3BjQzRhM2ZQTm5tNm5fYTdRUXJyX3RKRkZjZkotamQzMzFZN0tzcWtDZmtlMm55TDhYcFdrT1lBZXEyOUgzTVgzeXdBQzNJTFFURmFwUVhEUFFXQ0ZmMDYxR1hSa0tqOHoxbG5mZVF0bHd1OHhYRDd2REhRS0tUVWxhLUpseVdLQ3BtVUNSY0xJUkhvQjRwT0FzdVdpMUdSZjRnclNlM3hrWnF0aHJKcFAxeXhySTh2MlM4YUdmd1hsbWdUZGJnMHpzUVVKUkVVelhYU0dhNjMyZEZrN2ZEUURlZ1ZBSFNkZy1PdDZkTDZZQQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-05T22:03:19.855Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 653,
-      "headline": "WVU infectious disease expert weighs Ebola, hantavirus outbreaks and U.S. risk - WV News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNXzdRaVV0TlBOMDVtdnlQM2RVRUZYUk95UzAwSXpUWVBSSVM5TEtPX0hNQmtJVjFxcTZ3dWM3R1M1bjJ0RmxWMG9oc1F6VjVxWTFKTmZXcUUwem80cDFQOGZPckJGdzVwSHNxQl9RR2N3SFBOZHVVOThWVkJobm44aXdPUUZXck9TM1BGWU4wNXEtNEk1UmFRa0MtV2wtV1lFbG5tWGJWRmstbUxMODl2WUZwYmgyZ1ZKUVFPM2llRFlodlVhNkM3VjFBVExhcF9NdGhhVFVpM2pUMVZQaHk0cXNncw?oc=5\" target=\"_blank\"&gt;WVU infectious disease expert weighs Ebola, hantavirus outbreaks and U.S. risk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WV News&lt;/font&gt;",
-      "publisher": "WV News",
-      "published_at": "2026-06-05T15:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNXzdRaVV0TlBOMDVtdnlQM2RVRUZYUk95UzAwSXpUWVBSSVM5TEtPX0hNQmtJVjFxcTZ3dWM3R1M1bjJ0RmxWMG9oc1F6VjVxWTFKTmZXcUUwem80cDFQOGZPckJGdzVwSHNxQl9RR2N3SFBOZHVVOThWVkJobm44aXdPUUZXck9TM1BGWU4wNXEtNEk1UmFRa0MtV2wtV1lFbG5tWGJWRmstbUxMODl2WUZwYmgyZ1ZKUVFPM2llRFlodlVhNkM3VjFBVExhcF9NdGhhVFVpM2pUMVZQaHk0cXNncw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:21.133Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 645,
-      "headline": "Should you cancel your cruise as deadly hantavirus emerges? - INQUIRER.net USA",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFMTEdVVFhjcjJjNjBjTFkzSFJDc25jU0tZcERxbUQtMTB6aV80cE42bnUzVkdERkc4b0N4TEtuTVVWNTg2NUNROS1IVjJpWVFRVjBNalZKdHBXWDdNa1pfMDc3UDFhNGJHRnh2d1RXcm0teFBUN1JUd3c5aGpoSzBHbDdRcjAzMGROenlpUlZpZzlf?oc=5\" target=\"_blank\"&gt;Should you cancel your cruise as deadly hantavirus emerges?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;INQUIRER.net USA&lt;/font&gt;",
-      "publisher": "INQUIRER.net USA",
-      "published_at": "2026-06-05T14:38:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFMTEdVVFhjcjJjNjBjTFkzSFJDc25jU0tZcERxbUQtMTB6aV80cE42bnUzVkdERkc4b0N4TEtuTVVWNTg2NUNROS1IVjJpWVFRVjBNalZKdHBXWDdNa1pfMDc3UDFhNGJHRnh2d1RXcm0teFBUN1JUd3c5aGpoSzBHbDdRcjAzMGROenlpUlZpZzlf?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:18.569Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 636,
-      "headline": "Doctor who said he treated patients with Hantavirus on cruise ship returns home - KTVB",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcl9rbU1OTUNjVUhQSmFrUmszckNOU3cyR1g0YlpacXQ4b01jU2tqVjkxZjN2ZkNfeW4zbEZBVFhqTGxKTk93cjZJaDBBUHlDWTU4NjRPZ0lMUHlhSUwwUVROMXBrSG1JQy1TNE1GWl9aYmNsbWNKenBRbUMwSDh1NlRBdU5PVTFoSFFGekstZWpuZHl6Z2M3eHFaVlcxMTRRdnJSQ2pzM19VckFITElsM3RUTlV6UnJaNU1DOWJQUUcyc1JoM3BHR2tHNEpfX0RBMWMtQ3dyVUJtbVhad0FnYUN1aEhmSnVmM2FhcDZYRQ?oc=5\" target=\"_blank\"&gt;Doctor who said he treated patients with Hantavirus on cruise ship returns home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KTVB&lt;/font&gt;",
-      "publisher": "KTVB",
-      "published_at": "2026-06-05T12:47:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcl9rbU1OTUNjVUhQSmFrUmszckNOU3cyR1g0YlpacXQ4b01jU2tqVjkxZjN2ZkNfeW4zbEZBVFhqTGxKTk93cjZJaDBBUHlDWTU4NjRPZ0lMUHlhSUwwUVROMXBrSG1JQy1TNE1GWl9aYmNsbWNKenBRbUMwSDh1NlRBdU5PVTFoSFFGekstZWpuZHl6Z2M3eHFaVlcxMTRRdnJSQ2pzM19VckFITElsM3RUTlV6UnJaNU1DOWJQUUcyc1JoM3BHR2tHNEpfX0RBMWMtQ3dyVUJtbVhad0FnYUN1aEhmSnVmM2FhcDZYRQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-05T22:00:41.788Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 622,
-      "headline": "Commentary: The most concerning outbreak right now isn’t Ebola or hantavirus - Saw Swee Hock School of Public Health",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFVpd0s1M2lFZTltTzI5Q1ZwSE1ocmdOdmxUejllcFRKWVZMU3E4WlkwSmt6a2cxTVh0M0dlNi1PbmpXazB0cnRpUlIzQVJVMmtXdzNmeHl6b0l3MU5fZHJqNWhvOXB0RDNZZGlndGdDUS0tWFdrNW5rQzYxWEFZcWRnd3RybjRBRWc4akJUXzZrM29fdlFGdWtTYThDbmdxQlVHNVRn?oc=5\" target=\"_blank\"&gt;Commentary: The most concerning outbreak right now isn’t Ebola or hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Saw Swee Hock School of Public Health&lt;/font&gt;",
-      "publisher": "Saw Swee Hock School of Public Health",
-      "published_at": "2026-06-05T09:25:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFVpd0s1M2lFZTltTzI5Q1ZwSE1ocmdOdmxUejllcFRKWVZMU3E4WlkwSmt6a2cxTVh0M0dlNi1PbmpXazB0cnRpUlIzQVJVMmtXdzNmeHl6b0l3MU5fZHJqNWhvOXB0RDNZZGlndGdDUS0tWFdrNW5rQzYxWEFZcWRnd3RybjRBRWc4akJUXzZrM29fdlFGdWtTYThDbmdxQlVHNVRn?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-05T09:55:15.962Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 625,
-      "headline": "Is the hantavirus outbreak a warning sign of climate change? - Modern Ghana",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4bUJSYjYwRnZIMHZNRktBTGdvM3d0WnFqZEtFTmVJeThnV0ZZMDJXNDNhNmV0REs5WnkySnRLdXVuX0xrNHlDN3JsMTRMdVdNTWZvTXVQb1M3Mml1X0UzWVdR0gFcQVVfeXFMUGdfSWNQUk9iR3NnelhvQnZlZi1ORkQzMk54cXJMZ3lwdHE4WDhfLVFMTUF4eklJbU1HVXczYkFJMlhzaWNaeHVvdVM0UGg3S19oQlBzWUd4TUQ1aHE?oc=5\" target=\"_blank\"&gt;Is the hantavirus outbreak a warning sign of climate change?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Modern Ghana&lt;/font&gt;",
-      "publisher": "Modern Ghana",
-      "published_at": "2026-06-05T08:41:36.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4bUJSYjYwRnZIMHZNRktBTGdvM3d0WnFqZEtFTmVJeThnV0ZZMDJXNDNhNmV0REs5WnkySnRLdXVuX0xrNHlDN3JsMTRMdVdNTWZvTXVQb1M3Mml1X0UzWVdR0gFcQVVfeXFMUGdfSWNQUk9iR3NnelhvQnZlZi1ORkQzMk54cXJMZ3lwdHE4WDhfLVFMTUF4eklJbU1HVXczYkFJMlhzaWNaeHVvdVM0UGg3S19oQlBzWUd4TUQ1aHE?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-05T09:55:15.968Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 618,
-      "headline": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' - Yahoo",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3RFTy1IUnlPZTlGbmp1TTZaOUNNcjZ5TlVWM1lkMWpHQ0JGMy01TWVmdFNubmd6MFpSYUZJU1prSEt1YWtCa21CWlBQZmFibGt1OUloTDlqOWJQUnZrX005VHRyOFAtaDFFdldYRnN0ZjVMNkVoNmxGTERIdHBJbkZrUVN5ekVwdzZIU2l0aDBoal9sUTE1a056cWIzS2V3?oc=5\" target=\"_blank\"&gt;Experts refute claims hantavirus derived name from Hebrew for 'nonsense'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
-      "publisher": "Yahoo",
-      "published_at": "2026-06-05T08:38:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3RFTy1IUnlPZTlGbmp1TTZaOUNNcjZ5TlVWM1lkMWpHQ0JGMy01TWVmdFNubmd6MFpSYUZJU1prSEt1YWtCa21CWlBQZmFibGt1OUloTDlqOWJQUnZrX005VHRyOFAtaDFFdldYRnN0ZjVMNkVoNmxGTERIdHBJbkZrUVN5ekVwdzZIU2l0aDBoal9sUTE1a056cWIzS2V3?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-05T09:55:15.955Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 619,
-      "headline": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' - Yahoo News Malaysia",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHRHZDBzanJTQjdiN3BiUzRsd2VTUFlZMjFfeXhVQWFtUm1FT3lTcGFNZGIwS1FxUGM5d1FiYm55VnB0M2ZSVkhYNDU4ZEVldHItS2h2TmN6UTVhYjh2V3Y3dEJWaTZYdkk1emFPZnQzNV9kTWNkb0txN29DcG5EajFnVXpsRy1HNHAzaUwwSDk?oc=5\" target=\"_blank\"&gt;Experts refute claims hantavirus derived name from Hebrew for 'nonsense'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo News Malaysia&lt;/font&gt;",
-      "publisher": "Yahoo News Malaysia",
-      "published_at": "2026-06-05T08:38:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHRHZDBzanJTQjdiN3BiUzRsd2VTUFlZMjFfeXhVQWFtUm1FT3lTcGFNZGIwS1FxUGM5d1FiYm55VnB0M2ZSVkhYNDU4ZEVldHItS2h2TmN6UTVhYjh2V3Y3dEJWaTZYdkk1emFPZnQzNV9kTWNkb0txN29DcG5EajFnVXpsRy1HNHAzaUwwSDk?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-05T09:55:15.957Z",
       "mentioned_states": []
     }
   ],
