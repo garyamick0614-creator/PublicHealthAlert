@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-08T21:52:59.721Z",
+  "generatedAt": "2026-06-09T09:54:35.443Z",
   "lastRun": {
-    "ts": "2026-06-08T21:52:59.657Z",
+    "ts": "2026-06-09T09:54:35.436Z",
     "source_kind": "news",
-    "items_inserted": 20,
-    "items_skipped": 280,
+    "items_inserted": 45,
+    "items_skipped": 209,
     "error_message": "firecrawl-search-skipped-quota-402"
   },
   "totals": {
@@ -423,6 +423,105 @@
   ],
   "recentNews": [
     {
+      "id": 751,
+      "headline": "In the news today: MPs plan Taiwan trip, B.C. hantavirus recovery, Energy show begins - thecanadianpressnews.ca",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPM1gteWRJb0g2TlAxelhIVVl0ZzA3TUgzYTNtYlQ2dVpuYkFabmwxWHNPUXc4MzFtaFRRSkpkdHllNVdMQ1FsaDFxeUJoakRPX1dmaHBOX1ZfS0dqa0NKMFJXbi14dElhZkMzV3hhRUlEc0hVZzlMeEN3bWdGVjVpVXhIRU9tcDBiLVdlWXBvVG5tZWVFTG41VWdsRWUwYm54M1V0TnlpNkdsWEI1ZlVDeWs2S0kzUjN1ZzdRd3RMSE9kV05PMkx1cEhhWFhrUEUxWUFMdzlKRFRvYWVHalQ2Mmhlbl9pY0x1MllBMkUzb2NSajdEX09kcmJHUEdaWTRYV01BYjBNQQ?oc=5\" target=\"_blank\"&gt;In the news today: MPs plan Taiwan trip, B.C. hantavirus recovery, Energy show begins&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;thecanadianpressnews.ca&lt;/font&gt;",
+      "publisher": "thecanadianpressnews.ca",
+      "published_at": "2026-06-09T08:03:26.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM1gteWRJb0g2TlAxelhIVVl0ZzA3TUgzYTNtYlQ2dVpuYkFabmwxWHNPUXc4MzFtaFRRSkpkdHllNVdMQ1FsaDFxeUJoakRPX1dmaHBOX1ZfS0dqa0NKMFJXbi14dElhZkMzV3hhRUlEc0hVZzlMeEN3bWdGVjVpVXhIRU9tcDBiLVdlWXBvVG5tZWVFTG41VWdsRWUwYm54M1V0TnlpNkdsWEI1ZlVDeWs2S0kzUjN1ZzdRd3RMSE9kV05PMkx1cEhhWFhrUEUxWUFMdzlKRFRvYWVHalQ2Mmhlbl9pY0x1MllBMkUzb2NSajdEX09kcmJHUEdaWTRYV01BYjBNQQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.215Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 744,
+      "headline": "Defence Medics parachute into Tristan da Cunha to treat hantavirus patient - GOV.UK",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNLXNOVl9GemNERVZncV95eDZHVFNDNHdKUjVTUUxSMVRkTnpmWGdVQ1VuZnU5a2xmaEhfeGh1aWxaeWhtMVFIWHRjVGlyY1RCc2NqQUN4d1p2czNLcEVpQ0g4VmRqX2NmZkZjSVJhbkxfWml4bU9seGtfMExlcVd6OUVBOWN0b21iOE5ranhJVWttR1hJcFBkdUs5a3RORWRRcFVJTlNUN2xjajVsZWc?oc=5\" target=\"_blank\"&gt;Defence Medics parachute into Tristan da Cunha to treat hantavirus patient&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;GOV.UK&lt;/font&gt;",
+      "publisher": "GOV.UK",
+      "published_at": "2026-06-09T08:00:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLXNOVl9GemNERVZncV95eDZHVFNDNHdKUjVTUUxSMVRkTnpmWGdVQ1VuZnU5a2xmaEhfeGh1aWxaeWhtMVFIWHRjVGlyY1RCc2NqQUN4d1p2czNLcEVpQ0g4VmRqX2NmZkZjSVJhbkxfWml4bU9seGtfMExlcVd6OUVBOWN0b21iOE5ranhJVWttR1hJcFBkdUs5a3RORWRRcFVJTlNUN2xjajVsZWc?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.209Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 743,
+      "headline": "New Sequencing Method Improves Hantavirus Tracking - Technology Networks",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWh0X0J6eWs0QWY4ckZ4YUhzWTJ5V0tyZ2c5R1lDUFlmNmJmb1JTRm0tbmZuTTByQWRoNGd3b2E1TUtybkVudWlGSm9pejNrVUxMUkZVY2RKMzd4MGRCTGxFVGt1bVJJOFBWdC05NlFtUXhzcjZxQjBPdEJjOXcwYUFvTEpJcl82WElfUl8xaXB4cFd0X2RCMkNfWTdQWDNfQkdKMklqRi1ZSmlG?oc=5\" target=\"_blank\"&gt;New Sequencing Method Improves Hantavirus Tracking&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Technology Networks&lt;/font&gt;",
+      "publisher": "Technology Networks",
+      "published_at": "2026-06-09T07:40:34.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWh0X0J6eWs0QWY4ckZ4YUhzWTJ5V0tyZ2c5R1lDUFlmNmJmb1JTRm0tbmZuTTByQWRoNGd3b2E1TUtybkVudWlGSm9pejNrVUxMUkZVY2RKMzd4MGRCTGxFVGt1bVJJOFBWdC05NlFtUXhzcjZxQjBPdEJjOXcwYUFvTEpJcl82WElfUl8xaXB4cFd0X2RCMkNfWTdQWDNfQkdKMklqRi1ZSmlG?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.208Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 747,
+      "headline": "Our View: Mohave County's first hantavirus case is a reminder, not a shock - The Kingman Daily Miner",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZjBhTDRHQjBOUTFMY09tbkdqdGUwRDBzWEFoZTZicl9pTlh3aFB4TllnOVM0b2hBLXFVTEl6eXZEdU5VQkFPYmtZeVJXNGRMcFVDNmFuRFBneEt3azNhQTktbkZlVFlBSHJVZkdLc3hfNWlMSkQ4ODhZT2R5VWlES0NlcGl6cTBzRW1YQ0xGZXQwTjdXQUZ5OTh0cE9qVkVXazdKdlVqQngwQkZKU2h4ZVQ0VTktazBGeFpHeHlwZ3YtbHM3al82ekI2bjRhbExEYnNvbHJFYnFWVERTZzRlMFhGR3o5dThn?oc=5\" target=\"_blank\"&gt;Our View: Mohave County's first hantavirus case is a reminder, not a shock&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Kingman Daily Miner&lt;/font&gt;",
+      "publisher": "The Kingman Daily Miner",
+      "published_at": "2026-06-09T07:15:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZjBhTDRHQjBOUTFMY09tbkdqdGUwRDBzWEFoZTZicl9pTlh3aFB4TllnOVM0b2hBLXFVTEl6eXZEdU5VQkFPYmtZeVJXNGRMcFVDNmFuRFBneEt3azNhQTktbkZlVFlBSHJVZkdLc3hfNWlMSkQ4ODhZT2R5VWlES0NlcGl6cTBzRW1YQ0xGZXQwTjdXQUZ5OTh0cE9qVkVXazdKdlVqQngwQkZKU2h4ZVQ0VTktazBGeFpHeHlwZ3YtbHM3al82ekI2bjRhbExEYnNvbHJFYnFWVERTZzRlMFhGR3o5dThn?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.212Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 741,
+      "headline": "B.C. health officials say Canadian who tested positive for hantavirus has recovered - Toronto Star",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQQVl6VmtPUW9JcFFkbEY2eEpUbEVWZ0ZldlIwcHNDQTAwQkFFZjd0bE9vNWVBOXdIeVpfWDA2Y3o4Z20tUXZTMkZac3BOcWd5VmJuX1ZTTWxtNjZzOVRDa1lNT0hkVl9IektTMjZaSk41Nk5MbXhleHJreGRaeGpQQ0xnZmxmbWlmMGcwS0lLMkNTOTNNRTJCdmpHUWl3MVJwVWJBYnU2c1VKdVl0Q0o2RVktUnhFUjEwVGt5RENaUnFhenVzeDg5Y3FqLXBjTVJ1clhpekNKZnlLcVlpTHBMc2pETm1UVS0xUnU2SnBWb0xrQ1BWYXc2UWZORHd2eHJVRHd5eEtMZnJ0NEdBMGkyRVNB?oc=5\" target=\"_blank\"&gt;B.C. health officials say Canadian who tested positive for hantavirus has recovered&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Toronto Star&lt;/font&gt;",
+      "publisher": "Toronto Star",
+      "published_at": "2026-06-09T04:46:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQVl6VmtPUW9JcFFkbEY2eEpUbEVWZ0ZldlIwcHNDQTAwQkFFZjd0bE9vNWVBOXdIeVpfWDA2Y3o4Z20tUXZTMkZac3BOcWd5VmJuX1ZTTWxtNjZzOVRDa1lNT0hkVl9IektTMjZaSk41Nk5MbXhleHJreGRaeGpQQ0xnZmxmbWlmMGcwS0lLMkNTOTNNRTJCdmpHUWl3MVJwVWJBYnU2c1VKdVl0Q0o2RVktUnhFUjEwVGt5RENaUnFhenVzeDg5Y3FqLXBjTVJ1clhpekNKZnlLcVlpTHBMc2pETm1UVS0xUnU2SnBWb0xrQ1BWYXc2UWZORHd2eHJVRHd5eEtMZnJ0NEdBMGkyRVNB?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.204Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 753,
+      "headline": "B.C. health officials say Canadian who tested positive for hantavirus has recovered - The Spec",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUl8wRy1XalVTd1VBQjBlY0RHenVKeVlvZFZxbDFsUmdBamRVeS1zY0pLaERNSzRSZ3E3VUYyODJCbEloTXIzY3Zydk8tQlBTSUw0S1E0emlWQWk0VTZ1MTM0LW9oR29EdGpDdTV4T0JBTlNNZlRKNFhKVWxIamVONWljanVTTGp6UktobXZxUlBTZFhFWWdXZ1JmVjJIZ3hwX3hBdnFEenVYSXRkS21OamdLeXVQN0lMdDlhcFlsNVNZTnZZRnR4ZG5oUENjNndkMU0zTFhzR09MUUpjc2FNUTRydmpnMVBrVzNpbXQzdkN0UFhyYU9iTUwzQQ?oc=5\" target=\"_blank\"&gt;B.C. health officials say Canadian who tested positive for hantavirus has recovered&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Spec&lt;/font&gt;",
+      "publisher": "The Spec",
+      "published_at": "2026-06-09T04:46:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUl8wRy1XalVTd1VBQjBlY0RHenVKeVlvZFZxbDFsUmdBamRVeS1zY0pLaERNSzRSZ3E3VUYyODJCbEloTXIzY3Zydk8tQlBTSUw0S1E0emlWQWk0VTZ1MTM0LW9oR29EdGpDdTV4T0JBTlNNZlRKNFhKVWxIamVONWljanVTTGp6UktobXZxUlBTZFhFWWdXZ1JmVjJIZ3hwX3hBdnFEenVYSXRkS21OamdLeXVQN0lMdDlhcFlsNVNZTnZZRnR4ZG5oUENjNndkMU0zTFhzR09MUUpjc2FNUTRydmpnMVBrVzNpbXQzdkN0UFhyYU9iTUwzQQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.217Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 739,
+      "headline": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say - CBC",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXpuNVc2MGJXU2pqY29Db0VyTVdOMW9ROGRPLUhXLVNnN3Y4anh5RzBMM3RvTTlEWTc5WXBmaktGS0NzRGdLblVZRmYyNnFBQS1UVjV2RVh0bkU5ejNfYk43c09aWjZwUzZST3RkM2h3ZkFMVUJELVVSajdYVU9heFlTM2pqdl9JV01ZdV9tYlpnQ1UtSm9qbjVjMGJMa2N6VV9odHdEVQ?oc=5\" target=\"_blank\"&gt;Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBC&lt;/font&gt;",
+      "publisher": "CBC",
+      "published_at": "2026-06-09T01:06:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXpuNVc2MGJXU2pqY29Db0VyTVdOMW9ROGRPLUhXLVNnN3Y4anh5RzBMM3RvTTlEWTc5WXBmaktGS0NzRGdLblVZRmYyNnFBQS1UVjV2RVh0bkU5ejNfYk43c09aWjZwUzZST3RkM2h3ZkFMVUJELVVSajdYVU9heFlTM2pqdl9JV01ZdV9tYlpnQ1UtSm9qbjVjMGJMa2N6VV9odHdEVQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.203Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 745,
+      "headline": "B.C.'s first hantavirus patient has recovered, discharged from hospital - Vancouver Sun",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmhpZVE4dXB6X1RqX2stbkVRUkJzNmczQXRyRlhZb2dNc3JBUF9DR2cyMXozUHdFZlpkUEh2NVJWVXlLRWYzM05jYnBtUTRNUGlGanNhSlVtU1JVLWFGeF9oWmFPaEdxOGoxVFdwelgzREJCaTRyV3BYeEU2YWZna3hNTTFPbDVYT0hkNm5UVllXME9oeUpj?oc=5\" target=\"_blank\"&gt;B.C.'s first hantavirus patient has recovered, discharged from hospital&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Vancouver Sun&lt;/font&gt;",
+      "publisher": "Vancouver Sun",
+      "published_at": "2026-06-09T00:45:22.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmhpZVE4dXB6X1RqX2stbkVRUkJzNmczQXRyRlhZb2dNc3JBUF9DR2cyMXozUHdFZlpkUEh2NVJWVXlLRWYzM05jYnBtUTRNUGlGanNhSlVtU1JVLWFGeF9oWmFPaEdxOGoxVFdwelgzREJCaTRyV3BYeEU2YWZna3hNTTFPbDVYT0hkNm5UVllXME9oeUpj?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.210Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 738,
+      "headline": "Doctor quarantining at home after being monitored for hantavirus in Omaha - KETV",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnhSTWd0em1nT1VvU3VxTUc3UV9acnJ3TlJzWTRvVmw0T2QzM09UMkJNR0p2d1Vqc3BiZmFpSUlmaElSeW52amFNTWdkVlh1ZG9pZWJfcW9ielVLZldlUVVabXFIYS0xdnBjTVF2STB4WlVFZmJPSTc1YlE3MHN6RFFmVXA0Yk9VYjdsdk1WTDYtZw?oc=5\" target=\"_blank\"&gt;Doctor quarantining at home after being monitored for hantavirus in Omaha&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KETV&lt;/font&gt;",
+      "publisher": "KETV",
+      "published_at": "2026-06-08T22:21:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnhSTWd0em1nT1VvU3VxTUc3UV9acnJ3TlJzWTRvVmw0T2QzM09UMkJNR0p2d1Vqc3BiZmFpSUlmaElSeW52amFNTWdkVlh1ZG9pZWJfcW9ielVLZldlUVVabXFIYS0xdnBjTVF2STB4WlVFZmJPSTc1YlE3MHN6RFFmVXA0Yk9VYjdsdk1WTDYtZw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.202Z",
+      "mentioned_states": []
+    },
+    {
       "id": 720,
       "headline": "Texans aboard hantavirus cruise ship complete monitoring - Spectrum News",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkpRaFlPNE93MFBia1ZxYkEtZHhvdWdGMkdlNmtVZGVIRjNnRWVjenVHZWRldXlVajB2aDZUUmRrTW5WVU5iejJwYWEwcDgzQnpvUmJpckt2cG5nUnVwemV1bDFqYm9RRHJweTNFY2pvQk9oaVJaUTFEUHVqS21qZ2tBWldYbVphTGNfck1WNk50SmJLd25tZzdyR0g0bXYzTU9hVzhjQVkyYTM4T01ITnlNeURlcEJPTndmMEJmVU5aNmc?oc=5\" target=\"_blank\"&gt;Texans aboard hantavirus cruise ship complete monitoring&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Spectrum News&lt;/font&gt;",
@@ -431,6 +530,17 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkpRaFlPNE93MFBia1ZxYkEtZHhvdWdGMkdlNmtVZGVIRjNnRWVjenVHZWRldXlVajB2aDZUUmRrTW5WVU5iejJwYWEwcDgzQnpvUmJpckt2cG5nUnVwemV1bDFqYm9RRHJweTNFY2pvQk9oaVJaUTFEUHVqS21qZ2tBWldYbVphTGNfck1WNk50SmJLd25tZzdyR0g0bXYzTU9hVzhjQVkyYTM4T01ITnlNeURlcEJPTndmMEJmVU5aNmc?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-08T21:52:57.876Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 740,
+      "headline": "Two Texans clear 42-day quarantine after exposure to Andes hantavirus - Yahoo",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnRKUzBvVTdyLTFwclh3OVZoS2l1UHpvRm90RGt0QVJ6WkppWjktbjNhdFVOUUVhUm9JMFJGd0RGTUFMVFRTcV9QVFNnWEE2N3FiQXBTOFBiWFItREVmdmhkNGk4dXh2VTZFWGlUeDFUNFhMUFR2UVN6c05Ub3JWaDkwS0g1LW93d0E?oc=5\" target=\"_blank\"&gt;Two Texans clear 42-day quarantine after exposure to Andes hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
+      "publisher": "Yahoo",
+      "published_at": "2026-06-08T17:24:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnRKUzBvVTdyLTFwclh3OVZoS2l1UHpvRm90RGt0QVJ6WkppWjktbjNhdFVOUUVhUm9JMFJGd0RGTUFMVFRTcV9QVFNnWEE2N3FiQXBTOFBiWFItREVmdmhkNGk4dXh2VTZFWGlUeDFUNFhMUFR2UVN6c05Ub3JWaDkwS0g1LW93d0E?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.204Z",
       "mentioned_states": []
     },
     {
@@ -479,6 +589,17 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenhxNU5obl9jOU5rSXpYNHpvQkNvQ1JWS0ppQ3N3dGFtV3hSXzhPMGNkM3kzM20yaXRDOFdTSEE1UUpOT2FFRF9VUWJpNDd1MHFqVEdQWllkdktNRHpaaEJtRFktVWd2QS1oN2FFR2NYZ0thV1VYUU81NjhqSUVXY0ZFMXYzZ2tKbnVjNg?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-08T21:52:57.882Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 742,
+      "headline": "Two Texans cleared of hantavirus risk after period of isolation - Houston Public Media",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdXVxUEoxZHBWc0ZaRjJQSlIwZE9UVms1OXNKdHB1Q1FacWZNdmIyZFEyX2xoa3Z3anFCWThxREUyLWxfcmZIb0E5S0FHdmJ1dFlCMkl6Y3JBaHFIdlB5U2N0ZnpNRjRDVjJJMzlXdVc4dlNfODhNYjZETndPWlY2S0lmbm1kalhSdThrODNzXzV5YTNMQ0VEcDVtZXFST0F3UUFobThETElXV1hBSDc4RUhwUzFlUGttMHQ5Q3M1d1hGTnh5Ym1XcjZGTFN5OS1qcUEySUV5VEh5czYzVVg4LTdIVUgwSzN0ZjRfZ1Z30gH2AUFVX3lxTE1HMmtMeHpqbnBuUm10UTRudU8tMXBDdlp1c0MtRWxiVkxiY3RnT1hPR1FwdzZ6UkZfd2djMklsY1JlQnVtajlvbTJVeEpFMUdKSGpmajZnaFJ4aWRDWEhqYlY2RnoxdldjdEg1aG55UVp6aU16am1LbXdyV3htZVpiLV9yT0N4NzY0bVRyaGh0SThaWEpHTVo5ZFk4MS01dlMwSFE5UllqeDl4bUpjRkgxd1lyaGs5ZFZGWnVOMzF6VHh4RWhNbHIwalYwY2JPWTZzNjdCUm9EdW42RDNZVU9WVU9qWkY0UU1odThhaks0dDRlRVY3UQ?oc=5\" target=\"_blank\"&gt;Two Texans cleared of hantavirus risk after period of isolation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Houston Public Media&lt;/font&gt;",
+      "publisher": "Houston Public Media",
+      "published_at": "2026-06-08T13:18:19.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdXVxUEoxZHBWc0ZaRjJQSlIwZE9UVms1OXNKdHB1Q1FacWZNdmIyZFEyX2xoa3Z3anFCWThxREUyLWxfcmZIb0E5S0FHdmJ1dFlCMkl6Y3JBaHFIdlB5U2N0ZnpNRjRDVjJJMzlXdVc4dlNfODhNYjZETndPWlY2S0lmbm1kalhSdThrODNzXzV5YTNMQ0VEcDVtZXFST0F3UUFobThETElXV1hBSDc4RUhwUzFlUGttMHQ5Q3M1d1hGTnh5Ym1XcjZGTFN5OS1qcUEySUV5VEh5czYzVVg4LTdIVUgwSzN0ZjRfZ1Z30gH2AUFVX3lxTE1HMmtMeHpqbnBuUm10UTRudU8tMXBDdlp1c0MtRWxiVkxiY3RnT1hPR1FwdzZ6UkZfd2djMklsY1JlQnVtajlvbTJVeEpFMUdKSGpmajZnaFJ4aWRDWEhqYlY2RnoxdldjdEg1aG55UVp6aU16am1LbXdyV3htZVpiLV9yT0N4NzY0bVRyaGh0SThaWEpHTVo5ZFk4MS01dlMwSFE5UllqeDl4bUpjRkgxd1lyaGs5ZFZGWnVOMzF6VHh4RWhNbHIwalYwY2JPWTZzNjdCUm9EdW42RDNZVU9WVU9qWkY0UU1odThhaks0dDRlRVY3UQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:34.206Z",
       "mentioned_states": []
     },
     {
@@ -693,6 +814,17 @@
       "mentioned_states": []
     },
     {
+      "id": 780,
+      "headline": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - WCVB",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5lYVFWQzB5TzJNUE5FcXg5X09zLWVMc1dfc3NyOGJmbnI3LTFfb3lCM0dxbjB2Mzc0cjVzcEE4VlQweWotSlZaRkpkMm01eXYtT1dIU0VIRkNCYWl1RVlycHJfaTlodEZrZ28wNlNRdnA?oc=5\" target=\"_blank\"&gt;Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WCVB&lt;/font&gt;",
+      "publisher": "WCVB",
+      "published_at": "2026-06-07T00:53:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lYVFWQzB5TzJNUE5FcXg5X09zLWVMc1dfc3NyOGJmbnI3LTFfb3lCM0dxbjB2Mzc0cjVzcEE4VlQweWotSlZaRkpkMm01eXYtT1dIU0VIRkNCYWl1RVlycHJfaTlodEZrZ28wNlNRdnA?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-09T09:54:35.208Z",
+      "mentioned_states": []
+    },
+    {
       "id": 688,
       "headline": "Texas cruise passengers complete hantavirus monitoring with no infections, state says - FOX 7 Austin",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFc2WnJVUTlKWEF3djJJNWJYckFKRDNYS3lGQXFmX3ROWmFIcXRCT21JRWZpWHdtcE9uLVJBM1NzNmNXVUNNbkZHN2x5NTZNcEdNWENYSFBWN2VVQzI1Z3lTTExLMlVYbHFaVVRBUENTVS10dmJQLXVuVDBvNVg2dTJ0b2Vra3Bva2VJdW5VTWthdU9pNFAwUWE5aXhIV2FmY3dFaUtGSdIBrAFBVV95cUxNZzJUcC1ISkV0MTlGcm9IUHE0d01Rek5ickNTcmJkbU1TWmNVWV9CLUx0UzNETHBNWVZ6Y0tkcXotdGtOSlNIQnZMMHRnX1ZDTVNkYm5Ubi1UZFZKRUtNc2JVb0dnWk0xaUNHQjFfc1NOandMM19YNzgwWmkxM3lCMGhQOWpmS0NzRUpqdnBDWWVuX0NLUkdWQ0d5MHdMdWg1SktmRUFVR1BpVGw5?oc=5\" target=\"_blank\"&gt;Texas cruise passengers complete hantavirus monitoring with no infections, state says&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FOX 7 Austin&lt;/font&gt;",
@@ -714,6 +846,19 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObG5lVXlCUTdtV3RGMWQ3T0ZXQnRNMVdWZjVxZ29zNVBkNG5aOXhBcVdZdzYtTWs5ZHFtWjlWZ0dpejVxcmR3cVBVaVpmVzMwUWljNjRIU3N4bVZDdVplUU1ON2o1VEVxODVsODJ3alZPandyQUZHUHZkdjNWMFdHTkVEaGhWd2FMZDFqdEJweGpVc2FLd2R2bFNzVWpEZUE0RTdKag?oc=5",
       "mentioned_states_json": "[\"TX\"]",
       "fetched_at": "2026-06-07T09:52:53.026Z",
+      "mentioned_states": [
+        "TX"
+      ]
+    },
+    {
+      "id": 748,
+      "headline": "Hantavirus monitoring completed for Texas passengers after cruise ship outbreak - KVIA",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWZhS2luTlVTaHJtakt1RlFOYkpBUnN6WDVtZThHRmtwOExiQnhHbnh4YWZwY1A1RmkwMDdJRXR5bVlHWmhpb185Wmo5MGVEYnJuOFNCRUltTWprWUc5YW9oX1NsaVhKbzNjeVp3OWFBZTBhV1RjRkctUk41SjVBMWR4eTdFemo4emIzamlpZGNFSksyY1hNVGd1dGdEUVJjNUVycmpXVHBoUmlzcVlrZFVLaw?oc=5\" target=\"_blank\"&gt;Hantavirus monitoring completed for Texas passengers after cruise ship outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KVIA&lt;/font&gt;",
+      "publisher": "KVIA",
+      "published_at": "2026-06-06T23:08:03.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWZhS2luTlVTaHJtakt1RlFOYkpBUnN6WDVtZThHRmtwOExiQnhHbnh4YWZwY1A1RmkwMDdJRXR5bVlHWmhpb185Wmo5MGVEYnJuOFNCRUltTWprWUc5YW9oX1NsaVhKbzNjeVp3OWFBZTBhV1RjRkctUk41SjVBMWR4eTdFemo4emIzamlpZGNFSksyY1hNVGd1dGdEUVJjNUVycmpXVHBoUmlzcVlrZFVLaw?oc=5",
+      "mentioned_states_json": "[\"TX\"]",
+      "fetched_at": "2026-06-09T09:54:34.213Z",
       "mentioned_states": [
         "TX"
       ]
@@ -845,149 +990,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFFyTkNJTUl0eS1maEo3NUduc3RvdmtsWFFrVURXdWtqcmpxd1BfMUZkQll0bjhyU1dhaVJBSmtoRFFkUjNHNjJjSkotb3ZPTEo3RXBuNmJZMEpnbVh3dzVybnpEcHBUR0hTRmM5a2FMc2RxNG1ManoyTm9DZWMtS21RWVVzM3Fa?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-07T09:52:53.053Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 696,
-      "headline": "Scientists retrace steps of Dutch tourists as Argentina expands hantavirus probe - The Independent",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnJ6OTVXbDg2QnhrZFFBMXlCcHFWTllCR2d1LUN1cjJSQ0lDRjNHOHEwSFE3eEJpZ1RKbDFodklzVGZjY3FEMXJmMDVJMkdUYUFiZUtvcVJRMndOZFVwQnpSSEJVekhYQ1JVVElrMkRka1UyMXBFQndmbjNpcWtRRF9sY0IyQmlpcTNmTE5aWXdCeGFXSFlSb05DSFNxQWM?oc=5\" target=\"_blank\"&gt;Scientists retrace steps of Dutch tourists as Argentina expands hantavirus probe&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Independent&lt;/font&gt;",
-      "publisher": "The Independent",
-      "published_at": "2026-06-06T09:31:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnJ6OTVXbDg2QnhrZFFBMXlCcHFWTllCR2d1LUN1cjJSQ0lDRjNHOHEwSFE3eEJpZ1RKbDFodklzVGZjY3FEMXJmMDVJMkdUYUFiZUtvcVJRMndOZFVwQnpSSEJVekhYQ1JVVElrMkRka1UyMXBFQndmbjNpcWtRRF9sY0IyQmlpcTNmTE5aWXdCeGFXSFlSb05DSFNxQWM?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-07T09:52:53.059Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 667,
-      "headline": "Scientists retrace steps of Dutch tourists as Argentina expands hantavirus probe - Yahoo News UK",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3dIRXZMVTAwc0NWWGluVUptbzdHUG5WWlY0M1JjUWE4T3RmYmZrN2dDQS1IblpHRzNhN2NIcWFaM0U2djVjNWVWODR6RVVPY3lyaGJxaUNqd0UyendoRlI1dDNfX1Z1VWl0d0phQVY0NUZGdUFBdjRodUkwWGcyR2hkUkFpcTg?oc=5\" target=\"_blank\"&gt;Scientists retrace steps of Dutch tourists as Argentina expands hantavirus probe&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo News UK&lt;/font&gt;",
-      "publisher": "Yahoo News UK",
-      "published_at": "2026-06-06T08:28:23.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3dIRXZMVTAwc0NWWGluVUptbzdHUG5WWlY0M1JjUWE4T3RmYmZrN2dDQS1IblpHRzNhN2NIcWFaM0U2djVjNWVWODR6RVVPY3lyaGJxaUNqd0UyendoRlI1dDNfX1Z1VWl0d0phQVY0NUZGdUFBdjRodUkwWGcyR2hkUkFpcTg?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:22.322Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 682,
-      "headline": "Argentina to expand hantavirus search to second province as probe on cruise ship outbreak widens - The Straits Times",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTQ0a0daSVdOdnFseFg3dnh6dFBVTkxiTHdmUHByaVlTZmZ2di1jWjR5NVZaV29MY21ub0VTb3RTSWwxNUJkR2VvdjJ6WVdTRkdRNTVaamNVR19tbHNBcHlEYXpGLVVjNXkyQ3phVmFzczEyNDY3cmVuLUM3M2stNzNqRVRTb1drN1NrMkM3czdpRVFLOHY5OA?oc=5\" target=\"_blank\"&gt;Argentina to expand hantavirus search to second province as probe on cruise ship outbreak widens&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Straits Times&lt;/font&gt;",
-      "publisher": "The Straits Times",
-      "published_at": "2026-06-06T07:50:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTQ0a0daSVdOdnFseFg3dnh6dFBVTkxiTHdmUHByaVlTZmZ2di1jWjR5NVZaV29MY21ub0VTb3RTSWwxNUJkR2VvdjJ6WVdTRkdRNTVaamNVR19tbHNBcHlEYXpGLVVjNXkyQ3phVmFzczEyNDY3cmVuLUM3M2stNzNqRVRTb1drN1NrMkM3czdpRVFLOHY5OA?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T21:54:04.242Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 644,
-      "headline": "Hantavirus: Argentina expands probe to trace outbreak source - DW",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5\" target=\"_blank\"&gt;Hantavirus: Argentina expands probe to trace outbreak source&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;DW&lt;/font&gt;",
-      "publisher": "DW",
-      "published_at": "2026-06-06T03:50:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:18.165Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 708,
-      "headline": "Novel technique enables rapid sequencing of rare hantaviruses - News-Medical",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUVsclJYWTZEaDJvQ0RBMS1nU081WUtOSXRoNTR2QXlGWUUxZUxrSWVJQ2VNMjltejBSWlQzRTFjNWxRb3c0LW1oS1ItQnJLSE1BUkdJY3k1YnJIRW5fbHQwNExSR2IxWlFtTHpUYm5nSzBHU2JaNnp5VjVYSDVFNVFmOUpHNnh1VFI4OFVDWnFIaWQ3cGFSSkJ4SExfZllZVjRkbkR0emJwVUdEMXc?oc=5\" target=\"_blank\"&gt;Novel technique enables rapid sequencing of rare hantaviruses&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;News-Medical&lt;/font&gt;",
-      "publisher": "News-Medical",
-      "published_at": "2026-06-06T02:36:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUVsclJYWTZEaDJvQ0RBMS1nU081WUtOSXRoNTR2QXlGWUUxZUxrSWVJQ2VNMjltejBSWlQzRTFjNWxRb3c0LW1oS1ItQnJLSE1BUkdJY3k1YnJIRW5fbHQwNExSR2IxWlFtTHpUYm5nSzBHU2JaNnp5VjVYSDVFNVFmOUpHNnh1VFI4OFVDWnFIaWQ3cGFSSkJ4SExfZllZVjRkbkR0emJwVUdEMXc?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T09:53:09.475Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 705,
-      "headline": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - ABC News - Breaking News, Latest News and Videos",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFdnUzlLQTRFOUpGa0E3Y1ljR0dfLVR1NVBER1ZWRFNmOEc1bzdaZ2x6Ui1lRWg3eUs3eE1SbnQzX2Fac1NHanBYajh6bkI3cDEtdGxiaXlwNExicnhBYVl3NTZLR1VsVXUwdmtZajEwdkZzeGdETjlBN3B0UFptTHhTYS1Sc21JTlhnc3RsT19ObTR5UkVSMXpOcE9VdDIzWGRaQlk0ZjLSAa4BQVVfeXFMTTBoWm1HaHoxZnpmejhpcURLOGladUZsZngxamc1WllnMnZqbTQ2Rl95YzU1cHEzRWFidGV5T1dMM2ItXzR5WEw3SG14V0JLUTVNenktWkdZZC01czBQd3FMVENtWThMRkxPMmFCUVNEZ0xzcUV2R19rLUt1bDJUbkhkdDJDeUJuWHhxaWtrYUpjVi15ZE5FSFhxaFdEVzBpRjZrRGVqYW1nNjlCZkxn?oc=5\" target=\"_blank\"&gt;Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ABC News - Breaking News, Latest News and Videos&lt;/font&gt;",
-      "publisher": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-06-06T01:18:39.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFdnUzlLQTRFOUpGa0E3Y1ljR0dfLVR1NVBER1ZWRFNmOEc1bzdaZ2x6Ui1lRWg3eUs3eE1SbnQzX2Fac1NHanBYajh6bkI3cDEtdGxiaXlwNExicnhBYVl3NTZLR1VsVXUwdmtZajEwdkZzeGdETjlBN3B0UFptTHhTYS1Sc21JTlhnc3RsT19ObTR5UkVSMXpOcE9VdDIzWGRaQlk0ZjLSAa4BQVVfeXFMTTBoWm1HaHoxZnpmejhpcURLOGladUZsZngxamc1WllnMnZqbTQ2Rl95YzU1cHEzRWFidGV5T1dMM2ItXzR5WEw3SG14V0JLUTVNenktWkdZZC01czBQd3FMVENtWThMRkxPMmFCUVNEZ0xzcUV2R19rLUt1bDJUbkhkdDJDeUJuWHhxaWtrYUpjVi15ZE5FSFhxaFdEVzBpRjZrRGVqYW1nNjlCZkxn?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T09:53:09.153Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 654,
-      "headline": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - livingstonenterprise.net",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1kwcDBJQWhwTXo3dFlhQXNmOUt1UGlCUDdnWlFzcjJjUm5RMzNVTjZtV0ZBTmZoQ25WUlUwRVc1M2FsXzhnUl9nYlFteURPQzh0SHFLRmRCc3g1dEVleGxzdjRGblJURktteHl6MkZrWlpJRlBEOFh1NGVOQXdMNlZHSjl5S3d5cHo3d2U5cUk5MS1fWWJ6T2JHNnh4MDEzd0RJRVpTcHZrNGxpQTN5ZVM1NTYzRkw5dm1KSHlialkyXzUyTHVSYzBHYkI?oc=5\" target=\"_blank\"&gt;Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;livingstonenterprise.net&lt;/font&gt;",
-      "publisher": "livingstonenterprise.net",
-      "published_at": "2026-06-06T00:59:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1kwcDBJQWhwTXo3dFlhQXNmOUt1UGlCUDdnWlFzcjJjUm5RMzNVTjZtV0ZBTmZoQ25WUlUwRVc1M2FsXzhnUl9nYlFteURPQzh0SHFLRmRCc3g1dEVleGxzdjRGblJURktteHl6MkZrWlpJRlBEOFh1NGVOQXdMNlZHSjl5S3d5cHo3d2U5cUk5MS1fWWJ6T2JHNnh4MDEzd0RJRVpTcHZrNGxpQTN5ZVM1NTYzRkw5dm1KSHlialkyXzUyTHVSYzBHYkI?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:21.133Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 655,
-      "headline": "Community Focus: Dr. Jennifer Nuzzo on Ebola outbreak, hantavirus - WPRI.com",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUVnVklWWjlFUkJlNDhadjQ2WUFxQzdncGt4SUo2OS0tMkVyN1RPcDdPcklFbG1MUHNuS0pVR2Q1UDdRVmtZUXFUcEVINkU2VFZjREp3cElBVnByZ0s0ODd3Z240SlV5SWJ2RUtaZ2dUSnJ3RDZEVE8tTjhaOHpvRDhqZEV5N1d1b0hkNWFGU1Z6SzRZbFJ3UkNYV29WekRZUXVRT1ZrUl9LbEN2enfSAbMBQVVfeXFMUEJzOElCNnNKeVdkd3dtUFAycjJSZkh2UXdDbTVYRy1UWUV3S1ZaaWdRWmJtVjJhZ2w1YS1Mcm5hcWJrZFQySk5GZVg2eTg5eW5XVFZvS0dYcnNSX1VWaTN0WTQtMmhaLTVvRFdBaVk1MnhfWjdzUHp5ZjZRZ3BpWGVUdTdiZTV5V2FHazhJWUlzWWxCR1ZMSV91X0o5UjduUFFKYWhwdzN1M2IzckxZMmh0Zk0?oc=5\" target=\"_blank\"&gt;Community Focus: Dr. Jennifer Nuzzo on Ebola outbreak, hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WPRI.com&lt;/font&gt;",
-      "publisher": "WPRI.com",
-      "published_at": "2026-06-06T00:25:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUVnVklWWjlFUkJlNDhadjQ2WUFxQzdncGt4SUo2OS0tMkVyN1RPcDdPcklFbG1MUHNuS0pVR2Q1UDdRVmtZUXFUcEVINkU2VFZjREp3cElBVnByZ0s0ODd3Z240SlV5SWJ2RUtaZ2dUSnJ3RDZEVE8tTjhaOHpvRDhqZEV5N1d1b0hkNWFGU1Z6SzRZbFJ3UkNYV29WekRZUXVRT1ZrUl9LbEN2enfSAbMBQVVfeXFMUEJzOElCNnNKeVdkd3dtUFAycjJSZkh2UXdDbTVYRy1UWUV3S1ZaaWdRWmJtVjJhZ2w1YS1Mcm5hcWJrZFQySk5GZVg2eTg5eW5XVFZvS0dYcnNSX1VWaTN0WTQtMmhaLTVvRFdBaVk1MnhfWjdzUHp5ZjZRZ3BpWGVUdTdiZTV5V2FHazhJWUlzWWxCR1ZMSV91X0o5UjduUFFKYWhwdzN1M2IzckxZMmh0Zk0?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:21.194Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 646,
-      "headline": "Hantavirus and the value of public trust - New University",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVThRREdnMUN5OU9FWnZHdHBYY0dWMGpMNDhaaTRwb0szUlRrN1czY044Q0ViRjBSRVZPUmpjV3RYSFNFN194M3BTM3VIZlhfTWNlRUZpUksyQVRsZmdmSU13OWt1blVINmVYdW1WN0lJeDhlM1hSdDBpUVM4QWp2akxRUFI?oc=5\" target=\"_blank\"&gt;Hantavirus and the value of public trust&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New University&lt;/font&gt;",
-      "publisher": "New University",
-      "published_at": "2026-06-05T23:31:48.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVThRREdnMUN5OU9FWnZHdHBYY0dWMGpMNDhaaTRwb0szUlRrN1czY044Q0ViRjBSRVZPUmpjV3RYSFNFN194M3BTM3VIZlhfTWNlRUZpUksyQVRsZmdmSU13OWt1blVINmVYdW1WN0lJeDhlM1hSdDBpUVM4QWp2akxRUFI?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:20.194Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 650,
-      "headline": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - Toronto Star",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxObmd2Z29Ca3ZjS0M0cFNfbWRKVmloTl81TVQ2bFk2S29PREJxQnFaT1BySmFpcGJMWkZvTG9wZVRHOEhkZ1AxV3lHZ204ZS16UWZuQ1g4a3dsZVZSeFNGVHFKTzVHSzJycF9EMkJ1Z1RhRFgzR21kZHRGcnpMUVZCYV9QQlVYcGRTaTdxYUxMcGlvYUYxTEFTN3FBZW1QNXpnVWRtMWV5akxORVVoNm1xRHpkOEgwX1F6aDRwZTVpSzZUMUo1WHBPdjFaSU1LcUE5ejQxQlR0UFpCb1dMS21VOHMtMEV0X3pwd1Rwb2hXcVhuMWREVWFqRlBn?oc=5\" target=\"_blank\"&gt;Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Toronto Star&lt;/font&gt;",
-      "publisher": "Toronto Star",
-      "published_at": "2026-06-05T23:28:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObmd2Z29Ca3ZjS0M0cFNfbWRKVmloTl81TVQ2bFk2S29PREJxQnFaT1BySmFpcGJMWkZvTG9wZVRHOEhkZ1AxV3lHZ204ZS16UWZuQ1g4a3dsZVZSeFNGVHFKTzVHSzJycF9EMkJ1Z1RhRFgzR21kZHRGcnpMUVZCYV9QQlVYcGRTaTdxYUxMcGlvYUYxTEFTN3FBZW1QNXpnVWRtMWV5akxORVVoNm1xRHpkOEgwX1F6aDRwZTVpSzZUMUo1WHBPdjFaSU1LcUE5ejQxQlR0UFpCb1dMS21VOHMtMEV0X3pwd1Rwb2hXcVhuMWREVWFqRlBn?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:20.557Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 648,
-      "headline": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - Bozeman Daily Chronicle",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPYVUtVHBhc0JHUUE3WlNQRlhfQXVqMTd6YVJGMUQ1Q1RodFpPSHFNVjA2QUtRYVRqVVVHTWtZNFQ3dFVaUDRGME93R3J2akhOVW1hZHVETmJ5SUlMWnBPWnM1anlPVGgxcDh0TkZOQ2hwb0JRWUh6NXRwRURDcFY0NGtTVmI0ME80RUtnLXdDVWNYSjRLU3NiWERsaFRUZjAydnBwU2ZESkNZeUdHSVpkTE04c3hITGhoRW1XMFFtbmZ5SE9tbE9FeGx3TzFTRW1jc0o3TkZ5ZjdOWkszc28xR21tMERSNC1LdnFUaFBicUJ0RzNIeVRhSm9WdjhzZDJzSjBVY2FGa3NyeVhxb1Nack9KejV3eFAyTVA0?oc=5\" target=\"_blank\"&gt;Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bozeman Daily Chronicle&lt;/font&gt;",
-      "publisher": "Bozeman Daily Chronicle",
-      "published_at": "2026-06-05T23:27:32.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPYVUtVHBhc0JHUUE3WlNQRlhfQXVqMTd6YVJGMUQ1Q1RodFpPSHFNVjA2QUtRYVRqVVVHTWtZNFQ3dFVaUDRGME93R3J2akhOVW1hZHVETmJ5SUlMWnBPWnM1anlPVGgxcDh0TkZOQ2hwb0JRWUh6NXRwRURDcFY0NGtTVmI0ME80RUtnLXdDVWNYSjRLU3NiWERsaFRUZjAydnBwU2ZESkNZeUdHSVpkTE04c3hITGhoRW1XMFFtbmZ5SE9tbE9FeGx3TzFTRW1jc0o3TkZ5ZjdOWkszc28xR21tMERSNC1LdnFUaFBicUJ0RzNIeVRhSm9WdjhzZDJzSjBVY2FGa3NyeVhxb1Nack9KejV3eFAyTVA0?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:20.349Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 649,
-      "headline": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - Oskaloosa Herald",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOc1A2YjJMdjdZUldERm1iaUoxSUs5X3hZNXdlMFpqSVdoMHR1V3YxT3c0c0dYVTQ2dnpxYkxUaEVaal9GQ1hzS0NzUUZYdEgxbzZZdGM0TnN3WHg1VkJUa3hGVFFMSlZMM0d2N2VuU3BtdUZ5a0dCVUdadkF0Snh5eE5McDNqVXZlQmx4dm0yLU5MRE1ZdFJvUE9qSnRQOWg0LWJxS1h4N0lkdFE5di1VLUJtTlV5dzJSNTZwSTZvT2o3dXNxb1dMaE5VTmk5U2VablFlWW1lR0JLb2ZldVZ5TUF2cXIzdnFTTnBSN1dpdkI4TlNJanRFeWtyNUhaZW80TnJ4SFdfYw?oc=5\" target=\"_blank\"&gt;Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Oskaloosa Herald&lt;/font&gt;",
-      "publisher": "Oskaloosa Herald",
-      "published_at": "2026-06-05T23:27:32.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOc1A2YjJMdjdZUldERm1iaUoxSUs5X3hZNXdlMFpqSVdoMHR1V3YxT3c0c0dYVTQ2dnpxYkxUaEVaal9GQ1hzS0NzUUZYdEgxbzZZdGM0TnN3WHg1VkJUa3hGVFFMSlZMM0d2N2VuU3BtdUZ5a0dCVUdadkF0Snh5eE5McDNqVXZlQmx4dm0yLU5MRE1ZdFJvUE9qSnRQOWg0LWJxS1h4N0lkdFE5di1VLUJtTlV5dzJSNTZwSTZvT2o3dXNxb1dMaE5VTmk5U2VablFlWW1lR0JLb2ZldVZ5TUF2cXIzdnFTTnBSN1dpdkI4TlNJanRFeWtyNUhaZW80TnJ4SFdfYw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:20.386Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 651,
-      "headline": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - Temple Daily Telegram",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQcldpbHBDTHVoMVoxbVNZb0Nta2FPazVYem44VmhXLXdjM1ltRVZJR2hQeks3SGtuLTN2bkJOVFp2RVZFNGR4ajhRaHVPTU9LLXFBaGhNQ2tiQkFPQUthZlRTcW5OS1NXc2pUTDNlal8yd3Y5MWNuRVJmYm5uek40SmJPY2YxaERRVllPT0dhelpGSDg1U2c?oc=5\" target=\"_blank\"&gt;Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Temple Daily Telegram&lt;/font&gt;",
-      "publisher": "Temple Daily Telegram",
-      "published_at": "2026-06-05T23:27:32.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcldpbHBDTHVoMVoxbVNZb0Nta2FPazVYem44VmhXLXdjM1ltRVZJR2hQeks3SGtuLTN2bkJOVFp2RVZFNGR4ajhRaHVPTU9LLXFBaGhNQ2tiQkFPQUthZlRTcW5OS1NXc2pUTDNlal8yd3Y5MWNuRVJmYm5uek40SmJPY2YxaERRVllPT0dhelpGSDg1U2c?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-06T09:56:20.979Z",
       "mentioned_states": []
     }
   ],
