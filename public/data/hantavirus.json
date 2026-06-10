@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-10T09:52:39.482Z",
+  "generatedAt": "2026-06-10T21:50:24.146Z",
   "lastRun": {
-    "ts": "2026-06-10T09:52:39.400Z",
+    "ts": "2026-06-10T21:50:24.138Z",
     "source_kind": "news",
-    "items_inserted": 24,
-    "items_skipped": 304,
+    "items_inserted": 9,
+    "items_skipped": 319,
     "error_message": null
   },
   "totals": {
@@ -422,6 +422,96 @@
     }
   ],
   "recentNews": [
+    {
+      "id": 830,
+      "headline": "Three more hantavirus cruise ship passengers cleared to leave Nebraska quarantine - WFAA",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZUFRamhFNnl0YVBpclE4SU9vMGJFVzM3aU5MVmVMZDBTTE9haUNNWHkxWmQxRTJQU3JKZjhNNlNXWHA0Szc5akh2WXJDa3k4RU84czRXNEt2Mk0yVnh5bktTMlM4eTl5bEluSmpXNGx2Y1ZkLVB5Tl9XWWN1S00xVUhxQUNIRHQwZ2F0QTR4eXVicE84TktLLWhiclF3WnczamR1Yl83MFRvQnlPVFBmSlo2OF9rOTRpWG9BR0dERTZJUm1JYW8zbzlRUGRnYTdxcENNUEx4aTBYcVVHZXNWTlJvRUF3bjR6XzExdHVha2U2SWlPTGc?oc=5\" target=\"_blank\"&gt;Three more hantavirus cruise ship passengers cleared to leave Nebraska quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WFAA&lt;/font&gt;",
+      "publisher": "WFAA",
+      "published_at": "2026-06-10T21:42:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZUFRamhFNnl0YVBpclE4SU9vMGJFVzM3aU5MVmVMZDBTTE9haUNNWHkxWmQxRTJQU3JKZjhNNlNXWHA0Szc5akh2WXJDa3k4RU84czRXNEt2Mk0yVnh5bktTMlM4eTl5bEluSmpXNGx2Y1ZkLVB5Tl9XWWN1S00xVUhxQUNIRHQwZ2F0QTR4eXVicE84TktLLWhiclF3WnczamR1Yl83MFRvQnlPVFBmSlo2OF9rOTRpWG9BR0dERTZJUm1JYW8zbzlRUGRnYTdxcENNUEx4aTBYcVVHZXNWTlJvRUF3bjR6XzExdHVha2U2SWlPTGc?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T21:50:18.877Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 834,
+      "headline": "Hantavirus Cruise Outbreak Sparks Global Travel Concerns as Expedition Passengers Face Quarantine and Emergency Biocontainment Measures - Travel And Tour World",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBfYUZ0Smtqa25rb1pBZmlFekZOTmVTWVNOTHMzcUllbndfVk0ta0RiNlRQcE13OTBFc3l5azZKajBXY1p6WTN2ZTJHMUJNNC1WcHdBd2hKVExPUjNaWTFvWDA5WDRXSDZWSXlFU2pB?oc=5\" target=\"_blank\"&gt;Hantavirus Cruise Outbreak Sparks Global Travel Concerns as Expedition Passengers Face Quarantine and Emergency Biocontainment Measures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Travel And Tour World&lt;/font&gt;",
+      "publisher": "Travel And Tour World",
+      "published_at": "2026-06-10T21:26:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfYUZ0Smtqa25rb1pBZmlFekZOTmVTWVNOTHMzcUllbndfVk0ta0RiNlRQcE13OTBFc3l5azZKajBXY1p6WTN2ZTJHMUJNNC1WcHdBd2hKVExPUjNaWTFvWDA5WDRXSDZWSXlFU2pB?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T21:50:18.907Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 829,
+      "headline": "The World Cup’s Real Viral Threats Aren’t Ebola Or Hantavirus - Forbes",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRnp0NUxRWDdpX1Brc25MX01MUENXTkpFcm01dmdHNU9FMlpEbUhMWkRiWUh6ZDRQejlIWXRNaFpoMHlibXdkamFBNGtpRFFjVm81Sk80YjQ2TXRGdWVyREkwUXFZU2RxWS01VkFtR0d4NzdpT3NzQWRDeDlsUi04NWFqRDd0ZkJRYk0xWEs0U1diUWE1ek5RMjRhdndnZlRwTnBxUVNGcVNKRnNMZXhtS0pydWxodnpk?oc=5\" target=\"_blank\"&gt;The World Cup’s Real Viral Threats Aren’t Ebola Or Hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Forbes&lt;/font&gt;",
+      "publisher": "Forbes",
+      "published_at": "2026-06-10T21:10:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRnp0NUxRWDdpX1Brc25MX01MUENXTkpFcm01dmdHNU9FMlpEbUhMWkRiWUh6ZDRQejlIWXRNaFpoMHlibXdkamFBNGtpRFFjVm81Sk80YjQ2TXRGdWVyREkwUXFZU2RxWS01VkFtR0d4NzdpT3NzQWRDeDlsUi04NWFqRDd0ZkJRYk0xWEs0U1diUWE1ek5RMjRhdndnZlRwTnBxUVNGcVNKRnNMZXhtS0pydWxodnpk?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T21:50:18.875Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 835,
+      "headline": "Nearly 19,000 Monthly Hantavirus Searches Make Colorado the Nation's 3rd Most Concerned State - cuindependent.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNei1KUXpIOS1UUmxRNXFyR2daZDZOX0poNkN3aHBobmF5TlpGQ2dsWGxDcGJiU2ZTRHgxS2dKanNlSGZZVzc5VU1LTFBnUXdKcG5mU085UW1la0gxeHNHZ2s2YUdzNTVfOHdGSFJmaTdMNU9NOGlCTllZc1k3RWhVY0JVTkdkb0RQY245dGpTRUNyRGUzSHNnMnd5TEgwYlRUNnE1NHZPd0NYY3VaeVpDbjEzV04xN3hVd3JPamZnQQ?oc=5\" target=\"_blank\"&gt;Nearly 19,000 Monthly Hantavirus Searches Make Colorado the Nation's 3rd Most Concerned State&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;cuindependent.com&lt;/font&gt;",
+      "publisher": "cuindependent.com",
+      "published_at": "2026-06-10T15:05:26.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNei1KUXpIOS1UUmxRNXFyR2daZDZOX0poNkN3aHBobmF5TlpGQ2dsWGxDcGJiU2ZTRHgxS2dKanNlSGZZVzc5VU1LTFBnUXdKcG5mU085UW1la0gxeHNHZ2s2YUdzNTVfOHdGSFJmaTdMNU9NOGlCTllZc1k3RWhVY0JVTkdkb0RQY245dGpTRUNyRGUzSHNnMnd5TEgwYlRUNnE1NHZPd0NYY3VaeVpDbjEzV04xN3hVd3JPamZnQQ?oc=5",
+      "mentioned_states_json": "[\"CO\"]",
+      "fetched_at": "2026-06-10T21:50:18.910Z",
+      "mentioned_states": [
+        "CO"
+      ]
+    },
+    {
+      "id": 833,
+      "headline": "UKHSA Says No Change To Public Health Risk To The UK Population From Hantavirus, Which Remains Very Low - TradingView",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOMU9CVTVndjZCNFZUc1VrcTltWktLdnR6MVJLMGt1MGw3TFZMX1pnNDNVeGhaX2RDakRhTGZZa3BldUp1aDZ5b3VXbUw4OExiZXdzYzZRdXZ5Ul9pakoyUktDSzdtNnl5MVFqVzc3b3JqWEZqQl9nUXNRcTAzU3A3WXllSFVIVWozODFoSzFDODVEUHVJTG1wY01HTWZ4MTJHcGh1MUVLemM0bDZzSlhwS2k0NzdxQjJjcXdSRExRSF9rT09VZnhlcURzb21FSmc2b1VXXzYzNWVLWGZoNVMwN2tuMHByck55cjd4ZEw0cGRvYUMyME5iTkR1eWVpendESHc?oc=5\" target=\"_blank\"&gt;UKHSA Says No Change To Public Health Risk To The UK Population From Hantavirus, Which Remains Very Low&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TradingView&lt;/font&gt;",
+      "publisher": "TradingView",
+      "published_at": "2026-06-10T13:37:35.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMU9CVTVndjZCNFZUc1VrcTltWktLdnR6MVJLMGt1MGw3TFZMX1pnNDNVeGhaX2RDakRhTGZZa3BldUp1aDZ5b3VXbUw4OExiZXdzYzZRdXZ5Ul9pakoyUktDSzdtNnl5MVFqVzc3b3JqWEZqQl9nUXNRcTAzU3A3WXllSFVIVWozODFoSzFDODVEUHVJTG1wY01HTWZ4MTJHcGh1MUVLemM0bDZzSlhwS2k0NzdxQjJjcXdSRExRSF9rT09VZnhlcURzb21FSmc2b1VXXzYzNWVLWGZoNVMwN2tuMHByck55cjd4ZEw0cGRvYUMyME5iTkR1eWVpendESHc?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T21:50:18.906Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 832,
+      "headline": "Surveillance tightened at ports over hantavirus risk, health ministers tells parliament - The Daily Star",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU2dEUEVrenR4SWZGbjh5X0taZEY5bURnamM2NTl4aHlVdkkxajdVU2RuM2Z2ODcwcl9TTFJQdFRmdUhQRjlYWVhQU3F3MThDeHNiMTVZYVhYbFN4Z3dGbkNKanNTVU55anZIaWU1akloNGJ4WlZNTzhCUFdINHh1SlJLSmV1YVFSX0doU19rX0FvMHNDTW1Val9sRVowd0lpNlEwS0o1WjJNZXQ5T3kzalpKMk10MVhuT2t5NFZxTENjT3V6bm1XWWNxTDNDT01yWEpSWTNvUQ?oc=5\" target=\"_blank\"&gt;Surveillance tightened at ports over hantavirus risk, health ministers tells parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Daily Star&lt;/font&gt;",
+      "publisher": "The Daily Star",
+      "published_at": "2026-06-10T11:39:40.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU2dEUEVrenR4SWZGbjh5X0taZEY5bURnamM2NTl4aHlVdkkxajdVU2RuM2Z2ODcwcl9TTFJQdFRmdUhQRjlYWVhQU3F3MThDeHNiMTVZYVhYbFN4Z3dGbkNKanNTVU55anZIaWU1akloNGJ4WlZNTzhCUFdINHh1SlJLSmV1YVFSX0doU19rX0FvMHNDTW1Val9sRVowd0lpNlEwS0o1WjJNZXQ5T3kzalpKMk10MVhuT2t5NFZxTENjT3V6bm1XWWNxTDNDT01yWEpSWTNvUQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T21:50:18.885Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 828,
+      "headline": "Why Andes hantavirus is not the next COVID-19 - News-Medical",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTZHYjdmZk51dXZfOW1NZUQ4UnpRTm9YejVqcGxnRGhwbzNsVmFrYXBYZkRZUHVscEhKNjVEY09US3dFS0s4TUZqYVBmby14cHNxY1VFRlE5MjBRaEFhNmZIaEctQ2VrVlc3WVZGVGRKZlNGNlM5VEIxNk9mQk5mTEJIRzBBMVVwVU5iX0x4U3MwYWI2VXpRYg?oc=5\" target=\"_blank\"&gt;Why Andes hantavirus is not the next COVID-19&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;News-Medical&lt;/font&gt;",
+      "publisher": "News-Medical",
+      "published_at": "2026-06-10T10:54:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTZHYjdmZk51dXZfOW1NZUQ4UnpRTm9YejVqcGxnRGhwbzNsVmFrYXBYZkRZUHVscEhKNjVEY09US3dFS0s4TUZqYVBmby14cHNxY1VFRlE5MjBRaEFhNmZIaEctQ2VrVlc3WVZGVGRKZlNGNlM5VEIxNk9mQk5mTEJIRzBBMVVwVU5iX0x4U3MwYWI2VXpRYg?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T21:50:18.839Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 831,
+      "headline": "Hantavirus outbreaks rare, but not unheard of in U.S. - Butler Eagle",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXkySDdMR0xvV2xNYldrb0Z4QVNIampiQUQxU3VlVUxRU3o0dHVRRXdUYmw2czc4OTJhU2pjaHBRbVZ6OEJ2eVVSaDFZTW9CTDVwM2VBSVo5VlhnQm5GMzZiX1lDanFoczVLVnV4Ty1aaUVKelZnRkRTdmctLXJXeDZpOTYyZmd4a241V0xPN1JwQkE?oc=5\" target=\"_blank\"&gt;Hantavirus outbreaks rare, but not unheard of in U.S.&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Butler Eagle&lt;/font&gt;",
+      "publisher": "Butler Eagle",
+      "published_at": "2026-06-10T10:30:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXkySDdMR0xvV2xNYldrb0Z4QVNIampiQUQxU3VlVUxRU3o0dHVRRXdUYmw2czc4OTJhU2pjaHBRbVZ6OEJ2eVVSaDFZTW9CTDVwM2VBSVo5VlhnQm5GMzZiX1lDanFoczVLVnV4Ty1aaUVKelZnRkRTdmctLXJXeDZpOTYyZmd4a241V0xPN1JwQkE?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T21:50:18.880Z",
+      "mentioned_states": []
+    },
     {
       "id": 826,
       "headline": "Hantavirus in the headlines: What to know about risk, symptoms, and ...",
@@ -899,98 +989,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnhSTWd0em1nT1VvU3VxTUc3UV9acnJ3TlJzWTRvVmw0T2QzM09UMkJNR0p2d1Vqc3BiZmFpSUlmaElSeW52amFNTWdkVlh1ZG9pZWJfcW9ielVLZldlUVVabXFIYS0xdnBjTVF2STB4WlVFZmJPSTc1YlE3MHN6RFFmVXA0Yk9VYjdsdk1WTDYtZw?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-09T09:54:34.202Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 720,
-      "headline": "Texans aboard hantavirus cruise ship complete monitoring - Spectrum News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkpRaFlPNE93MFBia1ZxYkEtZHhvdWdGMkdlNmtVZGVIRjNnRWVjenVHZWRldXlVajB2aDZUUmRrTW5WVU5iejJwYWEwcDgzQnpvUmJpckt2cG5nUnVwemV1bDFqYm9RRHJweTNFY2pvQk9oaVJaUTFEUHVqS21qZ2tBWldYbVphTGNfck1WNk50SmJLd25tZzdyR0g0bXYzTU9hVzhjQVkyYTM4T01ITnlNeURlcEJPTndmMEJmVU5aNmc?oc=5\" target=\"_blank\"&gt;Texans aboard hantavirus cruise ship complete monitoring&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Spectrum News&lt;/font&gt;",
-      "publisher": "Spectrum News",
-      "published_at": "2026-06-08T19:23:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkpRaFlPNE93MFBia1ZxYkEtZHhvdWdGMkdlNmtVZGVIRjNnRWVjenVHZWRldXlVajB2aDZUUmRrTW5WVU5iejJwYWEwcDgzQnpvUmJpckt2cG5nUnVwemV1bDFqYm9RRHJweTNFY2pvQk9oaVJaUTFEUHVqS21qZ2tBWldYbVphTGNfck1WNk50SmJLd25tZzdyR0g0bXYzTU9hVzhjQVkyYTM4T01ITnlNeURlcEJPTndmMEJmVU5aNmc?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T21:52:57.876Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 740,
-      "headline": "Two Texans clear 42-day quarantine after exposure to Andes hantavirus - Yahoo",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnRKUzBvVTdyLTFwclh3OVZoS2l1UHpvRm90RGt0QVJ6WkppWjktbjNhdFVOUUVhUm9JMFJGd0RGTUFMVFRTcV9QVFNnWEE2N3FiQXBTOFBiWFItREVmdmhkNGk4dXh2VTZFWGlUeDFUNFhMUFR2UVN6c05Ub3JWaDkwS0g1LW93d0E?oc=5\" target=\"_blank\"&gt;Two Texans clear 42-day quarantine after exposure to Andes hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
-      "publisher": "Yahoo",
-      "published_at": "2026-06-08T17:24:21.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnRKUzBvVTdyLTFwclh3OVZoS2l1UHpvRm90RGt0QVJ6WkppWjktbjNhdFVOUUVhUm9JMFJGd0RGTUFMVFRTcV9QVFNnWEE2N3FiQXBTOFBiWFItREVmdmhkNGk4dXh2VTZFWGlUeDFUNFhMUFR2UVN6c05Ub3JWaDkwS0g1LW93d0E?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.204Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 722,
-      "headline": "Two Texans finish 42-day hantavirus quarantine without infection - Austin American-Statesman",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHFlNXVWOS04aGc0UFR5dkFvejdfazBOWkd1WnJsM25fVG9QSWhOcjdwWGtzVkNjeXdmRDZteUhrSXJDOGtaTE5vNmZraFY1X0RPUjFFNXR0YWRoNGsyek14Qi1rZExFcXhoQ0xvWWdIQWNBbVN0YURtZGtRd1JlejE1RjBpeklud1I2TTZYRWJmOFBjamQtR3I4X2lPUXNycml4YzBSNk4?oc=5\" target=\"_blank\"&gt;Two Texans finish 42-day hantavirus quarantine without infection&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Austin American-Statesman&lt;/font&gt;",
-      "publisher": "Austin American-Statesman",
-      "published_at": "2026-06-08T16:29:36.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHFlNXVWOS04aGc0UFR5dkFvejdfazBOWkd1WnJsM25fVG9QSWhOcjdwWGtzVkNjeXdmRDZteUhrSXJDOGtaTE5vNmZraFY1X0RPUjFFNXR0YWRoNGsyek14Qi1rZExFcXhoQ0xvWWdIQWNBbVN0YURtZGtRd1JlejE1RjBpeklud1I2TTZYRWJmOFBjamQtR3I4X2lPUXNycml4YzBSNk4?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T21:52:57.880Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 718,
-      "headline": "Hantavirus monitoring ends for 2 Texas passengers aboard MV Hondius - Yahoo",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSW10Q3gxNW9xeUVaME5oYld4RnFlYm15d0QtUXdxdktGT2p2T3FZMkduMktKYWRsZVZ4TWhLVHNKb1BKZ3JkLXFoQ2hBNEg0T05kZ19CazhLWWtLOGxFZmVvWnJOQnBFR3VReVUxUkl2R3hNbHhLb3ZzUVd1MmtUT0lXemlWMnhiWVI4?oc=5\" target=\"_blank\"&gt;Hantavirus monitoring ends for 2 Texas passengers aboard MV Hondius&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
-      "publisher": "Yahoo",
-      "published_at": "2026-06-08T16:09:37.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSW10Q3gxNW9xeUVaME5oYld4RnFlYm15d0QtUXdxdktGT2p2T3FZMkduMktKYWRsZVZ4TWhLVHNKb1BKZ3JkLXFoQ2hBNEg0T05kZ19CazhLWWtLOGxFZmVvWnJOQnBFR3VReVUxUkl2R3hNbHhLb3ZzUVd1MmtUT0lXemlWMnhiWVI4?oc=5",
-      "mentioned_states_json": "[\"TX\"]",
-      "fetched_at": "2026-06-08T21:52:57.536Z",
-      "mentioned_states": [
-        "TX"
-      ]
-    },
-    {
-      "id": 719,
-      "headline": "Hantavirus monitoring ends for 2 Texas passengers aboard MV Hondius - KVUE",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzZ1LTNTSXNqdGczT2Jma0wtY2phcnY5LWlKaUhmS0JCWU9ZVF84UDR3SGxZM1NxeDVLTmNUX1JjTmEwVkZEUE5RN1VYcklxbEpQS0dGbjVJXzNvVmIwemxDU2o4dG0zVUFVLUFKWW0zMjVsVXpLN25xOThDSC1vaWF2cEZGd3UyeXJ3U1NMa2dNVkRSLUNrR29JMGZRcTdmV2ZITld4UERKaVdQZ0NodHZJTjZSdGZWU21nbkVRU2dBMkVaYzhWOTJTUQ?oc=5\" target=\"_blank\"&gt;Hantavirus monitoring ends for 2 Texas passengers aboard MV Hondius&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KVUE&lt;/font&gt;",
-      "publisher": "KVUE",
-      "published_at": "2026-06-08T16:09:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzZ1LTNTSXNqdGczT2Jma0wtY2phcnY5LWlKaUhmS0JCWU9ZVF84UDR3SGxZM1NxeDVLTmNUX1JjTmEwVkZEUE5RN1VYcklxbEpQS0dGbjVJXzNvVmIwemxDU2o4dG0zVUFVLUFKWW0zMjVsVXpLN25xOThDSC1vaWF2cEZGd3UyeXJ3U1NMa2dNVkRSLUNrR29JMGZRcTdmV2ZITld4UERKaVdQZ0NodHZJTjZSdGZWU21nbkVRU2dBMkVaYzhWOTJTUQ?oc=5",
-      "mentioned_states_json": "[\"TX\"]",
-      "fetched_at": "2026-06-08T21:52:57.875Z",
-      "mentioned_states": [
-        "TX"
-      ]
-    },
-    {
-      "id": 723,
-      "headline": "Texans Cleared of Hantavirus After Monitoring - Audacy",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOenhxNU5obl9jOU5rSXpYNHpvQkNvQ1JWS0ppQ3N3dGFtV3hSXzhPMGNkM3kzM20yaXRDOFdTSEE1UUpOT2FFRF9VUWJpNDd1MHFqVEdQWllkdktNRHpaaEJtRFktVWd2QS1oN2FFR2NYZ0thV1VYUU81NjhqSUVXY0ZFMXYzZ2tKbnVjNg?oc=5\" target=\"_blank\"&gt;Texans Cleared of Hantavirus After Monitoring&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Audacy&lt;/font&gt;",
-      "publisher": "Audacy",
-      "published_at": "2026-06-08T13:42:34.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenhxNU5obl9jOU5rSXpYNHpvQkNvQ1JWS0ppQ3N3dGFtV3hSXzhPMGNkM3kzM20yaXRDOFdTSEE1UUpOT2FFRF9VUWJpNDd1MHFqVEdQWllkdktNRHpaaEJtRFktVWd2QS1oN2FFR2NYZ0thV1VYUU81NjhqSUVXY0ZFMXYzZ2tKbnVjNg?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T21:52:57.882Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 742,
-      "headline": "Two Texans cleared of hantavirus risk after period of isolation - Houston Public Media",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdXVxUEoxZHBWc0ZaRjJQSlIwZE9UVms1OXNKdHB1Q1FacWZNdmIyZFEyX2xoa3Z3anFCWThxREUyLWxfcmZIb0E5S0FHdmJ1dFlCMkl6Y3JBaHFIdlB5U2N0ZnpNRjRDVjJJMzlXdVc4dlNfODhNYjZETndPWlY2S0lmbm1kalhSdThrODNzXzV5YTNMQ0VEcDVtZXFST0F3UUFobThETElXV1hBSDc4RUhwUzFlUGttMHQ5Q3M1d1hGTnh5Ym1XcjZGTFN5OS1qcUEySUV5VEh5czYzVVg4LTdIVUgwSzN0ZjRfZ1Z30gH2AUFVX3lxTE1HMmtMeHpqbnBuUm10UTRudU8tMXBDdlp1c0MtRWxiVkxiY3RnT1hPR1FwdzZ6UkZfd2djMklsY1JlQnVtajlvbTJVeEpFMUdKSGpmajZnaFJ4aWRDWEhqYlY2RnoxdldjdEg1aG55UVp6aU16am1LbXdyV3htZVpiLV9yT0N4NzY0bVRyaGh0SThaWEpHTVo5ZFk4MS01dlMwSFE5UllqeDl4bUpjRkgxd1lyaGs5ZFZGWnVOMzF6VHh4RWhNbHIwalYwY2JPWTZzNjdCUm9EdW42RDNZVU9WVU9qWkY0UU1odThhaks0dDRlRVY3UQ?oc=5\" target=\"_blank\"&gt;Two Texans cleared of hantavirus risk after period of isolation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Houston Public Media&lt;/font&gt;",
-      "publisher": "Houston Public Media",
-      "published_at": "2026-06-08T13:18:19.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdXVxUEoxZHBWc0ZaRjJQSlIwZE9UVms1OXNKdHB1Q1FacWZNdmIyZFEyX2xoa3Z3anFCWThxREUyLWxfcmZIb0E5S0FHdmJ1dFlCMkl6Y3JBaHFIdlB5U2N0ZnpNRjRDVjJJMzlXdVc4dlNfODhNYjZETndPWlY2S0lmbm1kalhSdThrODNzXzV5YTNMQ0VEcDVtZXFST0F3UUFobThETElXV1hBSDc4RUhwUzFlUGttMHQ5Q3M1d1hGTnh5Ym1XcjZGTFN5OS1qcUEySUV5VEh5czYzVVg4LTdIVUgwSzN0ZjRfZ1Z30gH2AUFVX3lxTE1HMmtMeHpqbnBuUm10UTRudU8tMXBDdlp1c0MtRWxiVkxiY3RnT1hPR1FwdzZ6UkZfd2djMklsY1JlQnVtajlvbTJVeEpFMUdKSGpmajZnaFJ4aWRDWEhqYlY2RnoxdldjdEg1aG55UVp6aU16am1LbXdyV3htZVpiLV9yT0N4NzY0bVRyaGh0SThaWEpHTVo5ZFk4MS01dlMwSFE5UllqeDl4bUpjRkgxd1lyaGs5ZFZGWnVOMzF6VHh4RWhNbHIwalYwY2JPWTZzNjdCUm9EdW42RDNZVU9WVU9qWkY0UU1odThhaks0dDRlRVY3UQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.206Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 725,
-      "headline": "Experts say hantavirus is likely not the next COVID, and the twist is the specific reason it behaves differently even when headlines feel familiar - OkDiario",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNZ1gtN2p4cURNMDRWNmgtSnFwWmJnZll6cVdETDBKOW9FU01VcEkyOElscVNCZ2NqVE9ndnVGYUIyWnA2amxhX2lTRlYxV3hfVWRid1VKYk1rZF9NMmM1SWZhNUc5aXlJWXhmaWtvQXFVei1sZXdfbUQwVkRkRTZHekYzS2duQmdQaDk5cjZ2eVlremVJNkRINUlBX3hxbkIwekxkOXlYOWFScmtZNTdpTTlKai13aTIwZFc4cTRYVVRnak1oRVdGdHUxalRMYjBjbThtVENqdEZtM2lOaEQ2ZTJqenF4V2ZaLVp4VU44YUVrSFh6czB3NjVWZjItVGtMckpWU05ZYkhqTXBDVmRHVmlZVmVZQ1VuQ2twN25B?oc=5\" target=\"_blank\"&gt;Experts say hantavirus is likely not the next COVID, and the twist is the specific reason it behaves differently even when headlines feel familiar&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;OkDiario&lt;/font&gt;",
-      "publisher": "OkDiario",
-      "published_at": "2026-06-08T12:45:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZ1gtN2p4cURNMDRWNmgtSnFwWmJnZll6cVdETDBKOW9FU01VcEkyOElscVNCZ2NqVE9ndnVGYUIyWnA2amxhX2lTRlYxV3hfVWRid1VKYk1rZF9NMmM1SWZhNUc5aXlJWXhmaWtvQXFVei1sZXdfbUQwVkRkRTZHekYzS2duQmdQaDk5cjZ2eVlremVJNkRINUlBX3hxbkIwekxkOXlYOWFScmtZNTdpTTlKai13aTIwZFc4cTRYVVRnak1oRVdGdHUxalRMYjBjbThtVENqdEZtM2lOaEQ2ZTJqenF4V2ZaLVp4VU44YUVrSFh6czB3NjVWZjItVGtMckpWU05ZYkhqTXBDVmRHVmlZVmVZQ1VuQ2twN25B?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T21:52:57.938Z",
       "mentioned_states": []
     }
   ],
