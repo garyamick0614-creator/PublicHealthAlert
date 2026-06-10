@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-09T21:53:12.847Z",
+  "generatedAt": "2026-06-10T09:52:39.482Z",
   "lastRun": {
-    "ts": "2026-06-09T21:53:12.622Z",
+    "ts": "2026-06-10T09:52:39.400Z",
     "source_kind": "news",
-    "items_inserted": 21,
-    "items_skipped": 279,
-    "error_message": "firecrawl-search-skipped-quota-402"
+    "items_inserted": 24,
+    "items_skipped": 304,
+    "error_message": null
   },
   "totals": {
     "cases_all_time": 78,
@@ -423,6 +423,164 @@
   ],
   "recentNews": [
     {
+      "id": 826,
+      "headline": "Hantavirus in the headlines: What to know about risk, symptoms, and ...",
+      "body_md": "×What can we help you find?\n\n## Refine your search:\n\n- [Find a Doctor](https://utswmed.org/doctors/)\n- [Search Conditions & Treatments](https://utswmed.org/conditions-treatments/)\n- [Find a Location](https://utswmed.org/locations/)\n\n![Microscopic 3D rendering of a strain of hantavirus](https://d38sso7f6qz01j.cloudfront.net/images/medblog-.width-320.height-146.format-jpeg.jpegquality-40_YnZbddb.jpg)\n\n![Microscopic 3D rendering of a strain of hantavirus](https://d38sso7f6qz01j.cloudfront.net/original_images/medblog-banner-environment-12-1600x732.jpg)\n\n[Appointment\\\\\nNew Patient Appointment](https://utswmed.org/request-appointment/16022/hantavirus-outbreak/)\n\n[orCall214-645-6427](tel:2146456427)\n\n[MedBlog](https://utswmed.org/medblog/)\n\n[_Public Health_](https://utswmed.org/medblog/topic/public-health/)\n\n# Hantavirus in the headlines: What to know about risk, symptoms, and prevention\n\nMay 13, 2026\n\n\n[_Public Health_](https://utswmed.org/medblog/topic/public-health/)\n\n[![John Beckham, M.D.](https://d38sso7f6qz01j.cloudfront.net/images/beckham-david-220199-400x400.width-112.png)](https://utswmed.org/doctors/john-beckham/)\n\n[John Beckham, M.D.](https://utswmed.org/doctors/john-beckham/)[Internal Medicine - Infectious Diseases and Geographic Medicine](https://utswmed.org/why-utsw/departments/internal-medicine/)\n\nJohn Beckham, M.D., Professor of Internal Medicine, Microbiology, and Neurology and Division Chief of Infectious Diseases and Geographic Medicine at UT Southwestern, talks about the rare Andes strain of hantavirus and what might trigger involvement from experts in infectious diseases.\n\n\nIt’s one of the cruisegoer’s biggest fears: a contagious disease outbreak at sea.\n\nTwo Texans were aboard a cruise ship recently on which 147 passengers and crew may have been exposed to hantavirus – a severe, potentially fatal respiratory virus that originates from rodent droppings. The outbreak was reported to the World Health Organization on May 2, 2026, and the disease was quickly confirmed to be the Andes strain of hantavirus.\n\nIn the U.S., hantavirus infections are rare, with fewer than 900 cases reported between 1993 and 2023. When infections do occur here, they typically cause hantavirus pulmonary syndrome (HPS), a serious respiratory infection. Hantavirus strains in Asia can also cause hemorrhagic fever with renal syndrome (HFRS), which can shut down the kidneys.\n\nAndes virus typically spreads between humans in the first 24 hours of having a fever, which means the patients who have been sick for days and have severe symptoms represent a lower risk of spreading the virus.\n\nUnlike the novel coronavirus that was the source of COVID-19, this strain of **hantavirus does not carry the same risks of causing a pandemic**. While this is good news, the outbreak is a stark reminder that serious viruses can crop up anywhere that humans and animals coexist.\n\n## What is hantavirus?\n\nThis 3D rendering of the hantavirus is based on microscopic imaging data.\n\n\nHantavirus is actually a group of at least 20 virus species within a genus called _orthohantavirus_. Each virus species exhibits its own characteristics.\n\nRodents such as rats and mice are the most common carriers. People can catch hantavirus if they come in contact or inhale particles from an infected rodent’s feces, urine, or saliva, or in rare cases from a rodent bite. This often occurs when people are exposed to aerosolized rodent urine: When sweeping, dusting, or doing other activities that stir up dried rodent urine, they can breathe in the virus.\n\nIn the most recent case, global health authorities suspect a passenger was exposed to hantavirus before boarding the cruise ship. Tourist vessels like this can be a breeding ground for hantavirus due to close quarters and mingling.\n\nThe Andes virus is the only known hantavirus strain that can spread from human to human through respiratory droplets – most strains cannot spread beyond a human host. This particular strain is typically transmitted i",
+      "publisher": "utswmed.org",
+      "published_at": null,
+      "url": "https://utswmed.org/medblog/hantavirus-outbreak/",
+      "mentioned_states_json": "[\"NM\",\"AZ\",\"CO\",\"UT\",\"TX\"]",
+      "fetched_at": "2026-06-10T09:52:39.399Z",
+      "mentioned_states": [
+        "NM",
+        "AZ",
+        "CO",
+        "UT",
+        "TX"
+      ]
+    },
+    {
+      "id": 825,
+      "headline": "Understanding Regional Risks: Why Southwest States See More Cases",
+      "body_md": "* * *\n\nPublished on: 5/19/2026\n\n# Understanding Regional Risks: Why Southwest States See More Cases\n\n[![Yoshinori Abe](https://ubiehealth.com/_next/image?url=%2Fportrait%2Fave.png&w=96&q=90)\\\\\n\\\\\nReviewed by Yoshinori Abe, MD\\\\\n\\\\\nInternal Medicine](https://ubiehealth.com/doctors/yoshinori-abe)\n\nSouthwest states like New Mexico, Arizona, Colorado and Utah report more hantavirus cases because deer mice thrive in the semi-arid climate and often invade rural homes and outdoor recreation sites. Simple precautions like sealing gaps, cleaning safely with a bleach solution and storing food securely can greatly reduce your exposure risk.\n\nThere are several factors to consider, so see below for complete details that could impact your next steps in care.\n\n![answer background](https://ubiehealth.com/_next/static/media/answer_bg.e42d8f8d.svg)\n\n## What brings you in today?\n\n[Can I treat this myself](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Understanding+Regional+Risks%3A+Why+Southwest+States+See+More+Cases%0AThe+article+says%3A+Southwest+states+like+New+Mexico%2C+Arizona%2C+Colorado+and+Utah+report+more+hantavirus+cases+because+deer+mice+thrive+in+the+semi-arid+climate+and+often+invade+rural+homes+and+outdoor+recreation+sites.+Simple+precautions+like+sealing+gaps%2C+cleaning+safely+with+a+bleach+solution+and+storing+food+securely+can+greatly+reduce+your+exposure+risk.%0A%0AThere+are+several+factors+to+consider%2C+so+see+below+for+complete+details+that+could+impact+your+next+steps+in+care.%0ACan+I+treat+this+myself%3F&intent=otc_suggestion&source_type=doctors-note) [Do I need to see a doctor](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Understanding+Regional+Risks%3A+Why+Southwest+States+See+More+Cases%0AThe+article+says%3A+Southwest+states+like+New+Mexico%2C+Arizona%2C+Colorado+and+Utah+report+more+hantavirus+cases+because+deer+mice+thrive+in+the+semi-arid+climate+and+often+invade+rural+homes+and+outdoor+recreation+sites.+Simple+precautions+like+sealing+gaps%2C+cleaning+safely+with+a+bleach+solution+and+storing+food+securely+can+greatly+reduce+your+exposure+risk.%0A%0AThere+are+several+factors+to+consider%2C+so+see+below+for+complete+details+that+could+impact+your+next+steps+in+care.%0ADo+I+need+to+see+a+doctor%3F&intent=healthcare_question&source_type=doctors-note) [Where should I go for care](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Understanding+Regional+Risks%3A+Why+Southwest+States+See+More+Cases%0AThe+article+says%3A+Southwest+states+like+New+Mexico%2C+Arizona%2C+Colorado+and+Utah+report+more+hantavirus+cases+because+deer+mice+thrive+in+the+semi-arid+climate+and+often+invade+rural+homes+and+outdoor+recreation+sites.+Simple+precautions+like+sealing+gaps%2C+cleaning+safely+with+a+bleach+solution+and+storing+food+securely+can+greatly+reduce+your+exposure+risk.%0A%0AThere+are+several+factors+to+consider%2C+so+see+below+for+complete+details+that+could+impact+your+next+steps+in+care.%0AWhere+should+I+go+for+care%3F&intent=provider_search&source_type=doctors-note) [I'm concerned about a symptom](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Understanding+Regional+Risks%3A+Why+Southwest+States+See+More+Cases%0AThe+article+says%3A+Southwest+states+like+New+Mexico%2C+Arizona%2C+Colorado+and+Utah+report+more+hantavirus+cases+because+deer+mice+thrive+in+the+semi-arid+climate+and+often+invade+rural+homes+and+outdoor+recreation+sites.+Simple+precautions+like+sealing+gaps%2C+cleaning+safely+with+a+bleach+solution+and+storing+food+securely+can+greatly+reduce+your+exposure+risk.%0A%0AThere+are+several+factors+to+consider%2C+so+see+below+for+complete+details+that+could+impact+your+next+steps+in+care.%0AI%27m+concerned+about+a+symptom.&intent=symptom_check&source_type=doctors-note) [Concerned about a possible condition](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Understanding+Regi",
+      "publisher": "ubiehealth.com",
+      "published_at": null,
+      "url": "https://ubiehealth.com/doctors-note/hantavirus-cases-map-us-why-reg-risks-southwest-7953q2",
+      "mentioned_states_json": "[\"NM\",\"AZ\",\"CO\",\"UT\"]",
+      "fetched_at": "2026-06-10T09:52:39.398Z",
+      "mentioned_states": [
+        "NM",
+        "AZ",
+        "CO",
+        "UT"
+      ]
+    },
+    {
+      "id": 824,
+      "headline": "Why Your Hospital Must Notify the CDC of Confirmed Cases - Ubie",
+      "body_md": "* * *\n\nPublished on: 5/19/2026\n\n# Why Your Hospital Must Notify the CDC of Confirmed Cases: The Science\n\n[![Yoshinori Abe](https://ubiehealth.com/_next/image?url=%2Fportrait%2Fave.png&w=96&q=90)\\\\\n\\\\\nReviewed by Yoshinori Abe, MD\\\\\n\\\\\nInternal Medicine](https://ubiehealth.com/doctors/yoshinori-abe)\n\nPrompt notification of confirmed hantavirus cases is legally required to support nationwide surveillance, outbreak prevention, and resource allocation for patient and community safety.\n\nThere are many factors to consider, such as legal requirements, reporting timelines, and infection control protocols. See below for comprehensive information on next steps and best practices.\n\n![answer background](https://ubiehealth.com/_next/static/media/answer_bg.e42d8f8d.svg)\n\n## What brings you in today?\n\n[Can I treat this myself](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Why+Your+Hospital+Must+Notify+the+CDC+of+Confirmed+Cases%3A+The+Science%0AThe+article+says%3A+Prompt+notification+of+confirmed+hantavirus+cases+is+legally+required+to+support+nationwide+surveillance%2C+outbreak+prevention%2C+and+resource+allocation+for+patient+and+community+safety.++%0A%0AThere+are+many+factors+to+consider%2C+such+as+legal+requirements%2C+reporting+timelines%2C+and+infection+control+protocols.+See+below+for+comprehensive+information+on+next+steps+and+best+practices.%0ACan+I+treat+this+myself%3F&intent=otc_suggestion&source_type=doctors-note) [Do I need to see a doctor](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Why+Your+Hospital+Must+Notify+the+CDC+of+Confirmed+Cases%3A+The+Science%0AThe+article+says%3A+Prompt+notification+of+confirmed+hantavirus+cases+is+legally+required+to+support+nationwide+surveillance%2C+outbreak+prevention%2C+and+resource+allocation+for+patient+and+community+safety.++%0A%0AThere+are+many+factors+to+consider%2C+such+as+legal+requirements%2C+reporting+timelines%2C+and+infection+control+protocols.+See+below+for+comprehensive+information+on+next+steps+and+best+practices.%0ADo+I+need+to+see+a+doctor%3F&intent=healthcare_question&source_type=doctors-note) [Where should I go for care](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Why+Your+Hospital+Must+Notify+the+CDC+of+Confirmed+Cases%3A+The+Science%0AThe+article+says%3A+Prompt+notification+of+confirmed+hantavirus+cases+is+legally+required+to+support+nationwide+surveillance%2C+outbreak+prevention%2C+and+resource+allocation+for+patient+and+community+safety.++%0A%0AThere+are+many+factors+to+consider%2C+such+as+legal+requirements%2C+reporting+timelines%2C+and+infection+control+protocols.+See+below+for+comprehensive+information+on+next+steps+and+best+practices.%0AWhere+should+I+go+for+care%3F&intent=provider_search&source_type=doctors-note) [I'm concerned about a symptom](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Why+Your+Hospital+Must+Notify+the+CDC+of+Confirmed+Cases%3A+The+Science%0AThe+article+says%3A+Prompt+notification+of+confirmed+hantavirus+cases+is+legally+required+to+support+nationwide+surveillance%2C+outbreak+prevention%2C+and+resource+allocation+for+patient+and+community+safety.++%0A%0AThere+are+many+factors+to+consider%2C+such+as+legal+requirements%2C+reporting+timelines%2C+and+infection+control+protocols.+See+below+for+comprehensive+information+on+next+steps+and+best+practices.%0AI%27m+concerned+about+a+symptom.&intent=symptom_check&source_type=doctors-note) [Concerned about a possible condition](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Why+Your+Hospital+Must+Notify+the+CDC+of+Confirmed+Cases%3A+The+Science%0AThe+article+says%3A+Prompt+notification+of+confirmed+hantavirus+cases+is+legally+required+to+support+nationwide+surveillance%2C+outbreak+prevention%2C+and+resource+allocation+for+patient+and+community+safety.++%0A%0AThere+are+many+factors+to+consider%2C+such+as+legal+requirements%2C+reporting+timelines%2C+a",
+      "publisher": "ubiehealth.com",
+      "published_at": null,
+      "url": "https://ubiehealth.com/doctors-note/hantavirus-reporting-confirmed-hospital-science-2253q2",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:33.318Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 823,
+      "headline": "Clinician Brief: Hantavirus Pulmonary Syndrome (HPS) - CDC",
+      "body_md": "[Skip directly to site content](https://www.cdc.gov/hantavirus/hcp/clinical-overview/hps.html#content) [Skip directly to search](https://www.cdc.gov/hantavirus/hcp/clinical-overview/hps.html#cdc-search__input) [Skip directly to On This Page](https://www.cdc.gov/hantavirus/hcp/clinical-overview/hps.html#first-on-this-page)\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/us_flag_small.png)An official website of the United States government\n\n[Here's how you know](https://www.cdc.gov/hantavirus/hcp/clinical-overview/hps.html#gov-notice)\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/icon-dot-gov.svg)\n\n**Official websites use .gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/icon-https.svg)\n\n**Secure .gov websites use HTTPS**\n\nA **lock** (  ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n# Clinician Brief: Hantavirus Pulmonary Syndrome (HPS)\n\nFor Health Care Providers\n\nMay 8, 2026\n\n## Key points\n\n- Hantaviruses are a family of viruses that cause serious illness and sometimes death in people worldwide.\n- The viruses are spread by infected rodents through their urine, feces, and saliva.\n- Some hantaviruses cause hantavirus pulmonary syndrome (HPS).\n- Early symptoms of HPS in people resemble many other respiratory illnesses, making HPS difficult to diagnose at illness onset.\n- Healthcare providers should test a person for hantavirus if they have HPS-compatible symptoms and have had contact with rodents.\n\n![black and white chest xray](https://www.cdc.gov/hantavirus/media/images/2025/03/HPS_cxr.jpg)\n\n## Overview\n\nHantaviruses are spread by rodents' body fluids and excrement. People mostly contract hantavirus by breathing in the virus. Most hantaviruses found in North, Central, and South America can cause hantavirus pulmonary syndrome (HPS). Andes virus, which is found in South America, has reportedly had person-to-person transmission.\n\nDifferent hantaviruses are found in the United States. Most of these cause HPS, which primarily affects the lungs. Non-HPS hantavirus infection can also occur, where patients experience non-specific viral symptoms, but no cardiopulmonary symptoms. The hantaviruses that are found throughout the United States are not known to spread between people.\n\nHPS initially causes flu-like symptoms that can progress to more severe illness where people have trouble breathing. It's important for people with HPS to begin treatment as early as possible to improve their chances of recovery. HPS is fatal in nearly 4 in 10 people who are infected.\n\n## Exposure risks\n\nAnyone who has contact with hantavirus-carrying rodents, or their droppings, urine, saliva or nesting material is at risk of HPS. Rodent infestation in and around the home remains the primary risk for hantavirus exposure. Even healthy individuals are at risk for HPS infection if they have contact with the virus.\n\nAndes virus can cause HPS and is the only type of hantavirus that is known to spread person-to-person.\n\n### Resource\n\nSee [recommended isolation precautions](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html#H) for hantavirus in healthcare settings.\n\n## How it spreads\n\nEach hantavirus has one primary rodent that carries the disease. The most common hantavirus that causes HPS in the U.S. is spread by the deer mouse.\n\nPeople can contract hantavirus if they have contact with urine, feces or saliva of a rodent carrying the virus. This can occur when people:\n\n- Breathe in hantavirus-contaminated air when cleaning up after rodents.\n- Touch contaminated objects and then touch their nose or mouth.\n- Are bitten or scratched by an infected rodent.\n- Eat food contaminated with hantavirus.\n\nCases normally occur in rural areas where forests, fields, and farms offer habitats for rodents. The animals can get into homes and barn",
+      "publisher": "cdc.gov",
+      "published_at": null,
+      "url": "https://www.cdc.gov/hantavirus/hcp/clinical-overview/hps.html",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:33.317Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 822,
+      "headline": "Hantaviruses - ANRS Maladies infectieuses émergentes",
+      "body_md": "![](https://anrs.fr/wp-content/uploads/2026/05/sin-nombre-virus-hanta-tem-1137-lores-620x425.jpg)\n\n# Hantaviruses\n\nHantaviruses are a family of viruses that are usually transmitted by rodents. This zoonotic disease can lead to two syndromes of varying severity, some of which can be fatal.\n\nLast updated on 21 May 2026\n\n**Share:**\n\n- [Share on Twitter](https://twitter.com/share?url=https%3A%2F%2Fanrs.fr%2Fen%2Fscientific-research%2Fdiseases-and-pathogens%2Fhantaviruses%2F&text=Hantaviruses \"Partager sur Twitter - Nouvelle fenêtre\")\n- [Share on Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fanrs.fr%2Fen%2Fscientific-research%2Fdiseases-and-pathogens%2Fhantaviruses%2F&title=Hantaviruses&summary=&source= \"Partager sur Linkedin - Nouvelle fenêtre\")\n\nShare\n\n## Main points\n\n- Hantaviruses comprise a large group of zoonotic viruses whose characteristics vary across the globe. They are mainly transmitted by wild rodents.\n- They can cause two types of syndrome with differing fatality rates: a renal haemorrhagic fever fatal in less than 1% to 15% of cases; or a severe cardiopulmonary syndrome with a fatality rate of around 30 to 60%.\n- No specific treatment or vaccine is available for hantavirus infection.\n- Since 3 May 2026, a possible outbreak of hantavirus infection on board a cruise ship has been reported by the WHO and is being monitored by international health authorities – including the ANRS MIE.\n\n## Epidemiology\n\nHantavirusesbelong to the family _H_ _a_ _nt_ _a_ _viridae_and are found on every continent. More than 20viral species have been identified, all ofwhich are zoonotic – that is, transmitted by animals.Each viral taxon is generally associated with a single natural host species, mainly including wild rodents (rats, voles, field mice) and, more rarely, insectivorous rodents (moles, shrews), bats, as well as fish and reptiles.\n\n### Current situation\n\nOn 3 May 2026, the World Health Organisation (WHO) issued an alert regarding a possible outbreak of hantavirus infection on board the Dutch cruise ship _MV Hondius_ travelling from Ushuaia, Argentina, to Cape Verde.\n\nAs of 5 May 2026, two cases of hantavirus infection had been laboratory-confirmed and five further cases were suspected among the 147 passengers and crew members.Of the seven people who fell ill, three have died and one was in intensive care in South Africa. The latter, a British tourist who tested positive for a hantavirus, had been transferred and hospitalised in Johannesburg.\n\nOn 6 May 2026, viral sequencing carried out by the South African health authorities identified a strain of the Andes hantavirus.1 This is the only strain, out of the 38 known, capable of being transmitted from person to person, although this mode of transmission remains marginal compared to exposure to infected rodents. Further epidemiological investigations are ongoing. These should provide a better understanding of the key circumstances of this outbreak and enable a precise assessment of the risk of human-to-human transmission.\n\nCurrently grounded in Cape Verde, the ship has not been authorised to dock, but medical care is being provided to passengers and crew. The Spanish government has however authorised its reception in the Canary Islands in the near future, in order to continue the examination, care and transfer of passengers.The risk of the virus spreading beyond the ship is still considered ‘low’ by the WHO. 2\n\n### Historical background\n\nThe first clinical description of a hantavirus disease dates back to the Korean War (1950–1953), during which more than 3,000 soldiers developed [haemorrhagic fever](https://anrs.fr/en/scientific-research/diseases-and-pathogens/viral-haemorrhagic-fevers/ \"https://anrs.fr/recherche/maladies-pathogenes/fievres-hemorragiques-virales/\") with hepatorenal syndrome.The virus responsible was identified in 1976 by Korean researchers. It is named after the Hantaan River, which lies on the border between the two Koreas.\n\n### Global c",
+      "publisher": "anrs.fr",
+      "published_at": null,
+      "url": "https://anrs.fr/en/scientific-research/diseases-and-pathogens/hantaviruses/",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:28.496Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 821,
+      "headline": "What is the death rate of hantavirus? - Britannica",
+      "body_md": "[⚽️ Get Our World Cup Newsletter: **The Pitch** ⚽️\\\\\n\\\\\nLearn More](https://signup.britannica.com/thepitch?utm_source=premium&utm_medium=toupee&utm_campaign=mm-mobile)\n\n[Ask the Chatbot](https://www.britannica.com/chatbot) [Games & Quizzes](https://www.britannica.com/quiz/browse) [History & Society](https://www.britannica.com/History-Society) [Science & Tech](https://www.britannica.com/Science-Tech) [Biographies](https://www.britannica.com/Biographies) [Animals & Nature](https://www.britannica.com/Animals-Nature) [Geography & Travel](https://www.britannica.com/Geography-Travel) [Arts & Culture](https://www.britannica.com/Arts-Culture) [ProCon](https://www.britannica.com/procon) [Money](https://www.britannica.com/money) [Videos](https://www.britannica.com/videos)\n\n\nCITE\n\n\n# What is the death rate of hantavirus?\n\nWritten and fact-checked by\n\n[The Editors of Encyclopaedia Britannica\\\\\n\\\\\nEncyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree....](https://www.britannica.com/editor/The-Editors-of-Encyclopaedia-Britannica/4419)\n\nThe Editors of Encyclopaedia Britannica\n\nLast updated\n\nMay 21, 2026\n\nThe death rate from hantavirus infection depends on the specific disease it causes. Hantavirus pulmonary syndrome (HPS), found mainly in the Americas, has a case fatality rate of about 35–40 percent, making it a highly dangerous infection. Hemorrhagic fever with renal syndrome (HFRS), more common in Europe and Asia, varies in severity depending on the viral strain, with death rates ranging from less than 1 percent to about 15 percent. Early diagnosis and supportive medical care can improve survival.\n\n_verified_ Cite\n\n\nWhile every effort has been made to follow citation style rules, there may be some discrepancies.\nPlease refer to the appropriate style manual or other sources if you have any questions.\n\n\nSelect Citation Style\n\nMLAAPAChicago Manual of Style\n\nThe Editors of Encyclopaedia Britannica. \" What is the death rate of hantavirus? \". _Encyclopedia Britannica_, 21 May. 2026, https://www.britannica.com/question/What-is-the-death-rate-of-hantavirus. Accessed 10 June 2026.\n\nCopy Citation",
+      "publisher": "britannica.com",
+      "published_at": null,
+      "url": "https://www.britannica.com/question/What-is-the-death-rate-of-hantavirus",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:28.495Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 820,
+      "headline": "Hantavirus deaths on cruise ship highlight dangers of rodent-borne ...",
+      "body_md": "### Recommended Videos\n\n### Recommended Articles\n\nLeft Arrow\n\n- [![Diabetes drug could slash risk of fatal heart condition in one group, scientists reveal](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/320/180/healthcare-professional-elderly-woman-home-fox-news-001.jpeg?ve=1&tl=1)](https://www.foxnews.com/health/diabetes-drug-could-slash-risk-fatal-heart-condition-one-group-scientists-reveal)\n\n[**Diabetes drug could slash risk of fatal heart condition in one group, scientists reveal**](https://www.foxnews.com/health/diabetes-drug-could-slash-risk-fatal-heart-condition-one-group-scientists-reveal)\n\n- [![Woman with advanced Alzheimer's regained speech and memories after taking magic mushrooms](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/320/180/older-lady-alzheimers.jpg?ve=1&tl=1)](https://www.foxnews.com/health/woman-advanced-alzheimers-regained-speech-memories-taking-magic-mushrooms)\n\n[**Woman with advanced Alzheimer's regained speech and memories after taking magic mushrooms**](https://www.foxnews.com/health/woman-advanced-alzheimers-regained-speech-memories-taking-magic-mushrooms)\n\n- [![Why do some people get sepsis while others don't? Scientists point to the gut](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/320/180/woman-in-hospital.jpg?ve=1&tl=1)](https://www.foxnews.com/health/why-do-some-people-get-sepsis-while-others-dont-scientists-point-gut)\n\n[**Why do some people get sepsis while others don't? Scientists point to the gut**](https://www.foxnews.com/health/why-do-some-people-get-sepsis-while-others-dont-scientists-point-gut)\n\n- [![This exercise habit may slash dementia risk and help you live longer, study finds](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/320/180/male-athlete-lifting-dumbbells-fox-news-001.jpeg?ve=1&tl=1)](https://www.foxnews.com/health/exercise-habit-may-slash-dementia-risk-help-you-live-longer-study-finds)\n\n[**This exercise habit may slash dementia risk and help you live longer, study finds**](https://www.foxnews.com/health/exercise-habit-may-slash-dementia-risk-help-you-live-longer-study-finds)\n\n- [![Scientists reveal surprising brain benefit of laughter: 'It's a mental workout'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/320/180/laughing-with-grandkid.jpg?ve=1&tl=1)](https://www.foxnews.com/health/scientists-reveal-surprising-brain-benefit-laughter-mental-workout)\n\n[**Scientists reveal surprising brain benefit of laughter: 'It's a mental workout'**](https://www.foxnews.com/health/scientists-reveal-surprising-brain-benefit-laughter-mental-workout)\n\n- [![Flying with cannabis? TSA's new guidance comes with a major health warning](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/320/180/medical-marijuana.jpeg?ve=1&tl=1)](https://www.foxnews.com/health/flying-cannabis-tsas-new-guidance-comes-major-health-warning)\n\n[**Flying with cannabis? TSA's new guidance comes with a major health warning**](https://www.foxnews.com/health/flying-cannabis-tsas-new-guidance-comes-major-health-warning)\n\n- [![Drinking alcohol may influence cravings for certain foods in a surprising way, study suggests](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/320/180/couple_drinking_and_eating_chips.jpeg?ve=1&tl=1)](https://www.foxnews.com/health/drinking-alcohol-may-influence-cravings-certain-foods-surprising-way-study-suggests)\n\n[**Drinking alcohol may influence cravings for certain foods in a surprising way, study suggests**](https://www.foxnews.com/health/drinking-alcohol-may-influence-cravings-certain-foods-surprising-way-study-suggests)\n\n- [![Can alkaline water actually improve your health? Experts separate fact from fiction](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/320/180/f217d532-man-drinking-water.jpg?ve=1&tl=1)](https://www.foxnews.com/health/alkaline-wa",
+      "publisher": "foxnews.com",
+      "published_at": null,
+      "url": "https://www.foxnews.com/health/hantavirus-deaths-cruise-ship-highlight-dangers-rodent-borne-disease",
+      "mentioned_states_json": "[\"WA\"]",
+      "fetched_at": "2026-06-10T09:52:28.494Z",
+      "mentioned_states": [
+        "WA"
+      ]
+    },
+    {
+      "id": 819,
+      "headline": "Current Hantavirus Outbreak and Considerations for Congress",
+      "body_md": "[skip to main content](https://www.congress.gov/crs-product/IF13230#content)\n\n[Citation](https://www.congress.gov/crs-product/IF13230#citation)[Subscribe](https://www.congress.gov/get-alerts)[Share/Save](https://www.congress.gov/crs-product/IF13230#share)[Site Feedback](https://www.congress.gov/crs-product/IF13230#survey)\n\n# Current Hantavirus Outbreak and Considerations for Congress\n\n## CRS PRODUCT (LIBRARY OF CONGRESS)\n\n[Hide Overview](https://www.congress.gov/crs-product/IF13230#)\n\n| CRS Product Type: | In Focus |\n| CRS Product Number: | IF13230 |\n| Topics: | Energy & Natural Resources; Health Care; Homeland Security & Emergency Management |\n| Publication Date: | 05/18/2026 |\n| Authors: | Kuiken, Todd; Sekar, Kavya; Sheikh, Pervaze A. |\n\n[Download PDF (295KB)](https://www.congress.gov/crs_external_products/IF/PDF/IF13230/IF13230.2.pdf)\n\\| [PDF Version History](https://www.congress.gov/crs-product/IF13230#)\n\n- [May 18, 2026 (IF13230 - Version: 2)](https://www.congress.gov/crs_external_products/IF/PDF/IF13230/IF13230.2.pdf)\n- [May 18, 2026 (IF13230 - Version: 1)](https://www.congress.gov/crs_external_products/IF/PDF/IF13230/IF13230.1.pdf)\n\n[Listen](https://app-na.readspeaker.com/cgi-bin/rsent?customerid=6927&lang=en_us&readid=dvContainer&url=https%3A%2F%2Fwww.congress.gov/crs-product/IF13230 \"Listen to this page using ReadSpeaker webReader\")\n\nCurrent Hantavirus Outbreak and Considerations for Congress\n\nMay 18, 2026\n(IF13230)\n\n\nBackground and Current Hantavirus Outbreak\n\n[Hantavirus](https://www.cdc.gov/hantavirus/about/index.html) is a zoonotic pathogen carried by rodents (e.g., mice and rats) and transmitted to humans generally from contact with their droppings, urine, and saliva. On May 2, 2026, the World Health Organization (WHO) received [notification](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599) of two deaths and one critically ill passenger from an acute respiratory illness onboard the _M/V Hondius_ cruise ship, originating from Argentina. These cases were later confirmed to be the Andes strain of the hantavirus, according to [the WHO](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601). Symptoms appeared for the initial case on the ship on April 6, 2026. Related policy issues for Congress include the nature of international coordination for outbreaks, domestic preparedness for disease outbreaks, and U.S. research and development for zoonotic diseases.\n\nAs of May 13, 2026, the outbreak was ongoing; there were [11 reported cases](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601) of hantavirus linked to the cruise ship, 8 of which have been laboratory confirmed. Passengers from the _M/V Hondius_ have been repatriated, and public health authorities have initiated contact tracing to monitor for additional spread. Additional passengers who departed the cruise ship prior to the identification of the outbreak may have been exposed to hantavirus and unknowingly exposed others. Symptoms of hantavirus from the Andes strain can appear in 4 to 42 days after exposure. The Centers for Disease Control and Prevention (CDC) [has stated](https://www.cdc.gov/hantavirus/about/andesvirus.html) that the \" [the overall risk to the American public and travelers remains extremely low](https://www.cdc.gov/hantavirus/situation-summary/index.html).\" No U.S. hantavirus cases associated with the current outbreak have been reported as of the publication of this product.\n\nWhat Is Hantavirus?\n\n[Hantavirus](https://pmc.ncbi.nlm.nih.gov/articles/PMC8987181/) has been known to infect humans for at least several decades. The disease was first documented during the Korean War in the 1950s, the virus was isolated in 1978, and the WHO recognized the disease in 1982. Hantavirus is endemic throughout the world. Hantaviruses belong to the family _Hantaviridae_, with each strain typically associated with a specific rodent species.\n\nMore than 40 strains of hantavirus exist in nature and are broad",
+      "publisher": "congress.gov",
+      "published_at": null,
+      "url": "https://www.congress.gov/crs-product/IF13230",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:22.247Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 817,
+      "headline": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health ...",
+      "body_md": "[Skip to main content](https://www.kff.org/quick-insights/the-hantavirus-outbreak-is-a-test-case-for-the-u-s-public-health-response/#main)\n\n[Previous\\\\\nSecretary Kennedy Remains Popular with MAGA and MAHA Supporters, But Few Others](https://www.kff.org/quick-insights/secretary-kennedy-remains-popular-with-maga-and-maha-supporters-but-few-others/)\n\n![An image of text is an excerpt from Josh Michaud's quick take which reads, \"The outbreak is also a kind of test case for how well the U.S. is positioned to respond to global disease threats under the Trump administration. Since early last year, the administration has pulled back U.S. engagement on global health, which has included completing a withdrawal from membership in the World Health Organization (WHO)..\"](https://www.kff.org/wp-content/uploads/sites/7/2026/05/260512_Quick-Takes_Josh-Michaud_Website_43f27a.png?w=1024)\n\n# The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response\n\n![Josh Michaud](https://www.kff.org/wp-content/uploads/sites/7/2022/12/Michaud-Josh.jpg?w=50&h=50&crop=1)\n\n[Josh Michaud](https://www.kff.org/person/josh-michaud/)\n\nPublished: May 12, 2026\n\nPrint [Email](mailto:?subject=The%20Hantavirus%20Outbreak%20Is%20a%20Test%20Case%20for%20the%20U.S.%20Public%20Health%20Response&body=https%3A%2F%2Fwww.kff.org%2Fquick-insights%2Fthe-hantavirus-outbreak-is-a-test-case-for-the-u-s-public-health-response%2F)Copy Link[Add KFF on Google](https://google.com/preferences/source?q=kff.org)\n\nGlobal attention is once again focused on an emerging disease threat—this time it’s [Andes](https://www.cdc.gov/hantavirus/about/andesvirus.html) [hantavirus](https://www.who.int/news-room/fact-sheets/detail/hantavirus). As of May 12, this known, but relatively rare, virus has led to [11 cases](https://www.cnn.com/us/maps-hantavirus-cruise-outbreak-vis) (9 confirmed, two probable) and three deaths among 147 passengers and crew aboard a [cruise ship](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600) that departed from Argentina on April 1st. [23 different nationalities](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599) were represented among the ship’s passengers, most of whom have been [repatriated](https://www.nytimes.com/2026/05/11/world/hantavirus-outbreak-cruise-ship-passengers.html) to their home countries at this point. This includes at least [18 Americans](https://www.cnn.com/2026/05/11/us/live-news/hantavirus-cruise-outbreak), one of whom has tested positive for hantavirus infection thus far, and one who has shown symptoms, [according to](https://x.com/HHSGov/status/2053853941046063228) the U.S. Department of Health and Human Services (HHS). While limited in size, the Andes hantavirus outbreak is a reminder of how quickly disease threats can emerge and spread, and how dependent the world is on international cooperation to identify and contain cross-border outbreaks like this.\n\nThe hantavirus outbreak is also a kind of test case for how well the U.S. is positioned to respond to global disease threats under the Trump administration. Since early last year, the administration has [pulled back](https://www.kff.org/global-health-policy/overview-of-president-trumps-executive-actions-on-global-health/) U.S. engagement on global health, which has included [completing a withdrawal](https://www.hhs.gov/press-room/fact-sheet-us-withdrawal-from-the-world-health-organization.html) from membership in the World Health Organization (WHO), [de-prioritizing](https://www.state.gov/america-first-global-health-strategy) multilateral cooperation generally, reducing [funding](https://www.kff.org/global-health-policy/kff-tracker-america-first-mou-bilateral-global-health-agreements/) for U.S. global health efforts, and [dissolving](https://www.kff.org/global-health-policy/u-s-foreign-aid-freeze-dissolution-of-usaid-timeline-of-events/) the United States Agency for International Development (USAID). Administration actions have also affected U.S.",
+      "publisher": "kff.org",
+      "published_at": null,
+      "url": "https://www.kff.org/quick-insights/the-hantavirus-outbreak-is-a-test-case-for-the-u-s-public-health-response/",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:22.235Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 816,
+      "headline": "2026 Hantavirus Outbreak: Testing for Potential Infection | HAN - CDC",
+      "body_md": "[Skip directly to site content](https://www.cdc.gov/han/php/notices/han00529.html#content) [Skip directly to search](https://www.cdc.gov/han/php/notices/han00529.html#cdc-search__input) [Skip directly to On This Page](https://www.cdc.gov/han/php/notices/han00529.html#first-on-this-page)\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/us_flag_small.png)An official website of the United States government\n\n[Here's how you know](https://www.cdc.gov/han/php/notices/han00529.html#gov-notice)\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/icon-dot-gov.svg)\n\n**Official websites use .gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/icon-https.svg)\n\n**Secure .gov websites use HTTPS**\n\nA **lock** (  ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n# 2026 Hantavirus Outbreak: Testing for Potential Infection\n\nMay 18, 2026\n\n## At a glance\n\n- Distributed via the CDC Health Alert Network\n- May 18, 2026\n- CDCHAN-00529\n\n![This is an official CDC health update](https://www.cdc.gov/han/media/images/2025/03/logo-han-health-update.png)\n\n## Summary\n\nThe Centers for Disease Control and Prevention (CDC) is issuing this Health Alert Network (HAN) Health Update to inform clinicians and health departments about testing available for patients with suspected hantavirus infection to include Andes virus. CDC first issued a [Health Advisory](https://www.cdc.gov/han/php/notices/han00528.html) (CDCHAN-00528) about this outbreak on May 8, 2026. Hantaviruses are a group of viruses that typically spread to people who come in contact with sylvatic rodents. These viruses can cause severe illness or death in humans. Andes virus, a type of hantavirus endemic in South America, is the only type of hantavirus that is known to spread from person to person. Several [other](https://www.cdc.gov/hantavirus/data-research/cases/index.html) New World hantaviruses are endemic to the United States and are not transmissible from person to person. New World hantaviruses can cause hantavirus pulmonary syndrome (HPS), a potentially serious disease that can cause damage to the lungs.\n\nOn May 2, 2026, an outbreak of Andes virus on a cruise ship was reported to the World Health Organization (WHO). This outbreak has raised the possibility of cases being imported to the United States. As of May 18, no confirmed cases of Andes virus associated with the outbreak on the cruise ship have been reported in the United States. Therefore, **the overall risk to the American public is still considered extremely low at this time**. CDC and health departments in several states are monitoring the health of U.S. passengers from the ship and U.S. air travel contacts of symptomatic ship passengers who were subsequently confirmed to have Andes virus infection. This Health Update informs clinicians about testing and consultation that are available for Andes virus and other hantaviruses endemic to the United States, South America, and other nations.\n\n## Background\n\nOn May 2, 2026, WHO was notified of a cluster of severe acute respiratory illness (SARI) among passengers and crew aboard the M/V Hondius cruise ship in the Atlantic Ocean. On May 6, 2026, WHO confirmed that the cluster was caused by Andes virus, a hantavirus endemic in areas of South America that can cause hantavirus pulmonary syndrome (HPS). Andes virus is the only hantavirus known to spread from person to person. This type of transmission is rare for hantaviruses and is generally associated with prolonged [close contact](https://www.cdc.gov/hantavirus/php/emergency-guidance/index.html#cdc_er_guidance_recom2-risk-based-management-for-contacts). As of May 15, WHO has reported 10 cases (8 of them laboratory-confirmed), including 3 deaths.\n\nHantaviruses cause two syndromes. Hantaviruses found in the Western Hemisphere are often referred to as New World ",
+      "publisher": "cdc.gov",
+      "published_at": null,
+      "url": "https://www.cdc.gov/han/php/notices/han00529.html",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:22.228Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 808,
+      "headline": "Bowie County expert says hantavirus rare in East Texas region - Texarkana Gazette",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUhzX2tCN3ctWVZTSklGNzZzUThvUElqOWtRM0ppaGJEbG4tWlhudC14ZU1ZMnNDR3FYOW1WRGVoZmtvU2VDSkZVQTYwdXZQSVY0eE9LWGZtbTFQbnRxM2xoRC1yX1luakFITGRlRzlDNGVtamM0NWRSc3lqbDZJMF9HWkg1SkYtRXRCSXlPUjcxaWZGOTVEMmEtRFFYQWk2?oc=5\" target=\"_blank\"&gt;Bowie County expert says hantavirus rare in East Texas region&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Texarkana Gazette&lt;/font&gt;",
+      "publisher": "Texarkana Gazette",
+      "published_at": "2026-06-10T03:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUhzX2tCN3ctWVZTSklGNzZzUThvUElqOWtRM0ppaGJEbG4tWlhudC14ZU1ZMnNDR3FYOW1WRGVoZmtvU2VDSkZVQTYwdXZQSVY0eE9LWGZtbTFQbnRxM2xoRC1yX1luakFITGRlRzlDNGVtamM0NWRSc3lqbDZJMF9HWkg1SkYtRXRCSXlPUjcxaWZGOTVEMmEtRFFYQWk2?oc=5",
+      "mentioned_states_json": "[\"TX\"]",
+      "fetched_at": "2026-06-10T09:52:16.779Z",
+      "mentioned_states": [
+        "TX"
+      ]
+    },
+    {
+      "id": 806,
+      "headline": "3 more former cruise ship passengers leave UNMC after quarantining following hantavirus outbreak - Nebraska Public Media",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEcxRTRUNUNaX0dHTHp2T3ctUnZPbG1FeXNVNThDTXJma2lHRjZJV2oxYzltcVF6QWVHTDVhRW5FVWdSbHVSOHo4bEtSdTdVc2dta19Idi1UbG9RNlR4eGU0akpTdklFaFpQZWdYUm0tQS1HTnlMWG4zSDhTai1xU25lTkhWRzhWNWRLcTFhUE5CZkd6eVZIVzlod3lpQ0FleGV5TEEtcFRSRTNYZ3Y2amFPOFc?oc=5\" target=\"_blank\"&gt;3 more former cruise ship passengers leave UNMC after quarantining following hantavirus outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Nebraska Public Media&lt;/font&gt;",
+      "publisher": "Nebraska Public Media",
+      "published_at": "2026-06-09T22:37:10.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEcxRTRUNUNaX0dHTHp2T3ctUnZPbG1FeXNVNThDTXJma2lHRjZJV2oxYzltcVF6QWVHTDVhRW5FVWdSbHVSOHo4bEtSdTdVc2dta19Idi1UbG9RNlR4eGU0akpTdklFaFpQZWdYUm0tQS1HTnlMWG4zSDhTai1xU25lTkhWRzhWNWRLcTFhUE5CZkd6eVZIVzlod3lpQ0FleGV5TEEtcFRSRTNYZ3Y2amFPOFc?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:16.776Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 807,
+      "headline": "3 Virginia people exposed to hantavirus healthy after incubation period passes - WUSA9",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV3ZrODN2aDNsamU0dHpKQl9hbTVwSHpxQzJTQUVScDI0czdtbV9JNTAtaWNDX0FfNU1TMFZwdW9QVEtYQ3lXSnlhR2VtaXl0X1VjMnFGdFVQcllfclM4dWthV29sOXZINEZfa1lyMnlfbnJPVUFyd1l4LXVYOU14Q0VCTDVfQU9IT1VzRVBCc09ldHVKSzEwRXBSYk9iQTFHdFpiTmUwbDNud2o1MVBGT0pKNUlsMjI2cko4N3FCbVB5TUFadlBhZnlNaVJVdTd5cXFaOERaVzVtMXpNb1Q5QjFkY1Jjdw?oc=5\" target=\"_blank\"&gt;3 Virginia people exposed to hantavirus healthy after incubation period passes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WUSA9&lt;/font&gt;",
+      "publisher": "WUSA9",
+      "published_at": "2026-06-09T22:14:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV3ZrODN2aDNsamU0dHpKQl9hbTVwSHpxQzJTQUVScDI0czdtbV9JNTAtaWNDX0FfNU1TMFZwdW9QVEtYQ3lXSnlhR2VtaXl0X1VjMnFGdFVQcllfclM4dWthV29sOXZINEZfa1lyMnlfbnJPVUFyd1l4LXVYOU14Q0VCTDVfQU9IT1VzRVBCc09ldHVKSzEwRXBSYk9iQTFHdFpiTmUwbDNud2o1MVBGT0pKNUlsMjI2cko4N3FCbVB5TUFadlBhZnlNaVJVdTd5cXFaOERaVzVtMXpNb1Q5QjFkY1Jjdw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:16.778Z",
+      "mentioned_states": []
+    },
+    {
       "id": 792,
       "headline": "3 people who were onboard of the Hantavirus cruise are leaving quarantine - WUSA9",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNU0ydElNLW00cEVXQm9PbWR4cU1FVV9xaFNLMEppUU02SDBxRi1XdTRQVFBtWDFNX09zd2E5MDRqUk5DZjJ4Y1RhV2hGblFpNXBoWkZ2aVZyTmFTMmlhYmRBTHpBNnczUTBZUU1zMkNsaFFMemdacmJHNlFXRUdhMU5mdTFrN3l4RVBFdjNlRXhGbmJaUzJLbkktWGFvelducWlOUkRRX1hpRHFHMjJZUnkwdVk3QjltMGtnYUJiR0tJeXk5ZGpCNWwtU0pOSDNtVnYyeklVbGRtSVdhQUVkamZLdktPcnEt?oc=5\" target=\"_blank\"&gt;3 people who were onboard of the Hantavirus cruise are leaving quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WUSA9&lt;/font&gt;",
@@ -557,6 +715,17 @@
       "mentioned_states": []
     },
     {
+      "id": 804,
+      "headline": "Three more US passengers from hantavirus-hit ship return to home states - Yahoo",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjlUdFZraWhqcm5Ka3hFOHdoVE9Obk5SYm04QUthLWFIeXBuVDFVazRZUnJSOE5UZ3JPa3UyMUVsVXhyUk02OVotT2JGMkZuMTB6X2poZnBOU2ZzNWFoQ2FVNEVtQUhQbTF3RTFQYXMwUjB4bVAzQ3hwZmpRNUgwZzBUZV81Y1ZQUFljTXpET3pSTjA?oc=5\" target=\"_blank\"&gt;Three more US passengers from hantavirus-hit ship return to home states&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
+      "publisher": "Yahoo",
+      "published_at": "2026-06-09T14:34:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjlUdFZraWhqcm5Ka3hFOHdoVE9Obk5SYm04QUthLWFIeXBuVDFVazRZUnJSOE5UZ3JPa3UyMUVsVXhyUk02OVotT2JGMkZuMTB6X2poZnBOU2ZzNWFoQ2FVNEVtQUhQbTF3RTFQYXMwUjB4bVAzQ3hwZmpRNUgwZzBUZV81Y1ZQUFljTXpET3pSTjA?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:16.772Z",
+      "mentioned_states": []
+    },
+    {
       "id": 795,
       "headline": "Three more US passengers from hantavirus-hit ship return to home states - TradingView",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWkxVSWZRTjNwTXNIUnhZdW9RNUM0aGhLOHd5dGtxUERzUXA5aDE5UW44aUg5ZE5yWXhjODNHMmZuQjRqY3NJM3FWcGJpdmhrM2xpRnMxb3BZejZaWGMwYVFEWTRzWVRuZEdNVGMyZUFxckpZcFZhXzlKY3ZFR0ZMUDNTblFqWXlna1ZsbjJTVFJZaW1CTFM3cTA2S2FMeHA0Mk9sdlFvWU94WHJMTFctYVVxTUx2Y3g1VFB3cm5TbWo3cDVadEc4TnFmZnVZSHdPamlISkIwRVU?oc=5\" target=\"_blank\"&gt;Three more US passengers from hantavirus-hit ship return to home states&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TradingView&lt;/font&gt;",
@@ -609,6 +778,17 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRDh1UC02bzBibDdxRDdZWTJ2QWxpUXNEcXlhQmh4UldhX214ZlFBUmNsWVRzeXpFYUdCaW12UXpQVHpzcjNjZ1NJTHFJVGlOcU1iOEtHM0dyX1U5cDBmZnpweWpYWC11ZTBzU0dtV3NnVVdYbFlHVEg4QVh4ZWU0dkNEQUJnTWlCWFdLRGZOWDhFR051SXNwUzRn?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-09T21:53:10.432Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 810,
+      "headline": "Vaccines and therapeutics for Andes hantavirus - Nature",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sVTRNZ1NPclZYX0IyTlBtQ3d0MkZSZHNTZV82dVJzNGFzZ09QOWhQeGVtdmI2U3RyZnN4dmRiZVg2SGI4bUUta0FkS0s4ek9IRnNQMV92Q2NLV2xpcUlr?oc=5\" target=\"_blank\"&gt;Vaccines and therapeutics for Andes hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Nature&lt;/font&gt;",
+      "publisher": "Nature",
+      "published_at": "2026-06-09T09:57:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sVTRNZ1NPclZYX0IyTlBtQ3d0MkZSZHNTZV82dVJzNGFzZ09QOWhQeGVtdmI2U3RyZnN4dmRiZVg2SGI4bUUta0FkS0s4ek9IRnNQMV92Q2NLV2xpcUlr?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-10T09:52:17.275Z",
       "mentioned_states": []
     },
     {
@@ -811,173 +991,6 @@
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZ1gtN2p4cURNMDRWNmgtSnFwWmJnZll6cVdETDBKOW9FU01VcEkyOElscVNCZ2NqVE9ndnVGYUIyWnA2amxhX2lTRlYxV3hfVWRid1VKYk1rZF9NMmM1SWZhNUc5aXlJWXhmaWtvQXFVei1sZXdfbUQwVkRkRTZHekYzS2duQmdQaDk5cjZ2eVlremVJNkRINUlBX3hxbkIwekxkOXlYOWFScmtZNTdpTTlKai13aTIwZFc4cTRYVVRnak1oRVdGdHUxalRMYjBjbThtVENqdEZtM2lOaEQ2ZTJqenF4V2ZaLVp4VU44YUVrSFh6czB3NjVWZjItVGtMckpWU05ZYkhqTXBDVmRHVmlZVmVZQ1VuQ2twN25B?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-08T21:52:57.938Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 721,
-      "headline": "Two Texans cleared of hantavirus risk after period of isolation - KERA News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnRFdzY2REJBemFVcGlhVTlFRExNNlYtZzNITTZqcktRelZpUXpTX3l2bEJRYkdPN0NPNkJ3SkUxeF90QUh1anI4dVdCTTR3OWstMlVXclJQbmxWNER2RlBuWVZTR2lvZlJxejY5alEzN3Q0MUNZc01CckJJTkJyblA5Mk92SE5kZ1NqLU54djhWNkJuZVlhb1NmTWNYSlRaZzJmc2xB?oc=5\" target=\"_blank\"&gt;Two Texans cleared of hantavirus risk after period of isolation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KERA News&lt;/font&gt;",
-      "publisher": "KERA News",
-      "published_at": "2026-06-08T11:22:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnRFdzY2REJBemFVcGlhVTlFRExNNlYtZzNITTZqcktRelZpUXpTX3l2bEJRYkdPN0NPNkJ3SkUxeF90QUh1anI4dVdCTTR3OWstMlVXclJQbmxWNER2RlBuWVZTR2lvZlJxejY5alEzN3Q0MUNZc01CckJJTkJyblA5Mk92SE5kZ1NqLU54djhWNkJuZVlhb1NmTWNYSlRaZzJmc2xB?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T21:52:57.879Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 727,
-      "headline": "Texans Finish 42-Day Hantavirus Quarantine Following Outbreak On Cruise Ship - 710 KURV",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2tWWUlrN3ZuVXlCLVI3YzRPWWhIQUd6WUl5bjhWMTVaZDBLdUlPMWs4bGRDOWZlNUxlc2dCUWF2OVphNmVWdFZWRGpib1Z4bk4yc2JZeTluald4cy0yYnpMWU1ZRjJMYzVkSFJHd1I1S3I0ZTRzWXNKM0hfMlg3UHRDM2FaN3ZvMWFUdERxLWJYZDlwV2VEbmtxZnplbGs?oc=5\" target=\"_blank\"&gt;Texans Finish 42-Day Hantavirus Quarantine Following Outbreak On Cruise Ship&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;710 KURV&lt;/font&gt;",
-      "publisher": "710 KURV",
-      "published_at": "2026-06-08T06:37:42.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2tWWUlrN3ZuVXlCLVI3YzRPWWhIQUd6WUl5bjhWMTVaZDBLdUlPMWs4bGRDOWZlNUxlc2dCUWF2OVphNmVWdFZWRGpib1Z4bk4yc2JZeTluald4cy0yYnpMWU1ZRjJMYzVkSFJHd1I1S3I0ZTRzWXNKM0hfMlg3UHRDM2FaN3ZvMWFUdERxLWJYZDlwV2VEbmtxZnplbGs?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T21:52:58.000Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 713,
-      "headline": "Two Singaporeans complete quarantine after returning from cruise with deadly hantavirus outbreak - Malay Mail",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ19IU2gyZmwteWo3ZlVhTTR6cDV2WHAxb1gyZVJlOUhrRjVjZEpEY0c0S0YzaE9hU1M0bG5KSnBvaU1CcDlwUlFRQnVfZk02eGhsVm03SDRQZ0J0VHZCd1NfSUo2MEQ3UHBKb2dBZjduZzFMOUZFOUNhenp5X1ItUVNhUmxvVVZUbExsWS1Ic1RJUTdvQ2VfNWlxLWFZSDg2QUlXdEhHbWIwRmhQUnNRYzd1czQyNE50NHMzTGw3SGtjWkNRTTU2QVRvWm1KQnU0bF9iV3NtM3BZUU5DYV9GTWRzNGNLdUlsRzdj0gHwAUFVX3lxTE4xUW5FZS15OS1oQjhELVlqeEQ5WHhtMlRuYjhQbXBiN0E0MnZDa2xYQU9uS1NMZGZhNjJnamktZm1iUDZ3OGkxV1Vpcnd2RmxPblNaS1hvbTdDdEd5a01MWUkzNy1JbUlqZmxDazEwVVJxUUdmQ0QzRVhRbGhzdUdybS1vT0V2VUpjdFBua21Sd3lBWXl6SmRyUVUyTTVZQWxSUHk1U0FpaWJicnV3UVprcE0zYjJvVnBBMzFiLUN3RDlSTWdlUFBJajBBVlFpQld0WHdFWFlxQVhSOHlqYmg4TG85eUhoYTRsb0piWTMtXw?oc=5\" target=\"_blank\"&gt;Two Singaporeans complete quarantine after returning from cruise with deadly hantavirus outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Malay Mail&lt;/font&gt;",
-      "publisher": "Malay Mail",
-      "published_at": "2026-06-08T04:41:51.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ19IU2gyZmwteWo3ZlVhTTR6cDV2WHAxb1gyZVJlOUhrRjVjZEpEY0c0S0YzaE9hU1M0bG5KSnBvaU1CcDlwUlFRQnVfZk02eGhsVm03SDRQZ0J0VHZCd1NfSUo2MEQ3UHBKb2dBZjduZzFMOUZFOUNhenp5X1ItUVNhUmxvVVZUbExsWS1Ic1RJUTdvQ2VfNWlxLWFZSDg2QUlXdEhHbWIwRmhQUnNRYzd1czQyNE50NHMzTGw3SGtjWkNRTTU2QVRvWm1KQnU0bF9iV3NtM3BZUU5DYV9GTWRzNGNLdUlsRzdj0gHwAUFVX3lxTE4xUW5FZS15OS1oQjhELVlqeEQ5WHhtMlRuYjhQbXBiN0E0MnZDa2xYQU9uS1NMZGZhNjJnamktZm1iUDZ3OGkxV1Vpcnd2RmxPblNaS1hvbTdDdEd5a01MWUkzNy1JbUlqZmxDazEwVVJxUUdmQ0QzRVhRbGhzdUdybS1vT0V2VUpjdFBua21Sd3lBWXl6SmRyUVUyTTVZQWxSUHk1U0FpaWJicnV3UVprcE0zYjJvVnBBMzFiLUN3RDlSTWdlUFBJajBBVlFpQld0WHdFWFlxQVhSOHlqYmg4TG85eUhoYTRsb0piWTMtXw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T09:53:10.784Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 726,
-      "headline": "Two Singaporeans complete quarantine after returning from cruise with deadly hantavirus outbreak - Yahoo News Malaysia",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDRuQU9KX2YybG10T1Q3Um12am5FRUZzb0R2Y1NOOU1xc2FRdmFrRjV1Rk50NVVncjNBSU5ZOEZsaVBSdW1Lck1pSkswcmhwRlBEZEZJaU5qVWJ5VmJ6OGxEYzF0cGdCNUFuUDNGdEJiSEg2bE52RVZvcXJkRHhaQW00MGFxZDRpUlA0NVZBellvOGpnUnVBaQ?oc=5\" target=\"_blank\"&gt;Two Singaporeans complete quarantine after returning from cruise with deadly hantavirus outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo News Malaysia&lt;/font&gt;",
-      "publisher": "Yahoo News Malaysia",
-      "published_at": "2026-06-08T04:15:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDRuQU9KX2YybG10T1Q3Um12am5FRUZzb0R2Y1NOOU1xc2FRdmFrRjV1Rk50NVVncjNBSU5ZOEZsaVBSdW1Lck1pSkswcmhwRlBEZEZJaU5qVWJ5VmJ6OGxEYzF0cGdCNUFuUDNGdEJiSEg2bE52RVZvcXJkRHhaQW00MGFxZDRpUlA0NVZBellvOGpnUnVBaQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T21:52:57.941Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 703,
-      "headline": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - Santa Fe New Mexican",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaGxkTldfRnA0WGo0aUU4VlVBZUNQMXZURHhVMVFPYzlRVGVrUnJNTUJmT3l3ZXNhVUFXTHNHYjRhSmtfYmRydGVGNVdpR0lFWkhsYzZSaTh2REg4UVNWUWVvOVA0WG9qN25WcFVVZWRMOC1XNUVfOURZbGpWYTR4TlA0UkJLWnNVQlZFWlFIbW80UGcyR1p3TmlaNHYzSmJvUVRCNGFQbnhicFVUdHktTUlYZTlJd2VQZVh3NGlSUnNxX1QyZ0thbGR3VVowa0kyZ09DcjFFMVlkQkRCZnJTNXNEd0w2SFJCaEtRaTB1bmotRTBKYUpNWkZ6U3NUNUFDU0l2alhIMEdKZ1JuN05mSDdZaGoyTU5hQ0tNTUR2QVlzYUlRN1hkcHAtcw?oc=5\" target=\"_blank\"&gt;Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Santa Fe New Mexican&lt;/font&gt;",
-      "publisher": "Santa Fe New Mexican",
-      "published_at": "2026-06-08T03:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaGxkTldfRnA0WGo0aUU4VlVBZUNQMXZURHhVMVFPYzlRVGVrUnJNTUJmT3l3ZXNhVUFXTHNHYjRhSmtfYmRydGVGNVdpR0lFWkhsYzZSaTh2REg4UVNWUWVvOVA0WG9qN25WcFVVZWRMOC1XNUVfOURZbGpWYTR4TlA0UkJLWnNVQlZFWlFIbW80UGcyR1p3TmlaNHYzSmJvUVRCNGFQbnhicFVUdHktTUlYZTlJd2VQZVh3NGlSUnNxX1QyZ0thbGR3VVowa0kyZ09DcjFFMVlkQkRCZnJTNXNEd0w2SFJCaEtRaTB1bmotRTBKYUpNWkZ6U3NUNUFDU0l2alhIMEdKZ1JuN05mSDdZaGoyTU5hQ0tNTUR2QVlzYUlRN1hkcHAtcw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T09:53:09.148Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 704,
-      "headline": "Hantavirus: Of mice, men and cruise ships - The Medical Journal of Australia",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3VVVTJ0X3FqYUxNZTFFbFVGcS1xSzJtRE02aEFLRHFwMEU2alpmTVVKZHFtZHdWOWRNY2taUEdwclFhTFlJUGM1cU1qY2U0dWYxbGFUeWg3enZjZWFZUUxsbUNNeWFYWkFodWRqeFpNTldmYTUyZ09JWURpOXJOOTVTMEs?oc=5\" target=\"_blank\"&gt;Hantavirus: Of mice, men and cruise ships&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Medical Journal of Australia&lt;/font&gt;",
-      "publisher": "The Medical Journal of Australia",
-      "published_at": "2026-06-08T01:05:05.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3VVVTJ0X3FqYUxNZTFFbFVGcS1xSzJtRE02aEFLRHFwMEU2alpmTVVKZHFtZHdWOWRNY2taUEdwclFhTFlJUGM1cU1qY2U0dWYxbGFUeWg3enZjZWFZUUxsbUNNeWFYWkFodWRqeFpNTldmYTUyZ09JWURpOXJOOTVTMEs?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T09:53:09.150Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 702,
-      "headline": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1aVlB1OXl2bjJwOVlhNVgyeWFQZzYzdXYwRkxGWW5vbHJtV3RwelNBbWVkNkNldjdWdXBsUFpIWFM4d25JWU1ZLS13N0R0TUpDZ2V6clNjbWk5QVdJQ3ZXQjJ1YVpFRVRidWt5aVV0RjdZLW5JUThDRk13?oc=5\" target=\"_blank\"&gt;NZ cruise passenger tests negative for hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Taipei Times&lt;/font&gt;",
-      "publisher": "Taipei Times",
-      "published_at": "2026-06-07T16:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aVlB1OXl2bjJwOVlhNVgyeWFQZzYzdXYwRkxGWW5vbHJtV3RwelNBbWVkNkNldjdWdXBsUFpIWFM4d25JWU1ZLS13N0R0TUpDZ2V6clNjbWk5QVdJQ3ZXQjJ1YVpFRVRidWt5aVV0RjdZLW5JUThDRk13?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T09:53:09.139Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 701,
-      "headline": "Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak - NL Times",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjE2MFRzQWppM2h2NUQ5SXVocUd3SGdrS290eU1rejAxVGhMZHVUZGNzNWdyWU04TF9LMXRSZ3otdDJUaHpLVjJ2UGdvOWY2aDcyTTY2eUNDZ2RkcDhoa2dIallmSmdOcG9uZkEzU3JVd2FCNnpvVWRjT2htNm9lY1pXTUlPNFhQdUJLSEZYV2xMZzdfaEp4aVdxWXA0OUZpY19B?oc=5\" target=\"_blank\"&gt;Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NL Times&lt;/font&gt;",
-      "publisher": "NL Times",
-      "published_at": "2026-06-07T11:55:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjE2MFRzQWppM2h2NUQ5SXVocUd3SGdrS290eU1rejAxVGhMZHVUZGNzNWdyWU04TF9LMXRSZ3otdDJUaHpLVjJ2UGdvOWY2aDcyTTY2eUNDZ2RkcDhoa2dIallmSmdOcG9uZkEzU3JVd2FCNnpvVWRjT2htNm9lY1pXTUlPNFhQdUJLSEZYV2xMZzdfaEp4aVdxWXA0OUZpY19B?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-08T09:53:08.994Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 695,
-      "headline": "Cruise passenger released from hantavirus quarantine in Taiwan - Taiwan News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LWmlGWUotUXlKZml5VHRkLVg2UGlhdlU3ZnphNmJMNkxsX3F0NENsUTYyVl9tWU5VbU5vSmhtQTQ5S3VXalRVa0ZCMHZmOEJpODFncWNQakM?oc=5\" target=\"_blank\"&gt;Cruise passenger released from hantavirus quarantine in Taiwan&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Taiwan News&lt;/font&gt;",
-      "publisher": "Taiwan News",
-      "published_at": "2026-06-07T09:07:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LWmlGWUotUXlKZml5VHRkLVg2UGlhdlU3ZnphNmJMNkxsX3F0NENsUTYyVl9tWU5VbU5vSmhtQTQ5S3VXalRVa0ZCMHZmOEJpODFncWNQakM?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-07T09:52:53.058Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 698,
-      "headline": "Two Singapore residents who were on hantavirus-hit cruise ship complete quarantine - CNA",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWRibHBXX1JvOVkySUFRNEQtX2FEV1lNX0ZkMmxUNzNGS0lzMmtXRXZJMmZuN3RheXIwczlmY0dFWVZWX2FuWW1NUllQWHNab1VEeFJkckJpeHczWkFzbnQ3TlJ0Q0JHN3dGQkxQMl9IVTBFbDExQXI3LWVMVDByelh2NzMzeGpYSFdZdTJDMmQ4RWRXeVJOcEI2eFBJcU1zb1E?oc=5\" target=\"_blank\"&gt;Two Singapore residents who were on hantavirus-hit cruise ship complete quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CNA&lt;/font&gt;",
-      "publisher": "CNA",
-      "published_at": "2026-06-07T08:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWRibHBXX1JvOVkySUFRNEQtX2FEV1lNX0ZkMmxUNzNGS0lzMmtXRXZJMmZuN3RheXIwczlmY0dFWVZWX2FuWW1NUllQWHNab1VEeFJkckJpeHczWkFzbnQ3TlJ0Q0JHN3dGQkxQMl9IVTBFbDExQXI3LWVMVDByelh2NzMzeGpYSFdZdTJDMmQ4RWRXeVJOcEI2eFBJcU1zb1E?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-07T09:52:53.061Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 691,
-      "headline": "Texas cruise passengers complete hantavirus monitoring with no infections, state says - AOL.com",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWRVblhqc29pbTB5ZFJEUjNvZkpWSnJaajlTUEJzZWQ2bjV4ZGNfOTB1bE5nRmpiLTNZUU9HTzZ6b0FUdzBDeGdUNnRqY2RBMEY4TV80aXZ2N1JEUVJiOGxSU0kwalpIMlc1Q1JkQVNmTG5kTmhyN25zaEliUE9QQm1kRHNxWE5YQzFn?oc=5\" target=\"_blank\"&gt;Texas cruise passengers complete hantavirus monitoring with no infections, state says&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
-      "publisher": "AOL.com",
-      "published_at": "2026-06-07T08:08:46.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWRVblhqc29pbTB5ZFJEUjNvZkpWSnJaajlTUEJzZWQ2bjV4ZGNfOTB1bE5nRmpiLTNZUU9HTzZ6b0FUdzBDeGdUNnRqY2RBMEY4TV80aXZ2N1JEUVJiOGxSU0kwalpIMlc1Q1JkQVNmTG5kTmhyN25zaEliUE9QQm1kRHNxWE5YQzFn?oc=5",
-      "mentioned_states_json": "[\"TX\"]",
-      "fetched_at": "2026-06-07T09:52:53.051Z",
-      "mentioned_states": [
-        "TX"
-      ]
-    },
-    {
-      "id": 694,
-      "headline": "Amid Ebola, Hantavirus Outbreaks, Democrats Decry Trump’s Health Cuts - The Good Men Project",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWh1RFJVaUJSREVJTjhSdUtiV2FRMjZ3UEdXU0JvQ1JTN0MyUWotYlhEZ1JRbmFQSmJMbEozMGRrOElqT2MxVGxRYS1CZzF6cHdTVVFWX0JkN2E2c0s0ZkpoTC0xemhuOVJEZEdvRDg2QXN0dFQ0ODhoeDVlb1JYSGVQZTNFLUROMWgxNUZ2UlVKbDNFTG9xQmotTFl1bHJhWlk3LTltNVdxcFhTeWw5QQ?oc=5\" target=\"_blank\"&gt;Amid Ebola, Hantavirus Outbreaks, Democrats Decry Trump’s Health Cuts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Good Men Project&lt;/font&gt;",
-      "publisher": "The Good Men Project",
-      "published_at": "2026-06-07T08:02:18.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWh1RFJVaUJSREVJTjhSdUtiV2FRMjZ3UEdXU0JvQ1JTN0MyUWotYlhEZ1JRbmFQSmJMbEozMGRrOElqT2MxVGxRYS1CZzF6cHdTVVFWX0JkN2E2c0s0ZkpoTC0xemhuOVJEZEdvRDg2QXN0dFQ0ODhoeDVlb1JYSGVQZTNFLUROMWgxNUZ2UlVKbDNFTG9xQmotTFl1bHJhWlk3LTltNVdxcFhTeWw5QQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-07T09:52:53.057Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 697,
-      "headline": "Hantavirus cases steady at 13, no new deaths in month: WHO chief - Yeni Safak English",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVNiZmlyOS1ud3Z3ZF9oQmdBRWVMR0VVejdpRDREMlYwODZkU2xPZk5SQW9GNTBkakg4N1JjUmE0YW9TeG1TQTE1RTNHNWQ0TThQbHdBaWJGQndVY1ZaMVlSNFFTZDFwLWZ0Ym52SUh0YllVYTFlTWdGdEhKWnRKcnkxZmNaSWh1WllJMWtoc2JDRVctdkFwXzByTV8za1lsbVE?oc=5\" target=\"_blank\"&gt;Hantavirus cases steady at 13, no new deaths in month: WHO chief&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yeni Safak English&lt;/font&gt;",
-      "publisher": "Yeni Safak English",
-      "published_at": "2026-06-07T05:58:16.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVNiZmlyOS1ud3Z3ZF9oQmdBRWVMR0VVejdpRDREMlYwODZkU2xPZk5SQW9GNTBkakg4N1JjUmE0YW9TeG1TQTE1RTNHNWQ0TThQbHdBaWJGQndVY1ZaMVlSNFFTZDFwLWZ0Ym52SUh0YllVYTFlTWdGdEhKWnRKcnkxZmNaSWh1WllJMWtoc2JDRVctdkFwXzByTV8za1lsbVE?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-07T09:52:53.059Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 686,
-      "headline": "Hantavirus Search Expands To Second Province In Argentina - NDTV",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFMtclkwOHp4T0lZeFNTd0VaR1pFWTVrdmNYRDh1V2NublYwcVd2UWtsU216NmZ5aUJldEYtSm9TMnhrVUcwZkdWbFhEZi1RTEI5TkkwUG1MMUx2SS1saFJSNnJYSmx0UzRtaXptZ08teWZ4TE5aeWRoZEFVcFViTDZmaloyanNxbFZwMVFqQkJ2MHNyTVRBcTc1QdIBogFBVV95cUxQRFk2OTM1YXpwWlBzeWZlZThXdUhTS2FKQ2FNdWNmR1pCd0FxOTh0NXJFYk1YVWNTVnlsVmFwOFNoNHROTGIyOFlqQk9IRG1QWElYbGJtS2FlS2M0cnVVNmdfRkRzczZtc01YWDhFc2h3NDltUWdRTklhcjA1Wl91NVJ4WW5iZklyeDV6MDZwMlFybEx1RER2dDNSY2FzbzctSmc?oc=5\" target=\"_blank\"&gt;Hantavirus Search Expands To Second Province In Argentina&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NDTV&lt;/font&gt;",
-      "publisher": "NDTV",
-      "published_at": "2026-06-07T05:24:44.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFMtclkwOHp4T0lZeFNTd0VaR1pFWTVrdmNYRDh1V2NublYwcVd2UWtsU216NmZ5aUJldEYtSm9TMnhrVUcwZkdWbFhEZi1RTEI5TkkwUG1MMUx2SS1saFJSNnJYSmx0UzRtaXptZ08teWZ4TE5aeWRoZEFVcFViTDZmaloyanNxbFZwMVFqQkJ2MHNyTVRBcTc1QdIBogFBVV95cUxQRFk2OTM1YXpwWlBzeWZlZThXdUhTS2FKQ2FNdWNmR1pCd0FxOTh0NXJFYk1YVWNTVnlsVmFwOFNoNHROTGIyOFlqQk9IRG1QWElYbGJtS2FlS2M0cnVVNmdfRkRzczZtc01YWDhFc2h3NDltUWdRTklhcjA1Wl91NVJ4WW5iZklyeDV6MDZwMlFybEx1RER2dDNSY2FzbzctSmc?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-07T09:52:53.026Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 684,
-      "headline": "Texans clear hantavirus quarantine following cruise outbreak - Click2Houston",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOei1kMi00VkhEeWdaZGlncGpKLXF5T1d5RE1YOXBWaUVydnF6aXhzejZXdk5rTmVrZFJaV1ZnOWNzWFRXRzlTS0o1cmxKOEpJcUh0WXhLUkhwYkZrUHJuYTdpUDhXc3J1cExMSDRxaUpvV2VvM1pYWW1UVWUxSUVsbzNzSzlHXzIyOU5DTl82RUZrUVN3UXcxNTgxcDhFUW42VGtMQjJFTUxUcFNvTEJ3Z01FUQ?oc=5\" target=\"_blank\"&gt;Texans clear hantavirus quarantine following cruise outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Click2Houston&lt;/font&gt;",
-      "publisher": "Click2Houston",
-      "published_at": "2026-06-07T02:32:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei1kMi00VkhEeWdaZGlncGpKLXF5T1d5RE1YOXBWaUVydnF6aXhzejZXdk5rTmVrZFJaV1ZnOWNzWFRXRzlTS0o1cmxKOEpJcUh0WXhLUkhwYkZrUHJuYTdpUDhXc3J1cExMSDRxaUpvV2VvM1pYWW1UVWUxSUVsbzNzSzlHXzIyOU5DTl82RUZrUVN3UXcxNTgxcDhFUW42VGtMQjJFTUxUcFNvTEJ3Z01FUQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-07T09:52:53.004Z",
       "mentioned_states": []
     }
   ],
