@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-11T09:53:17.925Z",
+  "generatedAt": "2026-06-11T21:53:08.366Z",
   "lastRun": {
-    "ts": "2026-06-11T09:53:17.854Z",
+    "ts": "2026-06-11T21:53:08.193Z",
     "source_kind": "news",
-    "items_inserted": 25,
-    "items_skipped": 296,
-    "error_message": null
+    "items_inserted": 52,
+    "items_skipped": 248,
+    "error_message": "firecrawl-search-skipped-quota-402"
   },
   "totals": {
     "cases_all_time": 78,
@@ -423,6 +423,388 @@
   ],
   "recentNews": [
     {
+      "id": 863,
+      "headline": "Potential case of rare and deadly hantavirus investigated at Bay Area prison - SFGATE",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9uRXpETjYyei1SX0p6SkdNemF3NmRBQmk2clFweGhyUHhpWUJjS2o2NTVIcWVObUhELVBiemQ5Q0JfbGE1Z2Y0ZmlGQk5vMzNLcUFZU0labjNkWUVIMEIxclh1R1Z3dkVmNjNvQ2FKQU53TFBhTFB0TDFyVQ?oc=5\" target=\"_blank\"&gt;Potential case of rare and deadly hantavirus investigated at Bay Area prison&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SFGATE&lt;/font&gt;",
+      "publisher": "SFGATE",
+      "published_at": "2026-06-11T21:34:04.000Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uRXpETjYyei1SX0p6SkdNemF3NmRBQmk2clFweGhyUHhpWUJjS2o2NTVIcWVObUhELVBiemQ5Q0JfbGE1Z2Y0ZmlGQk5vMzNLcUFZU0labjNkWUVIMEIxclh1R1Z3dkVmNjNvQ2FKQU53TFBhTFB0TDFyVQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.802Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 883,
+      "headline": "Kylie Kelce Reveals Hantavirus Fears After Finding Mouse Infestation at $6 Million Compound She Shares With Jason and Their Kids - Yahoo",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUI4TEtSV0hzbEVwdlV6cUZRU0owQnRZSlE1Mk1RZ3BNVmRlak5GbUw5WHJERlllckpCN3FZckJ5dDJZZFNKSGdLZ2pDRkdBRzRXN2JvWUpzM0wtWDZxTFJqeVpNdjVZN0R1RHpyRmZmak13b3JENG5PcmNMSFhqalBWMm9rR2ZPWnlaX2pyYi0ybTE3aEFYM0lEa0ZMUVpIR08wYUdBbHZBQQ?oc=5\" target=\"_blank\"&gt;Kylie Kelce Reveals Hantavirus Fears After Finding Mouse Infestation at $6 Million Compound She Shares With Jason and Their Kids&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
+      "publisher": "Yahoo",
+      "published_at": "2026-06-11T21:24:42.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUI4TEtSV0hzbEVwdlV6cUZRU0owQnRZSlE1Mk1RZ3BNVmRlak5GbUw5WHJERlllckpCN3FZckJ5dDJZZFNKSGdLZ2pDRkdBRzRXN2JvWUpzM0wtWDZxTFJqeVpNdjVZN0R1RHpyRmZmak13b3JENG5PcmNMSFhqalBWMm9rR2ZPWnlaX2pyYi0ybTE3aEFYM0lEa0ZMUVpIR08wYUdBbHZBQQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.821Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 867,
+      "headline": "Two more passengers exposed to hantavirus leave UNMC quarantine in Omaha - KETV",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmpvX2lzYkZZTWRkNEJKMEhYdDBEMzJoZXdMaFRuYW51WGVFMHFJNUNRbENDRU5WQXhTelhrSy1YbmZhMDB5NXM3WlJaTll6dzU4R1hIX2Z2S082X3JhTkRnd1VJXzUwNkFzZFVua1RrXzNyZjEteVJuVkcta0RrbkxhcDdsMTVEb1l3VGZ1ZFZlemJ3cEllQlREbE5yUk9QdkE?oc=5\" target=\"_blank\"&gt;Two more passengers exposed to hantavirus leave UNMC quarantine in Omaha&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KETV&lt;/font&gt;",
+      "publisher": "KETV",
+      "published_at": "2026-06-11T21:15:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmpvX2lzYkZZTWRkNEJKMEhYdDBEMzJoZXdMaFRuYW51WGVFMHFJNUNRbENDRU5WQXhTelhrSy1YbmZhMDB5NXM3WlJaTll6dzU4R1hIX2Z2S082X3JhTkRnd1VJXzUwNkFzZFVua1RrXzNyZjEteVJuVkcta0RrbkxhcDdsMTVEb1l3VGZ1ZFZlemJ3cEllQlREbE5yUk9QdkE?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.810Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 877,
+      "headline": "Hantavirus fears reignite as suspected case is investigated in California - The Independent",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGlyRnlUeV9NT0ZfMXBkUEFfRUh4eXZMQ3ZUeXdtU2hscF9GVm9sMEFnSERjRkJaZy05WU9yeTduOTJhcnAyOW1wTV9VOVBmOHhyY1FCSS1YQ3liRGR4aVdIZ3JjR2JNNlctUmdWRGVIZnR6VDlnM3BQNlVvUGxPeEN2cVJ4d0s0ZEpmOE9BVFJoaXB5amNiZnBR?oc=5\" target=\"_blank\"&gt;Hantavirus fears reignite as suspected case is investigated in California&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Independent&lt;/font&gt;",
+      "publisher": "The Independent",
+      "published_at": "2026-06-11T21:10:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGlyRnlUeV9NT0ZfMXBkUEFfRUh4eXZMQ3ZUeXdtU2hscF9GVm9sMEFnSERjRkJaZy05WU9yeTduOTJhcnAyOW1wTV9VOVBmOHhyY1FCSS1YQ3liRGR4aVdIZ3JjR2JNNlctUmdWRGVIZnR6VDlnM3BQNlVvUGxPeEN2cVJ4d0s0ZEpmOE9BVFJoaXB5amNiZnBR?oc=5",
+      "mentioned_states_json": "[\"CA\"]",
+      "fetched_at": "2026-06-11T21:53:06.817Z",
+      "mentioned_states": [
+        "CA"
+      ]
+    },
+    {
+      "id": 882,
+      "headline": "US spends $750,000 to retrieve American from island after hantavirus isolation - Washington Examiner",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeE9IaHFucy1sd2JqeXEtSXNNWWFfMldkV1pMbXF0NzJqVHl0Q1Y3TzVEY2M2N1BfbVBuUnpsa1pQWUlOUlowZEZEZ3VwcWgtNjhZbll3aW1Ma1ZsTWphdU9GQlRQWmM1UTdfd3RpdEI2eWV0Uno2TWRZWTFXN3FBZDhVaV9SZTJQWU1RLTQyVW1FdkEzemhEalRjNkxpazdEelJR?oc=5\" target=\"_blank\"&gt;US spends $750,000 to retrieve American from island after hantavirus isolation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Washington Examiner&lt;/font&gt;",
+      "publisher": "Washington Examiner",
+      "published_at": "2026-06-11T21:04:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeE9IaHFucy1sd2JqeXEtSXNNWWFfMldkV1pMbXF0NzJqVHl0Q1Y3TzVEY2M2N1BfbVBuUnpsa1pQWUlOUlowZEZEZ3VwcWgtNjhZbll3aW1Ma1ZsTWphdU9GQlRQWmM1UTdfd3RpdEI2eWV0Uno2TWRZWTFXN3FBZDhVaV9SZTJQWU1RLTQyVW1FdkEzemhEalRjNkxpazdEelJR?oc=5",
+      "mentioned_states_json": "[\"WA\"]",
+      "fetched_at": "2026-06-11T21:53:06.821Z",
+      "mentioned_states": [
+        "WA"
+      ]
+    },
+    {
+      "id": 880,
+      "headline": "Prisoner at San Quentin may have hantavirus, authorities say - AOL.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNREZwenlxWUJxY1dMX1VHdjE0ZjRLOHZXVmlYTVBnY0MxYWFVRG5UZWM4a05oNGRqcjFvSi0wUUpBT1lZWmd5bHBMQlppX21reWI5R3FWcDc1M1RDcTEzOTJIRnl0cmZZdmlTVGtJTGppT1JUVFpGUVlYRWo1bTZRZjVLZFZJUQ?oc=5\" target=\"_blank\"&gt;Prisoner at San Quentin may have hantavirus, authorities say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
+      "publisher": "AOL.com",
+      "published_at": "2026-06-11T20:46:14.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREZwenlxWUJxY1dMX1VHdjE0ZjRLOHZXVmlYTVBnY0MxYWFVRG5UZWM4a05oNGRqcjFvSi0wUUpBT1lZWmd5bHBMQlppX21reWI5R3FWcDc1M1RDcTEzOTJIRnl0cmZZdmlTVGtJTGppT1JUVFpGUVlYRWo1bTZRZjVLZFZJUQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.820Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 888,
+      "headline": "San Quentin confirms 38-year-old male inmate contracted possible case of hantavirus - Yahoo",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGJfc0Yzcy1LeDc0V19aM3l4VmlXYkxtLUcyZVFSNnlDNVVmMk9mQk5xZENORVN4RVNDN241TWpFY3NJT3d5dmxPQ1JDQ0V2NlQxdkpsNzFnM0tDcHEyaE5VNm9qXzJkRnlEMDltUjYzaXpoX1ZHemVwZ0ZYV1NjUjhqQzBCNmU0?oc=5\" target=\"_blank\"&gt;San Quentin confirms 38-year-old male inmate contracted possible case of hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
+      "publisher": "Yahoo",
+      "published_at": "2026-06-11T20:25:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGJfc0Yzcy1LeDc0V19aM3l4VmlXYkxtLUcyZVFSNnlDNVVmMk9mQk5xZENORVN4RVNDN241TWpFY3NJT3d5dmxPQ1JDQ0V2NlQxdkpsNzFnM0tDcHEyaE5VNm9qXzJkRnlEMDltUjYzaXpoX1ZHemVwZ0ZYV1NjUjhqQzBCNmU0?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.825Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 878,
+      "headline": "Prisoner at San Quentin may have hantavirus, authorities say - The Independent",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeDlfWmVvd0tqMkhuRXJ6SHZCTm5mOEk1R2lheDhIYVBIckk0b0tuR3NqYnQ1Mml1TnVnbldaRmd5VXNwb09qZ0EwdDQyU2JQMXl3a0E0UUdCb0JNcVFSMWdhZllfTU9UenBLQnZzb2lmZmV0Y2MyMllETUk2WGNqNkNxenIwbVF4VV82NUpwN3Qzb2lUMUJOaUFmbzNhQQ?oc=5\" target=\"_blank\"&gt;Prisoner at San Quentin may have hantavirus, authorities say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Independent&lt;/font&gt;",
+      "publisher": "The Independent",
+      "published_at": "2026-06-11T20:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDlfWmVvd0tqMkhuRXJ6SHZCTm5mOEk1R2lheDhIYVBIckk0b0tuR3NqYnQ1Mml1TnVnbldaRmd5VXNwb09qZ0EwdDQyU2JQMXl3a0E0UUdCb0JNcVFSMWdhZllfTU9UenBLQnZzb2lmZmV0Y2MyMllETUk2WGNqNkNxenIwbVF4VV82NUpwN3Qzb2lUMUJOaUFmbzNhQQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.818Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 868,
+      "headline": "Kylie Kelce Bleaches House After Hantavirus Fears - Yahoo",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0phdjI3aElVN1ZoWXRENGpCd0JNM2wweGNvXzBUR19TOGVQVTQyeXhDdjFneHY1c01yMENsQXJrY0ZzQS11Ukdlc1Zkbk8xb0d2MjEzTGFUSkh5M3dqTnVmZWM3c2V5bGdtRWMzOXM3SGJKcl9ZcTJYTi02SExDNUlKNVpNUHdhTHhoeHQ1UC1nZjFSeXE3QlFLNWN4QXhGZmlBMjRiX0JMeVk?oc=5\" target=\"_blank\"&gt;Kylie Kelce Bleaches House After Hantavirus Fears&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
+      "publisher": "Yahoo",
+      "published_at": "2026-06-11T20:22:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0phdjI3aElVN1ZoWXRENGpCd0JNM2wweGNvXzBUR19TOGVQVTQyeXhDdjFneHY1c01yMENsQXJrY0ZzQS11Ukdlc1Zkbk8xb0d2MjEzTGFUSkh5M3dqTnVmZWM3c2V5bGdtRWMzOXM3SGJKcl9ZcTJYTi02SExDNUlKNVpNUHdhTHhoeHQ1UC1nZjFSeXE3QlFLNWN4QXhGZmlBMjRiX0JMeVk?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.810Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 885,
+      "headline": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine - AOL.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1lmNkdoM0txaDJ6RW40RVRoWXBOM2ZxaWVjc2NhSExjRmNoV25yaENqVUFLMkgxNkQ4eUhwOC1SaTVUd3AwY01TT2ZwUWFuY1pDc0Iwb3NTYjlaYXpUclVES0M4bW04ZTFheFhPc280LWwxZWZpTDlDWmNJTkVEdDZB?oc=5\" target=\"_blank\"&gt;CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
+      "publisher": "AOL.com",
+      "published_at": "2026-06-11T20:02:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1lmNkdoM0txaDJ6RW40RVRoWXBOM2ZxaWVjc2NhSExjRmNoV25yaENqVUFLMkgxNkQ4eUhwOC1SaTVUd3AwY01TT2ZwUWFuY1pDc0Iwb3NTYjlaYXpUclVES0M4bW04ZTFheFhPc280LWwxZWZpTDlDWmNJTkVEdDZB?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.823Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 865,
+      "headline": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine - NBC News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5\" target=\"_blank\"&gt;CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC News&lt;/font&gt;",
+      "publisher": "NBC News",
+      "published_at": "2026-06-11T19:47:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.807Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 864,
+      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - CNN",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWZsMnRMcWwwWUtSUzJJRzhaeUtoeHBOQmluN0xrNjlwVUpLWHJPN3dOeHltYkY0TS1STEhVLWxocXZrNWNlY2g0YWI1MV9UYTJiQTdoM3hxb2ltUTVwOGJQTkZQTjlNX2Z3TVpicEtBallIZGxFUVo3VlZUYVJ0WQ?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CNN&lt;/font&gt;",
+      "publisher": "CNN",
+      "published_at": "2026-06-11T18:58:28.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWZsMnRMcWwwWUtSUzJJRzhaeUtoeHBOQmluN0xrNjlwVUpLWHJPN3dOeHltYkY0TS1STEhVLWxocXZrNWNlY2g0YWI1MV9UYTJiQTdoM3hxb2ltUTVwOGJQTkZQTjlNX2Z3TVpicEtBallIZGxFUVo3VlZUYVJ0WQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.802Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 869,
+      "headline": "Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates) - Forbes",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5\" target=\"_blank\"&gt;Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Forbes&lt;/font&gt;",
+      "publisher": "Forbes",
+      "published_at": "2026-06-11T18:53:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.811Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 879,
+      "headline": "Hantavirus symptoms detected in California superspreader hot spot - Yahoo",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JFeThkVjNvVTVBNE1UbElkMTdsT3NVdjNCZ2JTQzVCRGhZX2FJa3RxZDhpcHlQY2hvOEtxcndiV1RSZjRuQkVKdlpTdVAza0FJUjBtcjN5Y2ZKeEFzYUhzZVVEYnBJa1lpd3JGTUNoWDdKLTJLYTM4QTZ5dkVxZkNrNHJUbE05OGxZZzAySW00OXBQeTNmYjNn?oc=5\" target=\"_blank\"&gt;Hantavirus symptoms detected in California superspreader hot spot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
+      "publisher": "Yahoo",
+      "published_at": "2026-06-11T18:41:27.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JFeThkVjNvVTVBNE1UbElkMTdsT3NVdjNCZ2JTQzVCRGhZX2FJa3RxZDhpcHlQY2hvOEtxcndiV1RSZjRuQkVKdlpTdVAza0FJUjBtcjN5Y2ZKeEFzYUhzZVVEYnBJa1lpd3JGTUNoWDdKLTJLYTM4QTZ5dkVxZkNrNHJUbE05OGxZZzAySW00OXBQeTNmYjNn?oc=5",
+      "mentioned_states_json": "[\"CA\"]",
+      "fetched_at": "2026-06-11T21:53:06.819Z",
+      "mentioned_states": [
+        "CA"
+      ]
+    },
+    {
+      "id": 870,
+      "headline": "Hantavirus symptoms detected in California superspreader hot spot - New York Post",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWNpbUowSDdDdWsydE1Ibk9wV19zbk9WS3NGRUpBbG42blg2LTNSRHdJa2xvZW5xNkQtcmVNTkJSVU83c05WSy1JY1oyWnBWVGdQZ3NCT2NXb3VjWklKMkczd0xWS3VMbFVwWDlidUJsQ0dKMTFRSUVLeEZ3T1dtS09LSFpyejZQcW1tRUctaWdRR2JoYnhz?oc=5\" target=\"_blank\"&gt;Hantavirus symptoms detected in California superspreader hot spot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New York Post&lt;/font&gt;",
+      "publisher": "New York Post",
+      "published_at": "2026-06-11T18:41:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWNpbUowSDdDdWsydE1Ibk9wV19zbk9WS3NGRUpBbG42blg2LTNSRHdJa2xvZW5xNkQtcmVNTkJSVU83c05WSy1JY1oyWnBWVGdQZ3NCT2NXb3VjWklKMkczd0xWS3VMbFVwWDlidUJsQ0dKMTFRSUVLeEZ3T1dtS09LSFpyejZQcW1tRUctaWdRR2JoYnhz?oc=5",
+      "mentioned_states_json": "[\"CA\"]",
+      "fetched_at": "2026-06-11T21:53:06.812Z",
+      "mentioned_states": [
+        "CA"
+      ]
+    },
+    {
+      "id": 886,
+      "headline": "Hantavirus-hit cruise ship set to resume voyages after disinfection - Baird Maritime",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZMYTJDbC0tVjJfY01mLWl2T212SlJLRVgzeFJvVWVjSXNXSEJfOEJFZEU3OFg2U1ZrU3NPNGxGNHpMNVhCMFRxNlNWTi1VTER6THRrckNqenkwdnZUUHlXX3F6ektNYWk3bTAtR0ItSXZydVpaX2FmcnQzdlhtWmNyNE1GZGhkYU9UMDZ3eEpsNHhUVkIxOGpTZWlURlU0WTktUm9iV2paUFZlSUNZNGlLUjnSAcIBQVVfeXFMTmdSNUlLQzJnVmJ3Yk9aV3hPQ1RqNTVXTFFTSld3czJSUmJrSjJiOVVoTTJXZm1YTnc5TVRXTkFHdS1Db0VlZ25GRW94ZnVNYm5DUktpTWNfamFGRXVwZlNhZy1wN0p0TV9wR0t0OURPWUpFV2x5dThvWWdocFFNMC03NUd6M2ZBeVNHLU9lMnY1b2RwYUpYVlJRZ180ZW9nVUNfRFRtUmhlcEZqMGkxREFLR18zbGxsbkZ6LXpBb3NDRlE?oc=5\" target=\"_blank\"&gt;Hantavirus-hit cruise ship set to resume voyages after disinfection&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Baird Maritime&lt;/font&gt;",
+      "publisher": "Baird Maritime",
+      "published_at": "2026-06-11T18:38:18.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZMYTJDbC0tVjJfY01mLWl2T212SlJLRVgzeFJvVWVjSXNXSEJfOEJFZEU3OFg2U1ZrU3NPNGxGNHpMNVhCMFRxNlNWTi1VTER6THRrckNqenkwdnZUUHlXX3F6ektNYWk3bTAtR0ItSXZydVpaX2FmcnQzdlhtWmNyNE1GZGhkYU9UMDZ3eEpsNHhUVkIxOGpTZWlURlU0WTktUm9iV2paUFZlSUNZNGlLUjnSAcIBQVVfeXFMTmdSNUlLQzJnVmJ3Yk9aV3hPQ1RqNTVXTFFTSld3czJSUmJrSjJiOVVoTTJXZm1YTnc5TVRXTkFHdS1Db0VlZ25GRW94ZnVNYm5DUktpTWNfamFGRXVwZlNhZy1wN0p0TV9wR0t0OURPWUpFV2x5dThvWWdocFFNMC03NUd6M2ZBeVNHLU9lMnY1b2RwYUpYVlJRZ180ZW9nVUNfRFRtUmhlcEZqMGkxREFLR18zbGxsbkZ6LXpBb3NDRlE?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.823Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 901,
+      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - ABC News - Breaking News, Latest News and Videos",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2w3VXU4bnNuVTBvYjd6SEJPZG02M0NiRzk2c3FWZXkzdGt5QWpFMmtaNFJ0Vl8yWS1FSHdxUF96Wk5IMVh6a1NoR183T0ZDc19RcGs0bl83U0hjNEhXeW5rSEhMUTB5WDViaVRyOS1JQ0RtYnpSbDNXYm5MbVlGX2ppWjExcnJldkEzMTduRHQxQ0Q3XzB3NkY2SnRWN1pmZGRDR9IBqgFBVV95cUxNTXc5MjJWRjd1V2c5Q3FvN1JCYUxORFdQT0d4R1lXYk5sNGRpeVdRcmZQZDRuZWE3V0lFLURxYlRDSFpDNmtsTjJfd3RsNjB4ZkNfSTBGSTIyQzlURFNxTWpnR2hmLW5aS0lfWWNkYjBJQUJzcXFwbGlyY21vcl94TWszVmlwaWluazRiYnlCOWlMaXVVZVFEbWExOF9wdUpFU1RfMlB5OF9rUQ?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ABC News - Breaking News, Latest News and Videos&lt;/font&gt;",
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-06-11T18:37:35.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2w3VXU4bnNuVTBvYjd6SEJPZG02M0NiRzk2c3FWZXkzdGt5QWpFMmtaNFJ0Vl8yWS1FSHdxUF96Wk5IMVh6a1NoR183T0ZDc19RcGs0bl83U0hjNEhXeW5rSEhMUTB5WDViaVRyOS1JQ0RtYnpSbDNXYm5MbVlGX2ppWjExcnJldkEzMTduRHQxQ0Q3XzB3NkY2SnRWN1pmZGRDR9IBqgFBVV95cUxNTXc5MjJWRjd1V2c5Q3FvN1JCYUxORFdQT0d4R1lXYk5sNGRpeVdRcmZQZDRuZWE3V0lFLURxYlRDSFpDNmtsTjJfd3RsNjB4ZkNfSTBGSTIyQzlURFNxTWpnR2hmLW5aS0lfWWNkYjBJQUJzcXFwbGlyY21vcl94TWszVmlwaWluazRiYnlCOWlMaXVVZVFEbWExOF9wdUpFU1RfMlB5OF9rUQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:07.946Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 890,
+      "headline": "US pays $750K to evacuate American aboard hantavirus cruise ship from remote island - livingstonenterprise.net",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQbzN4aGluWHZ2VU41NHJZZ0lSdW9WTlQyNzBYNGJBcG1xQ3RvZUN6QzZmMjN4cGFxekN0Y0FEdGVYS3R3U0R5NzJydlFEWUIydDk0Y0xHYjU4S29sNFlkYXNvZEN3T05RWmRYOWtwek5pdExaZW1xTEhQd2U4U2hTbEQxVEkwQ0kyREJwVFA2U2pGdHNhZUtGZ2dvUXFWdnZCU0d2NDRaeFAtajZTLUFlMVZSbDU5eDA1aU1LQXJpajJfWnJvRzVFanl0ZlJMZw?oc=5\" target=\"_blank\"&gt;US pays $750K to evacuate American aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;livingstonenterprise.net&lt;/font&gt;",
+      "publisher": "livingstonenterprise.net",
+      "published_at": "2026-06-11T18:24:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbzN4aGluWHZ2VU41NHJZZ0lSdW9WTlQyNzBYNGJBcG1xQ3RvZUN6QzZmMjN4cGFxekN0Y0FEdGVYS3R3U0R5NzJydlFEWUIydDk0Y0xHYjU4S29sNFlkYXNvZEN3T05RWmRYOWtwek5pdExaZW1xTEhQd2U4U2hTbEQxVEkwQ0kyREJwVFA2U2pGdHNhZUtGZ2dvUXFWdnZCU0d2NDRaeFAtajZTLUFlMVZSbDU5eDA1aU1LQXJpajJfWnJvRzVFanl0ZlJMZw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.826Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 874,
+      "headline": "Netherlands Hantavirus Ship - Journal-News.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcE8yWmxfNTdsX2JnYkxVaDNybWNIMG9mNkNqbnA2eE5kY3hDc2x1a2xDaXd0cVdiaVRhWWlldVNIek1YSmZTUXJHMkpGMW9LcEUzU1dHZGVySGxSSndsVmJXM1NkRDZKZE1HWHJRajNsS3ljb2ZCTkNJbzAwWG10YWlEckNickMtYmVMb3JkU3NGZEV6YVF3cWF1YmtoUy1aNmtFZ1JSMA?oc=5\" target=\"_blank\"&gt;Netherlands Hantavirus Ship&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Journal-News.com&lt;/font&gt;",
+      "publisher": "Journal-News.com",
+      "published_at": "2026-06-11T18:22:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcE8yWmxfNTdsX2JnYkxVaDNybWNIMG9mNkNqbnA2eE5kY3hDc2x1a2xDaXd0cVdiaVRhWWlldVNIek1YSmZTUXJHMkpGMW9LcEUzU1dHZGVySGxSSndsVmJXM1NkRDZKZE1HWHJRajNsS3ljb2ZCTkNJbzAwWG10YWlEckNickMtYmVMb3JkU3NGZEV6YVF3cWF1YmtoUy1aNmtFZ1JSMA?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.814Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 871,
+      "headline": "Possible hantavirus case reported at San Quentin - NBC Bay Area",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWZzd3hQQ1Q5TFpaelM5ZHF3RmNBVlg4VXVkekJyNm9zazhuZzU2QklHblE3ODVwZmhYUXJMaVVaZEp2NHZvZksyN0pBZzNTMmJHNGt3dUozbWFqanVIRm45VzJUSDdicXBTTC1lSndUc3J5ODlfTnB1ZFJ6U3A2RU10VnV2bE4tWmRsdEZZMjJyaVBKZlA3bnRZQdIBowFBVV95cUxNVGxYVHNEWEhyc0ttd1ZzRnRkUm50cEhpZDBqOTRBM0RpOWZ3dGduUjhNQWFaa3RKeHptdWw5TDVjWUs1bHA3S2RCS2cxZHNiN2t4cmx2UTh0Q2duOWduZl9pUTRtTUNEcnF1RnRxNUJwXzg2X2cwZDg5b2NPZ05GUHFycTFJckV1M2cxT285Q1hOMHR3aGRMbjhuS3pMZHFkQmJ3?oc=5\" target=\"_blank\"&gt;Possible hantavirus case reported at San Quentin&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC Bay Area&lt;/font&gt;",
+      "publisher": "NBC Bay Area",
+      "published_at": "2026-06-11T18:19:19.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWZzd3hQQ1Q5TFpaelM5ZHF3RmNBVlg4VXVkekJyNm9zazhuZzU2QklHblE3ODVwZmhYUXJMaVVaZEp2NHZvZksyN0pBZzNTMmJHNGt3dUozbWFqanVIRm45VzJUSDdicXBTTC1lSndUc3J5ODlfTnB1ZFJ6U3A2RU10VnV2bE4tWmRsdEZZMjJyaVBKZlA3bnRZQdIBowFBVV95cUxNVGxYVHNEWEhyc0ttd1ZzRnRkUm50cEhpZDBqOTRBM0RpOWZ3dGduUjhNQWFaa3RKeHptdWw5TDVjWUs1bHA3S2RCS2cxZHNiN2t4cmx2UTh0Q2duOWduZl9pUTRtTUNEcnF1RnRxNUJwXzg2X2cwZDg5b2NPZ05GUHFycTFJckV1M2cxT285Q1hOMHR3aGRMbjhuS3pMZHFkQmJ3?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.812Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 891,
+      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - The Spec",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQcmVrcmo1UXU1aHM3UkJudnJXYjZpal95eWRIc0hVSTJVSjZGTzJGU0dQcWh2bnRyNzRDdHJEcmdvZDZZZlRRWjdiV2NiM25fWFZLU19YVWRTZEJlNmRzWlVoNFVrUG9DNGVoTE1mWm40dHh4bkNyR25GZmFBUXA4aGszLU5FWVhGTGRBRUdaZFlacXZHcTdHN2RTS2hnQVJXdk9SbHJOc1ZQeVRKRERJd21CbUxTcFY0MGxTNUtadVI2bk5FVW43X0U1WlJDSzlqT0pFbVVrUjFKX0NtenJKUlVEOXdYM2NtRzhnQlozS1lKSHVvZENmbUVDRnZRUEhNa05PaFJyWUpaQUliN0ltTmhHVUxodUtFQTd3?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Spec&lt;/font&gt;",
+      "publisher": "The Spec",
+      "published_at": "2026-06-11T18:16:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQcmVrcmo1UXU1aHM3UkJudnJXYjZpal95eWRIc0hVSTJVSjZGTzJGU0dQcWh2bnRyNzRDdHJEcmdvZDZZZlRRWjdiV2NiM25fWFZLU19YVWRTZEJlNmRzWlVoNFVrUG9DNGVoTE1mWm40dHh4bkNyR25GZmFBUXA4aGszLU5FWVhGTGRBRUdaZFlacXZHcTdHN2RTS2hnQVJXdk9SbHJOc1ZQeVRKRERJd21CbUxTcFY0MGxTNUtadVI2bk5FVW43X0U1WlJDSzlqT0pFbVVrUjFKX0NtenJKUlVEOXdYM2NtRzhnQlozS1lKSHVvZENmbUVDRnZRUEhNa05PaFJyWUpaQUliN0ltTmhHVUxodUtFQTd3?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.827Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 902,
+      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Traverse City Record-Eagle",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOVV9FSFR4Qy1qTmNEVlU0LWZmUWxyVXV0RlRkVUw1aXhVN0VrVHRYb0FNN1RFYkg5a3FqdFhlX2x2d240YlNQM0ZMTzRUU3RsVkxXZXhVUnRmMFRjOHhLYmFkZHNVLV8wdXJEZEY5aEJnaW5HdDRfbERIQ1BQamRyOVVrdkpGckYwdVh4UkFiME1GN0tfUDRkQzZ1Wkt2b2FsdDdwT3BZZTF1cWRoRWZGSlB2Q0tkOGxWMlBvTWNGUEpGenZMQ19CcUR2eXRENmJ2Z0x0ZHotOFJoZEZYdktsR1NLRGZ1MUZVNS10U0w2VndjTDZiZDFkUU1UVVNoNURJemIyNnpn?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Traverse City Record-Eagle&lt;/font&gt;",
+      "publisher": "Traverse City Record-Eagle",
+      "published_at": "2026-06-11T18:16:04.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVV9FSFR4Qy1qTmNEVlU0LWZmUWxyVXV0RlRkVUw1aXhVN0VrVHRYb0FNN1RFYkg5a3FqdFhlX2x2d240YlNQM0ZMTzRUU3RsVkxXZXhVUnRmMFRjOHhLYmFkZHNVLV8wdXJEZEY5aEJnaW5HdDRfbERIQ1BQamRyOVVrdkpGckYwdVh4UkFiME1GN0tfUDRkQzZ1Wkt2b2FsdDdwT3BZZTF1cWRoRWZGSlB2Q0tkOGxWMlBvTWNGUEpGenZMQ19CcUR2eXRENmJ2Z0x0ZHotOFJoZEZYdktsR1NLRGZ1MUZVNS10U0w2VndjTDZiZDFkUU1UVVNoNURJemIyNnpn?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:07.947Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 872,
+      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5\" target=\"_blank\"&gt;﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AP News&lt;/font&gt;",
+      "publisher": "AP News",
+      "published_at": "2026-06-11T18:16:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.813Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 893,
+      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - The Independent",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHpJUlRYajdZLWd1dF9odlYxeGpqUXEwN3hUSG4zR1JfSWRHUHlNeDc0SXVmbHdidW03WEVlVzBkNllwODBhY1FDYko5U2o1Q2h2ZzFLejF0MUJVVVpxY2l0bVFmOW43LVZLVFdEN0NLZTB4enBpNS03ZUVLQnd2WUFiWkwtQjRGWkRFR2RXMDBrTGZmTE9LUVhnSDJkalB6WDN2VGt6UlBWTWxN?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Independent&lt;/font&gt;",
+      "publisher": "The Independent",
+      "published_at": "2026-06-11T18:16:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHpJUlRYajdZLWd1dF9odlYxeGpqUXEwN3hUSG4zR1JfSWRHUHlNeDc0SXVmbHdidW03WEVlVzBkNllwODBhY1FDYko5U2o1Q2h2ZzFLejF0MUJVVVpxY2l0bVFmOW43LVZLVFdEN0NLZTB4enBpNS03ZUVLQnd2WUFiWkwtQjRGWkRFR2RXMDBrTGZmTE9LUVhnSDJkalB6WDN2VGt6UlBWTWxN?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.829Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 862,
+      "headline": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5\" target=\"_blank\"&gt;White House response to hantavirus and Ebola contrasts with COVID criticisms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NPR&lt;/font&gt;",
+      "publisher": "NPR",
+      "published_at": "2026-06-11T17:42:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.784Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 881,
+      "headline": "Hantavirus and the EPA- A Collaborative Defense Against Viral Threats — A Conversation with Dana S. Lateulere and James V. Aidala [Podcast] - The National Law Review",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNenlkaEdXLWNWc3hja2dRWE8zdm8yQ2RBVGZTcW5JaHhIWnNIYkpKd0J3eHNvWHlOUUtYeU9JLTItck5nYTB2bktuYmZxTDUwbW9OYlBtRTB2UW1ENk5pcW1NbHFYMTg2dXFzTWZyZmp6aDFxblZuZHN3NU5wQ1J5bmhNZWZzajE0YWtLZkdTT09XZGIyZk94WmZNZ3BwMGowR011Vklmd0JaODJMUzVtQlZBX3pzZ9IBuwFBVV95cUxNbU1WU3lmMjdtMlQwVzdEX2NCSk02R3lrMnFzR2xjZlplbFJPT2JLVkdGSUR4VWdGeDB0cUNlSGI1ci12NjR6RFdSd2xRR2Z1TGRUYTh0SlgzS3Bhczd6Yng0UnFzZTJPcklnZy1fWWxFMDR3UnBWQUU5ZXFDQ1dSX3ZqaUhpc3dqaVdYYlNWazkxOGZpRW95OG9LQ0U4OXg5RzdWRU95Q21ZTWFwVTNSVnBHcEJOZTQ3RDdN?oc=5\" target=\"_blank\"&gt;Hantavirus and the EPA- A Collaborative Defense Against Viral Threats — A Conversation with Dana S. Lateulere and James V. Aidala [Podcast]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The National Law Review&lt;/font&gt;",
+      "publisher": "The National Law Review",
+      "published_at": "2026-06-11T17:09:16.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenlkaEdXLWNWc3hja2dRWE8zdm8yQ2RBVGZTcW5JaHhIWnNIYkpKd0J3eHNvWHlOUUtYeU9JLTItck5nYTB2bktuYmZxTDUwbW9OYlBtRTB2UW1ENk5pcW1NbHFYMTg2dXFzTWZyZmp6aDFxblZuZHN3NU5wQ1J5bmhNZWZzajE0YWtLZkdTT09XZGIyZk94WmZNZ3BwMGowR011Vklmd0JaODJMUzVtQlZBX3pzZ9IBuwFBVV95cUxNbU1WU3lmMjdtMlQwVzdEX2NCSk02R3lrMnFzR2xjZlplbFJPT2JLVkdGSUR4VWdGeDB0cUNlSGI1ci12NjR6RFdSd2xRR2Z1TGRUYTh0SlgzS3Bhczd6Yng0UnFzZTJPcklnZy1fWWxFMDR3UnBWQUU5ZXFDQ1dSX3ZqaUhpc3dqaVdYYlNWazkxOGZpRW95OG9LQ0U4OXg5RzdWRU95Q21ZTWFwVTNSVnBHcEJOZTQ3RDdN?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.820Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 866,
+      "headline": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - TODAY.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmF2bEUtR1BjQ2NpU3NXM2NvUFFwSnJnaFJFQ2NaOEo2LXVDRnVUbjhqUkk4STFDOHdYNHFqUlktZWswUDA2OXFNZEJPQlFqUFJRU2dXaUNYTTBBQmJPWTlZN3dXeVRudXd2UGloWENscTlHZE9UTGpRRmxLRGlmUHhYaTNUQ3ltMkkxc1VUVjRoQ3hjcEFBYWZsMWc0bnpYakRNRw?oc=5\" target=\"_blank\"&gt;Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TODAY.com&lt;/font&gt;",
+      "publisher": "TODAY.com",
+      "published_at": "2026-06-11T17:01:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmF2bEUtR1BjQ2NpU3NXM2NvUFFwSnJnaFJFQ2NaOEo2LXVDRnVUbjhqUkk4STFDOHdYNHFqUlktZWswUDA2OXFNZEJPQlFqUFJRU2dXaUNYTTBBQmJPWTlZN3dXeVRudXd2UGloWENscTlHZE9UTGpRRmxLRGlmUHhYaTNUQ3ltMkkxc1VUVjRoQ3hjcEFBYWZsMWc0bnpYakRNRw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.808Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 873,
+      "headline": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha - WOWT",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHFxV045UFpCLURiUDd1QVYwc0FFUExvQ0sydVR3aGZXMUlTQm5XV0l4b1JhaDhmZHFUY1JNSjJfOUpvUHdMT1ZhQThvOFNGRkFwanc1OFlSQ0RTWTlhMkJPM0VQM2NWWGFBdG04VWF2emh6VVpXbzhIdEt0cEpoSHF5Q2lwVklwQjJtd3ZsWkFkT2JmTkdObHhlenRwWFVHWTJ5ZW5PU2xJR3doTFVqMHVWRkFvWE9F?oc=5\" target=\"_blank\"&gt;Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WOWT&lt;/font&gt;",
+      "publisher": "WOWT",
+      "published_at": "2026-06-11T16:52:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHFxV045UFpCLURiUDd1QVYwc0FFUExvQ0sydVR3aGZXMUlTQm5XV0l4b1JhaDhmZHFUY1JNSjJfOUpvUHdMT1ZhQThvOFNGRkFwanc1OFlSQ0RTWTlhMkJPM0VQM2NWWGFBdG04VWF2emh6VVpXbzhIdEt0cEpoSHF5Q2lwVklwQjJtd3ZsWkFkT2JmTkdObHhlenRwWFVHWTJ5ZW5PU2xJR3doTFVqMHVWRkFvWE9F?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.814Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 889,
+      "headline": "Kylie Kelce Says She's Been 'Angrily Bleaching' Her House After Mice Infestation: ‘I Don’t Want Hantavirus!’ - People.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWlNMG8xT2hTVGR2dzB0amt4ZTdvS2k3enByaGxBWkdWajRRdUFkM0hza1RrUWVIQlhVVEQ1bno4S2NwQ3JrcFp6WTBrWHAxSk4yOWVrRTAwZ09tQklJcTFPT3NraDM0UUpueEduODh2OFo5YWNmNHpPNi1sSXQ3RE53dklLOGpBX0txdHNR?oc=5\" target=\"_blank\"&gt;Kylie Kelce Says She's Been 'Angrily Bleaching' Her House After Mice Infestation: ‘I Don’t Want Hantavirus!’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;People.com&lt;/font&gt;",
+      "publisher": "People.com",
+      "published_at": "2026-06-11T14:27:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWlNMG8xT2hTVGR2dzB0amt4ZTdvS2k3enByaGxBWkdWajRRdUFkM0hza1RrUWVIQlhVVEQ1bno4S2NwQ3JrcFp6WTBrWHAxSk4yOWVrRTAwZ09tQklJcTFPT3NraDM0UUpueEduODh2OFo5YWNmNHpPNi1sSXQ3RE53dklLOGpBX0txdHNR?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.825Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 884,
+      "headline": "Hantavirus: Is it a New Coronavirus? - The Media Line",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVpBZXdHOWYzWndsRHYxX1c0TXhacXRObDlSVDVzaVIzTm1yWnZxU25EZ2ZVNmJBU1cxMVR4ak5mRVM4bmdLODBudFZYcFItM1NVTmdhREpLU3NMNHhWTjVraUdXbUVuWWxvY1ZkanV6Z2ZJRFlacWdqNm1QNkdMSER3?oc=5\" target=\"_blank\"&gt;Hantavirus: Is it a New Coronavirus?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Media Line&lt;/font&gt;",
+      "publisher": "The Media Line",
+      "published_at": "2026-06-11T13:01:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVpBZXdHOWYzWndsRHYxX1c0TXhacXRObDlSVDVzaVIzTm1yWnZxU25EZ2ZVNmJBU1cxMVR4ak5mRVM4bmdLODBudFZYcFItM1NVTmdhREpLU3NMNHhWTjVraUdXbUVuWWxvY1ZkanV6Z2ZJRFlacWdqNm1QNkdMSER3?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.821Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 894,
+      "headline": "State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home - AOL.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBkRWp4OG9IYnZUeHFlZWVhU1VHZ0JCSTMxMGVRcnE0YWlKMi1VeFZadXdWWGlic2hWSVlhQlNDdHhTQy04dVhiUF8yanJHX3ZSMldhZnR3UnZveDNkSEwySDVQZDFxWUxTRFdQWlNSdkhGd2p5LUk5OHM5VTQ?oc=5\" target=\"_blank\"&gt;State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
+      "publisher": "AOL.com",
+      "published_at": "2026-06-11T12:29:38.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkRWp4OG9IYnZUeHFlZWVhU1VHZ0JCSTMxMGVRcnE0YWlKMi1VeFZadXdWWGlic2hWSVlhQlNDdHhTQy04dVhiUF8yanJHX3ZSMldhZnR3UnZveDNkSEwySDVQZDFxWUxTRFdQWlNSdkhGd2p5LUk5OHM5VTQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.829Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 876,
+      "headline": "Hantavirus Cruise Passenger Says She's Being Held Against Will - TODAY.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVRhaWt5SDFCbjV2ejhNVVJwdXEzeDJ4TDhRMHVUYnZwYVJlSUs5RWNLenMyY1F1dDk5RW9LcGJNcWUwRElNQkdjOHc3OWpGNGlBTXpXaFc3UW9Na0huM0tZekh0UEtiT3VhTWtTakVMaElmbnlLd0JMN05QeF9BTUtXYnNERElkb0h6SVdtUkdoU05Bc3lkNE1wY21HUFpGTFctMl9Xcw?oc=5\" target=\"_blank\"&gt;Hantavirus Cruise Passenger Says She's Being Held Against Will&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TODAY.com&lt;/font&gt;",
+      "publisher": "TODAY.com",
+      "published_at": "2026-06-11T12:25:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVRhaWt5SDFCbjV2ejhNVVJwdXEzeDJ4TDhRMHVUYnZwYVJlSUs5RWNLenMyY1F1dDk5RW9LcGJNcWUwRElNQkdjOHc3OWpGNGlBTXpXaFc3UW9Na0huM0tZekh0UEtiT3VhTWtTakVMaElmbnlLd0JMN05QeF9BTUtXYnNERElkb0h6SVdtUkdoU05Bc3lkNE1wY21HUFpGTFctMl9Xcw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.817Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 887,
+      "headline": "Hantavirus Cruise Passenger Says She's Being Held Against Will - Yahoo",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjJaSUE4QmZqTmRmSWp5Q05sbzhDWVFIcVl3YTZ3Q1NiV3NmNlhsRi11R0tSRHFUTWp4SFdkemV1cjFMdTZ1RV9XdUppTGs0SU1tS2pRSlhCTEh6Sk9XOTlfN3FjZ2RvcGR0Z2RqMVdpSnJ2Wl9wTjBPRjlkb3Ayc1AtXzZJN0FLX21VNkpXNA?oc=5\" target=\"_blank\"&gt;Hantavirus Cruise Passenger Says She's Being Held Against Will&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
+      "publisher": "Yahoo",
+      "published_at": "2026-06-11T12:20:26.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjJaSUE4QmZqTmRmSWp5Q05sbzhDWVFIcVl3YTZ3Q1NiV3NmNlhsRi11R0tSRHFUTWp4SFdkemV1cjFMdTZ1RV9XdUppTGs0SU1tS2pRSlhCTEh6Sk9XOTlfN3FjZ2RvcGR0Z2RqMVdpSnJ2Wl9wTjBPRjlkb3Ayc1AtXzZJN0FLX21VNkpXNA?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.823Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 875,
+      "headline": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine - Flatwater Free Press",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQOC1BZkxob2tTTkZnQ09FVWEwNnFwamxqYnBnbU1oaExfVFNOdDMxaHNDSlBxZ1ZmNFVSZnI1MmNUWWxkaERLSkRINEFWa252NU9Bd0JURnEtemhzY20teFhuUW9wTkFOZ2NJVmJBQW80UF9JMkhCSXhicXJoWFREOHQwSmgtYjVBem9hdm5DZVUtYllvc3JGdGdMcE5QZVgxYk1DZUkxWWFyOUdNNGt0b2wxcjlBQQ?oc=5\" target=\"_blank\"&gt;Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Flatwater Free Press&lt;/font&gt;",
+      "publisher": "Flatwater Free Press",
+      "published_at": "2026-06-11T10:00:47.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOC1BZkxob2tTTkZnQ09FVWEwNnFwamxqYnBnbU1oaExfVFNOdDMxaHNDSlBxZ1ZmNFVSZnI1MmNUWWxkaERLSkRINEFWa252NU9Bd0JURnEtemhzY20teFhuUW9wTkFOZ2NJVmJBQW80UF9JMkhCSXhicXJoWFREOHQwSmgtYjVBem9hdm5DZVUtYllvc3JGdGdMcE5QZVgxYk1DZUkxWWFyOUdNNGt0b2wxcjlBQQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T21:53:06.815Z",
+      "mentioned_states": []
+    },
+    {
       "id": 860,
       "headline": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
       "body_md": "[Skip to main content](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON604#content)\n\n## Disease Outbreak News\n\n# Hantavirus outbreak linked to cruise ship travel, Multi-locations\n\n28 May 2026\n\n[See all DONs related to this event](https://www.who.int/emergencies/emergency-events/item/2026-e000227)\n\n[Read more about Hantavirus](https://www.who.int/health-topics/hantavirus)\n\n### Situation at a glance\n\nThis is the fourth Disease Outbreak News report on the Andes hantavirus outbreak linked to cruise ship travel, following the notification to the World Health Organization (WHO) on 2 May 2026 of severe respiratory illness cases aboard M/V Hondius, a cruise ship. Since the last DON was published on 13 May, three additional confirmed cases were reported, from Canada, the Netherlands, and Spain. The previously reported inconclusive case from the United States of America was subsequently determined to be negative following further laboratory testing and has been removed from the total case count. All cases to date have been passengers or crew members on the ship. As of 27 May, a total of 13 cases, including three deaths, have been reported (case fatality ratio 23%). Eleven cases have been laboratory-confirmed for Andes virus (ANDV) infection, and two are probable cases. Given the long incubation period of up to six weeks, it is not unexpected that cases continue to be reported until the end of the six weeks since last exposure.\n\nThrough the International Health Regulations (2005) (IHR) channels, National IHR Focal Points (NFPs) have all been informed and are supporting international contact tracing and monitoring efforts. WHO has assessed the risk posed by this event to the global population as low and will continue to monitor the epidemiological situation and update the risk assessment as needed.\n\n\n### Description of the situation\n\nOn 2 May 2026, WHO received notification from the IHR NFP of the United Kingdom of Great Britain and Northern Ireland (hereafter referred to as the United Kingdom) regarding a cluster of severe acute respiratory illness, including two deaths and one critically ill passenger, aboard the Netherlands-flagged cruise ship M/V Hondius.\n\nAs of 27 May, a total of 13 cases (eleven confirmed and two probable cases), including three deaths (two confirmed and one probable), have been reported. Since the last [Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601) was published on 13 May, three additional confirmed cases have been reported among passengers or crew members, one each from Canada, the Netherlands, and Spain. The case in Canada developed symptoms during contact follow-up, whereas the cases in the Netherlands and Spain were identified through routine weekly testing of high-risk contacts during follow-up. The previously reported inconclusive case from the United States of America was subsequently determined to be negative following further laboratory testing and has been removed from the total count on 15 May. All confirmed cases are among people who travelled onboard the M/V Hondius.\n\n**Figure 1. Epidemiological curve of Andes hantavirus cases (n = 13) reported to WHO as of 27 May 2026, 17:00.**\n\n![Hantavirus outbreak Epi curve](https://cdn.who.int/media/images/default-source/products/disease-outbreak-news/hantavirus-outbreak-epi-curvef3430263-0740-4ff3-95eb-5a3e950a0092.png?sfvrsn=80f4e86b_3)\n\nBased on currently available information, the working hypothesis is that the first case acquired the infection prior to boarding the cruise, through exposure on land. Investigations are ongoing to elucidate the potential circumstances of exposure and the source of the outbreak, in collaboration with authorities in Argentina and Chile, however, the time between the individual’s visit to Chile and the onset of symptoms exceeds the maximum incubation period. Therefore, based on the information currently available, exposure in Chile can be ruled out. Current evidenc",
@@ -607,391 +989,6 @@
         "UT",
         "TX"
       ]
-    },
-    {
-      "id": 825,
-      "headline": "Understanding Regional Risks: Why Southwest States See More Cases",
-      "body_md": "* * *\n\nPublished on: 5/19/2026\n\n# Understanding Regional Risks: Why Southwest States See More Cases\n\n[![Yoshinori Abe](https://ubiehealth.com/_next/image?url=%2Fportrait%2Fave.png&w=96&q=90)\\\\\n\\\\\nReviewed by Yoshinori Abe, MD\\\\\n\\\\\nInternal Medicine](https://ubiehealth.com/doctors/yoshinori-abe)\n\nSouthwest states like New Mexico, Arizona, Colorado and Utah report more hantavirus cases because deer mice thrive in the semi-arid climate and often invade rural homes and outdoor recreation sites. Simple precautions like sealing gaps, cleaning safely with a bleach solution and storing food securely can greatly reduce your exposure risk.\n\nThere are several factors to consider, so see below for complete details that could impact your next steps in care.\n\n![answer background](https://ubiehealth.com/_next/static/media/answer_bg.e42d8f8d.svg)\n\n## What brings you in today?\n\n[Can I treat this myself](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Understanding+Regional+Risks%3A+Why+Southwest+States+See+More+Cases%0AThe+article+says%3A+Southwest+states+like+New+Mexico%2C+Arizona%2C+Colorado+and+Utah+report+more+hantavirus+cases+because+deer+mice+thrive+in+the+semi-arid+climate+and+often+invade+rural+homes+and+outdoor+recreation+sites.+Simple+precautions+like+sealing+gaps%2C+cleaning+safely+with+a+bleach+solution+and+storing+food+securely+can+greatly+reduce+your+exposure+risk.%0A%0AThere+are+several+factors+to+consider%2C+so+see+below+for+complete+details+that+could+impact+your+next+steps+in+care.%0ACan+I+treat+this+myself%3F&intent=otc_suggestion&source_type=doctors-note) [Do I need to see a doctor](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Understanding+Regional+Risks%3A+Why+Southwest+States+See+More+Cases%0AThe+article+says%3A+Southwest+states+like+New+Mexico%2C+Arizona%2C+Colorado+and+Utah+report+more+hantavirus+cases+because+deer+mice+thrive+in+the+semi-arid+climate+and+often+invade+rural+homes+and+outdoor+recreation+sites.+Simple+precautions+like+sealing+gaps%2C+cleaning+safely+with+a+bleach+solution+and+storing+food+securely+can+greatly+reduce+your+exposure+risk.%0A%0AThere+are+several+factors+to+consider%2C+so+see+below+for+complete+details+that+could+impact+your+next+steps+in+care.%0ADo+I+need+to+see+a+doctor%3F&intent=healthcare_question&source_type=doctors-note) [Where should I go for care](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Understanding+Regional+Risks%3A+Why+Southwest+States+See+More+Cases%0AThe+article+says%3A+Southwest+states+like+New+Mexico%2C+Arizona%2C+Colorado+and+Utah+report+more+hantavirus+cases+because+deer+mice+thrive+in+the+semi-arid+climate+and+often+invade+rural+homes+and+outdoor+recreation+sites.+Simple+precautions+like+sealing+gaps%2C+cleaning+safely+with+a+bleach+solution+and+storing+food+securely+can+greatly+reduce+your+exposure+risk.%0A%0AThere+are+several+factors+to+consider%2C+so+see+below+for+complete+details+that+could+impact+your+next+steps+in+care.%0AWhere+should+I+go+for+care%3F&intent=provider_search&source_type=doctors-note) [I'm concerned about a symptom](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Understanding+Regional+Risks%3A+Why+Southwest+States+See+More+Cases%0AThe+article+says%3A+Southwest+states+like+New+Mexico%2C+Arizona%2C+Colorado+and+Utah+report+more+hantavirus+cases+because+deer+mice+thrive+in+the+semi-arid+climate+and+often+invade+rural+homes+and+outdoor+recreation+sites.+Simple+precautions+like+sealing+gaps%2C+cleaning+safely+with+a+bleach+solution+and+storing+food+securely+can+greatly+reduce+your+exposure+risk.%0A%0AThere+are+several+factors+to+consider%2C+so+see+below+for+complete+details+that+could+impact+your+next+steps+in+care.%0AI%27m+concerned+about+a+symptom.&intent=symptom_check&source_type=doctors-note) [Concerned about a possible condition](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Understanding+Regi",
-      "publisher": "ubiehealth.com",
-      "published_at": null,
-      "url": "https://ubiehealth.com/doctors-note/hantavirus-cases-map-us-why-reg-risks-southwest-7953q2",
-      "mentioned_states_json": "[\"NM\",\"AZ\",\"CO\",\"UT\"]",
-      "fetched_at": "2026-06-10T09:52:39.398Z",
-      "mentioned_states": [
-        "NM",
-        "AZ",
-        "CO",
-        "UT"
-      ]
-    },
-    {
-      "id": 824,
-      "headline": "Why Your Hospital Must Notify the CDC of Confirmed Cases - Ubie",
-      "body_md": "* * *\n\nPublished on: 5/19/2026\n\n# Why Your Hospital Must Notify the CDC of Confirmed Cases: The Science\n\n[![Yoshinori Abe](https://ubiehealth.com/_next/image?url=%2Fportrait%2Fave.png&w=96&q=90)\\\\\n\\\\\nReviewed by Yoshinori Abe, MD\\\\\n\\\\\nInternal Medicine](https://ubiehealth.com/doctors/yoshinori-abe)\n\nPrompt notification of confirmed hantavirus cases is legally required to support nationwide surveillance, outbreak prevention, and resource allocation for patient and community safety.\n\nThere are many factors to consider, such as legal requirements, reporting timelines, and infection control protocols. See below for comprehensive information on next steps and best practices.\n\n![answer background](https://ubiehealth.com/_next/static/media/answer_bg.e42d8f8d.svg)\n\n## What brings you in today?\n\n[Can I treat this myself](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Why+Your+Hospital+Must+Notify+the+CDC+of+Confirmed+Cases%3A+The+Science%0AThe+article+says%3A+Prompt+notification+of+confirmed+hantavirus+cases+is+legally+required+to+support+nationwide+surveillance%2C+outbreak+prevention%2C+and+resource+allocation+for+patient+and+community+safety.++%0A%0AThere+are+many+factors+to+consider%2C+such+as+legal+requirements%2C+reporting+timelines%2C+and+infection+control+protocols.+See+below+for+comprehensive+information+on+next+steps+and+best+practices.%0ACan+I+treat+this+myself%3F&intent=otc_suggestion&source_type=doctors-note) [Do I need to see a doctor](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Why+Your+Hospital+Must+Notify+the+CDC+of+Confirmed+Cases%3A+The+Science%0AThe+article+says%3A+Prompt+notification+of+confirmed+hantavirus+cases+is+legally+required+to+support+nationwide+surveillance%2C+outbreak+prevention%2C+and+resource+allocation+for+patient+and+community+safety.++%0A%0AThere+are+many+factors+to+consider%2C+such+as+legal+requirements%2C+reporting+timelines%2C+and+infection+control+protocols.+See+below+for+comprehensive+information+on+next+steps+and+best+practices.%0ADo+I+need+to+see+a+doctor%3F&intent=healthcare_question&source_type=doctors-note) [Where should I go for care](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Why+Your+Hospital+Must+Notify+the+CDC+of+Confirmed+Cases%3A+The+Science%0AThe+article+says%3A+Prompt+notification+of+confirmed+hantavirus+cases+is+legally+required+to+support+nationwide+surveillance%2C+outbreak+prevention%2C+and+resource+allocation+for+patient+and+community+safety.++%0A%0AThere+are+many+factors+to+consider%2C+such+as+legal+requirements%2C+reporting+timelines%2C+and+infection+control+protocols.+See+below+for+comprehensive+information+on+next+steps+and+best+practices.%0AWhere+should+I+go+for+care%3F&intent=provider_search&source_type=doctors-note) [I'm concerned about a symptom](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Why+Your+Hospital+Must+Notify+the+CDC+of+Confirmed+Cases%3A+The+Science%0AThe+article+says%3A+Prompt+notification+of+confirmed+hantavirus+cases+is+legally+required+to+support+nationwide+surveillance%2C+outbreak+prevention%2C+and+resource+allocation+for+patient+and+community+safety.++%0A%0AThere+are+many+factors+to+consider%2C+such+as+legal+requirements%2C+reporting+timelines%2C+and+infection+control+protocols.+See+below+for+comprehensive+information+on+next+steps+and+best+practices.%0AI%27m+concerned+about+a+symptom.&intent=symptom_check&source_type=doctors-note) [Concerned about a possible condition](https://ubiehealth.com/consult/chat/new?message=My+main+symptom+relates+to%3A+Why+Your+Hospital+Must+Notify+the+CDC+of+Confirmed+Cases%3A+The+Science%0AThe+article+says%3A+Prompt+notification+of+confirmed+hantavirus+cases+is+legally+required+to+support+nationwide+surveillance%2C+outbreak+prevention%2C+and+resource+allocation+for+patient+and+community+safety.++%0A%0AThere+are+many+factors+to+consider%2C+such+as+legal+requirements%2C+reporting+timelines%2C+a",
-      "publisher": "ubiehealth.com",
-      "published_at": null,
-      "url": "https://ubiehealth.com/doctors-note/hantavirus-reporting-confirmed-hospital-science-2253q2",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:33.318Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 823,
-      "headline": "Clinician Brief: Hantavirus Pulmonary Syndrome (HPS) - CDC",
-      "body_md": "[Skip directly to site content](https://www.cdc.gov/hantavirus/hcp/clinical-overview/hps.html#content) [Skip directly to search](https://www.cdc.gov/hantavirus/hcp/clinical-overview/hps.html#cdc-search__input) [Skip directly to On This Page](https://www.cdc.gov/hantavirus/hcp/clinical-overview/hps.html#first-on-this-page)\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/us_flag_small.png)An official website of the United States government\n\n[Here's how you know](https://www.cdc.gov/hantavirus/hcp/clinical-overview/hps.html#gov-notice)\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/icon-dot-gov.svg)\n\n**Official websites use .gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/icon-https.svg)\n\n**Secure .gov websites use HTTPS**\n\nA **lock** (  ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n# Clinician Brief: Hantavirus Pulmonary Syndrome (HPS)\n\nFor Health Care Providers\n\nMay 8, 2026\n\n## Key points\n\n- Hantaviruses are a family of viruses that cause serious illness and sometimes death in people worldwide.\n- The viruses are spread by infected rodents through their urine, feces, and saliva.\n- Some hantaviruses cause hantavirus pulmonary syndrome (HPS).\n- Early symptoms of HPS in people resemble many other respiratory illnesses, making HPS difficult to diagnose at illness onset.\n- Healthcare providers should test a person for hantavirus if they have HPS-compatible symptoms and have had contact with rodents.\n\n![black and white chest xray](https://www.cdc.gov/hantavirus/media/images/2025/03/HPS_cxr.jpg)\n\n## Overview\n\nHantaviruses are spread by rodents' body fluids and excrement. People mostly contract hantavirus by breathing in the virus. Most hantaviruses found in North, Central, and South America can cause hantavirus pulmonary syndrome (HPS). Andes virus, which is found in South America, has reportedly had person-to-person transmission.\n\nDifferent hantaviruses are found in the United States. Most of these cause HPS, which primarily affects the lungs. Non-HPS hantavirus infection can also occur, where patients experience non-specific viral symptoms, but no cardiopulmonary symptoms. The hantaviruses that are found throughout the United States are not known to spread between people.\n\nHPS initially causes flu-like symptoms that can progress to more severe illness where people have trouble breathing. It's important for people with HPS to begin treatment as early as possible to improve their chances of recovery. HPS is fatal in nearly 4 in 10 people who are infected.\n\n## Exposure risks\n\nAnyone who has contact with hantavirus-carrying rodents, or their droppings, urine, saliva or nesting material is at risk of HPS. Rodent infestation in and around the home remains the primary risk for hantavirus exposure. Even healthy individuals are at risk for HPS infection if they have contact with the virus.\n\nAndes virus can cause HPS and is the only type of hantavirus that is known to spread person-to-person.\n\n### Resource\n\nSee [recommended isolation precautions](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html#H) for hantavirus in healthcare settings.\n\n## How it spreads\n\nEach hantavirus has one primary rodent that carries the disease. The most common hantavirus that causes HPS in the U.S. is spread by the deer mouse.\n\nPeople can contract hantavirus if they have contact with urine, feces or saliva of a rodent carrying the virus. This can occur when people:\n\n- Breathe in hantavirus-contaminated air when cleaning up after rodents.\n- Touch contaminated objects and then touch their nose or mouth.\n- Are bitten or scratched by an infected rodent.\n- Eat food contaminated with hantavirus.\n\nCases normally occur in rural areas where forests, fields, and farms offer habitats for rodents. The animals can get into homes and barn",
-      "publisher": "cdc.gov",
-      "published_at": null,
-      "url": "https://www.cdc.gov/hantavirus/hcp/clinical-overview/hps.html",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:33.317Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 822,
-      "headline": "Hantaviruses - ANRS Maladies infectieuses émergentes",
-      "body_md": "![](https://anrs.fr/wp-content/uploads/2026/05/sin-nombre-virus-hanta-tem-1137-lores-620x425.jpg)\n\n# Hantaviruses\n\nHantaviruses are a family of viruses that are usually transmitted by rodents. This zoonotic disease can lead to two syndromes of varying severity, some of which can be fatal.\n\nLast updated on 21 May 2026\n\n**Share:**\n\n- [Share on Twitter](https://twitter.com/share?url=https%3A%2F%2Fanrs.fr%2Fen%2Fscientific-research%2Fdiseases-and-pathogens%2Fhantaviruses%2F&text=Hantaviruses \"Partager sur Twitter - Nouvelle fenêtre\")\n- [Share on Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fanrs.fr%2Fen%2Fscientific-research%2Fdiseases-and-pathogens%2Fhantaviruses%2F&title=Hantaviruses&summary=&source= \"Partager sur Linkedin - Nouvelle fenêtre\")\n\nShare\n\n## Main points\n\n- Hantaviruses comprise a large group of zoonotic viruses whose characteristics vary across the globe. They are mainly transmitted by wild rodents.\n- They can cause two types of syndrome with differing fatality rates: a renal haemorrhagic fever fatal in less than 1% to 15% of cases; or a severe cardiopulmonary syndrome with a fatality rate of around 30 to 60%.\n- No specific treatment or vaccine is available for hantavirus infection.\n- Since 3 May 2026, a possible outbreak of hantavirus infection on board a cruise ship has been reported by the WHO and is being monitored by international health authorities – including the ANRS MIE.\n\n## Epidemiology\n\nHantavirusesbelong to the family _H_ _a_ _nt_ _a_ _viridae_and are found on every continent. More than 20viral species have been identified, all ofwhich are zoonotic – that is, transmitted by animals.Each viral taxon is generally associated with a single natural host species, mainly including wild rodents (rats, voles, field mice) and, more rarely, insectivorous rodents (moles, shrews), bats, as well as fish and reptiles.\n\n### Current situation\n\nOn 3 May 2026, the World Health Organisation (WHO) issued an alert regarding a possible outbreak of hantavirus infection on board the Dutch cruise ship _MV Hondius_ travelling from Ushuaia, Argentina, to Cape Verde.\n\nAs of 5 May 2026, two cases of hantavirus infection had been laboratory-confirmed and five further cases were suspected among the 147 passengers and crew members.Of the seven people who fell ill, three have died and one was in intensive care in South Africa. The latter, a British tourist who tested positive for a hantavirus, had been transferred and hospitalised in Johannesburg.\n\nOn 6 May 2026, viral sequencing carried out by the South African health authorities identified a strain of the Andes hantavirus.1 This is the only strain, out of the 38 known, capable of being transmitted from person to person, although this mode of transmission remains marginal compared to exposure to infected rodents. Further epidemiological investigations are ongoing. These should provide a better understanding of the key circumstances of this outbreak and enable a precise assessment of the risk of human-to-human transmission.\n\nCurrently grounded in Cape Verde, the ship has not been authorised to dock, but medical care is being provided to passengers and crew. The Spanish government has however authorised its reception in the Canary Islands in the near future, in order to continue the examination, care and transfer of passengers.The risk of the virus spreading beyond the ship is still considered ‘low’ by the WHO. 2\n\n### Historical background\n\nThe first clinical description of a hantavirus disease dates back to the Korean War (1950–1953), during which more than 3,000 soldiers developed [haemorrhagic fever](https://anrs.fr/en/scientific-research/diseases-and-pathogens/viral-haemorrhagic-fevers/ \"https://anrs.fr/recherche/maladies-pathogenes/fievres-hemorragiques-virales/\") with hepatorenal syndrome.The virus responsible was identified in 1976 by Korean researchers. It is named after the Hantaan River, which lies on the border between the two Koreas.\n\n### Global c",
-      "publisher": "anrs.fr",
-      "published_at": null,
-      "url": "https://anrs.fr/en/scientific-research/diseases-and-pathogens/hantaviruses/",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:28.496Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 821,
-      "headline": "What is the death rate of hantavirus? - Britannica",
-      "body_md": "[⚽️ Get Our World Cup Newsletter: **The Pitch** ⚽️\\\\\n\\\\\nLearn More](https://signup.britannica.com/thepitch?utm_source=premium&utm_medium=toupee&utm_campaign=mm-mobile)\n\n[Ask the Chatbot](https://www.britannica.com/chatbot) [Games & Quizzes](https://www.britannica.com/quiz/browse) [History & Society](https://www.britannica.com/History-Society) [Science & Tech](https://www.britannica.com/Science-Tech) [Biographies](https://www.britannica.com/Biographies) [Animals & Nature](https://www.britannica.com/Animals-Nature) [Geography & Travel](https://www.britannica.com/Geography-Travel) [Arts & Culture](https://www.britannica.com/Arts-Culture) [ProCon](https://www.britannica.com/procon) [Money](https://www.britannica.com/money) [Videos](https://www.britannica.com/videos)\n\n\nCITE\n\n\n# What is the death rate of hantavirus?\n\nWritten and fact-checked by\n\n[The Editors of Encyclopaedia Britannica\\\\\n\\\\\nEncyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree....](https://www.britannica.com/editor/The-Editors-of-Encyclopaedia-Britannica/4419)\n\nThe Editors of Encyclopaedia Britannica\n\nLast updated\n\nMay 21, 2026\n\nThe death rate from hantavirus infection depends on the specific disease it causes. Hantavirus pulmonary syndrome (HPS), found mainly in the Americas, has a case fatality rate of about 35–40 percent, making it a highly dangerous infection. Hemorrhagic fever with renal syndrome (HFRS), more common in Europe and Asia, varies in severity depending on the viral strain, with death rates ranging from less than 1 percent to about 15 percent. Early diagnosis and supportive medical care can improve survival.\n\n_verified_ Cite\n\n\nWhile every effort has been made to follow citation style rules, there may be some discrepancies.\nPlease refer to the appropriate style manual or other sources if you have any questions.\n\n\nSelect Citation Style\n\nMLAAPAChicago Manual of Style\n\nThe Editors of Encyclopaedia Britannica. \" What is the death rate of hantavirus? \". _Encyclopedia Britannica_, 21 May. 2026, https://www.britannica.com/question/What-is-the-death-rate-of-hantavirus. Accessed 10 June 2026.\n\nCopy Citation",
-      "publisher": "britannica.com",
-      "published_at": null,
-      "url": "https://www.britannica.com/question/What-is-the-death-rate-of-hantavirus",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:28.495Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 820,
-      "headline": "Hantavirus deaths on cruise ship highlight dangers of rodent-borne ...",
-      "body_md": "### Recommended Videos\n\n### Recommended Articles\n\nLeft Arrow\n\n- [![Diabetes drug could slash risk of fatal heart condition in one group, scientists reveal](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/320/180/healthcare-professional-elderly-woman-home-fox-news-001.jpeg?ve=1&tl=1)](https://www.foxnews.com/health/diabetes-drug-could-slash-risk-fatal-heart-condition-one-group-scientists-reveal)\n\n[**Diabetes drug could slash risk of fatal heart condition in one group, scientists reveal**](https://www.foxnews.com/health/diabetes-drug-could-slash-risk-fatal-heart-condition-one-group-scientists-reveal)\n\n- [![Woman with advanced Alzheimer's regained speech and memories after taking magic mushrooms](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/320/180/older-lady-alzheimers.jpg?ve=1&tl=1)](https://www.foxnews.com/health/woman-advanced-alzheimers-regained-speech-memories-taking-magic-mushrooms)\n\n[**Woman with advanced Alzheimer's regained speech and memories after taking magic mushrooms**](https://www.foxnews.com/health/woman-advanced-alzheimers-regained-speech-memories-taking-magic-mushrooms)\n\n- [![Why do some people get sepsis while others don't? Scientists point to the gut](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/320/180/woman-in-hospital.jpg?ve=1&tl=1)](https://www.foxnews.com/health/why-do-some-people-get-sepsis-while-others-dont-scientists-point-gut)\n\n[**Why do some people get sepsis while others don't? Scientists point to the gut**](https://www.foxnews.com/health/why-do-some-people-get-sepsis-while-others-dont-scientists-point-gut)\n\n- [![This exercise habit may slash dementia risk and help you live longer, study finds](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/320/180/male-athlete-lifting-dumbbells-fox-news-001.jpeg?ve=1&tl=1)](https://www.foxnews.com/health/exercise-habit-may-slash-dementia-risk-help-you-live-longer-study-finds)\n\n[**This exercise habit may slash dementia risk and help you live longer, study finds**](https://www.foxnews.com/health/exercise-habit-may-slash-dementia-risk-help-you-live-longer-study-finds)\n\n- [![Scientists reveal surprising brain benefit of laughter: 'It's a mental workout'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/320/180/laughing-with-grandkid.jpg?ve=1&tl=1)](https://www.foxnews.com/health/scientists-reveal-surprising-brain-benefit-laughter-mental-workout)\n\n[**Scientists reveal surprising brain benefit of laughter: 'It's a mental workout'**](https://www.foxnews.com/health/scientists-reveal-surprising-brain-benefit-laughter-mental-workout)\n\n- [![Flying with cannabis? TSA's new guidance comes with a major health warning](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/320/180/medical-marijuana.jpeg?ve=1&tl=1)](https://www.foxnews.com/health/flying-cannabis-tsas-new-guidance-comes-major-health-warning)\n\n[**Flying with cannabis? TSA's new guidance comes with a major health warning**](https://www.foxnews.com/health/flying-cannabis-tsas-new-guidance-comes-major-health-warning)\n\n- [![Drinking alcohol may influence cravings for certain foods in a surprising way, study suggests](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/320/180/couple_drinking_and_eating_chips.jpeg?ve=1&tl=1)](https://www.foxnews.com/health/drinking-alcohol-may-influence-cravings-certain-foods-surprising-way-study-suggests)\n\n[**Drinking alcohol may influence cravings for certain foods in a surprising way, study suggests**](https://www.foxnews.com/health/drinking-alcohol-may-influence-cravings-certain-foods-surprising-way-study-suggests)\n\n- [![Can alkaline water actually improve your health? Experts separate fact from fiction](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/320/180/f217d532-man-drinking-water.jpg?ve=1&tl=1)](https://www.foxnews.com/health/alkaline-wa",
-      "publisher": "foxnews.com",
-      "published_at": null,
-      "url": "https://www.foxnews.com/health/hantavirus-deaths-cruise-ship-highlight-dangers-rodent-borne-disease",
-      "mentioned_states_json": "[\"WA\"]",
-      "fetched_at": "2026-06-10T09:52:28.494Z",
-      "mentioned_states": [
-        "WA"
-      ]
-    },
-    {
-      "id": 819,
-      "headline": "Current Hantavirus Outbreak and Considerations for Congress",
-      "body_md": "[skip to main content](https://www.congress.gov/crs-product/IF13230#content)\n\n[Citation](https://www.congress.gov/crs-product/IF13230#citation)[Subscribe](https://www.congress.gov/get-alerts)[Share/Save](https://www.congress.gov/crs-product/IF13230#share)[Site Feedback](https://www.congress.gov/crs-product/IF13230#survey)\n\n# Current Hantavirus Outbreak and Considerations for Congress\n\n## CRS PRODUCT (LIBRARY OF CONGRESS)\n\n[Hide Overview](https://www.congress.gov/crs-product/IF13230#)\n\n| CRS Product Type: | In Focus |\n| CRS Product Number: | IF13230 |\n| Topics: | Energy & Natural Resources; Health Care; Homeland Security & Emergency Management |\n| Publication Date: | 05/18/2026 |\n| Authors: | Kuiken, Todd; Sekar, Kavya; Sheikh, Pervaze A. |\n\n[Download PDF (295KB)](https://www.congress.gov/crs_external_products/IF/PDF/IF13230/IF13230.2.pdf)\n\\| [PDF Version History](https://www.congress.gov/crs-product/IF13230#)\n\n- [May 18, 2026 (IF13230 - Version: 2)](https://www.congress.gov/crs_external_products/IF/PDF/IF13230/IF13230.2.pdf)\n- [May 18, 2026 (IF13230 - Version: 1)](https://www.congress.gov/crs_external_products/IF/PDF/IF13230/IF13230.1.pdf)\n\n[Listen](https://app-na.readspeaker.com/cgi-bin/rsent?customerid=6927&lang=en_us&readid=dvContainer&url=https%3A%2F%2Fwww.congress.gov/crs-product/IF13230 \"Listen to this page using ReadSpeaker webReader\")\n\nCurrent Hantavirus Outbreak and Considerations for Congress\n\nMay 18, 2026\n(IF13230)\n\n\nBackground and Current Hantavirus Outbreak\n\n[Hantavirus](https://www.cdc.gov/hantavirus/about/index.html) is a zoonotic pathogen carried by rodents (e.g., mice and rats) and transmitted to humans generally from contact with their droppings, urine, and saliva. On May 2, 2026, the World Health Organization (WHO) received [notification](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599) of two deaths and one critically ill passenger from an acute respiratory illness onboard the _M/V Hondius_ cruise ship, originating from Argentina. These cases were later confirmed to be the Andes strain of the hantavirus, according to [the WHO](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601). Symptoms appeared for the initial case on the ship on April 6, 2026. Related policy issues for Congress include the nature of international coordination for outbreaks, domestic preparedness for disease outbreaks, and U.S. research and development for zoonotic diseases.\n\nAs of May 13, 2026, the outbreak was ongoing; there were [11 reported cases](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601) of hantavirus linked to the cruise ship, 8 of which have been laboratory confirmed. Passengers from the _M/V Hondius_ have been repatriated, and public health authorities have initiated contact tracing to monitor for additional spread. Additional passengers who departed the cruise ship prior to the identification of the outbreak may have been exposed to hantavirus and unknowingly exposed others. Symptoms of hantavirus from the Andes strain can appear in 4 to 42 days after exposure. The Centers for Disease Control and Prevention (CDC) [has stated](https://www.cdc.gov/hantavirus/about/andesvirus.html) that the \" [the overall risk to the American public and travelers remains extremely low](https://www.cdc.gov/hantavirus/situation-summary/index.html).\" No U.S. hantavirus cases associated with the current outbreak have been reported as of the publication of this product.\n\nWhat Is Hantavirus?\n\n[Hantavirus](https://pmc.ncbi.nlm.nih.gov/articles/PMC8987181/) has been known to infect humans for at least several decades. The disease was first documented during the Korean War in the 1950s, the virus was isolated in 1978, and the WHO recognized the disease in 1982. Hantavirus is endemic throughout the world. Hantaviruses belong to the family _Hantaviridae_, with each strain typically associated with a specific rodent species.\n\nMore than 40 strains of hantavirus exist in nature and are broad",
-      "publisher": "congress.gov",
-      "published_at": null,
-      "url": "https://www.congress.gov/crs-product/IF13230",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:22.247Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 817,
-      "headline": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health ...",
-      "body_md": "[Skip to main content](https://www.kff.org/quick-insights/the-hantavirus-outbreak-is-a-test-case-for-the-u-s-public-health-response/#main)\n\n[Previous\\\\\nSecretary Kennedy Remains Popular with MAGA and MAHA Supporters, But Few Others](https://www.kff.org/quick-insights/secretary-kennedy-remains-popular-with-maga-and-maha-supporters-but-few-others/)\n\n![An image of text is an excerpt from Josh Michaud's quick take which reads, \"The outbreak is also a kind of test case for how well the U.S. is positioned to respond to global disease threats under the Trump administration. Since early last year, the administration has pulled back U.S. engagement on global health, which has included completing a withdrawal from membership in the World Health Organization (WHO)..\"](https://www.kff.org/wp-content/uploads/sites/7/2026/05/260512_Quick-Takes_Josh-Michaud_Website_43f27a.png?w=1024)\n\n# The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response\n\n![Josh Michaud](https://www.kff.org/wp-content/uploads/sites/7/2022/12/Michaud-Josh.jpg?w=50&h=50&crop=1)\n\n[Josh Michaud](https://www.kff.org/person/josh-michaud/)\n\nPublished: May 12, 2026\n\nPrint [Email](mailto:?subject=The%20Hantavirus%20Outbreak%20Is%20a%20Test%20Case%20for%20the%20U.S.%20Public%20Health%20Response&body=https%3A%2F%2Fwww.kff.org%2Fquick-insights%2Fthe-hantavirus-outbreak-is-a-test-case-for-the-u-s-public-health-response%2F)Copy Link[Add KFF on Google](https://google.com/preferences/source?q=kff.org)\n\nGlobal attention is once again focused on an emerging disease threat—this time it’s [Andes](https://www.cdc.gov/hantavirus/about/andesvirus.html) [hantavirus](https://www.who.int/news-room/fact-sheets/detail/hantavirus). As of May 12, this known, but relatively rare, virus has led to [11 cases](https://www.cnn.com/us/maps-hantavirus-cruise-outbreak-vis) (9 confirmed, two probable) and three deaths among 147 passengers and crew aboard a [cruise ship](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600) that departed from Argentina on April 1st. [23 different nationalities](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599) were represented among the ship’s passengers, most of whom have been [repatriated](https://www.nytimes.com/2026/05/11/world/hantavirus-outbreak-cruise-ship-passengers.html) to their home countries at this point. This includes at least [18 Americans](https://www.cnn.com/2026/05/11/us/live-news/hantavirus-cruise-outbreak), one of whom has tested positive for hantavirus infection thus far, and one who has shown symptoms, [according to](https://x.com/HHSGov/status/2053853941046063228) the U.S. Department of Health and Human Services (HHS). While limited in size, the Andes hantavirus outbreak is a reminder of how quickly disease threats can emerge and spread, and how dependent the world is on international cooperation to identify and contain cross-border outbreaks like this.\n\nThe hantavirus outbreak is also a kind of test case for how well the U.S. is positioned to respond to global disease threats under the Trump administration. Since early last year, the administration has [pulled back](https://www.kff.org/global-health-policy/overview-of-president-trumps-executive-actions-on-global-health/) U.S. engagement on global health, which has included [completing a withdrawal](https://www.hhs.gov/press-room/fact-sheet-us-withdrawal-from-the-world-health-organization.html) from membership in the World Health Organization (WHO), [de-prioritizing](https://www.state.gov/america-first-global-health-strategy) multilateral cooperation generally, reducing [funding](https://www.kff.org/global-health-policy/kff-tracker-america-first-mou-bilateral-global-health-agreements/) for U.S. global health efforts, and [dissolving](https://www.kff.org/global-health-policy/u-s-foreign-aid-freeze-dissolution-of-usaid-timeline-of-events/) the United States Agency for International Development (USAID). Administration actions have also affected U.S.",
-      "publisher": "kff.org",
-      "published_at": null,
-      "url": "https://www.kff.org/quick-insights/the-hantavirus-outbreak-is-a-test-case-for-the-u-s-public-health-response/",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:22.235Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 816,
-      "headline": "2026 Hantavirus Outbreak: Testing for Potential Infection | HAN - CDC",
-      "body_md": "[Skip directly to site content](https://www.cdc.gov/han/php/notices/han00529.html#content) [Skip directly to search](https://www.cdc.gov/han/php/notices/han00529.html#cdc-search__input) [Skip directly to On This Page](https://www.cdc.gov/han/php/notices/han00529.html#first-on-this-page)\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/us_flag_small.png)An official website of the United States government\n\n[Here's how you know](https://www.cdc.gov/han/php/notices/han00529.html#gov-notice)\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/icon-dot-gov.svg)\n\n**Official websites use .gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n![](https://www.cdc.gov/TemplatePackage/5.0/img/uswds/icon-https.svg)\n\n**Secure .gov websites use HTTPS**\n\nA **lock** (  ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n# 2026 Hantavirus Outbreak: Testing for Potential Infection\n\nMay 18, 2026\n\n## At a glance\n\n- Distributed via the CDC Health Alert Network\n- May 18, 2026\n- CDCHAN-00529\n\n![This is an official CDC health update](https://www.cdc.gov/han/media/images/2025/03/logo-han-health-update.png)\n\n## Summary\n\nThe Centers for Disease Control and Prevention (CDC) is issuing this Health Alert Network (HAN) Health Update to inform clinicians and health departments about testing available for patients with suspected hantavirus infection to include Andes virus. CDC first issued a [Health Advisory](https://www.cdc.gov/han/php/notices/han00528.html) (CDCHAN-00528) about this outbreak on May 8, 2026. Hantaviruses are a group of viruses that typically spread to people who come in contact with sylvatic rodents. These viruses can cause severe illness or death in humans. Andes virus, a type of hantavirus endemic in South America, is the only type of hantavirus that is known to spread from person to person. Several [other](https://www.cdc.gov/hantavirus/data-research/cases/index.html) New World hantaviruses are endemic to the United States and are not transmissible from person to person. New World hantaviruses can cause hantavirus pulmonary syndrome (HPS), a potentially serious disease that can cause damage to the lungs.\n\nOn May 2, 2026, an outbreak of Andes virus on a cruise ship was reported to the World Health Organization (WHO). This outbreak has raised the possibility of cases being imported to the United States. As of May 18, no confirmed cases of Andes virus associated with the outbreak on the cruise ship have been reported in the United States. Therefore, **the overall risk to the American public is still considered extremely low at this time**. CDC and health departments in several states are monitoring the health of U.S. passengers from the ship and U.S. air travel contacts of symptomatic ship passengers who were subsequently confirmed to have Andes virus infection. This Health Update informs clinicians about testing and consultation that are available for Andes virus and other hantaviruses endemic to the United States, South America, and other nations.\n\n## Background\n\nOn May 2, 2026, WHO was notified of a cluster of severe acute respiratory illness (SARI) among passengers and crew aboard the M/V Hondius cruise ship in the Atlantic Ocean. On May 6, 2026, WHO confirmed that the cluster was caused by Andes virus, a hantavirus endemic in areas of South America that can cause hantavirus pulmonary syndrome (HPS). Andes virus is the only hantavirus known to spread from person to person. This type of transmission is rare for hantaviruses and is generally associated with prolonged [close contact](https://www.cdc.gov/hantavirus/php/emergency-guidance/index.html#cdc_er_guidance_recom2-risk-based-management-for-contacts). As of May 15, WHO has reported 10 cases (8 of them laboratory-confirmed), including 3 deaths.\n\nHantaviruses cause two syndromes. Hantaviruses found in the Western Hemisphere are often referred to as New World ",
-      "publisher": "cdc.gov",
-      "published_at": null,
-      "url": "https://www.cdc.gov/han/php/notices/han00529.html",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:22.228Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 808,
-      "headline": "Bowie County expert says hantavirus rare in East Texas region - Texarkana Gazette",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUhzX2tCN3ctWVZTSklGNzZzUThvUElqOWtRM0ppaGJEbG4tWlhudC14ZU1ZMnNDR3FYOW1WRGVoZmtvU2VDSkZVQTYwdXZQSVY0eE9LWGZtbTFQbnRxM2xoRC1yX1luakFITGRlRzlDNGVtamM0NWRSc3lqbDZJMF9HWkg1SkYtRXRCSXlPUjcxaWZGOTVEMmEtRFFYQWk2?oc=5\" target=\"_blank\"&gt;Bowie County expert says hantavirus rare in East Texas region&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Texarkana Gazette&lt;/font&gt;",
-      "publisher": "Texarkana Gazette",
-      "published_at": "2026-06-10T03:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUhzX2tCN3ctWVZTSklGNzZzUThvUElqOWtRM0ppaGJEbG4tWlhudC14ZU1ZMnNDR3FYOW1WRGVoZmtvU2VDSkZVQTYwdXZQSVY0eE9LWGZtbTFQbnRxM2xoRC1yX1luakFITGRlRzlDNGVtamM0NWRSc3lqbDZJMF9HWkg1SkYtRXRCSXlPUjcxaWZGOTVEMmEtRFFYQWk2?oc=5",
-      "mentioned_states_json": "[\"TX\"]",
-      "fetched_at": "2026-06-10T09:52:16.779Z",
-      "mentioned_states": [
-        "TX"
-      ]
-    },
-    {
-      "id": 806,
-      "headline": "3 more former cruise ship passengers leave UNMC after quarantining following hantavirus outbreak - Nebraska Public Media",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEcxRTRUNUNaX0dHTHp2T3ctUnZPbG1FeXNVNThDTXJma2lHRjZJV2oxYzltcVF6QWVHTDVhRW5FVWdSbHVSOHo4bEtSdTdVc2dta19Idi1UbG9RNlR4eGU0akpTdklFaFpQZWdYUm0tQS1HTnlMWG4zSDhTai1xU25lTkhWRzhWNWRLcTFhUE5CZkd6eVZIVzlod3lpQ0FleGV5TEEtcFRSRTNYZ3Y2amFPOFc?oc=5\" target=\"_blank\"&gt;3 more former cruise ship passengers leave UNMC after quarantining following hantavirus outbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Nebraska Public Media&lt;/font&gt;",
-      "publisher": "Nebraska Public Media",
-      "published_at": "2026-06-09T22:37:10.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEcxRTRUNUNaX0dHTHp2T3ctUnZPbG1FeXNVNThDTXJma2lHRjZJV2oxYzltcVF6QWVHTDVhRW5FVWdSbHVSOHo4bEtSdTdVc2dta19Idi1UbG9RNlR4eGU0akpTdklFaFpQZWdYUm0tQS1HTnlMWG4zSDhTai1xU25lTkhWRzhWNWRLcTFhUE5CZkd6eVZIVzlod3lpQ0FleGV5TEEtcFRSRTNYZ3Y2amFPOFc?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:16.776Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 807,
-      "headline": "3 Virginia people exposed to hantavirus healthy after incubation period passes - WUSA9",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV3ZrODN2aDNsamU0dHpKQl9hbTVwSHpxQzJTQUVScDI0czdtbV9JNTAtaWNDX0FfNU1TMFZwdW9QVEtYQ3lXSnlhR2VtaXl0X1VjMnFGdFVQcllfclM4dWthV29sOXZINEZfa1lyMnlfbnJPVUFyd1l4LXVYOU14Q0VCTDVfQU9IT1VzRVBCc09ldHVKSzEwRXBSYk9iQTFHdFpiTmUwbDNud2o1MVBGT0pKNUlsMjI2cko4N3FCbVB5TUFadlBhZnlNaVJVdTd5cXFaOERaVzVtMXpNb1Q5QjFkY1Jjdw?oc=5\" target=\"_blank\"&gt;3 Virginia people exposed to hantavirus healthy after incubation period passes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WUSA9&lt;/font&gt;",
-      "publisher": "WUSA9",
-      "published_at": "2026-06-09T22:14:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV3ZrODN2aDNsamU0dHpKQl9hbTVwSHpxQzJTQUVScDI0czdtbV9JNTAtaWNDX0FfNU1TMFZwdW9QVEtYQ3lXSnlhR2VtaXl0X1VjMnFGdFVQcllfclM4dWthV29sOXZINEZfa1lyMnlfbnJPVUFyd1l4LXVYOU14Q0VCTDVfQU9IT1VzRVBCc09ldHVKSzEwRXBSYk9iQTFHdFpiTmUwbDNud2o1MVBGT0pKNUlsMjI2cko4N3FCbVB5TUFadlBhZnlNaVJVdTd5cXFaOERaVzVtMXpNb1Q5QjFkY1Jjdw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:16.778Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 792,
-      "headline": "3 people who were onboard of the Hantavirus cruise are leaving quarantine - WUSA9",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNU0ydElNLW00cEVXQm9PbWR4cU1FVV9xaFNLMEppUU02SDBxRi1XdTRQVFBtWDFNX09zd2E5MDRqUk5DZjJ4Y1RhV2hGblFpNXBoWkZ2aVZyTmFTMmlhYmRBTHpBNnczUTBZUU1zMkNsaFFMemdacmJHNlFXRUdhMU5mdTFrN3l4RVBFdjNlRXhGbmJaUzJLbkktWGFvelducWlOUkRRX1hpRHFHMjJZUnkwdVk3QjltMGtnYUJiR0tJeXk5ZGpCNWwtU0pOSDNtVnYyeklVbGRtSVdhQUVkamZLdktPcnEt?oc=5\" target=\"_blank\"&gt;3 people who were onboard of the Hantavirus cruise are leaving quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WUSA9&lt;/font&gt;",
-      "publisher": "WUSA9",
-      "published_at": "2026-06-09T21:44:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNU0ydElNLW00cEVXQm9PbWR4cU1FVV9xaFNLMEppUU02SDBxRi1XdTRQVFBtWDFNX09zd2E5MDRqUk5DZjJ4Y1RhV2hGblFpNXBoWkZ2aVZyTmFTMmlhYmRBTHpBNnczUTBZUU1zMkNsaFFMemdacmJHNlFXRUdhMU5mdTFrN3l4RVBFdjNlRXhGbmJaUzJLbkktWGFvelducWlOUkRRX1hpRHFHMjJZUnkwdVk3QjltMGtnYUJiR0tJeXk5ZGpCNWwtU0pOSDNtVnYyeklVbGRtSVdhQUVkamZLdktPcnEt?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.766Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 800,
-      "headline": "Luxury Adventure Tourism Faces Fresh Health Fears After MV Hondius Hantavirus Outbreak Impacts International Cruise Travelers - Travel And Tour World",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9sOGd0LUNSc2RGWWFPY1FMbkViRy1DUzFkRUt2T19MUHhhZzFyQnlqUklueU5ySHh6QWxSTkdsTnByWmFoOUVpYzdONXh4Vk1YZHhoUTZManZ1NXdJOTNpUzBwZllDWjJIcERyZmJ3?oc=5\" target=\"_blank\"&gt;Luxury Adventure Tourism Faces Fresh Health Fears After MV Hondius Hantavirus Outbreak Impacts International Cruise Travelers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Travel And Tour World&lt;/font&gt;",
-      "publisher": "Travel And Tour World",
-      "published_at": "2026-06-09T21:35:07.000Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sOGd0LUNSc2RGWWFPY1FMbkViRy1DUzFkRUt2T19MUHhhZzFyQnlqUklueU5ySHh6QWxSTkdsTnByWmFoOUVpYzdONXh4Vk1YZHhoUTZManZ1NXdJOTNpUzBwZllDWjJIcERyZmJ3?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:11.071Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 797,
-      "headline": "A first genetic analysis of the cruise hantavirus case confirmed it was the Andes variant, and the twist is what it did not show, no mutations that change the story - OkDiario",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxQdWFBeWpNV1QtTFI4UDhBWEtkeFpXa0p1ODBja2Y0a2JwbGNxazFhYUZidHJIRVJsel9xdC1LT3BTZ0pfUWtFZ213cGVIYjBtRzRzZWVVY0pSOWhTbVg4NlFNZy1kQmgxemlNZ0M3NjIwdXFtR0lfSFY5MXp6Wi16aW96bURRUlJ3ZFIyWXNwV3FNeDdXTWJsQ1FrdHI4NXd0aV9udFhYeHhicFZSUVlTUmJiTGZ3TE14ZlZNcURCdy1lU2lZTWFtc1llbHdYNlE1YzBsMUc0Rmt0Q0YzSGVXLWNCX19YLTlEaG4yZVRjeFVMRG1VcDNQd3hvRlhEVnhxQ0FpaWo4UERZMkFxZEtwUllINWQyS1ZqR2JiTWc5dU5KQnE4VzEyMG1SdUxJTmJmVEp5bw?oc=5\" target=\"_blank\"&gt;A first genetic analysis of the cruise hantavirus case confirmed it was the Andes variant, and the twist is what it did not show, no mutations that change the story&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;OkDiario&lt;/font&gt;",
-      "publisher": "OkDiario",
-      "published_at": "2026-06-09T20:45:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdWFBeWpNV1QtTFI4UDhBWEtkeFpXa0p1ODBja2Y0a2JwbGNxazFhYUZidHJIRVJsel9xdC1LT3BTZ0pfUWtFZ213cGVIYjBtRzRzZWVVY0pSOWhTbVg4NlFNZy1kQmgxemlNZ0M3NjIwdXFtR0lfSFY5MXp6Wi16aW96bURRUlJ3ZFIyWXNwV3FNeDdXTWJsQ1FrdHI4NXd0aV9udFhYeHhicFZSUVlTUmJiTGZ3TE14ZlZNcURCdy1lU2lZTWFtc1llbHdYNlE1YzBsMUc0Rmt0Q0YzSGVXLWNCX19YLTlEaG4yZVRjeFVMRG1VcDNQd3hvRlhEVnhxQ0FpaWo4UERZMkFxZEtwUllINWQyS1ZqR2JiTWc5dU5KQnE4VzEyMG1SdUxJTmJmVEp5bw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:11.002Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 793,
-      "headline": "Three more passengers from hantavirus-hit cruise ship leave Omaha quarantine - KLKN-TV",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFB6dzNqWXlTUDZYV3lFaEZEUk5fb095VHRrWlBLVWZVOFZfRXpBdWwyclBTbXRvZXNqaXFNMkxqM2VSbGtZV0FDd0VJUjh5ZDJQUmU3WTgwNXJRaC15Y2QtOF9YSTJkeFJnWUVOaWg0MmlXT09RLW9kVmdkS2NBQTFxb1FrX19KODFUQUJuZkxJRzVtQzJ1UV9wbEd0a0U2X0E?oc=5\" target=\"_blank\"&gt;Three more passengers from hantavirus-hit cruise ship leave Omaha quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KLKN-TV&lt;/font&gt;",
-      "publisher": "KLKN-TV",
-      "published_at": "2026-06-09T20:31:29.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFB6dzNqWXlTUDZYV3lFaEZEUk5fb095VHRrWlBLVWZVOFZfRXpBdWwyclBTbXRvZXNqaXFNMkxqM2VSbGtZV0FDd0VJUjh5ZDJQUmU3WTgwNXJRaC15Y2QtOF9YSTJkeFJnWUVOaWg0MmlXT09RLW9kVmdkS2NBQTFxb1FrX19KODFUQUJuZkxJRzVtQzJ1UV9wbEd0a0U2X0E?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.766Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 784,
-      "headline": "Hantavirus update: What to know about Sin Nombre virus strain endemic to California, how to stay safe when camping - ABC7 Los Angeles",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSnJpa0FYTThENVlTUFV3VHVVOFVtdkZMQ0QtQjdRNGp1UFFOX0ZYSkhqeGYyZEhEWnljSVg0TVRMQkR3MF83MGxVU2ZfbWNzQ1MzVXIzVHdzQk9fRVFNcDJZUmk3aW1ubEdIN3llT09CWnZVVUdJRXB2UVlwdUdUQ2wzQUFtYkNJQ0U0dnk0cC1SbElPRU53eXVMekZPelIzeHRXN1JfbXdVbXcxU1pGOXU4U1VYTkRJYkJYeEpjZFlhN0piZDUzTdIBzgFBVV95cUxPT3RzTFpVTUJWNDBzREV5c0RveUd3SHgxTDdtVTNReldKQ0htTkJ2Vmx6MG5RMHBHeHRSempXeExWeHFhemIxQ2NfX05MY2Ixa21oN2pDZVltVDZBbFlrMjJGRUFxNmFyVS10UGdUN3FwQ0YzZml4eXBjSWk0VkJ2d0IxTmZvNGhrQnpZUVl1VVJkdWNJaklKeDVrRlN6VHJVT3BJZXdzUlI4MnBqajFXSDRIQ2xkWk9zcW9GYURrWldFUW9JT1YxbjhRM1dzQQ?oc=5\" target=\"_blank\"&gt;Hantavirus update: What to know about Sin Nombre virus strain endemic to California, how to stay safe when camping&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ABC7 Los Angeles&lt;/font&gt;",
-      "publisher": "ABC7 Los Angeles",
-      "published_at": "2026-06-09T18:48:03.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSnJpa0FYTThENVlTUFV3VHVVOFVtdkZMQ0QtQjdRNGp1UFFOX0ZYSkhqeGYyZEhEWnljSVg0TVRMQkR3MF83MGxVU2ZfbWNzQ1MzVXIzVHdzQk9fRVFNcDJZUmk3aW1ubEdIN3llT09CWnZVVUdJRXB2UVlwdUdUQ2wzQUFtYkNJQ0U0dnk0cC1SbElPRU53eXVMekZPelIzeHRXN1JfbXdVbXcxU1pGOXU4U1VYTkRJYkJYeEpjZFlhN0piZDUzTdIBzgFBVV95cUxPT3RzTFpVTUJWNDBzREV5c0RveUd3SHgxTDdtVTNReldKQ0htTkJ2Vmx6MG5RMHBHeHRSempXeExWeHFhemIxQ2NfX05MY2Ixa21oN2pDZVltVDZBbFlrMjJGRUFxNmFyVS10UGdUN3FwQ0YzZml4eXBjSWk0VkJ2d0IxTmZvNGhrQnpZUVl1VVJkdWNJaklKeDVrRlN6VHJVT3BJZXdzUlI4MnBqajFXSDRIQ2xkWk9zcW9GYURrWldFUW9JT1YxbjhRM1dzQQ?oc=5",
-      "mentioned_states_json": "[\"CA\"]",
-      "fetched_at": "2026-06-09T21:53:10.117Z",
-      "mentioned_states": [
-        "CA"
-      ]
-    },
-    {
-      "id": 783,
-      "headline": "3 more US hantavirus cruise passengers return home after weeks at quarantine facility - USA Today",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcEtzLU4zTUZ4WnRZUEFITDVWWnFLd1A5RE5aSXZZVF9sQlg2RzVIQzlDZGtTMy1ZTVp2OUphUHQ5SWV2aFJCSHpjT1dNUnlKTXBxQmY5Xzhidk15MVNHSUxCSkMzcWs5N1hqM0lmcmt3VjZ5WlJJczF4RW9fVUpXNWJqcVJ5cTkyMm1VSHNkM3RKaXVZSHgybzd1TGthd0VaSnhSZ0lBeC1yeFYxdXVoVGF0OTJIQ21fRHZtY05kOA?oc=5\" target=\"_blank\"&gt;3 more US hantavirus cruise passengers return home after weeks at quarantine facility&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
-      "publisher": "USA Today",
-      "published_at": "2026-06-09T18:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcEtzLU4zTUZ4WnRZUEFITDVWWnFLd1A5RE5aSXZZVF9sQlg2RzVIQzlDZGtTMy1ZTVp2OUphUHQ5SWV2aFJCSHpjT1dNUnlKTXBxQmY5Xzhidk15MVNHSUxCSkMzcWs5N1hqM0lmcmt3VjZ5WlJJczF4RW9fVUpXNWJqcVJ5cTkyMm1VSHNkM3RKaXVZSHgybzd1TGthd0VaSnhSZ0lBeC1yeFYxdXVoVGF0OTJIQ21fRHZtY05kOA?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:09.836Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 790,
-      "headline": "UNMC releases three more hantavirus cruise ship passengers - KETV",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdThqVzZ3VnZpWUJIYS1WUDZia1kyN1A1T2pHV3RlaGxWdTJuZ2VZbHhfdlVoYnNWbUk1SmNBWFgyV3A1R2NSMTQwdUJMR0tYSFNYeHZQOEh2aW9FSldycDZZVWpNYlMtVlZhMHlCNWppaHRaY0JjMEpIRGVweE5qNTV1WExPM28zcVBGNjVNaEpoZTIxVl9lZ01xTHFyc2Q4SnRMd3d0VQ?oc=5\" target=\"_blank\"&gt;UNMC releases three more hantavirus cruise ship passengers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KETV&lt;/font&gt;",
-      "publisher": "KETV",
-      "published_at": "2026-06-09T17:18:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdThqVzZ3VnZpWUJIYS1WUDZia1kyN1A1T2pHV3RlaGxWdTJuZ2VZbHhfdlVoYnNWbUk1SmNBWFgyV3A1R2NSMTQwdUJMR0tYSFNYeHZQOEh2aW9FSldycDZZVWpNYlMtVlZhMHlCNWppaHRaY0JjMEpIRGVweE5qNTV1WExPM28zcVBGNjVNaEpoZTIxVl9lZ01xTHFyc2Q4SnRMd3d0VQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.736Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 791,
-      "headline": "3 more hantavirus patients quarantining in Omaha leave UNMC - thereader.com",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk5kMk1taVhMakc5bFV3MFQwMkZ3SlpiamJyODI1cGExNnRkeHZjZmhiSkdLV180a3g5WHFkR3VqY2dRaWdlQjk2Q2RtajV5NzN6cFAzNHh6Y1BRYU1pRGVpU3BJNVQtbnl3djlxY0hGaGZ3U3VYMzFjcm9rX2lfWllldEdyNnNidUdCS3ZRSzFIdEN2N0lwWg?oc=5\" target=\"_blank\"&gt;3 more hantavirus patients quarantining in Omaha leave UNMC&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;thereader.com&lt;/font&gt;",
-      "publisher": "thereader.com",
-      "published_at": "2026-06-09T16:45:13.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk5kMk1taVhMakc5bFV3MFQwMkZ3SlpiamJyODI1cGExNnRkeHZjZmhiSkdLV180a3g5WHFkR3VqY2dRaWdlQjk2Q2RtajV5NzN6cFAzNHh6Y1BRYU1pRGVpU3BJNVQtbnl3djlxY0hGaGZ3U3VYMzFjcm9rX2lfWllldEdyNnNidUdCS3ZRSzFIdEN2N0lwWg?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.736Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 799,
-      "headline": "Health Matters: Canadian who tested positive for hantavirus has recovered - Yahoo News Canada",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnlUWUc2dFB2cy02OHhvMTZqM19FZjlDME53U180eGptSXhUTG9xSzd4UXVqOVpRa2dkUXhoLThNSGwtRTZwM001X2tJUktiQnhOMkVGZnJfWnVVZUZ2S0ZqRjZGUzBPUmNuTUZFXzQ4M2VKUEh2RDBsd04wWnJNaHo0Vlk2LVE?oc=5\" target=\"_blank\"&gt;Health Matters: Canadian who tested positive for hantavirus has recovered&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo News Canada&lt;/font&gt;",
-      "publisher": "Yahoo News Canada",
-      "published_at": "2026-06-09T16:08:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnlUWUc2dFB2cy02OHhvMTZqM19FZjlDME53U180eGptSXhUTG9xSzd4UXVqOVpRa2dkUXhoLThNSGwtRTZwM001X2tJUktiQnhOMkVGZnJfWnVVZUZ2S0ZqRjZGUzBPUmNuTUZFXzQ4M2VKUEh2RDBsd04wWnJNaHo0Vlk2LVE?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:11.032Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 788,
-      "headline": "Hantavirus update: three more cruise passengers leave Omaha quarantine unit - WOWT",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXBJZGUwRHkwTS1SRVhOdXNmNUFkSzBCVzFySzdfT3YtUE85dkJIYkhYb29VdHRCR3d2emZhMElIM3Q1ajdtZjU1SzdJNURTQTdKVnRlbmNaMHQ1Tm1weDNTXzN1eWk4UDdlaDRBdnFNUDBka2lxUG1rTnVvQ09GOWxjSlhBY2E1OVlMamNTVG9zRnViWlFkZnY1UU05TGxzX2wwdEdHU3EwbVk?oc=5\" target=\"_blank\"&gt;Hantavirus update: three more cruise passengers leave Omaha quarantine unit&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WOWT&lt;/font&gt;",
-      "publisher": "WOWT",
-      "published_at": "2026-06-09T15:41:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXBJZGUwRHkwTS1SRVhOdXNmNUFkSzBCVzFySzdfT3YtUE85dkJIYkhYb29VdHRCR3d2emZhMElIM3Q1ajdtZjU1SzdJNURTQTdKVnRlbmNaMHQ1Tm1weDNTXzN1eWk4UDdlaDRBdnFNUDBka2lxUG1rTnVvQ09GOWxjSlhBY2E1OVlMamNTVG9zRnViWlFkZnY1UU05TGxzX2wwdEdHU3EwbVk?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.527Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 796,
-      "headline": "Three more former passengers from hantavirus-stricken cruise ship leave quarantine in Omaha - Omaha World-Herald",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWXVFM1J0QWltc1ZlS1FIZTdsTW1hbWU5MUZ3ZElERmZWdmllc3ZnbzBuZlNqSmE4aU1YUmJaR2ptVVVEeFh3ODBzYURkXzZ4UWVnVnExRDU3RkU4dVAzak9kTGVKcG5ncmtNeEdILXdnRkViRkE4blpBUW5UanozRGZHbUFUX1VkeDZDR3dPQWl0T19DYXVLSnB2U0ZTblk0?oc=5\" target=\"_blank\"&gt;Three more former passengers from hantavirus-stricken cruise ship leave quarantine in Omaha&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Omaha World-Herald&lt;/font&gt;",
-      "publisher": "Omaha World-Herald",
-      "published_at": "2026-06-09T15:24:17.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWXVFM1J0QWltc1ZlS1FIZTdsTW1hbWU5MUZ3ZElERmZWdmllc3ZnbzBuZlNqSmE4aU1YUmJaR2ptVVVEeFh3ODBzYURkXzZ4UWVnVnExRDU3RkU4dVAzak9kTGVKcG5ncmtNeEdILXdnRkViRkE4blpBUW5UanozRGZHbUFUX1VkeDZDR3dPQWl0T19DYXVLSnB2U0ZTblk0?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.967Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 789,
-      "headline": "Three more US passengers from hantavirus-hit ship return to home states - Reuters",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1lLVWVPWDdfX3lFRWxSQXRqSkZXaXFXNE42TzkycUY3dUFLYzZkVnZ6MTBDVG56MXBfS3NDclN0MEI3enJSYzB3aVlHSFlLTXZCZ05iYVlRdy1KMXEzMVh5YzFKM1VoYW5OZFM1QzhJYVVHejBvemNidXFqQlRWV3JwSG1taUd1YVBLSE9uSTVJazZCeFYtd1BPR2p0T25GTGJwUHpVSkNEbWZNcDl3WFNmREVoSUE3Ulh0alhSS3FSNXZqbjc0NVFpOUVMT2tX?oc=5\" target=\"_blank\"&gt;Three more US passengers from hantavirus-hit ship return to home states&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Reuters&lt;/font&gt;",
-      "publisher": "Reuters",
-      "published_at": "2026-06-09T14:35:45.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1lLVWVPWDdfX3lFRWxSQXRqSkZXaXFXNE42TzkycUY3dUFLYzZkVnZ6MTBDVG56MXBfS3NDclN0MEI3enJSYzB3aVlHSFlLTXZCZ05iYVlRdy1KMXEzMVh5YzFKM1VoYW5OZFM1QzhJYVVHejBvemNidXFqQlRWV3JwSG1taUd1YVBLSE9uSTVJazZCeFYtd1BPR2p0T25GTGJwUHpVSkNEbWZNcDl3WFNmREVoSUE3Ulh0alhSS3FSNXZqbjc0NVFpOUVMT2tX?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.627Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 804,
-      "headline": "Three more US passengers from hantavirus-hit ship return to home states - Yahoo",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjlUdFZraWhqcm5Ka3hFOHdoVE9Obk5SYm04QUthLWFIeXBuVDFVazRZUnJSOE5UZ3JPa3UyMUVsVXhyUk02OVotT2JGMkZuMTB6X2poZnBOU2ZzNWFoQ2FVNEVtQUhQbTF3RTFQYXMwUjB4bVAzQ3hwZmpRNUgwZzBUZV81Y1ZQUFljTXpET3pSTjA?oc=5\" target=\"_blank\"&gt;Three more US passengers from hantavirus-hit ship return to home states&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
-      "publisher": "Yahoo",
-      "published_at": "2026-06-09T14:34:32.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjlUdFZraWhqcm5Ka3hFOHdoVE9Obk5SYm04QUthLWFIeXBuVDFVazRZUnJSOE5UZ3JPa3UyMUVsVXhyUk02OVotT2JGMkZuMTB6X2poZnBOU2ZzNWFoQ2FVNEVtQUhQbTF3RTFQYXMwUjB4bVAzQ3hwZmpRNUgwZzBUZV81Y1ZQUFljTXpET3pSTjA?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:16.772Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 795,
-      "headline": "Three more US passengers from hantavirus-hit ship return to home states - TradingView",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWkxVSWZRTjNwTXNIUnhZdW9RNUM0aGhLOHd5dGtxUERzUXA5aDE5UW44aUg5ZE5yWXhjODNHMmZuQjRqY3NJM3FWcGJpdmhrM2xpRnMxb3BZejZaWGMwYVFEWTRzWVRuZEdNVGMyZUFxckpZcFZhXzlKY3ZFR0ZMUDNTblFqWXlna1ZsbjJTVFJZaW1CTFM3cTA2S2FMeHA0Mk9sdlFvWU94WHJMTFctYVVxTUx2Y3g1VFB3cm5TbWo3cDVadEc4TnFmZnVZSHdPamlISkIwRVU?oc=5\" target=\"_blank\"&gt;Three more US passengers from hantavirus-hit ship return to home states&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TradingView&lt;/font&gt;",
-      "publisher": "TradingView",
-      "published_at": "2026-06-09T14:33:28.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWkxVSWZRTjNwTXNIUnhZdW9RNUM0aGhLOHd5dGtxUERzUXA5aDE5UW44aUg5ZE5yWXhjODNHMmZuQjRqY3NJM3FWcGJpdmhrM2xpRnMxb3BZejZaWGMwYVFEWTRzWVRuZEdNVGMyZUFxckpZcFZhXzlKY3ZFR0ZMUDNTblFqWXlna1ZsbjJTVFJZaW1CTFM3cTA2S2FMeHA0Mk9sdlFvWU94WHJMTFctYVVxTUx2Y3g1VFB3cm5TbWo3cDVadEc4TnFmZnVZSHdPamlISkIwRVU?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.905Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 785,
-      "headline": "Hantavirus Outbreak Highlights the Importance of One Health - Medscape",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnpFX3k2SG00SGktek1Gbnk5QUpOZE9WNFhranhkYS1xUGpfRkE5Y0JXRlpLaWl2dHZtOGt1TjhMZWpnYnJGRTlIYjlTdzlhRHphVjJDRHUxOVVEYXNYdl9mcTUwVFlMeGhaWnJqd0l6NzRXWS14OWRJUkZvcHBMOTNNakpoM0J3bFVCZUpFS1U3S1M0NHM2aUUzS1FXbWoxTlg2Rw?oc=5\" target=\"_blank\"&gt;Hantavirus Outbreak Highlights the Importance of One Health&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Medscape&lt;/font&gt;",
-      "publisher": "Medscape",
-      "published_at": "2026-06-09T12:56:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnpFX3k2SG00SGktek1Gbnk5QUpOZE9WNFhranhkYS1xUGpfRkE5Y0JXRlpLaWl2dHZtOGt1TjhMZWpnYnJGRTlIYjlTdzlhRHphVjJDRHUxOVVEYXNYdl9mcTUwVFlMeGhaWnJqd0l6NzRXWS14OWRJUkZvcHBMOTNNakpoM0J3bFVCZUpFS1U3S1M0NHM2aUUzS1FXbWoxTlg2Rw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.327Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 787,
-      "headline": "HMS Medway helps prevent hantavirus outbreak on UK's most remote overseas territory - Forces News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPamVnQlgtZ2ZyMkFLend5U3BHaEo3UkYza3ZQNFhVbkdGaXBPRWhvS0s1OFRwcnpZcWkzVVhQUHVNZTNkSG9qZl8yOFZZTk5acGFMNkRIUVJ3LXBwWDB3NnotTVlZSG1SY0o0MVA5OXdMWTBqR2hPNmxzR3pIUEpzOWtqRUxMenNIc1pxWkIxcFVnMDNmbGczUmtoTXBVd2RGTlNSdWg2aFhoN2ZXdk9qeTNRX0ZRcE55Q3hiWg?oc=5\" target=\"_blank\"&gt;HMS Medway helps prevent hantavirus outbreak on UK's most remote overseas territory&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Forces News&lt;/font&gt;",
-      "publisher": "Forces News",
-      "published_at": "2026-06-09T12:55:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPamVnQlgtZ2ZyMkFLend5U3BHaEo3UkYza3ZQNFhVbkdGaXBPRWhvS0s1OFRwcnpZcWkzVVhQUHVNZTNkSG9qZl8yOFZZTk5acGFMNkRIUVJ3LXBwWDB3NnotTVlZSG1SY0o0MVA5OXdMWTBqR2hPNmxzR3pIUEpzOWtqRUxMenNIc1pxWkIxcFVnMDNmbGczUmtoTXBVd2RGTlNSdWg2aFhoN2ZXdk9qeTNRX0ZRcE55Q3hiWg?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.505Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 798,
-      "headline": "B.C. health officials say Canadian who tested positive for hantavirus has recovered - Global News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0tVWVuZHpOMHNxczUtZXdab01WSXRSSVZNRnlRZzk3Wi1QRjJjN0hNOHB4S0JKUTB4TkpnSDJtV3gxWlF2dm1RRmZzUDB4SHM5STlVRHlJTW9BOHllUkx0MVFIQi1JYnA1Rnp4MQ?oc=5\" target=\"_blank\"&gt;B.C. health officials say Canadian who tested positive for hantavirus has recovered&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Global News&lt;/font&gt;",
-      "publisher": "Global News",
-      "published_at": "2026-06-09T12:36:22.000Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tVWVuZHpOMHNxczUtZXdab01WSXRSSVZNRnlRZzk3Wi1QRjJjN0hNOHB4S0JKUTB4TkpnSDJtV3gxWlF2dm1RRmZzUDB4SHM5STlVRHlJTW9BOHllUkx0MVFIQi1JYnA1Rnp4MQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:11.032Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 786,
-      "headline": "Canadian who tested positive for hantavirus on cruise ship has recovered - Global News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPRDh1UC02bzBibDdxRDdZWTJ2QWxpUXNEcXlhQmh4UldhX214ZlFBUmNsWVRzeXpFYUdCaW12UXpQVHpzcjNjZ1NJTHFJVGlOcU1iOEtHM0dyX1U5cDBmZnpweWpYWC11ZTBzU0dtV3NnVVdYbFlHVEg4QVh4ZWU0dkNEQUJnTWlCWFdLRGZOWDhFR051SXNwUzRn?oc=5\" target=\"_blank\"&gt;Canadian who tested positive for hantavirus on cruise ship has recovered&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Global News&lt;/font&gt;",
-      "publisher": "Global News",
-      "published_at": "2026-06-09T12:25:15.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRDh1UC02bzBibDdxRDdZWTJ2QWxpUXNEcXlhQmh4UldhX214ZlFBUmNsWVRzeXpFYUdCaW12UXpQVHpzcjNjZ1NJTHFJVGlOcU1iOEtHM0dyX1U5cDBmZnpweWpYWC11ZTBzU0dtV3NnVVdYbFlHVEg4QVh4ZWU0dkNEQUJnTWlCWFdLRGZOWDhFR051SXNwUzRn?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.432Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 810,
-      "headline": "Vaccines and therapeutics for Andes hantavirus - Nature",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sVTRNZ1NPclZYX0IyTlBtQ3d0MkZSZHNTZV82dVJzNGFzZ09QOWhQeGVtdmI2U3RyZnN4dmRiZVg2SGI4bUUta0FkS0s4ek9IRnNQMV92Q2NLV2xpcUlr?oc=5\" target=\"_blank\"&gt;Vaccines and therapeutics for Andes hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Nature&lt;/font&gt;",
-      "publisher": "Nature",
-      "published_at": "2026-06-09T09:57:52.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sVTRNZ1NPclZYX0IyTlBtQ3d0MkZSZHNTZV82dVJzNGFzZ09QOWhQeGVtdmI2U3RyZnN4dmRiZVg2SGI4bUUta0FkS0s4ek9IRnNQMV92Q2NLV2xpcUlr?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-10T09:52:17.275Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 751,
-      "headline": "In the news today: MPs plan Taiwan trip, B.C. hantavirus recovery, Energy show begins - thecanadianpressnews.ca",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPM1gteWRJb0g2TlAxelhIVVl0ZzA3TUgzYTNtYlQ2dVpuYkFabmwxWHNPUXc4MzFtaFRRSkpkdHllNVdMQ1FsaDFxeUJoakRPX1dmaHBOX1ZfS0dqa0NKMFJXbi14dElhZkMzV3hhRUlEc0hVZzlMeEN3bWdGVjVpVXhIRU9tcDBiLVdlWXBvVG5tZWVFTG41VWdsRWUwYm54M1V0TnlpNkdsWEI1ZlVDeWs2S0kzUjN1ZzdRd3RMSE9kV05PMkx1cEhhWFhrUEUxWUFMdzlKRFRvYWVHalQ2Mmhlbl9pY0x1MllBMkUzb2NSajdEX09kcmJHUEdaWTRYV01BYjBNQQ?oc=5\" target=\"_blank\"&gt;In the news today: MPs plan Taiwan trip, B.C. hantavirus recovery, Energy show begins&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;thecanadianpressnews.ca&lt;/font&gt;",
-      "publisher": "thecanadianpressnews.ca",
-      "published_at": "2026-06-09T08:03:26.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM1gteWRJb0g2TlAxelhIVVl0ZzA3TUgzYTNtYlQ2dVpuYkFabmwxWHNPUXc4MzFtaFRRSkpkdHllNVdMQ1FsaDFxeUJoakRPX1dmaHBOX1ZfS0dqa0NKMFJXbi14dElhZkMzV3hhRUlEc0hVZzlMeEN3bWdGVjVpVXhIRU9tcDBiLVdlWXBvVG5tZWVFTG41VWdsRWUwYm54M1V0TnlpNkdsWEI1ZlVDeWs2S0kzUjN1ZzdRd3RMSE9kV05PMkx1cEhhWFhrUEUxWUFMdzlKRFRvYWVHalQ2Mmhlbl9pY0x1MllBMkUzb2NSajdEX09kcmJHUEdaWTRYV01BYjBNQQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.215Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 744,
-      "headline": "Defence Medics parachute into Tristan da Cunha to treat hantavirus patient - GOV.UK",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNLXNOVl9GemNERVZncV95eDZHVFNDNHdKUjVTUUxSMVRkTnpmWGdVQ1VuZnU5a2xmaEhfeGh1aWxaeWhtMVFIWHRjVGlyY1RCc2NqQUN4d1p2czNLcEVpQ0g4VmRqX2NmZkZjSVJhbkxfWml4bU9seGtfMExlcVd6OUVBOWN0b21iOE5ranhJVWttR1hJcFBkdUs5a3RORWRRcFVJTlNUN2xjajVsZWc?oc=5\" target=\"_blank\"&gt;Defence Medics parachute into Tristan da Cunha to treat hantavirus patient&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;GOV.UK&lt;/font&gt;",
-      "publisher": "GOV.UK",
-      "published_at": "2026-06-09T08:00:01.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLXNOVl9GemNERVZncV95eDZHVFNDNHdKUjVTUUxSMVRkTnpmWGdVQ1VuZnU5a2xmaEhfeGh1aWxaeWhtMVFIWHRjVGlyY1RCc2NqQUN4d1p2czNLcEVpQ0g4VmRqX2NmZkZjSVJhbkxfWml4bU9seGtfMExlcVd6OUVBOWN0b21iOE5ranhJVWttR1hJcFBkdUs5a3RORWRRcFVJTlNUN2xjajVsZWc?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.209Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 743,
-      "headline": "New Sequencing Method Improves Hantavirus Tracking - Technology Networks",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWh0X0J6eWs0QWY4ckZ4YUhzWTJ5V0tyZ2c5R1lDUFlmNmJmb1JTRm0tbmZuTTByQWRoNGd3b2E1TUtybkVudWlGSm9pejNrVUxMUkZVY2RKMzd4MGRCTGxFVGt1bVJJOFBWdC05NlFtUXhzcjZxQjBPdEJjOXcwYUFvTEpJcl82WElfUl8xaXB4cFd0X2RCMkNfWTdQWDNfQkdKMklqRi1ZSmlG?oc=5\" target=\"_blank\"&gt;New Sequencing Method Improves Hantavirus Tracking&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Technology Networks&lt;/font&gt;",
-      "publisher": "Technology Networks",
-      "published_at": "2026-06-09T07:40:34.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWh0X0J6eWs0QWY4ckZ4YUhzWTJ5V0tyZ2c5R1lDUFlmNmJmb1JTRm0tbmZuTTByQWRoNGd3b2E1TUtybkVudWlGSm9pejNrVUxMUkZVY2RKMzd4MGRCTGxFVGt1bVJJOFBWdC05NlFtUXhzcjZxQjBPdEJjOXcwYUFvTEpJcl82WElfUl8xaXB4cFd0X2RCMkNfWTdQWDNfQkdKMklqRi1ZSmlG?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.208Z",
-      "mentioned_states": []
     }
   ],
   "targetStates": [
