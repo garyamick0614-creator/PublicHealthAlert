@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-10T21:50:24.146Z",
+  "generatedAt": "2026-06-11T09:53:17.925Z",
   "lastRun": {
-    "ts": "2026-06-10T21:50:24.138Z",
+    "ts": "2026-06-11T09:53:17.854Z",
     "source_kind": "news",
-    "items_inserted": 9,
-    "items_skipped": 319,
+    "items_inserted": 25,
+    "items_skipped": 296,
     "error_message": null
   },
   "totals": {
@@ -423,6 +423,74 @@
   ],
   "recentNews": [
     {
+      "id": 860,
+      "headline": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
+      "body_md": "[Skip to main content](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON604#content)\n\n## Disease Outbreak News\n\n# Hantavirus outbreak linked to cruise ship travel, Multi-locations\n\n28 May 2026\n\n[See all DONs related to this event](https://www.who.int/emergencies/emergency-events/item/2026-e000227)\n\n[Read more about Hantavirus](https://www.who.int/health-topics/hantavirus)\n\n### Situation at a glance\n\nThis is the fourth Disease Outbreak News report on the Andes hantavirus outbreak linked to cruise ship travel, following the notification to the World Health Organization (WHO) on 2 May 2026 of severe respiratory illness cases aboard M/V Hondius, a cruise ship. Since the last DON was published on 13 May, three additional confirmed cases were reported, from Canada, the Netherlands, and Spain. The previously reported inconclusive case from the United States of America was subsequently determined to be negative following further laboratory testing and has been removed from the total case count. All cases to date have been passengers or crew members on the ship. As of 27 May, a total of 13 cases, including three deaths, have been reported (case fatality ratio 23%). Eleven cases have been laboratory-confirmed for Andes virus (ANDV) infection, and two are probable cases. Given the long incubation period of up to six weeks, it is not unexpected that cases continue to be reported until the end of the six weeks since last exposure.\n\nThrough the International Health Regulations (2005) (IHR) channels, National IHR Focal Points (NFPs) have all been informed and are supporting international contact tracing and monitoring efforts. WHO has assessed the risk posed by this event to the global population as low and will continue to monitor the epidemiological situation and update the risk assessment as needed.\n\n\n### Description of the situation\n\nOn 2 May 2026, WHO received notification from the IHR NFP of the United Kingdom of Great Britain and Northern Ireland (hereafter referred to as the United Kingdom) regarding a cluster of severe acute respiratory illness, including two deaths and one critically ill passenger, aboard the Netherlands-flagged cruise ship M/V Hondius.\n\nAs of 27 May, a total of 13 cases (eleven confirmed and two probable cases), including three deaths (two confirmed and one probable), have been reported. Since the last [Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601) was published on 13 May, three additional confirmed cases have been reported among passengers or crew members, one each from Canada, the Netherlands, and Spain. The case in Canada developed symptoms during contact follow-up, whereas the cases in the Netherlands and Spain were identified through routine weekly testing of high-risk contacts during follow-up. The previously reported inconclusive case from the United States of America was subsequently determined to be negative following further laboratory testing and has been removed from the total count on 15 May. All confirmed cases are among people who travelled onboard the M/V Hondius.\n\n**Figure 1. Epidemiological curve of Andes hantavirus cases (n = 13) reported to WHO as of 27 May 2026, 17:00.**\n\n![Hantavirus outbreak Epi curve](https://cdn.who.int/media/images/default-source/products/disease-outbreak-news/hantavirus-outbreak-epi-curvef3430263-0740-4ff3-95eb-5a3e950a0092.png?sfvrsn=80f4e86b_3)\n\nBased on currently available information, the working hypothesis is that the first case acquired the infection prior to boarding the cruise, through exposure on land. Investigations are ongoing to elucidate the potential circumstances of exposure and the source of the outbreak, in collaboration with authorities in Argentina and Chile, however, the time between the individual’s visit to Chile and the onset of symptoms exceeds the maximum incubation period. Therefore, based on the information currently available, exposure in Chile can be ruled out. Current evidenc",
+      "publisher": "who.int",
+      "published_at": null,
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON604",
+      "mentioned_states_json": "[\"WA\"]",
+      "fetched_at": "2026-06-11T09:53:11.056Z",
+      "mentioned_states": [
+        "WA"
+      ]
+    },
+    {
+      "id": 839,
+      "headline": "White House's response to hantavirus and Ebola is at odds with COVID criticisms - KNAU",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNdU1qeklnRUdKY1F0b2FyR3NDRDRJLTNVOXI1M3JHc2hEczdXdERaSGFMelRDa3lRMVNLNzFIQlZCekNjY0dMOUZ3dFh5eGo5NVNfUXhuVHdOSHk4TTlmalF2Q1N0RU4temwwX3VPSVVXclZKMGRzOXItVTZDejJsT205Q0ZIZ19lckNRX0luNWVIT1FaQ00yeXRSTUtTV1JUOWtqWjlDNlpOQzV1ZlpR?oc=5\" target=\"_blank\"&gt;White House's response to hantavirus and Ebola is at odds with COVID criticisms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KNAU&lt;/font&gt;",
+      "publisher": "KNAU",
+      "published_at": "2026-06-11T08:47:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdU1qeklnRUdKY1F0b2FyR3NDRDRJLTNVOXI1M3JHc2hEczdXdERaSGFMelRDa3lRMVNLNzFIQlZCekNjY0dMOUZ3dFh5eGo5NVNfUXhuVHdOSHk4TTlmalF2Q1N0RU4temwwX3VPSVVXclZKMGRzOXItVTZDejJsT205Q0ZIZ19lckNRX0luNWVIT1FaQ00yeXRSTUtTV1JUOWtqWjlDNlpOQzV1ZlpR?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T09:53:07.331Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 843,
+      "headline": "Hantavirus: UK Reports Confirmed Case in Tristan da Cunha, Says WHO Chief - Health and Me",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZFJydEtpdXpFazcxN3lMbDBzV3FrcXdHRkh5YU5hYUhiUGZxaDlBLVBnY0dQZU5pbEk0dXdfa2NIRnhiSF9TeFZVaFBFTEozRVJTcFpYdDFhVjBULXFueWhIVW5OeF9TSGJBX2RTQ0lFUER6YlU5eWRKT1dxcFh2a1JpSk1iWUxoQWpOUnY1bGpjQWJ2X19wS0UyTUhPWnpuNlBYMlRHUV80bC1rdk5penNCN0RtaThreUxhY2U4eDlpWEEwdlladg?oc=5\" target=\"_blank\"&gt;Hantavirus: UK Reports Confirmed Case in Tristan da Cunha, Says WHO Chief&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Health and Me&lt;/font&gt;",
+      "publisher": "Health and Me",
+      "published_at": "2026-06-11T07:30:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZFJydEtpdXpFazcxN3lMbDBzV3FrcXdHRkh5YU5hYUhiUGZxaDlBLVBnY0dQZU5pbEk0dXdfa2NIRnhiSF9TeFZVaFBFTEozRVJTcFpYdDFhVjBULXFueWhIVW5OeF9TSGJBX2RTQ0lFUER6YlU5eWRKT1dxcFh2a1JpSk1iWUxoQWpOUnY1bGpjQWJ2X19wS0UyTUhPWnpuNlBYMlRHUV80bC1rdk5penNCN0RtaThreUxhY2U4eDlpWEEwdlladg?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T09:53:07.884Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 841,
+      "headline": "From Hantavirus to Ebola, pandemic preparedness must become broader - The Indian Express",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkRpcUMzZHQ4SXV1N1BGS3BTVThJeHNfUmJOSF81ekxBV01VUThqM3NIWlE3WTNjbXZDTWY5bVZaZ1JOdVpJYzZ2R0RlbTlSd04wdmMxZC1mMGZCYU03Rjh5NkE4TjhyZWNFcXN6N0c0eEluM2RpTmRZMUoxS1pVOGoyenFQMDROTFIyV0xxZFFWLWtZWFQzdDlqRFhKMmtzR0lRcU1aZlV5ODlZVzFDSTFYRmlYNEExOXRVZmQzcHc1NWNH0gHLAUFVX3lxTE0xaHE4bm4wYTZ5NEVTSmsydFdjeXhqVmFQNklLNmgzbFg0bXBZbERGczdyMk1JVGJUVWhRRS0yYzBVZUdjNl92YjdhZlgtbHRLOC1nTTFYT1pZWTRkTzVWbFI0V3o3TUJXbDhuOVdKZHFvdUFObVp5OTRmcG9TcEtRZkVpaWRIR1hQWDBfLXA2b2ZaSG51Y2oyTnBoTUNzd01xT0dLaXNaSW9TQjRhd1FnMW1wQkZRN19rY0c1RWl5a2llamphTUhRbkZn?oc=5\" target=\"_blank\"&gt;From Hantavirus to Ebola, pandemic preparedness must become broader&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Indian Express&lt;/font&gt;",
+      "publisher": "The Indian Express",
+      "published_at": "2026-06-11T00:50:16.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkRpcUMzZHQ4SXV1N1BGS3BTVThJeHNfUmJOSF81ekxBV01VUThqM3NIWlE3WTNjbXZDTWY5bVZaZ1JOdVpJYzZ2R0RlbTlSd04wdmMxZC1mMGZCYU03Rjh5NkE4TjhyZWNFcXN6N0c0eEluM2RpTmRZMUoxS1pVOGoyenFQMDROTFIyV0xxZFFWLWtZWFQzdDlqRFhKMmtzR0lRcU1aZlV5ODlZVzFDSTFYRmlYNEExOXRVZmQzcHc1NWNH0gHLAUFVX3lxTE0xaHE4bm4wYTZ5NEVTSmsydFdjeXhqVmFQNklLNmgzbFg0bXBZbERGczdyMk1JVGJUVWhRRS0yYzBVZUdjNl92YjdhZlgtbHRLOC1nTTFYT1pZWTRkTzVWbFI0V3o3TUJXbDhuOVdKZHFvdUFObVp5OTRmcG9TcEtRZkVpaWRIR1hQWDBfLXA2b2ZaSG51Y2oyTnBoTUNzd01xT0dLaXNaSW9TQjRhd1FnMW1wQkZRN19rY0c1RWl5a2llamphTUhRbkZn?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T09:53:07.339Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 838,
+      "headline": "San Quentin reports possible hantavirus case in inmate - San Francisco Chronicle",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHRkYUNVR2hQNXhZU3hYMlNOYUxoX05OSXpxdTZlRUtCRG8tYU5pejNReFp1M1JMNXNXa0tMb0otcms3UGtWN1pweE5yVVhhZExLN3FoMk1KRF9YcFdOc2ZJR2pEbjFGM2d3ZTB4N3c0T1VaSjRwXzhobGRQekwxRkxWMHl3UjhiNWhIUjVWYw?oc=5\" target=\"_blank\"&gt;San Quentin reports possible hantavirus case in inmate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;San Francisco Chronicle&lt;/font&gt;",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-06-10T23:33:22.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHRkYUNVR2hQNXhZU3hYMlNOYUxoX05OSXpxdTZlRUtCRG8tYU5pejNReFp1M1JMNXNXa0tMb0otcms3UGtWN1pweE5yVVhhZExLN3FoMk1KRF9YcFdOc2ZJR2pEbjFGM2d3ZTB4N3c0T1VaSjRwXzhobGRQekwxRkxWMHl3UjhiNWhIUjVWYw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T09:53:07.309Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 837,
+      "headline": "San Quentin Rehabilitation Center confirms 38-year-old male inmate contracted possible case of hantavirus - ABC7 Bay Area",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVlIWnRsUU1WUzR3dEY4VENxVXBqQzh1djVmQkFEQ1dtSUl2MTlPcnpyZWJSQTFNcU85bml0Mld2SVVodm9xWTVMeGIyMDlMbHJDcS1jMmdpZFNJQnl3Q0txMS1KQTdUVEJGMmRLZW5QUkxfenVfci1qcC1YNElMZkhWa3dXd1o3c3dmTEdYc2J1ZW5ueUwxSGE1Z0pPVlY3T1ZMMTFPbnFPZWRMVTNHMnJnclVGbkNTZGl0Y3hNZ3JyLUtoWFYxU3FiVHc1YUV2cEZNaNIB2gFBVV95cUxQMnZhOFZhTkdwekZRUWhnY0VUZEdGaG1TTFJ5bDVNdUZMaHBzNkozMjFreWVocHR4VUxLbThZMHhxOUdkSzBOWmxjMFpJSDkteXRObUlpbWRoYnU5cW9GcWZPUzhmc19sY3lHcmJRaU9vazlaMEwtUVppRWxjUnpKdnIzRmZBUGZ0UHJMNmN5TjRlTXRReGhlTE9yQ29WTmdXSmV1dXJjZDVOQjd1RDZtN2hRYlRvNGFfNFdnRDRzZkMzN3hoSWt0c2MzaGZLVVgtZWlGSE9USGtMdw?oc=5\" target=\"_blank\"&gt;San Quentin Rehabilitation Center confirms 38-year-old male inmate contracted possible case of hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ABC7 Bay Area&lt;/font&gt;",
+      "publisher": "ABC7 Bay Area",
+      "published_at": "2026-06-10T21:49:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVlIWnRsUU1WUzR3dEY4VENxVXBqQzh1djVmQkFEQ1dtSUl2MTlPcnpyZWJSQTFNcU85bml0Mld2SVVodm9xWTVMeGIyMDlMbHJDcS1jMmdpZFNJQnl3Q0txMS1KQTdUVEJGMmRLZW5QUkxfenVfci1qcC1YNElMZkhWa3dXd1o3c3dmTEdYc2J1ZW5ueUwxSGE1Z0pPVlY3T1ZMMTFPbnFPZWRMVTNHMnJnclVGbkNTZGl0Y3hNZ3JyLUtoWFYxU3FiVHc1YUV2cEZNaNIB2gFBVV95cUxQMnZhOFZhTkdwekZRUWhnY0VUZEdGaG1TTFJ5bDVNdUZMaHBzNkozMjFreWVocHR4VUxLbThZMHhxOUdkSzBOWmxjMFpJSDkteXRObUlpbWRoYnU5cW9GcWZPUzhmc19sY3lHcmJRaU9vazlaMEwtUVppRWxjUnpKdnIzRmZBUGZ0UHJMNmN5TjRlTXRReGhlTE9yQ29WTmdXSmV1dXJjZDVOQjd1RDZtN2hRYlRvNGFfNFdnRDRzZkMzN3hoSWt0c2MzaGZLVVgtZWlGSE9USGtMdw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T09:53:07.287Z",
+      "mentioned_states": []
+    },
+    {
       "id": 830,
       "headline": "Three more hantavirus cruise ship passengers cleared to leave Nebraska quarantine - WFAA",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZUFRamhFNnl0YVBpclE4SU9vMGJFVzM3aU5MVmVMZDBTTE9haUNNWHkxWmQxRTJQU3JKZjhNNlNXWHA0Szc5akh2WXJDa3k4RU84czRXNEt2Mk0yVnh5bktTMlM4eTl5bEluSmpXNGx2Y1ZkLVB5Tl9XWWN1S00xVUhxQUNIRHQwZ2F0QTR4eXVicE84TktLLWhiclF3WnczamR1Yl83MFRvQnlPVFBmSlo2OF9rOTRpWG9BR0dERTZJUm1JYW8zbzlRUGRnYTdxcENNUEx4aTBYcVVHZXNWTlJvRUF3bjR6XzExdHVha2U2SWlPTGc?oc=5\" target=\"_blank\"&gt;Three more hantavirus cruise ship passengers cleared to leave Nebraska quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WFAA&lt;/font&gt;",
@@ -453,6 +521,17 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRnp0NUxRWDdpX1Brc25MX01MUENXTkpFcm01dmdHNU9FMlpEbUhMWkRiWUh6ZDRQejlIWXRNaFpoMHlibXdkamFBNGtpRFFjVm81Sk80YjQ2TXRGdWVyREkwUXFZU2RxWS01VkFtR0d4NzdpT3NzQWRDeDlsUi04NWFqRDd0ZkJRYk0xWEs0U1diUWE1ek5RMjRhdndnZlRwTnBxUVNGcVNKRnNMZXhtS0pydWxodnpk?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-10T21:50:18.875Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 840,
+      "headline": "RE: ‘Halt the hantavirus hype’ - West Newsmagazine",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUThKVW1iTkl2Vy1PRHpURFJ4TXhTOGRUeFZRTERoZV9jR2NxeC1Pc05pSmJOdElUSnliTFd4RGFHRE1aZ3k4TEdrNUdQLXpDUkV1UUIyTGd1cE5FSWJlVlJaVGh5dG5udk9JbmROdDZqa1lmTVVzTlQ4dEM1Vl9ySExSS2tBZ1VVV1pONU9sUm1OV3lzdTRkOW4zRGNobjBvRTRoNDJyRGVlS0I5ajNlVldaSFltczFrRFE?oc=5\" target=\"_blank\"&gt;RE: ‘Halt the hantavirus hype’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;West Newsmagazine&lt;/font&gt;",
+      "publisher": "West Newsmagazine",
+      "published_at": "2026-06-10T15:18:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUThKVW1iTkl2Vy1PRHpURFJ4TXhTOGRUeFZRTERoZV9jR2NxeC1Pc05pSmJOdElUSnliTFd4RGFHRE1aZ3k4TEdrNUdQLXpDUkV1UUIyTGd1cE5FSWJlVlJaVGh5dG5udk9JbmROdDZqa1lmTVVzTlQ4dEM1Vl9ySExSS2tBZ1VVV1pONU9sUm1OV3lzdTRkOW4zRGNobjBvRTRoNDJyRGVlS0I5ajNlVldaSFltczFrRFE?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-11T09:53:07.336Z",
       "mentioned_states": []
     },
     {
@@ -912,83 +991,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWh0X0J6eWs0QWY4ckZ4YUhzWTJ5V0tyZ2c5R1lDUFlmNmJmb1JTRm0tbmZuTTByQWRoNGd3b2E1TUtybkVudWlGSm9pejNrVUxMUkZVY2RKMzd4MGRCTGxFVGt1bVJJOFBWdC05NlFtUXhzcjZxQjBPdEJjOXcwYUFvTEpJcl82WElfUl8xaXB4cFd0X2RCMkNfWTdQWDNfQkdKMklqRi1ZSmlG?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-09T09:54:34.208Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 747,
-      "headline": "Our View: Mohave County's first hantavirus case is a reminder, not a shock - The Kingman Daily Miner",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZjBhTDRHQjBOUTFMY09tbkdqdGUwRDBzWEFoZTZicl9pTlh3aFB4TllnOVM0b2hBLXFVTEl6eXZEdU5VQkFPYmtZeVJXNGRMcFVDNmFuRFBneEt3azNhQTktbkZlVFlBSHJVZkdLc3hfNWlMSkQ4ODhZT2R5VWlES0NlcGl6cTBzRW1YQ0xGZXQwTjdXQUZ5OTh0cE9qVkVXazdKdlVqQngwQkZKU2h4ZVQ0VTktazBGeFpHeHlwZ3YtbHM3al82ekI2bjRhbExEYnNvbHJFYnFWVERTZzRlMFhGR3o5dThn?oc=5\" target=\"_blank\"&gt;Our View: Mohave County's first hantavirus case is a reminder, not a shock&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Kingman Daily Miner&lt;/font&gt;",
-      "publisher": "The Kingman Daily Miner",
-      "published_at": "2026-06-09T07:15:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZjBhTDRHQjBOUTFMY09tbkdqdGUwRDBzWEFoZTZicl9pTlh3aFB4TllnOVM0b2hBLXFVTEl6eXZEdU5VQkFPYmtZeVJXNGRMcFVDNmFuRFBneEt3azNhQTktbkZlVFlBSHJVZkdLc3hfNWlMSkQ4ODhZT2R5VWlES0NlcGl6cTBzRW1YQ0xGZXQwTjdXQUZ5OTh0cE9qVkVXazdKdlVqQngwQkZKU2h4ZVQ0VTktazBGeFpHeHlwZ3YtbHM3al82ekI2bjRhbExEYnNvbHJFYnFWVERTZzRlMFhGR3o5dThn?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.212Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 741,
-      "headline": "B.C. health officials say Canadian who tested positive for hantavirus has recovered - Toronto Star",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQQVl6VmtPUW9JcFFkbEY2eEpUbEVWZ0ZldlIwcHNDQTAwQkFFZjd0bE9vNWVBOXdIeVpfWDA2Y3o4Z20tUXZTMkZac3BOcWd5VmJuX1ZTTWxtNjZzOVRDa1lNT0hkVl9IektTMjZaSk41Nk5MbXhleHJreGRaeGpQQ0xnZmxmbWlmMGcwS0lLMkNTOTNNRTJCdmpHUWl3MVJwVWJBYnU2c1VKdVl0Q0o2RVktUnhFUjEwVGt5RENaUnFhenVzeDg5Y3FqLXBjTVJ1clhpekNKZnlLcVlpTHBMc2pETm1UVS0xUnU2SnBWb0xrQ1BWYXc2UWZORHd2eHJVRHd5eEtMZnJ0NEdBMGkyRVNB?oc=5\" target=\"_blank\"&gt;B.C. health officials say Canadian who tested positive for hantavirus has recovered&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Toronto Star&lt;/font&gt;",
-      "publisher": "Toronto Star",
-      "published_at": "2026-06-09T04:46:39.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQVl6VmtPUW9JcFFkbEY2eEpUbEVWZ0ZldlIwcHNDQTAwQkFFZjd0bE9vNWVBOXdIeVpfWDA2Y3o4Z20tUXZTMkZac3BOcWd5VmJuX1ZTTWxtNjZzOVRDa1lNT0hkVl9IektTMjZaSk41Nk5MbXhleHJreGRaeGpQQ0xnZmxmbWlmMGcwS0lLMkNTOTNNRTJCdmpHUWl3MVJwVWJBYnU2c1VKdVl0Q0o2RVktUnhFUjEwVGt5RENaUnFhenVzeDg5Y3FqLXBjTVJ1clhpekNKZnlLcVlpTHBMc2pETm1UVS0xUnU2SnBWb0xrQ1BWYXc2UWZORHd2eHJVRHd5eEtMZnJ0NEdBMGkyRVNB?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.204Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 753,
-      "headline": "B.C. health officials say Canadian who tested positive for hantavirus has recovered - The Spec",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUl8wRy1XalVTd1VBQjBlY0RHenVKeVlvZFZxbDFsUmdBamRVeS1zY0pLaERNSzRSZ3E3VUYyODJCbEloTXIzY3Zydk8tQlBTSUw0S1E0emlWQWk0VTZ1MTM0LW9oR29EdGpDdTV4T0JBTlNNZlRKNFhKVWxIamVONWljanVTTGp6UktobXZxUlBTZFhFWWdXZ1JmVjJIZ3hwX3hBdnFEenVYSXRkS21OamdLeXVQN0lMdDlhcFlsNVNZTnZZRnR4ZG5oUENjNndkMU0zTFhzR09MUUpjc2FNUTRydmpnMVBrVzNpbXQzdkN0UFhyYU9iTUwzQQ?oc=5\" target=\"_blank\"&gt;B.C. health officials say Canadian who tested positive for hantavirus has recovered&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Spec&lt;/font&gt;",
-      "publisher": "The Spec",
-      "published_at": "2026-06-09T04:46:39.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUl8wRy1XalVTd1VBQjBlY0RHenVKeVlvZFZxbDFsUmdBamRVeS1zY0pLaERNSzRSZ3E3VUYyODJCbEloTXIzY3Zydk8tQlBTSUw0S1E0emlWQWk0VTZ1MTM0LW9oR29EdGpDdTV4T0JBTlNNZlRKNFhKVWxIamVONWljanVTTGp6UktobXZxUlBTZFhFWWdXZ1JmVjJIZ3hwX3hBdnFEenVYSXRkS21OamdLeXVQN0lMdDlhcFlsNVNZTnZZRnR4ZG5oUENjNndkMU0zTFhzR09MUUpjc2FNUTRydmpnMVBrVzNpbXQzdkN0UFhyYU9iTUwzQQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.217Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 739,
-      "headline": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say - CBC",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXpuNVc2MGJXU2pqY29Db0VyTVdOMW9ROGRPLUhXLVNnN3Y4anh5RzBMM3RvTTlEWTc5WXBmaktGS0NzRGdLblVZRmYyNnFBQS1UVjV2RVh0bkU5ejNfYk43c09aWjZwUzZST3RkM2h3ZkFMVUJELVVSajdYVU9heFlTM2pqdl9JV01ZdV9tYlpnQ1UtSm9qbjVjMGJMa2N6VV9odHdEVQ?oc=5\" target=\"_blank\"&gt;Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBC&lt;/font&gt;",
-      "publisher": "CBC",
-      "published_at": "2026-06-09T01:06:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXpuNVc2MGJXU2pqY29Db0VyTVdOMW9ROGRPLUhXLVNnN3Y4anh5RzBMM3RvTTlEWTc5WXBmaktGS0NzRGdLblVZRmYyNnFBQS1UVjV2RVh0bkU5ejNfYk43c09aWjZwUzZST3RkM2h3ZkFMVUJELVVSajdYVU9heFlTM2pqdl9JV01ZdV9tYlpnQ1UtSm9qbjVjMGJMa2N6VV9odHdEVQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.203Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 745,
-      "headline": "B.C.'s first hantavirus patient has recovered, discharged from hospital - Vancouver Sun",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmhpZVE4dXB6X1RqX2stbkVRUkJzNmczQXRyRlhZb2dNc3JBUF9DR2cyMXozUHdFZlpkUEh2NVJWVXlLRWYzM05jYnBtUTRNUGlGanNhSlVtU1JVLWFGeF9oWmFPaEdxOGoxVFdwelgzREJCaTRyV3BYeEU2YWZna3hNTTFPbDVYT0hkNm5UVllXME9oeUpj?oc=5\" target=\"_blank\"&gt;B.C.'s first hantavirus patient has recovered, discharged from hospital&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Vancouver Sun&lt;/font&gt;",
-      "publisher": "Vancouver Sun",
-      "published_at": "2026-06-09T00:45:22.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmhpZVE4dXB6X1RqX2stbkVRUkJzNmczQXRyRlhZb2dNc3JBUF9DR2cyMXozUHdFZlpkUEh2NVJWVXlLRWYzM05jYnBtUTRNUGlGanNhSlVtU1JVLWFGeF9oWmFPaEdxOGoxVFdwelgzREJCaTRyV3BYeEU2YWZna3hNTTFPbDVYT0hkNm5UVllXME9oeUpj?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.210Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 794,
-      "headline": "Two Texans cleared of hantavirus risk after period of isolation - HPPR",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmdLNkVsQzJ1eUlOMHZnMjJGZURXdktLUGtTc2FzcUZZTWg0QVljOE41VWo0QWlMMjhGWkJfV19HUDhuVFIwSE53NU5NRnRjQWd1a3NBZ2haUWJwajU2NVpSLTA2U0RGT2NYNklwS0phQXRnanpEZV9MSjczR0pNSTFvXzluRmh2OHRoV2dSQjhGMkJrMWFyOFpmSF9pSlI3b01BODlITmg?oc=5\" target=\"_blank\"&gt;Two Texans cleared of hantavirus risk after period of isolation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;HPPR&lt;/font&gt;",
-      "publisher": "HPPR",
-      "published_at": "2026-06-08T22:30:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmdLNkVsQzJ1eUlOMHZnMjJGZURXdktLUGtTc2FzcUZZTWg0QVljOE41VWo0QWlMMjhGWkJfV19HUDhuVFIwSE53NU5NRnRjQWd1a3NBZ2haUWJwajU2NVpSLTA2U0RGT2NYNklwS0phQXRnanpEZV9MSjczR0pNSTFvXzluRmh2OHRoV2dSQjhGMkJrMWFyOFpmSF9pSlI3b01BODlITmg?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T21:53:10.904Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 738,
-      "headline": "Doctor quarantining at home after being monitored for hantavirus in Omaha - KETV",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnhSTWd0em1nT1VvU3VxTUc3UV9acnJ3TlJzWTRvVmw0T2QzM09UMkJNR0p2d1Vqc3BiZmFpSUlmaElSeW52amFNTWdkVlh1ZG9pZWJfcW9ielVLZldlUVVabXFIYS0xdnBjTVF2STB4WlVFZmJPSTc1YlE3MHN6RFFmVXA0Yk9VYjdsdk1WTDYtZw?oc=5\" target=\"_blank\"&gt;Doctor quarantining at home after being monitored for hantavirus in Omaha&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KETV&lt;/font&gt;",
-      "publisher": "KETV",
-      "published_at": "2026-06-08T22:21:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnhSTWd0em1nT1VvU3VxTUc3UV9acnJ3TlJzWTRvVmw0T2QzM09UMkJNR0p2d1Vqc3BiZmFpSUlmaElSeW52amFNTWdkVlh1ZG9pZWJfcW9ielVLZldlUVVabXFIYS0xdnBjTVF2STB4WlVFZmJPSTc1YlE3MHN6RFFmVXA0Yk9VYjdsdk1WTDYtZw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-09T09:54:34.202Z",
       "mentioned_states": []
     }
   ],
