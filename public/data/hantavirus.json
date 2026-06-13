@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-13T09:53:51.214Z",
+  "generatedAt": "2026-06-13T21:53:08.459Z",
   "lastRun": {
-    "ts": "2026-06-13T09:53:51.204Z",
+    "ts": "2026-06-13T21:53:08.454Z",
     "source_kind": "news",
-    "items_inserted": 18,
-    "items_skipped": 282,
+    "items_inserted": 11,
+    "items_skipped": 289,
     "error_message": "firecrawl-search-skipped-quota-402"
   },
   "totals": {
@@ -423,6 +423,39 @@
   ],
   "recentNews": [
     {
+      "id": 981,
+      "headline": "Radboudumc lifts quarantine for some staff after hantavirus exposure - NL Times",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHFlUTRhWjROOTBJUjVoTXhIM1ZXMG1YNE1ybGJWYjVjc0NuZE0xVWl4bFdVUUQ1akJEWFd6NkxaNkxodE14Tmd3aG9PZXZzWk8xQU10LV9tQWd1XzMzNkdHTUxGZ2p1WVR6aTVNWXdqYU5wd1lmRVZ0Y2JfNEJpdVVhYTRPY0RRQWM4?oc=5\" target=\"_blank\"&gt;Radboudumc lifts quarantine for some staff after hantavirus exposure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NL Times&lt;/font&gt;",
+      "publisher": "NL Times",
+      "published_at": "2026-06-13T14:55:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHFlUTRhWjROOTBJUjVoTXhIM1ZXMG1YNE1ybGJWYjVjc0NuZE0xVWl4bFdVUUQ1akJEWFd6NkxaNkxodE14Tmd3aG9PZXZzWk8xQU10LV9tQWd1XzMzNkdHTUxGZ2p1WVR6aTVNWXdqYU5wd1lmRVZ0Y2JfNEJpdVVhYTRPY0RRQWM4?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T21:53:07.291Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 978,
+      "headline": "Rodents can spread hantavirus and spark fires in your HVAC if left ignored. Here’s how to protect your home - Yahoo! Finance Canada",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVdNaVJrbDFTS1I4d080bko4eUJNMXg3eFI4Qy13dk56eHBkR3FwT0w4d1RCMm96b2ZSMTlWYm51U0VnRFRjbjJ6MlBiUnB5ZVRKOWVycVNWeEFURElNcWJGck83T3lHNTduVDB0T1Voc1hrNGZ4UWliQndiUFFnZmE2UkxQek1wMXBxZDYybw?oc=5\" target=\"_blank\"&gt;Rodents can spread hantavirus and spark fires in your HVAC if left ignored. Here’s how to protect your home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo! Finance Canada&lt;/font&gt;",
+      "publisher": "Yahoo! Finance Canada",
+      "published_at": "2026-06-13T13:30:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVdNaVJrbDFTS1I4d080bko4eUJNMXg3eFI4Qy13dk56eHBkR3FwT0w4d1RCMm96b2ZSMTlWYm51U0VnRFRjbjJ6MlBiUnB5ZVRKOWVycVNWeEFURElNcWJGck83T3lHNTduVDB0T1Voc1hrNGZ4UWliQndiUFFnZmE2UkxQek1wMXBxZDYybw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T21:53:07.289Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 982,
+      "headline": "Tools to fight hantavirus show promise - Jamaica Gleaner",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTRKM014WGlnOTVfM09HV3lWMEVtY3RmSUJXc0JNRzRqNFNNRlhoVUxRSk5oNFZqNEdkZFp6c2NzMjFiUkFadzZSSkUzWEViYUM4d25SSlV2ek5iTkhSWEJwR1hUVHRRWThKVFBBQktDMUhXTmw1R3FWcWZGaWtTNlVrT2p2dk9yM3Y1Vw?oc=5\" target=\"_blank\"&gt;Tools to fight hantavirus show promise&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Jamaica Gleaner&lt;/font&gt;",
+      "publisher": "Jamaica Gleaner",
+      "published_at": "2026-06-13T10:03:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTRKM014WGlnOTVfM09HV3lWMEVtY3RmSUJXc0JNRzRqNFNNRlhoVUxRSk5oNFZqNEdkZFp6c2NzMjFiUkFadzZSSkUzWEViYUM4d25SSlV2ek5iTkhSWEJwR1hUVHRRWThKVFBBQktDMUhXTmw1R3FWcWZGaWtTNlVrT2p2dk9yM3Y1Vw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T21:53:07.292Z",
+      "mentioned_states": []
+    },
+    {
       "id": 961,
       "headline": "After hantavirus exposures, 3 Kansans complete observation period - The Topeka Capital-Journal",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUk1FVjZWWmx2YVFqUHFORzlOQ2cyUU4zQXQzNmJlYW9jSVJZRnJZcGN4VkFvZ1FpdEhURnROd2tYdEIyS0J5MWNKNmVYdlRYcm56XzdxTHNOTE01Y01JNUxDLXAxNkZXZWJOR01WY1hjYlMyRXp3LUIyYVRuRlVwckljNzR5cHJHVjhJZVZLUlB4U0F5TlZzZjZ6Q0ZzVFo1TFlmQ3ZWWGpKcDF2Rk80ZVpKRXpnWm5CVkx5RjNEQXBoYzFkR3V6RDMybFJ4dDZVQVhsaQ?oc=5\" target=\"_blank\"&gt;After hantavirus exposures, 3 Kansans complete observation period&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Topeka Capital-Journal&lt;/font&gt;",
@@ -489,6 +522,17 @@
       "mentioned_states": []
     },
     {
+      "id": 984,
+      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - KKCO 11 News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDNSN0UwS1pJSm1lVmV5OXEtdFh1V0M1bGo4eHpvRmc0anI4bzJxZXpLcFo2V2l4WjFHRVI0Y0c2b0VSVjZvTzgwYkFOaFduU0wwSXVHNmFDWTJiekRqSTAxcG51Y0ZiVEZfSEhEZ29IZ19JYTV6RzNNeVQ5MkktQnExdlB4bGh0ck8xcFBXUTlsZDQwS0FxcGJMdGp5SHF1SEZfSlU3YkpHaU90Wk9wZW96TURwb1FqeDVDZDVNUlpQU25OdlE?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KKCO 11 News&lt;/font&gt;",
+      "publisher": "KKCO 11 News",
+      "published_at": "2026-06-12T23:37:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDNSN0UwS1pJSm1lVmV5OXEtdFh1V0M1bGo4eHpvRmc0anI4bzJxZXpLcFo2V2l4WjFHRVI0Y0c2b0VSVjZvTzgwYkFOaFduU0wwSXVHNmFDWTJiekRqSTAxcG51Y0ZiVEZfSEhEZ29IZ19JYTV6RzNNeVQ5MkktQnExdlB4bGh0ck8xcFBXUTlsZDQwS0FxcGJMdGp5SHF1SEZfSlU3YkpHaU90Wk9wZW96TURwb1FqeDVDZDVNUlpQU25OdlE?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T21:53:07.294Z",
+      "mentioned_states": []
+    },
+    {
       "id": 968,
       "headline": "Officials say possible hantavirus case in San Quentin prison was false positive - The Daily Gazette",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaGJMemFEaFk1bjdGVkJpUkota3FQMHdVck5SbGthVUdMQlhXeFRzOW1oOVpmeWRnUnhEd2E1TXBYVEpxa2Y2cTJjMDNnRkFVUHp6LTE1Q0dXektXMmJvQXVvbFMxY1ROTjFmR04zT0NCbERYakxwa3RPXzV1dEJjU0Q5b0xLMGcwQ1ZmTHlDVm1PVHA5QmJJSFZFY0NPWV9xTWdPUktWMzlHTm92SXVkcU90VURvNXk5YWtqRGduckU1MUtxM1RJNG9jbkM2SGt2QzNuZjd0LWRHNEw1eG9YZ2p3THJBUEE3d21TaFRCY1VxX09zVHJpQWNn?oc=5\" target=\"_blank\"&gt;Officials say possible hantavirus case in San Quentin prison was false positive&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Daily Gazette&lt;/font&gt;",
@@ -508,6 +552,17 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVUphWkExMUJtNTZkNUVwRnh6VWRDbjJwTEp0bXBpUHpBd0lJVktuc0k0Y3lxNmtwRW5qcG9mVHBFejU0SjJsZE9LOU5rRXh3eHhwYjFjWEVDczMzTW9KU2MzZllWRWpqTU02YVBlYUcxX2NFV09SUEllQ3JJQWs2QWZKYVEyYm9hTEFVcmdmcEJKcUFGai1waTdKTUFFVW9UWmllSWlveV9wMWpPZnVBYWM3bTVGWWVjS3k0?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-13T09:53:49.991Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 979,
+      "headline": "Hantavirus ruled out for San Quentin inmate - Marin Independent Journal",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnp6V3hjV2pjNS1fR3VRSjZQMXBVY1ZVbGNEc2JNMWFwYzd2cV80ZllsQ1hyRmJva2dnWXhZMFlEWXFsZV9UNzdZZWpjeE9GYktMNkFqd2RlMWNfVzJsaE9vUkZVdU9pSWk4VmpXcGxkelRheHJDSGdvWkV1VTFtYWNuY1ZhQdIBiwFBVV95cUxPenF3Yzl2MHpQb09NMC1jVEZvVXRCcGdGWTFMcnlSMDF4ejdqUk1MeDh2Z0V3WXQ5bm1jRG1SRHJkSUpnVXEtcjVLVlFXdWJldW1vdWxtVHh6d0FzWXZnR3FfdlhkbkVYaHBVQ2c2NllrMmV0bjMxdTNsQ0lmekZfRno3c2tNZmVzdWtR?oc=5\" target=\"_blank\"&gt;Hantavirus ruled out for San Quentin inmate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Marin Independent Journal&lt;/font&gt;",
+      "publisher": "Marin Independent Journal",
+      "published_at": "2026-06-12T21:46:13.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnp6V3hjV2pjNS1fR3VRSjZQMXBVY1ZVbGNEc2JNMWFwYzd2cV80ZllsQ1hyRmJva2dnWXhZMFlEWXFsZV9UNzdZZWpjeE9GYktMNkFqd2RlMWNfVzJsaE9vUkZVdU9pSWk4VmpXcGxkelRheHJDSGdvWkV1VTFtYWNuY1ZhQdIBiwFBVV95cUxPenF3Yzl2MHpQb09NMC1jVEZvVXRCcGdGWTFMcnlSMDF4ejdqUk1MeDh2Z0V3WXQ5bm1jRG1SRHJkSUpnVXEtcjVLVlFXdWJldW1vdWxtVHh6d0FzWXZnR3FfdlhkbkVYaHBVQ2c2NllrMmV0bjMxdTNsQ0lmekZfRno3c2tNZmVzdWtR?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T21:53:07.290Z",
       "mentioned_states": []
     },
     {
@@ -552,6 +607,17 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0VLb0ZwU3dQck5Id0ZrdlFWQ0phM3NwZDl3amg3Nzg2dVNZcGhmMWQyMkdNQUp1ckZESHF6WExwZTNEazFkMU81M1JpRkphNUU1R1Z0UkpIX1k5Y0FGTTNxeG5EaUF4RE5OUWJyMmw0TzlYQXRlRVc2VUNjNXpFZmpBcFJ0cjZRYjNnRVBwNG5IX3JvWmZhSDhnMC1naThaZk54LUd1ZUlzZlNVZWctc1Z6TzI?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-12T21:58:11.097Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 983,
+      "headline": "No hantavirus found in Mendoza Province after tests - Buenos Aires Times",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzZ1SHNlcVpqUTY1ckFRV3FUeFVUaTVZN1ltZlVTdjdFVnZMQjdKeE40ZW42WnYzTzRSSnZuWTFNZExjRHJKYU13SDRqWEZIdmxMdGMzWEV1WjNBZ1BSR1dUVWJxSEg2NUtUdnBHS2lrTHZMV1RjYVBxQU85blRVNy1FUWhMREI3dDJWNjl5cEdodWhLQWdlaTJyNU11YWsxcWNpZUNSdno2YnlYaWVTMVpiVzJUWjBEWFFxbNIBwgFBVV95cUxNalNJcFROZVlwSmZXZmtUM1JkQWhGVUFxNDdqVGwwTTRMWTZXOGhacWI3VUN5Z0FPU2ZmVWdoTXNURjNLZjJvN2FXX3VOWFFYb2tWRWl1a25Ja3VyajJpVEJZbEhfMHloUFBPRXNTTHdFZFZrTHhfYndQeUZac0p6dHFhamhGX094QzBKN1g2bzZyOGdTT1JTZVNlOUwyM0pOOU44aHVkcVZxUGN6ZU9PM1Z2bVltLXpad3hEdVE3Zkd3Zw?oc=5\" target=\"_blank\"&gt;No hantavirus found in Mendoza Province after tests&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Buenos Aires Times&lt;/font&gt;",
+      "publisher": "Buenos Aires Times",
+      "published_at": "2026-06-12T19:54:27.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzZ1SHNlcVpqUTY1ckFRV3FUeFVUaTVZN1ltZlVTdjdFVnZMQjdKeE40ZW42WnYzTzRSSnZuWTFNZExjRHJKYU13SDRqWEZIdmxMdGMzWEV1WjNBZ1BSR1dUVWJxSEg2NUtUdnBHS2lrTHZMV1RjYVBxQU85blRVNy1FUWhMREI3dDJWNjl5cEdodWhLQWdlaTJyNU11YWsxcWNpZUNSdno2YnlYaWVTMVpiVzJUWjBEWFFxbNIBwgFBVV95cUxNalNJcFROZVlwSmZXZmtUM1JkQWhGVUFxNDdqVGwwTTRMWTZXOGhacWI3VUN5Z0FPU2ZmVWdoTXNURjNLZjJvN2FXX3VOWFFYb2tWRWl1a25Ja3VyajJpVEJZbEhfMHloUFBPRXNTTHdFZFZrTHhfYndQeUZac0p6dHFhamhGX094QzBKN1g2bzZyOGdTT1JTZVNlOUwyM0pOOU44aHVkcVZxUGN6ZU9PM1Z2bVltLXpad3hEdVE3Zkd3Zw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T21:53:07.293Z",
       "mentioned_states": []
     },
     {
@@ -708,6 +774,17 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTZzZ3dWSjBDVTdkRUF0b3doMlVablZRSF8ycXZ0Q3Z5cFM0N0RuOTEzZXgzX3ZFbGRJSWJKRzE5TzRTNWg1WGVoYVU3RmhqbDk2SGFmOU9QTzBlQ2FkRWFqVnJpdHdyTUtwRFllb3hqTWZ3ZU1obWJOTUZqaDVLdld4b21EN1Z0cXJ5YXhLVGJBQ21aRzZ0ZWpfbEZ0UQ?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-12T21:58:12.040Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 980,
+      "headline": "San Quentin prison reports possible hantavirus case - The Mercury News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1BmZDdZa0hkSGFNUGdEWEY0cjh5TTFSbmI0bzAxSWhxMHUzM0tzUVU0VDJFS3BuTGhhcmZjWkV0bE9JblFDZlRIcTdsdXM1SVcyenphQ2R3MlRiQ0hxVC15T1poM1BVQjU2QkQ1YnZtUE1tMnFtakxZaTIxS0JSb0Y5NjBMZ0hibV95Qm9XTkR5NVduSXfSAZsBQVVfeXFMTkh1UnYtZXZxeEluU09hSlBJM1dWMHB3T3k0ZTJxWlFYXzY1TElRNlJGSXlfLXpwR0c0a1RnbURSRWF0SVBibHBKT1JkOWRSQmlsYmFYazYtd3E1NWw1bGFXSEJCeU9UcTNYb25TLS1PazRzeUNaLXBQU191WnhpMllQcVhlVld2NEc1T1llejVQMkNMREMxTWloRk0?oc=5\" target=\"_blank\"&gt;San Quentin prison reports possible hantavirus case&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Mercury News&lt;/font&gt;",
+      "publisher": "The Mercury News",
+      "published_at": "2026-06-12T12:25:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1BmZDdZa0hkSGFNUGdEWEY0cjh5TTFSbmI0bzAxSWhxMHUzM0tzUVU0VDJFS3BuTGhhcmZjWkV0bE9JblFDZlRIcTdsdXM1SVcyenphQ2R3MlRiQ0hxVC15T1poM1BVQjU2QkQ1YnZtUE1tMnFtakxZaTIxS0JSb0Y5NjBMZ0hibV95Qm9XTkR5NVduSXfSAZsBQVVfeXFMTkh1UnYtZXZxeEluU09hSlBJM1dWMHB3T3k0ZTJxWlFYXzY1TElRNlJGSXlfLXpwR0c0a1RnbURSRWF0SVBibHBKT1JkOWRSQmlsYmFYazYtd3E1NWw1bGFXSEJCeU9UcTNYb25TLS1PazRzeUNaLXBQU191WnhpMllQcVhlVld2NEc1T1llejVQMkNMREMxTWloRk0?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T21:53:07.291Z",
       "mentioned_states": []
     },
     {
@@ -901,83 +978,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREZwenlxWUJxY1dMX1VHdjE0ZjRLOHZXVmlYTVBnY0MxYWFVRG5UZWM4a05oNGRqcjFvSi0wUUpBT1lZWmd5bHBMQlppX21reWI5R3FWcDc1M1RDcTEzOTJIRnl0cmZZdmlTVGtJTGppT1JUVFpGUVlYRWo1bTZRZjVLZFZJUQ?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-11T21:53:06.820Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 888,
-      "headline": "San Quentin confirms 38-year-old male inmate contracted possible case of hantavirus - Yahoo",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGJfc0Yzcy1LeDc0V19aM3l4VmlXYkxtLUcyZVFSNnlDNVVmMk9mQk5xZENORVN4RVNDN241TWpFY3NJT3d5dmxPQ1JDQ0V2NlQxdkpsNzFnM0tDcHEyaE5VNm9qXzJkRnlEMDltUjYzaXpoX1ZHemVwZ0ZYV1NjUjhqQzBCNmU0?oc=5\" target=\"_blank\"&gt;San Quentin confirms 38-year-old male inmate contracted possible case of hantavirus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
-      "publisher": "Yahoo",
-      "published_at": "2026-06-11T20:25:21.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGJfc0Yzcy1LeDc0V19aM3l4VmlXYkxtLUcyZVFSNnlDNVVmMk9mQk5xZENORVN4RVNDN241TWpFY3NJT3d5dmxPQ1JDQ0V2NlQxdkpsNzFnM0tDcHEyaE5VNm9qXzJkRnlEMDltUjYzaXpoX1ZHemVwZ0ZYV1NjUjhqQzBCNmU0?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.825Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 878,
-      "headline": "Prisoner at San Quentin may have hantavirus, authorities say - The Independent",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeDlfWmVvd0tqMkhuRXJ6SHZCTm5mOEk1R2lheDhIYVBIckk0b0tuR3NqYnQ1Mml1TnVnbldaRmd5VXNwb09qZ0EwdDQyU2JQMXl3a0E0UUdCb0JNcVFSMWdhZllfTU9UenBLQnZzb2lmZmV0Y2MyMllETUk2WGNqNkNxenIwbVF4VV82NUpwN3Qzb2lUMUJOaUFmbzNhQQ?oc=5\" target=\"_blank\"&gt;Prisoner at San Quentin may have hantavirus, authorities say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Independent&lt;/font&gt;",
-      "publisher": "The Independent",
-      "published_at": "2026-06-11T20:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDlfWmVvd0tqMkhuRXJ6SHZCTm5mOEk1R2lheDhIYVBIckk0b0tuR3NqYnQ1Mml1TnVnbldaRmd5VXNwb09qZ0EwdDQyU2JQMXl3a0E0UUdCb0JNcVFSMWdhZllfTU9UenBLQnZzb2lmZmV0Y2MyMllETUk2WGNqNkNxenIwbVF4VV82NUpwN3Qzb2lUMUJOaUFmbzNhQQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.818Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 868,
-      "headline": "Kylie Kelce Bleaches House After Hantavirus Fears - Yahoo",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0phdjI3aElVN1ZoWXRENGpCd0JNM2wweGNvXzBUR19TOGVQVTQyeXhDdjFneHY1c01yMENsQXJrY0ZzQS11Ukdlc1Zkbk8xb0d2MjEzTGFUSkh5M3dqTnVmZWM3c2V5bGdtRWMzOXM3SGJKcl9ZcTJYTi02SExDNUlKNVpNUHdhTHhoeHQ1UC1nZjFSeXE3QlFLNWN4QXhGZmlBMjRiX0JMeVk?oc=5\" target=\"_blank\"&gt;Kylie Kelce Bleaches House After Hantavirus Fears&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
-      "publisher": "Yahoo",
-      "published_at": "2026-06-11T20:22:21.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0phdjI3aElVN1ZoWXRENGpCd0JNM2wweGNvXzBUR19TOGVQVTQyeXhDdjFneHY1c01yMENsQXJrY0ZzQS11Ukdlc1Zkbk8xb0d2MjEzTGFUSkh5M3dqTnVmZWM3c2V5bGdtRWMzOXM3SGJKcl9ZcTJYTi02SExDNUlKNVpNUHdhTHhoeHQ1UC1nZjFSeXE3QlFLNWN4QXhGZmlBMjRiX0JMeVk?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.810Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 885,
-      "headline": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine - AOL.com",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1lmNkdoM0txaDJ6RW40RVRoWXBOM2ZxaWVjc2NhSExjRmNoV25yaENqVUFLMkgxNkQ4eUhwOC1SaTVUd3AwY01TT2ZwUWFuY1pDc0Iwb3NTYjlaYXpUclVES0M4bW04ZTFheFhPc280LWwxZWZpTDlDWmNJTkVEdDZB?oc=5\" target=\"_blank\"&gt;CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
-      "publisher": "AOL.com",
-      "published_at": "2026-06-11T20:02:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1lmNkdoM0txaDJ6RW40RVRoWXBOM2ZxaWVjc2NhSExjRmNoV25yaENqVUFLMkgxNkQ4eUhwOC1SaTVUd3AwY01TT2ZwUWFuY1pDc0Iwb3NTYjlaYXpUclVES0M4bW04ZTFheFhPc280LWwxZWZpTDlDWmNJTkVEdDZB?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.823Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 865,
-      "headline": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine - NBC News",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5\" target=\"_blank\"&gt;CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC News&lt;/font&gt;",
-      "publisher": "NBC News",
-      "published_at": "2026-06-11T19:47:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.807Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 864,
-      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - CNN",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWZsMnRMcWwwWUtSUzJJRzhaeUtoeHBOQmluN0xrNjlwVUpLWHJPN3dOeHltYkY0TS1STEhVLWxocXZrNWNlY2g0YWI1MV9UYTJiQTdoM3hxb2ltUTVwOGJQTkZQTjlNX2Z3TVpicEtBallIZGxFUVo3VlZUYVJ0WQ?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CNN&lt;/font&gt;",
-      "publisher": "CNN",
-      "published_at": "2026-06-11T18:58:28.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWZsMnRMcWwwWUtSUzJJRzhaeUtoeHBOQmluN0xrNjlwVUpLWHJPN3dOeHltYkY0TS1STEhVLWxocXZrNWNlY2g0YWI1MV9UYTJiQTdoM3hxb2ltUTVwOGJQTkZQTjlNX2Z3TVpicEtBallIZGxFUVo3VlZUYVJ0WQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.802Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 869,
-      "headline": "Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates) - Forbes",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5\" target=\"_blank\"&gt;Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Forbes&lt;/font&gt;",
-      "publisher": "Forbes",
-      "published_at": "2026-06-11T18:53:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.811Z",
       "mentioned_states": []
     }
   ],
