@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-12T21:58:12.466Z",
+  "generatedAt": "2026-06-13T09:53:51.214Z",
   "lastRun": {
-    "ts": "2026-06-12T21:58:12.461Z",
+    "ts": "2026-06-13T09:53:51.204Z",
     "source_kind": "news",
-    "items_inserted": 30,
-    "items_skipped": 273,
+    "items_inserted": 18,
+    "items_skipped": 282,
     "error_message": "firecrawl-search-skipped-quota-402"
   },
   "totals": {
@@ -423,6 +423,94 @@
   ],
   "recentNews": [
     {
+      "id": 961,
+      "headline": "After hantavirus exposures, 3 Kansans complete observation period - The Topeka Capital-Journal",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUk1FVjZWWmx2YVFqUHFORzlOQ2cyUU4zQXQzNmJlYW9jSVJZRnJZcGN4VkFvZ1FpdEhURnROd2tYdEIyS0J5MWNKNmVYdlRYcm56XzdxTHNOTE01Y01JNUxDLXAxNkZXZWJOR01WY1hjYlMyRXp3LUIyYVRuRlVwckljNzR5cHJHVjhJZVZLUlB4U0F5TlZzZjZ6Q0ZzVFo1TFlmQ3ZWWGpKcDF2Rk80ZVpKRXpnWm5CVkx5RjNEQXBoYzFkR3V6RDMybFJ4dDZVQVhsaQ?oc=5\" target=\"_blank\"&gt;After hantavirus exposures, 3 Kansans complete observation period&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Topeka Capital-Journal&lt;/font&gt;",
+      "publisher": "The Topeka Capital-Journal",
+      "published_at": "2026-06-13T09:06:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUk1FVjZWWmx2YVFqUHFORzlOQ2cyUU4zQXQzNmJlYW9jSVJZRnJZcGN4VkFvZ1FpdEhURnROd2tYdEIyS0J5MWNKNmVYdlRYcm56XzdxTHNOTE01Y01JNUxDLXAxNkZXZWJOR01WY1hjYlMyRXp3LUIyYVRuRlVwckljNzR5cHJHVjhJZVZLUlB4U0F5TlZzZjZ6Q0ZzVFo1TFlmQ3ZWWGpKcDF2Rk80ZVpKRXpnWm5CVkx5RjNEQXBoYzFkR3V6RDMybFJ4dDZVQVhsaQ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:49.897Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 964,
+      "headline": "U.S. Pays $750K to Evacuate American From Remote Island After She Was Aboard Hantavirus Cruise Ship: Report - People.com",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQS21PRlZtVV9OS2ItOVZvZlQxZE5HSnFrMHdqa0I0enktQ21TV2h6aWZRa1o3UmFOdTRCcmVDY0J4M3hRUGlQR3VpUGJmd2NiTUtRcmppV2FqQjdnOElRNXRza1E3akpBdmgySThjYUZMVGxjQVVMekFjWVdzRWh6WVFkendvMnYtMEdNeVNuMzNwTDRfb2hydDJySkcxTWxCdUxydk8tYmRJUUdHSDBzTTJMZzdlWTN0MDZPT0dnUkU2LTNFZmdJ?oc=5\" target=\"_blank\"&gt;U.S. Pays $750K to Evacuate American From Remote Island After She Was Aboard Hantavirus Cruise Ship: Report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;People.com&lt;/font&gt;",
+      "publisher": "People.com",
+      "published_at": "2026-06-13T03:39:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS21PRlZtVV9OS2ItOVZvZlQxZE5HSnFrMHdqa0I0enktQ21TV2h6aWZRa1o3UmFOdTRCcmVDY0J4M3hRUGlQR3VpUGJmd2NiTUtRcmppV2FqQjdnOElRNXRza1E3akpBdmgySThjYUZMVGxjQVVMekFjWVdzRWh6WVFkendvMnYtMEdNeVNuMzNwTDRfb2hydDJySkcxTWxCdUxydk8tYmRJUUdHSDBzTTJMZzdlWTN0MDZPT0dnUkU2LTNFZmdJ?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:49.992Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 969,
+      "headline": "No hantavirus found in second Argentine province: ministry - ET HealthWorld",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHhIODFQNDR3NXY3QmNjaUtFV1BCbjdqeTdjSnZ4cDdRZXl3ZWJfZ245S1ZKV0FNWUJsSExDSld1N1BTdFBkOEpDel9xOUR2dHh3dEhqbjVEcWJ5cGtCWHl2UmxIaXRhcDI5TGNLQU5DOFlsTnY2MTJ5VDZVUVpoNGZrUDR3bEZwOTRpTnZqbWVoNjNuVHpaUVpNRTlQWThDQWIyOUZuUS1yMHNVMjA2SmFVY25RUjBzRC0wekR4Mkc1XzTSAcgBQVVfeXFMTjNhX1hnX2VJbGZ2TnNmVlp0cTdObUQxT0M3TUVRQ09zejVGMldjT09MLWJ0Zk5QMmZJZUs5dWZJXzZEMzAwZHdsc3M1QXFkMmpidThuM0FoT3V3M2pOdElkWGJ6V1J2aTlxQ1ZtY2VXWm5ObWtTVGdNNjFHZTBmYnZPZnZMUW5vUDJYeU1FZ0JVc3Z1NGdUdXdtdmJ2VXRnXzFtdUNWVFBfdndFeGZ4UDl4OGNhbjBqSGhTVVdoc1cwVXJoR1dSVzg?oc=5\" target=\"_blank\"&gt;No hantavirus found in second Argentine province: ministry&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ET HealthWorld&lt;/font&gt;",
+      "publisher": "ET HealthWorld",
+      "published_at": "2026-06-13T02:13:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHhIODFQNDR3NXY3QmNjaUtFV1BCbjdqeTdjSnZ4cDdRZXl3ZWJfZ245S1ZKV0FNWUJsSExDSld1N1BTdFBkOEpDel9xOUR2dHh3dEhqbjVEcWJ5cGtCWHl2UmxIaXRhcDI5TGNLQU5DOFlsTnY2MTJ5VDZVUVpoNGZrUDR3bEZwOTRpTnZqbWVoNjNuVHpaUVpNRTlQWThDQWIyOUZuUS1yMHNVMjA2SmFVY25RUjBzRC0wekR4Mkc1XzTSAcgBQVVfeXFMTjNhX1hnX2VJbGZ2TnNmVlp0cTdObUQxT0M3TUVRQ09zejVGMldjT09MLWJ0Zk5QMmZJZUs5dWZJXzZEMzAwZHdsc3M1QXFkMmpidThuM0FoT3V3M2pOdElkWGJ6V1J2aTlxQ1ZtY2VXWm5ObWtTVGdNNjFHZTBmYnZPZnZMUW5vUDJYeU1FZ0JVc3Z1NGdUdXdtdmJ2VXRnXzFtdUNWVFBfdndFeGZ4UDl4OGNhbjBqSGhTVVdoc1cwVXJoR1dSVzg?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:49.995Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 977,
+      "headline": "No hantavirus found in second Argentine province: ministry - ET HealthWorld",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2FfWGdfZUlsZnZOc2ZWWnRxN05tRDFPQzdNRVFDT3N6NUYyV2NPT0wtYnRmTlAyZkllSzl1ZklfNkQzMDBkd2xzczVBcWQyamJ1OG4zQWhPdXczak50SWRYYnpXUnZpOXFDVm1jZVdabk5ta1NUZ002MUdlMGZidk9mdkxRbm9QMlh5TUVnQlVzdnU0Z1R1d212YnZVdGdfMW11Q1ZUUF92d0V4ZnhQOXg4Y2FuMGpIaFNVV2hzVzBVcmhHV1JXONIByAFBVV95cUxOM2FfWGdfZUlsZnZOc2ZWWnRxN05tRDFPQzdNRVFDT3N6NUYyV2NPT0wtYnRmTlAyZkllSzl1ZklfNkQzMDBkd2xzczVBcWQyamJ1OG4zQWhPdXczak50SWRYYnpXUnZpOXFDVm1jZVdabk5ta1NUZ002MUdlMGZidk9mdkxRbm9QMlh5TUVnQlVzdnU0Z1R1d212YnZVdGdfMW11Q1ZUUF92d0V4ZnhQOXg4Y2FuMGpIaFNVV2hzVzBVcmhHV1JXOA?oc=5\" target=\"_blank\"&gt;No hantavirus found in second Argentine province: ministry&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ET HealthWorld&lt;/font&gt;",
+      "publisher": "ET HealthWorld",
+      "published_at": "2026-06-13T02:13:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2FfWGdfZUlsZnZOc2ZWWnRxN05tRDFPQzdNRVFDT3N6NUYyV2NPT0wtYnRmTlAyZkllSzl1ZklfNkQzMDBkd2xzczVBcWQyamJ1OG4zQWhPdXczak50SWRYYnpXUnZpOXFDVm1jZVdabk5ta1NUZ002MUdlMGZidk9mdkxRbm9QMlh5TUVnQlVzdnU0Z1R1d212YnZVdGdfMW11Q1ZUUF92d0V4ZnhQOXg4Y2FuMGpIaFNVV2hzVzBVcmhHV1JXONIByAFBVV95cUxOM2FfWGdfZUlsZnZOc2ZWWnRxN05tRDFPQzdNRVFDT3N6NUYyV2NPT0wtYnRmTlAyZkllSzl1ZklfNkQzMDBkd2xzczVBcWQyamJ1OG4zQWhPdXczak50SWRYYnpXUnZpOXFDVm1jZVdabk5ta1NUZ002MUdlMGZidk9mdkxRbm9QMlh5TUVnQlVzdnU0Z1R1d212YnZVdGdfMW11Q1ZUUF92d0V4ZnhQOXg4Y2FuMGpIaFNVV2hzVzBVcmhHV1JXOA?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:50.900Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 967,
+      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Prescott Daily Courier",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTGdHY2NSam9jUzAyX2oyX3p4R2g3MUFTZ3d5Y0hTazhuOHpjYzBRX1ZBZkxiZ09nem02OUlPNUZxOFhPNEdxWFlqdnJNMzZLUEtocmtEbmoxdHZoeU5hTnZiTFJLay0xQlAwQWMzYWd0NFhzSVI3MlpOY2JqY1d1WkZ5ZWpuNkhzM0o3WnA4VzJlWVVIVktxMmRoRC1DdU1EQnp1UDFVb0RzRUV0eXJvaEJnU044Nmc0cFRhMHRxU2JKLW03RFBqUllXQ19CVEJMRTR1NXhmZUw0eGZ0a2NYVGJvV2lrR2hJX01IcDEtWm1waFhq?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Prescott Daily Courier&lt;/font&gt;",
+      "publisher": "Prescott Daily Courier",
+      "published_at": "2026-06-13T02:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTGdHY2NSam9jUzAyX2oyX3p4R2g3MUFTZ3d5Y0hTazhuOHpjYzBRX1ZBZkxiZ09nem02OUlPNUZxOFhPNEdxWFlqdnJNMzZLUEtocmtEbmoxdHZoeU5hTnZiTFJLay0xQlAwQWMzYWd0NFhzSVI3MlpOY2JqY1d1WkZ5ZWpuNkhzM0o3WnA4VzJlWVVIVktxMmRoRC1DdU1EQnp1UDFVb0RzRUV0eXJvaEJnU044Nmc0cFRhMHRxU2JKLW03RFBqUllXQ19CVEJMRTR1NXhmZUw0eGZ0a2NYVGJvV2lrR2hJX01IcDEtWm1waFhq?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:49.994Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 960,
+      "headline": "San Quentin Rehabilitation Center suspected hantavirus case in 38-year-old male inmate ruled a false positive, officials say - ABC7 Bay Area",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZTZvLVVETF9PX01sb0FJcXVYOGUxOVFXVDFjYTN0eDlOUVY5ejFVcG4wMjJyWlZDRXJ3bWN3cTUzTXZ5X3liQ3Q4V3FxbEthRHNPLWp3d2JQb0gxendqZjdrSHE3SDhZT3pudGZ3VFB5SFhZcUI2dmg1ZXc3UUFZVy1UTk03c3JMa1FNaUxycml6ZjBOV3B5Y2lyRTNBNWdBVWdPbk9rWnQ5N2NiblNVMEpldDI3dDZOajhZX0dLUlppbEtOX1lwV2tUdWJWWktYNExCWnhTR0VPMGgxZ2lWcG85VU0xWEtyY3fSAe8BQVVfeXFMTk1uN21HRGtCYUlUdlE5eWtDQ0RCUnJRR2tJX1c4M1NoVEJKRkY0QXplZ1pQd3VKWHZUV3NTb1JoZWE0blM4amZxUnpTTmpMUE1oUXhFNFd3QWoycWt6aE9SLW1JOGxIeTFSNVota2RQOXIza0ZkS2JjcFl4am96SFU5bDBDOHpYcVJjOEszREZyYTBYNURMT2lnZXZPWHRwR2R1bW85WVdsWnVLRTJXb0g2MVFIcU1JZ1J5Nzg3bnN1bERBTFFxdmdteGRvU2RBSHVOdWVSajU3cXhtdUttbW4tTDZaWkpXNFlMUGs0S00?oc=5\" target=\"_blank\"&gt;San Quentin Rehabilitation Center suspected hantavirus case in 38-year-old male inmate ruled a false positive, officials say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ABC7 Bay Area&lt;/font&gt;",
+      "publisher": "ABC7 Bay Area",
+      "published_at": "2026-06-13T01:06:25.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZTZvLVVETF9PX01sb0FJcXVYOGUxOVFXVDFjYTN0eDlOUVY5ejFVcG4wMjJyWlZDRXJ3bWN3cTUzTXZ5X3liQ3Q4V3FxbEthRHNPLWp3d2JQb0gxendqZjdrSHE3SDhZT3pudGZ3VFB5SFhZcUI2dmg1ZXc3UUFZVy1UTk03c3JMa1FNaUxycml6ZjBOV3B5Y2lyRTNBNWdBVWdPbk9rWnQ5N2NiblNVMEpldDI3dDZOajhZX0dLUlppbEtOX1lwV2tUdWJWWktYNExCWnhTR0VPMGgxZ2lWcG85VU0xWEtyY3fSAe8BQVVfeXFMTk1uN21HRGtCYUlUdlE5eWtDQ0RCUnJRR2tJX1c4M1NoVEJKRkY0QXplZ1pQd3VKWHZUV3NTb1JoZWE0blM4amZxUnpTTmpMUE1oUXhFNFd3QWoycWt6aE9SLW1JOGxIeTFSNVota2RQOXIza0ZkS2JjcFl4am96SFU5bDBDOHpYcVJjOEszREZyYTBYNURMT2lnZXZPWHRwR2R1bW85WVdsWnVLRTJXb0g2MVFIcU1JZ1J5Nzg3bnN1bERBTFFxdmdteGRvU2RBSHVOdWVSajU3cXhtdUttbW4tTDZaWkpXNFlMUGs0S00?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:49.896Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 968,
+      "headline": "Officials say possible hantavirus case in San Quentin prison was false positive - The Daily Gazette",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaGJMemFEaFk1bjdGVkJpUkota3FQMHdVck5SbGthVUdMQlhXeFRzOW1oOVpmeWRnUnhEd2E1TXBYVEpxa2Y2cTJjMDNnRkFVUHp6LTE1Q0dXektXMmJvQXVvbFMxY1ROTjFmR04zT0NCbERYakxwa3RPXzV1dEJjU0Q5b0xLMGcwQ1ZmTHlDVm1PVHA5QmJJSFZFY0NPWV9xTWdPUktWMzlHTm92SXVkcU90VURvNXk5YWtqRGduckU1MUtxM1RJNG9jbkM2SGt2QzNuZjd0LWRHNEw1eG9YZ2p3THJBUEE3d21TaFRCY1VxX09zVHJpQWNn?oc=5\" target=\"_blank\"&gt;Officials say possible hantavirus case in San Quentin prison was false positive&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Daily Gazette&lt;/font&gt;",
+      "publisher": "The Daily Gazette",
+      "published_at": "2026-06-12T23:30:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaGJMemFEaFk1bjdGVkJpUkota3FQMHdVck5SbGthVUdMQlhXeFRzOW1oOVpmeWRnUnhEd2E1TXBYVEpxa2Y2cTJjMDNnRkFVUHp6LTE1Q0dXektXMmJvQXVvbFMxY1ROTjFmR04zT0NCbERYakxwa3RPXzV1dEJjU0Q5b0xLMGcwQ1ZmTHlDVm1PVHA5QmJJSFZFY0NPWV9xTWdPUktWMzlHTm92SXVkcU90VURvNXk5YWtqRGduckU1MUtxM1RJNG9jbkM2SGt2QzNuZjd0LWRHNEw1eG9YZ2p3THJBUEE3d21TaFRCY1VxX09zVHJpQWNn?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:49.995Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 963,
+      "headline": "ICT NEWSCAST: Indigenous water rights, hantavirus, nurse loan limits, Native movies and more - ictnews.org",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVUphWkExMUJtNTZkNUVwRnh6VWRDbjJwTEp0bXBpUHpBd0lJVktuc0k0Y3lxNmtwRW5qcG9mVHBFejU0SjJsZE9LOU5rRXh3eHhwYjFjWEVDczMzTW9KU2MzZllWRWpqTU02YVBlYUcxX2NFV09SUEllQ3JJQWs2QWZKYVEyYm9hTEFVcmdmcEJKcUFGai1waTdKTUFFVW9UWmllSWlveV9wMWpPZnVBYWM3bTVGWWVjS3k0?oc=5\" target=\"_blank\"&gt;ICT NEWSCAST: Indigenous water rights, hantavirus, nurse loan limits, Native movies and more&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ictnews.org&lt;/font&gt;",
+      "publisher": "ictnews.org",
+      "published_at": "2026-06-12T22:30:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVUphWkExMUJtNTZkNUVwRnh6VWRDbjJwTEp0bXBpUHpBd0lJVktuc0k0Y3lxNmtwRW5qcG9mVHBFejU0SjJsZE9LOU5rRXh3eHhwYjFjWEVDczMzTW9KU2MzZllWRWpqTU02YVBlYUcxX2NFV09SUEllQ3JJQWs2QWZKYVEyYm9hTEFVcmdmcEJKcUFGai1waTdKTUFFVW9UWmllSWlveV9wMWpPZnVBYWM3bTVGWWVjS3k0?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:49.991Z",
+      "mentioned_states": []
+    },
+    {
       "id": 937,
       "headline": "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnhoX0kwYUVMUjhEX2dtLWtBazdtVlJRaWhRV21jNTlINlY2YWVSTkV3RkdzejR6N1lqa0pJUUdBeHlKV3UyNjlGN1J4TXRtZExnY0JGMkdYYmVpRVByOVFmQ3psM3hUanRtZzJHSHdadFZvOHJhMHM4bGd5MWdsXzhXQXBuckFKRkxSb3RHaUVGUHRjcml4eGM5Ml94ejdWVkRLdTZuc1N6WjZONVN6MlZLalpPdw?oc=5\" target=\"_blank\"&gt;Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Eurasia Review&lt;/font&gt;",
@@ -511,6 +599,17 @@
       "mentioned_states": []
     },
     {
+      "id": 965,
+      "headline": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms - Hanford Sentinel",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxNSHUzV0F1RktJQUdldkRzckpiaWtDbFZsN19xdUluQzVmY0xBUFJTUTlLMHpXRkJJMEI5T3dRX0FGOWlienJ5QW1QSVhXbURQUGNWWDBzdUl5WFZzeklRNHI2b29PVDY2bVl5M3E5cXNJc2lvYkVNck9vaXVJR1F3R3lIZjNJZEx4QnlQOVRNT240Z3FaeVJpYzgwMEp5Z3Q0NE42ZzI0Z21SRTZJVncxekZpTWJxS1FZRW1mbWNldnZKdnU1OU1rcEtEWVlQWnRMMUt6ei1WTkk4WDdaclhMa0pybXlXTEVsOFU1am85bExNdzYtSS0tNVUwX2w3RFhkdTJfZ3JEOFJKYVBqaG5vY2trZUNzSVlXSmp0WEd1NmxBeDQ5UWJleXMtWFPSAbICQVVfeXFMTlVDeWJNU0gwV245bjFqVUpSNThIVW8wNldmeDBqbW50bng5T0o1T2pzYlJRaUs1VE1sS0xWcVNNVktaVFVnb1JueG90YmpXbnRlcHpSY0ZFVkhiYVVSdzgxSk02ME5BTEdDSnhMUUFuQjRpV0RqQW9maVN5YUZHamRLNHc4aXhEVVBBLU5DRU5jY3NBZFhIb3NHQVd6MndXR2N0c2x3LXc5R2YtZ2FJa210NXJBdmxQMXYwMTBFV0ktNzhLLXAyY205MC1NNW51NDZfbHI3cHo5UHRnSXJJaDBMUlNueXVIUzJRcDBSUUZpRWVEYTl3QzhuQkNNcG9PaUZ3dExiV3pSNTVHV0kwWDRrYkg0RnhSR2tJOUg2T3Yzbmt6eDNGc0pwaEhhVk1BaGxn?oc=5\" target=\"_blank\"&gt;Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Hanford Sentinel&lt;/font&gt;",
+      "publisher": "Hanford Sentinel",
+      "published_at": "2026-06-12T19:16:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNSHUzV0F1RktJQUdldkRzckpiaWtDbFZsN19xdUluQzVmY0xBUFJTUTlLMHpXRkJJMEI5T3dRX0FGOWlienJ5QW1QSVhXbURQUGNWWDBzdUl5WFZzeklRNHI2b29PVDY2bVl5M3E5cXNJc2lvYkVNck9vaXVJR1F3R3lIZjNJZEx4QnlQOVRNT240Z3FaeVJpYzgwMEp5Z3Q0NE42ZzI0Z21SRTZJVncxekZpTWJxS1FZRW1mbWNldnZKdnU1OU1rcEtEWVlQWnRMMUt6ei1WTkk4WDdaclhMa0pybXlXTEVsOFU1am85bExNdzYtSS0tNVUwX2w3RFhkdTJfZ3JEOFJKYVBqaG5vY2trZUNzSVlXSmp0WEd1NmxBeDQ5UWJleXMtWFPSAbICQVVfeXFMTlVDeWJNU0gwV245bjFqVUpSNThIVW8wNldmeDBqbW50bng5T0o1T2pzYlJRaUs1VE1sS0xWcVNNVktaVFVnb1JueG90YmpXbnRlcHpSY0ZFVkhiYVVSdzgxSk02ME5BTEdDSnhMUUFuQjRpV0RqQW9maVN5YUZHamRLNHc4aXhEVVBBLU5DRU5jY3NBZFhIb3NHQVd6MndXR2N0c2x3LXc5R2YtZ2FJa210NXJBdmxQMXYwMTBFV0ktNzhLLXAyY205MC1NNW51NDZfbHI3cHo5UHRnSXJJaDBMUlNueXVIUzJRcDBSUUZpRWVEYTl3QzhuQkNNcG9PaUZ3dExiV3pSNTVHV0kwWDRrYkg0RnhSR2tJOUg2T3Yzbmt6eDNGc0pwaEhhVk1BaGxn?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:49.992Z",
+      "mentioned_states": []
+    },
+    {
       "id": 930,
       "headline": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms - Los Angeles Times",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHllWnNrTDhidWd5RWg3d2VhNFZoMWdVU0ZnZ0dKUjNsalp6blNBSDZOUVB5M1NFZFI0MDVSZTd4b1Jvc3pEeFhLcEtETjNOWS14dTdOWHF5X2Y2czZObEwzNmU0dHEzSHY5UW4yNzFrQTAwa09vcnlhbE83SHR0VnNLWWt1STh1OWtJMXRGc0MyUQ?oc=5\" target=\"_blank\"&gt;Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Los Angeles Times&lt;/font&gt;",
@@ -530,6 +629,17 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU05QZ1FGeGZUZDFKekNzcVBvMW9UejAyaHI1Q2ZIbDZCMzQwRy1DaS11OXU2UlZ1MVEtUzluVlJrVXJPMmgwbzhzNWdRTmxOQl9nUDBSQTF0cFlxelVFeVpUU2c1QmR2QzBIY0hGblZNT2tuWEZwZkxzNlBOaHh2enQxd0JiTWNmTThWOFVCbVE1SUVXSGp0QXlhelJ0RnZkdm9fYUtNcVV4RnNtOGYwbHl3ZGRmUWhIcmN0U0NtMjlGUVE?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-12T21:58:11.092Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 962,
+      "headline": "Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model - Genetic Engineering and Biotechnology News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1pvR05wR3VoS2YwSHNJTlFvNE5LVXZ5S2NiSVo1V0x4bGlGYkFQNC1mNUpnanhNNkg1QWgwNk5idENqdnVUTHlSM0RaYU9Wd3pfYklkRkJqamZqOWxOZGwtd29zRDZTcmxhb1Noa2EzUndvTXBueVVzT1l3LVpMX2FIc2pzS1JNVWhpem11SlBaTEItVF80V2d0Qm5JcTh2ZFVXV01nMERPTXZLcnlBeDctRHliWmdJRkFkeE5INmxhazBq?oc=5\" target=\"_blank\"&gt;Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Genetic Engineering and Biotechnology News&lt;/font&gt;",
+      "publisher": "Genetic Engineering and Biotechnology News",
+      "published_at": "2026-06-12T18:16:51.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1pvR05wR3VoS2YwSHNJTlFvNE5LVXZ5S2NiSVo1V0x4bGlGYkFQNC1mNUpnanhNNkg1QWgwNk5idENqdnVUTHlSM0RaYU9Wd3pfYklkRkJqamZqOWxOZGwtd29zRDZTcmxhb1Noa2EzUndvTXBueVVzT1l3LVpMX2FIc2pzS1JNVWhpem11SlBaTEItVF80V2d0Qm5JcTh2ZFVXV01nMERPTXZLcnlBeDctRHliWmdJRkFkeE5INmxhazBq?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:49.991Z",
       "mentioned_states": []
     },
     {
@@ -565,6 +675,17 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTU9YUmRsX3NLMGhIOGswcHZwVzZCNlFSU0xFRDhwV25YZUNhMkhxN1VxZGlmQzVhdTl6STFqYjcyenpPNHQ1NHAzT0tudUVob2s0dHp4bW1DdTZfSnZyVkZubVg2WlFqM3ZnWFYzWHVjMHE4dWdZWkxyRHNNeGxqM0kyeDROQ3NIcUtLaXliN2hRcTRna2ZUV19NV0FXY0I2RWhheWNOT2FEWUJSTGhlZVltSWx1Y1B2WDFyaHBwbmZHLWd3Nm1UUTB0aF9hazRhR3I3bjlmNVFUTlQ0dC1ET05hRkgzU2lkMTRyazBfMW1sdXpETnlfQUVNVQ?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-12T21:58:11.096Z",
+      "mentioned_states": []
+    },
+    {
+      "id": 966,
+      "headline": "Exclusive: Oceanwide CEO on hantavirus outbreak, impact and recovery - Cruise Trade News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSXl4VWZJRFBFc1Rjc3JzcWdELXFGTXAtejNRSzVsLW9yWWlZUXc4dU9EMmswWkYycEItQzRmMEVFdlRDNFk5dm5HblYyR0tGTUZ4S3hMZHRXcmFwMERLQTJYQnNRRjIzNVlHZmZCYkpON2lVVlEta1d1S2RCNXYwOXp1Qk9PVjlzSURvRGZnX0E0aTRDOFRPU2NJbExiQlE?oc=5\" target=\"_blank\"&gt;Exclusive: Oceanwide CEO on hantavirus outbreak, impact and recovery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Cruise Trade News&lt;/font&gt;",
+      "publisher": "Cruise Trade News",
+      "published_at": "2026-06-12T15:01:18.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSXl4VWZJRFBFc1Rjc3JzcWdELXFGTXAtejNRSzVsLW9yWWlZUXc4dU9EMmswWkYycEItQzRmMEVFdlRDNFk5dm5HblYyR0tGTUZ4S3hMZHRXcmFwMERLQTJYQnNRRjIzNVlHZmZCYkpON2lVVlEta1d1S2RCNXYwOXp1Qk9PVjlzSURvRGZnX0E0aTRDOFRPU2NJbExiQlE?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-13T09:53:49.993Z",
       "mentioned_states": []
     },
     {
@@ -857,131 +978,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-11T21:53:06.811Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 879,
-      "headline": "Hantavirus symptoms detected in California superspreader hot spot - Yahoo",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JFeThkVjNvVTVBNE1UbElkMTdsT3NVdjNCZ2JTQzVCRGhZX2FJa3RxZDhpcHlQY2hvOEtxcndiV1RSZjRuQkVKdlpTdVAza0FJUjBtcjN5Y2ZKeEFzYUhzZVVEYnBJa1lpd3JGTUNoWDdKLTJLYTM4QTZ5dkVxZkNrNHJUbE05OGxZZzAySW00OXBQeTNmYjNn?oc=5\" target=\"_blank\"&gt;Hantavirus symptoms detected in California superspreader hot spot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo&lt;/font&gt;",
-      "publisher": "Yahoo",
-      "published_at": "2026-06-11T18:41:27.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JFeThkVjNvVTVBNE1UbElkMTdsT3NVdjNCZ2JTQzVCRGhZX2FJa3RxZDhpcHlQY2hvOEtxcndiV1RSZjRuQkVKdlpTdVAza0FJUjBtcjN5Y2ZKeEFzYUhzZVVEYnBJa1lpd3JGTUNoWDdKLTJLYTM4QTZ5dkVxZkNrNHJUbE05OGxZZzAySW00OXBQeTNmYjNn?oc=5",
-      "mentioned_states_json": "[\"CA\"]",
-      "fetched_at": "2026-06-11T21:53:06.819Z",
-      "mentioned_states": [
-        "CA"
-      ]
-    },
-    {
-      "id": 870,
-      "headline": "Hantavirus symptoms detected in California superspreader hot spot - New York Post",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWNpbUowSDdDdWsydE1Ibk9wV19zbk9WS3NGRUpBbG42blg2LTNSRHdJa2xvZW5xNkQtcmVNTkJSVU83c05WSy1JY1oyWnBWVGdQZ3NCT2NXb3VjWklKMkczd0xWS3VMbFVwWDlidUJsQ0dKMTFRSUVLeEZ3T1dtS09LSFpyejZQcW1tRUctaWdRR2JoYnhz?oc=5\" target=\"_blank\"&gt;Hantavirus symptoms detected in California superspreader hot spot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New York Post&lt;/font&gt;",
-      "publisher": "New York Post",
-      "published_at": "2026-06-11T18:41:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWNpbUowSDdDdWsydE1Ibk9wV19zbk9WS3NGRUpBbG42blg2LTNSRHdJa2xvZW5xNkQtcmVNTkJSVU83c05WSy1JY1oyWnBWVGdQZ3NCT2NXb3VjWklKMkczd0xWS3VMbFVwWDlidUJsQ0dKMTFRSUVLeEZ3T1dtS09LSFpyejZQcW1tRUctaWdRR2JoYnhz?oc=5",
-      "mentioned_states_json": "[\"CA\"]",
-      "fetched_at": "2026-06-11T21:53:06.812Z",
-      "mentioned_states": [
-        "CA"
-      ]
-    },
-    {
-      "id": 886,
-      "headline": "Hantavirus-hit cruise ship set to resume voyages after disinfection - Baird Maritime",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZMYTJDbC0tVjJfY01mLWl2T212SlJLRVgzeFJvVWVjSXNXSEJfOEJFZEU3OFg2U1ZrU3NPNGxGNHpMNVhCMFRxNlNWTi1VTER6THRrckNqenkwdnZUUHlXX3F6ektNYWk3bTAtR0ItSXZydVpaX2FmcnQzdlhtWmNyNE1GZGhkYU9UMDZ3eEpsNHhUVkIxOGpTZWlURlU0WTktUm9iV2paUFZlSUNZNGlLUjnSAcIBQVVfeXFMTmdSNUlLQzJnVmJ3Yk9aV3hPQ1RqNTVXTFFTSld3czJSUmJrSjJiOVVoTTJXZm1YTnc5TVRXTkFHdS1Db0VlZ25GRW94ZnVNYm5DUktpTWNfamFGRXVwZlNhZy1wN0p0TV9wR0t0OURPWUpFV2x5dThvWWdocFFNMC03NUd6M2ZBeVNHLU9lMnY1b2RwYUpYVlJRZ180ZW9nVUNfRFRtUmhlcEZqMGkxREFLR18zbGxsbkZ6LXpBb3NDRlE?oc=5\" target=\"_blank\"&gt;Hantavirus-hit cruise ship set to resume voyages after disinfection&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Baird Maritime&lt;/font&gt;",
-      "publisher": "Baird Maritime",
-      "published_at": "2026-06-11T18:38:18.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZMYTJDbC0tVjJfY01mLWl2T212SlJLRVgzeFJvVWVjSXNXSEJfOEJFZEU3OFg2U1ZrU3NPNGxGNHpMNVhCMFRxNlNWTi1VTER6THRrckNqenkwdnZUUHlXX3F6ektNYWk3bTAtR0ItSXZydVpaX2FmcnQzdlhtWmNyNE1GZGhkYU9UMDZ3eEpsNHhUVkIxOGpTZWlURlU0WTktUm9iV2paUFZlSUNZNGlLUjnSAcIBQVVfeXFMTmdSNUlLQzJnVmJ3Yk9aV3hPQ1RqNTVXTFFTSld3czJSUmJrSjJiOVVoTTJXZm1YTnc5TVRXTkFHdS1Db0VlZ25GRW94ZnVNYm5DUktpTWNfamFGRXVwZlNhZy1wN0p0TV9wR0t0OURPWUpFV2x5dThvWWdocFFNMC03NUd6M2ZBeVNHLU9lMnY1b2RwYUpYVlJRZ180ZW9nVUNfRFRtUmhlcEZqMGkxREFLR18zbGxsbkZ6LXpBb3NDRlE?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.823Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 901,
-      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - ABC News - Breaking News, Latest News and Videos",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2w3VXU4bnNuVTBvYjd6SEJPZG02M0NiRzk2c3FWZXkzdGt5QWpFMmtaNFJ0Vl8yWS1FSHdxUF96Wk5IMVh6a1NoR183T0ZDc19RcGs0bl83U0hjNEhXeW5rSEhMUTB5WDViaVRyOS1JQ0RtYnpSbDNXYm5MbVlGX2ppWjExcnJldkEzMTduRHQxQ0Q3XzB3NkY2SnRWN1pmZGRDR9IBqgFBVV95cUxNTXc5MjJWRjd1V2c5Q3FvN1JCYUxORFdQT0d4R1lXYk5sNGRpeVdRcmZQZDRuZWE3V0lFLURxYlRDSFpDNmtsTjJfd3RsNjB4ZkNfSTBGSTIyQzlURFNxTWpnR2hmLW5aS0lfWWNkYjBJQUJzcXFwbGlyY21vcl94TWszVmlwaWluazRiYnlCOWlMaXVVZVFEbWExOF9wdUpFU1RfMlB5OF9rUQ?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ABC News - Breaking News, Latest News and Videos&lt;/font&gt;",
-      "publisher": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-06-11T18:37:35.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2w3VXU4bnNuVTBvYjd6SEJPZG02M0NiRzk2c3FWZXkzdGt5QWpFMmtaNFJ0Vl8yWS1FSHdxUF96Wk5IMVh6a1NoR183T0ZDc19RcGs0bl83U0hjNEhXeW5rSEhMUTB5WDViaVRyOS1JQ0RtYnpSbDNXYm5MbVlGX2ppWjExcnJldkEzMTduRHQxQ0Q3XzB3NkY2SnRWN1pmZGRDR9IBqgFBVV95cUxNTXc5MjJWRjd1V2c5Q3FvN1JCYUxORFdQT0d4R1lXYk5sNGRpeVdRcmZQZDRuZWE3V0lFLURxYlRDSFpDNmtsTjJfd3RsNjB4ZkNfSTBGSTIyQzlURFNxTWpnR2hmLW5aS0lfWWNkYjBJQUJzcXFwbGlyY21vcl94TWszVmlwaWluazRiYnlCOWlMaXVVZVFEbWExOF9wdUpFU1RfMlB5OF9rUQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:07.946Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 890,
-      "headline": "US pays $750K to evacuate American aboard hantavirus cruise ship from remote island - livingstonenterprise.net",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQbzN4aGluWHZ2VU41NHJZZ0lSdW9WTlQyNzBYNGJBcG1xQ3RvZUN6QzZmMjN4cGFxekN0Y0FEdGVYS3R3U0R5NzJydlFEWUIydDk0Y0xHYjU4S29sNFlkYXNvZEN3T05RWmRYOWtwek5pdExaZW1xTEhQd2U4U2hTbEQxVEkwQ0kyREJwVFA2U2pGdHNhZUtGZ2dvUXFWdnZCU0d2NDRaeFAtajZTLUFlMVZSbDU5eDA1aU1LQXJpajJfWnJvRzVFanl0ZlJMZw?oc=5\" target=\"_blank\"&gt;US pays $750K to evacuate American aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;livingstonenterprise.net&lt;/font&gt;",
-      "publisher": "livingstonenterprise.net",
-      "published_at": "2026-06-11T18:24:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbzN4aGluWHZ2VU41NHJZZ0lSdW9WTlQyNzBYNGJBcG1xQ3RvZUN6QzZmMjN4cGFxekN0Y0FEdGVYS3R3U0R5NzJydlFEWUIydDk0Y0xHYjU4S29sNFlkYXNvZEN3T05RWmRYOWtwek5pdExaZW1xTEhQd2U4U2hTbEQxVEkwQ0kyREJwVFA2U2pGdHNhZUtGZ2dvUXFWdnZCU0d2NDRaeFAtajZTLUFlMVZSbDU5eDA1aU1LQXJpajJfWnJvRzVFanl0ZlJMZw?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.826Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 874,
-      "headline": "Netherlands Hantavirus Ship - Journal-News.com",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcE8yWmxfNTdsX2JnYkxVaDNybWNIMG9mNkNqbnA2eE5kY3hDc2x1a2xDaXd0cVdiaVRhWWlldVNIek1YSmZTUXJHMkpGMW9LcEUzU1dHZGVySGxSSndsVmJXM1NkRDZKZE1HWHJRajNsS3ljb2ZCTkNJbzAwWG10YWlEckNickMtYmVMb3JkU3NGZEV6YVF3cWF1YmtoUy1aNmtFZ1JSMA?oc=5\" target=\"_blank\"&gt;Netherlands Hantavirus Ship&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Journal-News.com&lt;/font&gt;",
-      "publisher": "Journal-News.com",
-      "published_at": "2026-06-11T18:22:36.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcE8yWmxfNTdsX2JnYkxVaDNybWNIMG9mNkNqbnA2eE5kY3hDc2x1a2xDaXd0cVdiaVRhWWlldVNIek1YSmZTUXJHMkpGMW9LcEUzU1dHZGVySGxSSndsVmJXM1NkRDZKZE1HWHJRajNsS3ljb2ZCTkNJbzAwWG10YWlEckNickMtYmVMb3JkU3NGZEV6YVF3cWF1YmtoUy1aNmtFZ1JSMA?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.814Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 871,
-      "headline": "Possible hantavirus case reported at San Quentin - NBC Bay Area",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWZzd3hQQ1Q5TFpaelM5ZHF3RmNBVlg4VXVkekJyNm9zazhuZzU2QklHblE3ODVwZmhYUXJMaVVaZEp2NHZvZksyN0pBZzNTMmJHNGt3dUozbWFqanVIRm45VzJUSDdicXBTTC1lSndUc3J5ODlfTnB1ZFJ6U3A2RU10VnV2bE4tWmRsdEZZMjJyaVBKZlA3bnRZQdIBowFBVV95cUxNVGxYVHNEWEhyc0ttd1ZzRnRkUm50cEhpZDBqOTRBM0RpOWZ3dGduUjhNQWFaa3RKeHptdWw5TDVjWUs1bHA3S2RCS2cxZHNiN2t4cmx2UTh0Q2duOWduZl9pUTRtTUNEcnF1RnRxNUJwXzg2X2cwZDg5b2NPZ05GUHFycTFJckV1M2cxT285Q1hOMHR3aGRMbjhuS3pMZHFkQmJ3?oc=5\" target=\"_blank\"&gt;Possible hantavirus case reported at San Quentin&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC Bay Area&lt;/font&gt;",
-      "publisher": "NBC Bay Area",
-      "published_at": "2026-06-11T18:19:19.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWZzd3hQQ1Q5TFpaelM5ZHF3RmNBVlg4VXVkekJyNm9zazhuZzU2QklHblE3ODVwZmhYUXJMaVVaZEp2NHZvZksyN0pBZzNTMmJHNGt3dUozbWFqanVIRm45VzJUSDdicXBTTC1lSndUc3J5ODlfTnB1ZFJ6U3A2RU10VnV2bE4tWmRsdEZZMjJyaVBKZlA3bnRZQdIBowFBVV95cUxNVGxYVHNEWEhyc0ttd1ZzRnRkUm50cEhpZDBqOTRBM0RpOWZ3dGduUjhNQWFaa3RKeHptdWw5TDVjWUs1bHA3S2RCS2cxZHNiN2t4cmx2UTh0Q2duOWduZl9pUTRtTUNEcnF1RnRxNUJwXzg2X2cwZDg5b2NPZ05GUHFycTFJckV1M2cxT285Q1hOMHR3aGRMbjhuS3pMZHFkQmJ3?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.812Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 917,
-      "headline": "Possible hantavirus case reported at San Quentin - NBC Bay Area",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZU9Ic2l4dnhfS1ZMM2xXNDkzeUU2cTJGWHBFc2JCc1ExUGktMndSX01uOWZueDhEcFhhRmdHVlE1VEhlelRLSFhQcElaUkJ5VHhUUENkRmFzZHdLeUxiWXJNTnhaanJwTF9TUjQzMVlOZEVBU0Njb2N1MHF5NklSalc0eG5LMUXSAY8BQVVfeXFMTzhmOEFJNEdpNzNTTUFrNWF3eHowNlZCTHpmNnpfLWpweGo5WHpha2pEdGJ3Y092bnduUWgtdTZfdFFUSmFaZmNiWTRwVnkxOFJ5cWxGYzBBaXJpNFlCbjZvb2t3RE9RbG5URlkzSTVwc0VwdlN0MmNDRWo3bi1OdHR0d3lLQkVJTGZBVTJrWjg?oc=5\" target=\"_blank\"&gt;Possible hantavirus case reported at San Quentin&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC Bay Area&lt;/font&gt;",
-      "publisher": "NBC Bay Area",
-      "published_at": "2026-06-11T18:19:19.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZU9Ic2l4dnhfS1ZMM2xXNDkzeUU2cTJGWHBFc2JCc1ExUGktMndSX01uOWZueDhEcFhhRmdHVlE1VEhlelRLSFhQcElaUkJ5VHhUUENkRmFzZHdLeUxiWXJNTnhaanJwTF9TUjQzMVlOZEVBU0Njb2N1MHF5NklSalc0eG5LMUXSAY8BQVVfeXFMTzhmOEFJNEdpNzNTTUFrNWF3eHowNlZCTHpmNnpfLWpweGo5WHpha2pEdGJ3Y092bnduUWgtdTZfdFFUSmFaZmNiWTRwVnkxOFJ5cWxGYzBBaXJpNFlCbjZvb2t3RE9RbG5URlkzSTVwc0VwdlN0MmNDRWo3bi1OdHR0d3lLQkVJTGZBVTJrWjg?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-12T09:55:38.552Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 891,
-      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - The Spec",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQcmVrcmo1UXU1aHM3UkJudnJXYjZpal95eWRIc0hVSTJVSjZGTzJGU0dQcWh2bnRyNzRDdHJEcmdvZDZZZlRRWjdiV2NiM25fWFZLU19YVWRTZEJlNmRzWlVoNFVrUG9DNGVoTE1mWm40dHh4bkNyR25GZmFBUXA4aGszLU5FWVhGTGRBRUdaZFlacXZHcTdHN2RTS2hnQVJXdk9SbHJOc1ZQeVRKRERJd21CbUxTcFY0MGxTNUtadVI2bk5FVW43X0U1WlJDSzlqT0pFbVVrUjFKX0NtenJKUlVEOXdYM2NtRzhnQlozS1lKSHVvZENmbUVDRnZRUEhNa05PaFJyWUpaQUliN0ltTmhHVUxodUtFQTd3?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Spec&lt;/font&gt;",
-      "publisher": "The Spec",
-      "published_at": "2026-06-11T18:16:48.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQcmVrcmo1UXU1aHM3UkJudnJXYjZpal95eWRIc0hVSTJVSjZGTzJGU0dQcWh2bnRyNzRDdHJEcmdvZDZZZlRRWjdiV2NiM25fWFZLU19YVWRTZEJlNmRzWlVoNFVrUG9DNGVoTE1mWm40dHh4bkNyR25GZmFBUXA4aGszLU5FWVhGTGRBRUdaZFlacXZHcTdHN2RTS2hnQVJXdk9SbHJOc1ZQeVRKRERJd21CbUxTcFY0MGxTNUtadVI2bk5FVW43X0U1WlJDSzlqT0pFbVVrUjFKX0NtenJKUlVEOXdYM2NtRzhnQlozS1lKSHVvZENmbUVDRnZRUEhNa05PaFJyWUpaQUliN0ltTmhHVUxodUtFQTd3?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.827Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 902,
-      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Traverse City Record-Eagle",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOVV9FSFR4Qy1qTmNEVlU0LWZmUWxyVXV0RlRkVUw1aXhVN0VrVHRYb0FNN1RFYkg5a3FqdFhlX2x2d240YlNQM0ZMTzRUU3RsVkxXZXhVUnRmMFRjOHhLYmFkZHNVLV8wdXJEZEY5aEJnaW5HdDRfbERIQ1BQamRyOVVrdkpGckYwdVh4UkFiME1GN0tfUDRkQzZ1Wkt2b2FsdDdwT3BZZTF1cWRoRWZGSlB2Q0tkOGxWMlBvTWNGUEpGenZMQ19CcUR2eXRENmJ2Z0x0ZHotOFJoZEZYdktsR1NLRGZ1MUZVNS10U0w2VndjTDZiZDFkUU1UVVNoNURJemIyNnpn?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Traverse City Record-Eagle&lt;/font&gt;",
-      "publisher": "Traverse City Record-Eagle",
-      "published_at": "2026-06-11T18:16:04.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVV9FSFR4Qy1qTmNEVlU0LWZmUWxyVXV0RlRkVUw1aXhVN0VrVHRYb0FNN1RFYkg5a3FqdFhlX2x2d240YlNQM0ZMTzRUU3RsVkxXZXhVUnRmMFRjOHhLYmFkZHNVLV8wdXJEZEY5aEJnaW5HdDRfbERIQ1BQamRyOVVrdkpGckYwdVh4UkFiME1GN0tfUDRkQzZ1Wkt2b2FsdDdwT3BZZTF1cWRoRWZGSlB2Q0tkOGxWMlBvTWNGUEpGenZMQ19CcUR2eXRENmJ2Z0x0ZHotOFJoZEZYdktsR1NLRGZ1MUZVNS10U0w2VndjTDZiZDFkUU1UVVNoNURJemIyNnpn?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:07.947Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 920,
-      "headline": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Oskaloosa Herald",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQYWx3b1o0RkplaDFnY1dEbDdHV0tnenFtNzlHT3ZGZHNrVUc4N0dEQWt6Yk41aWFBbkgxVVNFSE9CUDNUeThpUUdqc19Rd2NSdTFCelhaYkJIajlVd2pfX3BsRVdOdHhyeEUzYktLcTVKcGZrRGVSQkpmZjBGMDJjaXhybnBnSHRBWldJdVU3VjlqXzRDWVVWSERmbGQxZU9rLTdKemE1QUVWUVMtbE1yajJCNk1hblJkRGgxUzVDaWluSnZhdjF4X3hSNzZFbHA2U1FzYTRPaDRjQi1pd3JfVV9oNU5VUGxDUFJGN1VYV0ZtN1dsZ2JBcXc1MmJrV0o3WUE?oc=5\" target=\"_blank\"&gt;US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Oskaloosa Herald&lt;/font&gt;",
-      "publisher": "Oskaloosa Herald",
-      "published_at": "2026-06-11T18:16:04.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYWx3b1o0RkplaDFnY1dEbDdHV0tnenFtNzlHT3ZGZHNrVUc4N0dEQWt6Yk41aWFBbkgxVVNFSE9CUDNUeThpUUdqc19Rd2NSdTFCelhaYkJIajlVd2pfX3BsRVdOdHhyeEUzYktLcTVKcGZrRGVSQkpmZjBGMDJjaXhybnBnSHRBWldJdVU3VjlqXzRDWVVWSERmbGQxZU9rLTdKemE1QUVWUVMtbE1yajJCNk1hblJkRGgxUzVDaWluSnZhdjF4X3hSNzZFbHA2U1FzYTRPaDRjQi1pd3JfVV9oNU5VUGxDUFJGN1VYV0ZtN1dsZ2JBcXc1MmJrV0o3WUE?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-12T09:55:38.580Z",
       "mentioned_states": []
     }
   ],
