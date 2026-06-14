@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-13T21:53:08.459Z",
+  "generatedAt": "2026-06-14T09:53:58.728Z",
   "lastRun": {
-    "ts": "2026-06-13T21:53:08.454Z",
+    "ts": "2026-06-14T09:53:58.724Z",
     "source_kind": "news",
-    "items_inserted": 11,
-    "items_skipped": 289,
+    "items_inserted": 5,
+    "items_skipped": 295,
     "error_message": "firecrawl-search-skipped-quota-402"
   },
   "totals": {
@@ -423,6 +423,30 @@
   ],
   "recentNews": [
     {
+      "id": 990,
+      "headline": "Adams: One reporter’s futile quest to rid Montana cabin of hantavirus risk - Roanoke Times",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmtrUzRfcHd4cmNMeWd2THg0QzBVNGg0WDJxQVZOSG5STm5pcVJTTFhQdVdnM3FlYjlxV0RsSHpodmxLYWVGTUtUZG9kNE5pcHYzckdUOHlSMXdrLWJUM0IxU0wyTjc0c3RRVzA4MTFsYzRlMTYwbmJaWnpYMGxpeHB6aE5LUVNvbWtFQQ?oc=5\" target=\"_blank\"&gt;Adams: One reporter’s futile quest to rid Montana cabin of hantavirus risk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Roanoke Times&lt;/font&gt;",
+      "publisher": "Roanoke Times",
+      "published_at": "2026-06-14T04:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmtrUzRfcHd4cmNMeWd2THg0QzBVNGg0WDJxQVZOSG5STm5pcVJTTFhQdVdnM3FlYjlxV0RsSHpodmxLYWVGTUtUZG9kNE5pcHYzckdUOHlSMXdrLWJUM0IxU0wyTjc0c3RRVzA4MTFsYzRlMTYwbmJaWnpYMGxpeHB6aE5LUVNvbWtFQQ?oc=5",
+      "mentioned_states_json": "[\"MT\"]",
+      "fetched_at": "2026-06-14T09:53:57.442Z",
+      "mentioned_states": [
+        "MT"
+      ]
+    },
+    {
+      "id": 989,
+      "headline": "US spends $750K to evacuate American woman who was on hantavirus-hit cruise from remote island - Cruise.Blog",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElWbGctUnBTODV0eE5HYVRqT2I2ZkJpakZLcEE1cWJVT3p4Z0pHQzRjN0ZVb25LVXd2bm54ekxCcHZKZ25ZY3VrRGhFckxHbEdnRWJXaFE2UHZnRDd0QXNwV2g3OXVFQmF2UVV2bjZaUUtfSnE0dUNMLTVLdXNXNHY5UnI3TElZa2duR00yQUxwOHZYRUpHdEtMY2xhTncxaTgzeG9Cc1U2SUpJcTlhSXVB?oc=5\" target=\"_blank\"&gt;US spends $750K to evacuate American woman who was on hantavirus-hit cruise from remote island&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Cruise.Blog&lt;/font&gt;",
+      "publisher": "Cruise.Blog",
+      "published_at": "2026-06-13T16:46:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElWbGctUnBTODV0eE5HYVRqT2I2ZkJpakZLcEE1cWJVT3p4Z0pHQzRjN0ZVb25LVXd2bm54ekxCcHZKZ25ZY3VrRGhFckxHbEdnRWJXaFE2UHZnRDd0QXNwV2g3OXVFQmF2UVV2bjZaUUtfSnE0dUNMLTVLdXNXNHY5UnI3TElZa2duR00yQUxwOHZYRUpHdEtMY2xhTncxaTgzeG9Cc1U2SUpJcTlhSXVB?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-14T09:53:57.439Z",
+      "mentioned_states": []
+    },
+    {
       "id": 981,
       "headline": "Radboudumc lifts quarantine for some staff after hantavirus exposure - NL Times",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHFlUTRhWjROOTBJUjVoTXhIM1ZXMG1YNE1ybGJWYjVjc0NuZE0xVWl4bFdVUUQ1akJEWFd6NkxaNkxodE14Tmd3aG9PZXZzWk8xQU10LV9tQWd1XzMzNkdHTUxGZ2p1WVR6aTVNWXdqYU5wd1lmRVZ0Y2JfNEJpdVVhYTRPY0RRQWM4?oc=5\" target=\"_blank\"&gt;Radboudumc lifts quarantine for some staff after hantavirus exposure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NL Times&lt;/font&gt;",
@@ -832,6 +856,17 @@
       "mentioned_states": []
     },
     {
+      "id": 991,
+      "headline": "hantavirus pulmonary syndrome (HPS) - Manhattan Times News",
+      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4tRDFlU1o2bXNVVWtXN2tBS2U1dzZWbzZUU0xDeFFjdDhsYzdfZW9sMktSVTFacWZVWS1fSnZwbGJLVFdkQ1pHOE41RDZ3UGRvY2NBeXZ6d21faXM3Qmc0czZzRnVJOFhOMUhxQnlERjFBaGZiOS1DeHFsMUZXdw?oc=5\" target=\"_blank\"&gt;hantavirus pulmonary syndrome (HPS)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Manhattan Times News&lt;/font&gt;",
+      "publisher": "Manhattan Times News",
+      "published_at": "2026-06-12T07:50:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tRDFlU1o2bXNVVWtXN2tBS2U1dzZWbzZUU0xDeFFjdDhsYzdfZW9sMktSVTFacWZVWS1fSnZwbGJLVFdkQ1pHOE41RDZ3UGRvY2NBeXZ6d21faXM3Qmc0czZzRnVJOFhOMUhxQnlERjFBaGZiOS1DeHFsMUZXdw?oc=5",
+      "mentioned_states_json": "[]",
+      "fetched_at": "2026-06-14T09:53:58.006Z",
+      "mentioned_states": []
+    },
+    {
       "id": 928,
       "headline": "UTMB Researchers Pioneer Single-Dose Vaccine Advancements Against Andes Hantavirus Strain - Bioengineer.org",
       "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPelNPTTRIRG12NUI2Ykljb0xrd25iYXdVbW5tNzZGTDg2Vy1FelFRVDJPcGhzX1ItMkNlekhzNWJmck9IVFJiWll1c3hhSF96SHNFdlBUSG9zQTVqT3d6U0ZpdHNwenFzNkpiM2ZEd3NYY2tKZGo1MkI4V21IeUF1X1VfRHRNTWUwYzVTZnlOT2NyTjhERjlvU2R3Sk1NeEhCOXNlRFVhVzVWYTRLMkhzYkc5QUs?oc=5\" target=\"_blank\"&gt;UTMB Researchers Pioneer Single-Dose Vaccine Advancements Against Andes Hantavirus Strain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bioengineer.org&lt;/font&gt;",
@@ -941,43 +976,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORTRyRGptN2pXYm00ZEJLZFVCd3RVSGFpWTlZS2RENExBQ19EUkpYQUNEMW1UejRwdGVZYjlXLVg2Y0lLRVFVb2V6c2hhcC1DbzlhQklKS3hwTGhUVWRybklGQmIzRnB3X1QyOHFZTmJ3alFyNnFyWnRWR2xmcU5xa2VaRnVlNlRzYmZGQjNGbWo?oc=5",
       "mentioned_states_json": "[]",
       "fetched_at": "2026-06-12T21:58:11.099Z",
-      "mentioned_states": []
-    },
-    {
-      "id": 877,
-      "headline": "Hantavirus fears reignite as suspected case is investigated in California - The Independent",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGlyRnlUeV9NT0ZfMXBkUEFfRUh4eXZMQ3ZUeXdtU2hscF9GVm9sMEFnSERjRkJaZy05WU9yeTduOTJhcnAyOW1wTV9VOVBmOHhyY1FCSS1YQ3liRGR4aVdIZ3JjR2JNNlctUmdWRGVIZnR6VDlnM3BQNlVvUGxPeEN2cVJ4d0s0ZEpmOE9BVFJoaXB5amNiZnBR?oc=5\" target=\"_blank\"&gt;Hantavirus fears reignite as suspected case is investigated in California&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Independent&lt;/font&gt;",
-      "publisher": "The Independent",
-      "published_at": "2026-06-11T21:10:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGlyRnlUeV9NT0ZfMXBkUEFfRUh4eXZMQ3ZUeXdtU2hscF9GVm9sMEFnSERjRkJaZy05WU9yeTduOTJhcnAyOW1wTV9VOVBmOHhyY1FCSS1YQ3liRGR4aVdIZ3JjR2JNNlctUmdWRGVIZnR6VDlnM3BQNlVvUGxPeEN2cVJ4d0s0ZEpmOE9BVFJoaXB5amNiZnBR?oc=5",
-      "mentioned_states_json": "[\"CA\"]",
-      "fetched_at": "2026-06-11T21:53:06.817Z",
-      "mentioned_states": [
-        "CA"
-      ]
-    },
-    {
-      "id": 882,
-      "headline": "US spends $750,000 to retrieve American from island after hantavirus isolation - Washington Examiner",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeE9IaHFucy1sd2JqeXEtSXNNWWFfMldkV1pMbXF0NzJqVHl0Q1Y3TzVEY2M2N1BfbVBuUnpsa1pQWUlOUlowZEZEZ3VwcWgtNjhZbll3aW1Ma1ZsTWphdU9GQlRQWmM1UTdfd3RpdEI2eWV0Uno2TWRZWTFXN3FBZDhVaV9SZTJQWU1RLTQyVW1FdkEzemhEalRjNkxpazdEelJR?oc=5\" target=\"_blank\"&gt;US spends $750,000 to retrieve American from island after hantavirus isolation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Washington Examiner&lt;/font&gt;",
-      "publisher": "Washington Examiner",
-      "published_at": "2026-06-11T21:04:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeE9IaHFucy1sd2JqeXEtSXNNWWFfMldkV1pMbXF0NzJqVHl0Q1Y3TzVEY2M2N1BfbVBuUnpsa1pQWUlOUlowZEZEZ3VwcWgtNjhZbll3aW1Ma1ZsTWphdU9GQlRQWmM1UTdfd3RpdEI2eWV0Uno2TWRZWTFXN3FBZDhVaV9SZTJQWU1RLTQyVW1FdkEzemhEalRjNkxpazdEelJR?oc=5",
-      "mentioned_states_json": "[\"WA\"]",
-      "fetched_at": "2026-06-11T21:53:06.821Z",
-      "mentioned_states": [
-        "WA"
-      ]
-    },
-    {
-      "id": 880,
-      "headline": "Prisoner at San Quentin may have hantavirus, authorities say - AOL.com",
-      "body_md": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNREZwenlxWUJxY1dMX1VHdjE0ZjRLOHZXVmlYTVBnY0MxYWFVRG5UZWM4a05oNGRqcjFvSi0wUUpBT1lZWmd5bHBMQlppX21reWI5R3FWcDc1M1RDcTEzOTJIRnl0cmZZdmlTVGtJTGppT1JUVFpGUVlYRWo1bTZRZjVLZFZJUQ?oc=5\" target=\"_blank\"&gt;Prisoner at San Quentin may have hantavirus, authorities say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
-      "publisher": "AOL.com",
-      "published_at": "2026-06-11T20:46:14.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREZwenlxWUJxY1dMX1VHdjE0ZjRLOHZXVmlYTVBnY0MxYWFVRG5UZWM4a05oNGRqcjFvSi0wUUpBT1lZWmd5bHBMQlppX21reWI5R3FWcDc1M1RDcTEzOTJIRnl0cmZZdmlTVGtJTGppT1JUVFpGUVlYRWo1bTZRZjVLZFZJUQ?oc=5",
-      "mentioned_states_json": "[]",
-      "fetched_at": "2026-06-11T21:53:06.820Z",
       "mentioned_states": []
     }
   ],
