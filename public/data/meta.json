@@ -1,12 +1,12 @@
 {
   "version": "0.1.0",
   "status": "ok",
-  "last_updated": "2026-06-14T05:05:15.971Z",
+  "last_updated": "2026-06-15T05:00:15.140Z",
   "next_run": "01:00 ET daily",
-  "event_count": 1136,
+  "event_count": 1127,
   "source_count": 11,
   "total_sources": 11,
   "operator": "TCG Solutions",
-  "run": "5bbfbb01-9c26-4e03-a0af-b794c3b2bcdd",
-  "scrape_run": "dbeca8b3-3ecb-4950-8d62-bf046db3985c"
+  "run": "de56aca4-17ac-4c62-8c72-e0b9270e719c",
+  "scrape_run": "30b7223f-a767-474a-b00e-e11e959cc57b"
 }
