@@ -134,13 +134,26 @@ async function main() {
   const scrape = latest ? readJson(latest.file) : null;
   if (latest) logger.info("verify.found_scrape", { day: latest.day, file: latest.file });
 
-  // Idempotence: skip if we already published this run id.
+  // Idempotence: skip if we already published this run id AND no code has
+  // changed since.
+  // 2026-05-29 FM-31 FIX: previously this exited on data-unchanged alone, which
+  // stranded code-only changes (e.g. front-end fixes) that landed between data
+  // runs — the data-gated-deploy-skips-code premortem item. Now ALSO require
+  // git HEAD to match the last publish; if the repo has new commits we must
+  // re-deploy even though the scrape is the same.
   const lastPublishFile = path.join(STATE_DIR, "last_publish.json");
   const lastPublish = readJson(lastPublishFile);
-  if (scrape && lastPublish && lastPublish.scrape_run === scrape.run) {
-    logger.info("verify.already_published", { run: scrape.run });
+  let currentGitHead = null;
+  try { currentGitHead = execSync('git rev-parse HEAD', { cwd: ROOT, stdio: 'pipe' }).toString().trim(); } catch { /* no git or detached */ }
+  const dataSame = scrape && lastPublish && lastPublish.scrape_run === scrape.run;
+  const codeSame = !!(currentGitHead && lastPublish?.git_head && lastPublish.git_head === currentGitHead);
+  if (dataSame && codeSame) {
+    logger.info("verify.already_published", { run: scrape.run, git_head: currentGitHead });
     await logger.close();
     process.exit(0);
+  }
+  if (dataSame && currentGitHead && lastPublish?.git_head && !codeSame) {
+    logger.info("verify.code_changed_since_last_publish", { prev_head: lastPublish.git_head, new_head: currentGitHead });
   }
 
   const v = validate(scrape, logger);
@@ -204,6 +217,7 @@ async function main() {
       mode: publishMode,
       published_at: new Date().toISOString(),
       event_count: eventsToPublish.length,
+      git_head: currentGitHead,
       git: gitResult,
       netlify: deployResult,
     });

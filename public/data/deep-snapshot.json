@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-23T04:00:34.387Z",
+  "generated_at": "2026-06-14T13:01:22.926Z",
   "operator": "TCG Solutions",
   "counts": {
     "advisories": 60,
@@ -10,2391 +10,2391 @@
   },
   "advisories": [
     {
-      "id": 4822,
-      "ts": "2026-05-22T19:24:59.000Z",
-      "source": "who-rss",
-      "title": "Seventy-ninth World Health Assembly – Daily update: 22 May 2026",
-      "severity": "info",
-      "url": "https://www.who.int/news/item/22-05-2026-seventy-ninth-world-health-assembly-daily-update-22-may-2026",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
-    },
-    {
-      "id": 4802,
-      "ts": "2026-05-22T18:22:00.000Z",
+      "id": 25508,
+      "ts": "2026-06-13T04:00:00.000Z",
       "source": "fda-recalls",
-      "title": "Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk",
-      "severity": "critical",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/raaw-energy-expands-recall-dog-food-because-listeria-monocytogenes-health-risk",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
-    },
-    {
-      "id": 4823,
-      "ts": "2026-05-22T15:22:03.000Z",
-      "source": "who-rss",
-      "title": "First meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations",
-      "severity": "critical",
-      "url": "https://www.who.int/news/item/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
-    },
-    {
-      "id": 4824,
-      "ts": "2026-05-21T20:33:06.000Z",
-      "source": "who-rss",
-      "title": "Seventy-ninth World Health Assembly – Daily update: 21 May 2026",
+      "title": "NARA ORGANICS RECALLS ALL LOTS OF NARA INFANT FORMULA BECAUSE OF POSSIBLE HEALTH RISK",
       "severity": "info",
-      "url": "https://www.who.int/news/item/21-05-2026-seventy-ninth-world-health-assembly---daily-update--21-may-2026",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nara-organics-recalls-all-lots-nara-infant-formula-because-possible-health-risk",
+      "fetched_at": "2026-06-14T13:00:01.226Z"
     },
     {
-      "id": 4825,
-      "ts": "2026-05-21T19:48:30.000Z",
+      "id": 25528,
+      "ts": "2026-06-12T12:35:26.000Z",
       "source": "who-rss",
-      "title": "Seventy-ninth World Health Assembly – Daily update: 20 May 2026",
+      "title": "Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access",
       "severity": "info",
-      "url": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly---daily-update--20-may-2026",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access",
+      "fetched_at": "2026-06-14T13:00:01.226Z"
     },
     {
-      "id": 4803,
-      "ts": "2026-05-21T17:40:00.000Z",
+      "id": 25518,
+      "ts": "2026-06-12T04:00:00.000Z",
+      "source": "fda-medwatch",
+      "title": "Beekeeper’s Naturals Issues Voluntary Nationwide Recall of Beekeeper’s Naturals Saline Nasal Spray Sold Through Amazon Due to Microbial Contamination",
+      "severity": "critical",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/beekeepers-naturals-issues-voluntary-nationwide-recall-beekeepers-naturals-saline-nasal-spray-sold",
+      "fetched_at": "2026-06-14T13:00:01.226Z"
+    },
+    {
+      "id": 25519,
+      "ts": "2026-06-12T04:00:00.000Z",
+      "source": "fda-medwatch",
+      "title": "Convenience Kit Correction: Medline Issues Correction for Kits Containing Huons Bupivacaine Hydrochloride in Dextrose Injection, USP",
+      "severity": "info",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-kits-containing-huons-bupivacaine-hydrochloride",
+      "fetched_at": "2026-06-14T13:00:01.226Z"
+    },
+    {
+      "id": 25520,
+      "ts": "2026-06-12T04:00:00.000Z",
+      "source": "fda-medwatch",
+      "title": "Accolade Pacemaker Devices by Boston Scientific and Potential Need for Early Device Replacement - FDA Safety Communication",
+      "severity": "info",
+      "url": "http://www.fda.gov/medical-devices/safety-communications/accolade-pacemaker-devices-boston-scientific-and-potential-need-early-device-replacement-fda-safety",
+      "fetched_at": "2026-06-14T13:00:01.226Z"
+    },
+    {
+      "id": 25509,
+      "ts": "2026-06-11T22:09:00.000Z",
       "source": "fda-recalls",
-      "title": "Kettle Cuisine Issues Allergy Alert For Undeclared Shrimp In Whole Foods Market Kitchen Minestrone Soup",
+      "title": "Total Nutrition Inc. Expands Recall of TNVitamins and Doctor’s Pride Ultra Potent Complete Green Superfood Moringa Capsules Because of Possible Health Risk Following Further Supply Chain Review",
       "severity": "critical",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kettle-cuisine-issues-allergy-alert-undeclared-shrimp-whole-foods-market-kitchen-minestrone-soup",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/total-nutrition-inc-expands-recall-tnvitamins-and-doctors-pride-ultra-potent-complete-green-0",
+      "fetched_at": "2026-06-14T13:00:01.226Z"
     },
     {
-      "id": 4812,
-      "ts": "2026-05-21T04:00:00.000Z",
-      "source": "fda-medwatch",
-      "title": "Early Alert: Heart Pump Controller Issue from Abiomed",
-      "severity": "critical",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-issue-abiomed",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
-    },
-    {
-      "id": 4813,
-      "ts": "2026-05-21T04:00:00.000Z",
-      "source": "fda-medwatch",
-      "title": "Automated Compounding System Recall: Omnicell Removes Syringe Labels Used with the i.v.STATION Automated Compounding System",
-      "severity": "critical",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/automated-compounding-system-recall-omnicell-removes-syringe-labels-used-ivstation-automated",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
-    },
-    {
-      "id": 4814,
-      "ts": "2026-05-21T04:00:00.000Z",
-      "source": "fda-medwatch",
-      "title": "Ventilator Recall: React Health Removes VOCSN V+Pro Ventilators",
-      "severity": "critical",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-react-health-removes-vocsn-vpro-ventilators",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
-    },
-    {
-      "id": 4804,
-      "ts": "2026-05-20T17:26:00.000Z",
+      "id": 25510,
+      "ts": "2026-06-11T16:43:00.000Z",
       "source": "fda-recalls",
-      "title": "Hometown Food Company Issues Allergy Alert on Undeclared Egg in Birch Benders 12oz Sweet Potato Pancake Mix",
+      "title": "Beekeeper’s Naturals Issues Voluntary Nationwide Recall of Beekeeper’s Naturals Saline Nasal Spray Sold Through Amazon Due to Microbial Contamination",
       "severity": "critical",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hometown-food-company-issues-allergy-alert-undeclared-egg-birch-benders-12oz-sweet-potato-pancake",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/beekeepers-naturals-issues-voluntary-nationwide-recall-beekeepers-naturals-saline-nasal-spray-sold",
+      "fetched_at": "2026-06-14T13:00:01.226Z"
     },
     {
-      "id": 4826,
-      "ts": "2026-05-20T15:01:32.000Z",
-      "source": "who-rss",
-      "title": "Seventy-ninth World Health Assembly – Daily update: 19 May 2026",
+      "id": 23005,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-outbreaks",
+      "title": "Skip directly to site content",
       "severity": "info",
-      "url": "https://www.who.int/news/item/19-05-2026-seventy-ninth-world-health-assembly---daily-update--19-may-2026",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "https://www.cdc.gov/outbreaks/index.html#content",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 4827,
-      "ts": "2026-05-20T10:57:07.000Z",
-      "source": "who-rss",
-      "title": "Seventy-ninth World Health Assembly honours global champions advancing primary health care",
+      "id": 23006,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-outbreaks",
+      "title": "Skip directly to search",
       "severity": "info",
-      "url": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly-honours-global-champions-advancing-primary-health-care",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "https://www.cdc.gov/outbreaks/index.html#cdc-search__input",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 4815,
-      "ts": "2026-05-20T04:00:00.000Z",
-      "source": "fda-medwatch",
-      "title": "Thoracic Stent Graft Recall: Bolton Medical Removes Relay Pro System",
+      "id": 23007,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-outbreaks",
+      "title": "Here's how you know",
+      "severity": "info",
+      "url": "https://www.cdc.gov/outbreaks/index.html#gov-notice",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23008,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-outbreaks",
+      "title": "U.S. Outbreaks",
+      "severity": "info",
+      "url": "https://www.cdc.gov/outbreaks/index.html#cdc_homepage_feed1-u-s-outbreaks",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23009,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-outbreaks",
+      "title": "International Outbreaks",
+      "severity": "info",
+      "url": "https://www.cdc.gov/outbreaks/index.html#cdc_homepage_feed3-international-outbreaks",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23010,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-outbreaks",
+      "title": "International Travel Health Notices",
+      "severity": "info",
+      "url": "https://www.cdc.gov/outbreaks/index.html#cdc_homepage_feed2-international-travel-health-notices",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23011,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-outbreaks",
+      "title": "_Listeria_ Outbreak linked to Requesón/Soft Ricotta Cheese",
       "severity": "critical",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/thoracic-stent-graft-recall-bolton-medical-removes-relay-pro-system",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "https://www.cdc.gov/listeria/outbreaks/soft-cheese-06-26/index.html",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 4816,
-      "ts": "2026-05-19T04:00:00.000Z",
-      "source": "fda-medwatch",
-      "title": "Blood Glucose Monitor Recall: Trividia Health Issues Correction for TRUE METRIX Blood Glucose Monitoring Systems",
+      "id": 23012,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-outbreaks",
+      "title": "_Salmonella_ Outbreak Linked to Moringa Leaf Powder",
       "severity": "critical",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/blood-glucose-monitor-recall-trividia-health-issues-correction-true-metrix-blood-glucose-monitoring",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "https://www.cdc.gov/salmonella/outbreaks/supergreenssupplementpowders-1-26/index.html",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 4817,
-      "ts": "2026-05-19T04:00:00.000Z",
-      "source": "fda-medwatch",
-      "title": "Risks of Using TRUE METRIX Blood Glucose Monitoring Systems by Trividia Health: FDA Safety Communication",
-      "severity": "info",
-      "url": "http://www.fda.gov/medical-devices/safety-communications/risks-using-true-metrix-blood-glucose-monitoring-systems-trividia-health-fda-safety-communication",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
-    },
-    {
-      "id": 4805,
-      "ts": "2026-05-18T22:52:00.000Z",
-      "source": "fda-recalls",
-      "title": "Nassar Investments Recalls Malazi Tahina Due to Salmonella Contamination",
-      "severity": "info",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nassar-investments-recalls-malazi-tahina-due-salmonella-contamination",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
-    },
-    {
-      "id": 4828,
-      "ts": "2026-05-18T19:43:34.000Z",
-      "source": "who-rss",
-      "title": "World Health Assembly opens in Geneva, Switzerland",
-      "severity": "info",
-      "url": "https://www.who.int/news/item/18-05-2026-world-health-assembly-opens-in-geneva--switzerland",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
-    },
-    {
-      "id": 4829,
-      "ts": "2026-05-18T13:30:25.000Z",
-      "source": "who-rss",
-      "title": "Director-General presents Award for Global Health to four distinguished leaders",
-      "severity": "info",
-      "url": "https://www.who.int/news/item/18-05-2026-director-general-presents-award-for-global-health-to-four-distinguished-leaders",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
-    },
-    {
-      "id": 4830,
-      "ts": "2026-05-16T23:21:17.000Z",
-      "source": "who-rss",
-      "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+      "id": 23013,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-outbreaks",
+      "title": "_Salmonella_ Outbreak Linked to Moringa Capsules",
       "severity": "critical",
-      "url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "https://www.cdc.gov/salmonella/outbreaks/moringa-05-26/index.html",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 4806,
-      "ts": "2026-05-15T22:05:00.000Z",
-      "source": "fda-recalls",
-      "title": "Sugar Foods Issues Recall of Specific Lots of Kroger Homestyle Cheese Garlic Croutons Due to Possible Health Risk",
+      "id": 23014,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-outbreaks",
+      "title": "_Salmonella_ Outbreak Linked to Pet Veiled Chameleons",
       "severity": "critical",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sugar-foods-issues-recall-specific-lots-kroger-homestyle-cheese-garlic-croutons-due-possible-health",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "https://www.cdc.gov/salmonella/outbreaks/chameleons-05-26/index.html",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 4807,
-      "ts": "2026-05-15T15:59:00.000Z",
-      "source": "fda-recalls",
-      "title": "Blackstone Products Recalls Parmesan Ranch Seasoning Because of Possible Salmonella Health Risk",
+      "id": 23015,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-han",
+      "title": "Skip directly to site content",
       "severity": "info",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blackstone-products-recalls-parmesan-ranch-seasoning-because-possible-salmonella-health-risk",
-      "fetched_at": "2026-05-23T04:00:02.687Z"
+      "url": "https://www.cdc.gov/han/index.html#content",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2830,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh",
-      "title": "Mission & Vision",
+      "id": 23016,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-han",
+      "title": "Skip directly to search",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/mission-and-vision",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.cdc.gov/han/index.html#cdc-search",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2831,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh",
-      "title": "Boards and Commissions",
+      "id": 23017,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-han",
+      "title": "U.S. flag",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/boards-and-commissions",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.cdc.gov/TemplatePackage/5.0/img/uswds/us_flag_small.png",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2832,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh",
-      "title": "Organizational Chart",
+      "id": 23018,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-han",
+      "title": "Here's how you know",
       "severity": "info",
-      "url": "https://www.in.gov/health/files/Org-Chart-2026.pdf",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.cdc.gov/han/index.html#gov-notice",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2833,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh",
-      "title": "Public Records Request",
+      "id": 23020,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-han",
+      "title": "A-Z index",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/public-records-requests",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.cdc.gov/health-topics.html",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2834,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh",
-      "title": "Notice of Nondiscrimination",
+      "id": 23021,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-han",
+      "title": "Health Alert Network (HAN)",
+      "severity": "critical",
+      "url": "https://www.cdc.gov/han/php/about/?CDC_AAref_Val=https://www.cdc.gov/han/index.html",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23022,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-han",
+      "title": "archive.cdc.gov",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/notice-of-nondiscrimination",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://archive.cdc.gov/",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2835,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh",
-      "title": "Notice of Privacy Practices",
+      "id": 23023,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "cdc-han",
+      "title": "link",
       "severity": "info",
-      "url": "https://www.in.gov/health/files/Notice-of-Privacy-Practices-Approved-by-OPA.pdf",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.cdc.gov/han/index.html#",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2836,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh",
-      "title": "Media Contact Us",
+      "id": 23054,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "paho-news",
+      "title": "Home",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/contact-and-information/contact-us#media",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.paho.org/en",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2837,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh",
-      "title": "State Laboratories",
+      "id": 23055,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "paho-news",
+      "title": "![Equipo de OPS en Puerto Rico",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/contact-and-information/contact-us#statelab",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.paho.org/sites/default/files/styles/4_3_med/public/2026/06/encabezado-nota-unidad-tecnica-dengue-puerto-rico-cde-2026.jpg?h=10d202d3&itok=A2pTjdr2",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2838,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh-press",
-      "title": "Mission & Vision",
+      "id": 23056,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "paho-news",
+      "title": "Puerto Rico strengthens technical capacity for the management of severe dengue in intensive care units",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/mission-and-vision",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.paho.org/en/news/10-6-2026-puerto-rico-strengthens-technical-capacity-management-severe-dengue-intensive-care",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2839,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh-press",
-      "title": "Boards and Commissions",
+      "id": 23057,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "paho-news",
+      "title": "![Group photo: Belize’s National Workshop on Sepsis Care Pathways Implementation",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/boards-and-commissions",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.paho.org/sites/default/files/styles/4_3_med/public/2026/06/belize-s-national-workshop-sepsis-care-pathways-implementation_0.jpg?itok=d6niQ3oQ",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2840,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh-press",
-      "title": "Organizational Chart",
+      "id": 23058,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "paho-news",
+      "title": "Working Together to Strengthen Sepsis Care in Belize",
       "severity": "info",
-      "url": "https://www.in.gov/health/files/Org-Chart-2026.pdf",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.paho.org/en/news/10-6-2026-working-together-strengthen-sepsis-care-belize",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2841,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh-press",
-      "title": "Public Records Request",
+      "id": 23059,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "paho-news",
+      "title": "![Laboratory staff",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/public-records-requests",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.paho.org/sites/default/files/styles/4_3_med/public/2026/06/manager-dominica-national-laboratory-eric-carbon-pahowho-personell-and-colleagues-lab-assessment.png?h=e4bd1df9&itok=99YgSG0M",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2842,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh-press",
-      "title": "Notice of Nondiscrimination",
+      "id": 23060,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "paho-news",
+      "title": "A Region Moving Forward: Celebrating Fleming Fund Impact Across the Caribbean",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/about-the-agency/notice-of-nondiscrimination",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.paho.org/en/news/10-6-2026-region-moving-forward-celebrating-fleming-fund-impact-across-caribbean",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2843,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh-press",
-      "title": "Notice of Privacy Practices",
+      "id": 23061,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "paho-news",
+      "title": "![Outline of alcohol and sugary drink bottles",
       "severity": "info",
-      "url": "https://www.in.gov/health/files/Notice-of-Privacy-Practices-Approved-by-OPA.pdf",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.paho.org/sites/default/files/styles/4_3_med/public/2026/06/i-taxes-sugary-beverages-alcohol.jpg?h=0c055ac7&itok=G0ZOqifV",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2844,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh-press",
-      "title": "Media Contact Us",
+      "id": 23062,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "paho-news",
+      "title": "PAHO: Health tax levels in the Americas remain too low to curb harmful consumption of alcohol and sugary drinks",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/contact-and-information/contact-us#media",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.paho.org/en/news/9-6-2026-paho-health-tax-levels-americas-remain-too-low-curb-harmful-consumption-alcohol-and",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2845,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idoh-press",
-      "title": "State Laboratories",
+      "id": 23063,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "paho-news",
+      "title": "![With Health We All Win",
       "severity": "info",
-      "url": "https://www.in.gov/health/directory/office-of-the-commissioner/contact-and-information/contact-us#statelab",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.paho.org/sites/default/files/styles/4_3_med/public/2026/06/health-we-all-win.jpeg?h=c44fcfa1&itok=t8L7QZ-j",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2846,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
+      "id": 23064,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "usda-fsis",
+      "title": "Skip navigation",
+      "severity": "info",
+      "url": "https://www.fsis.usda.gov/recalls#main-content",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23065,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "usda-fsis",
+      "title": "Dot gov",
+      "severity": "info",
+      "url": "https://www.fsis.usda.gov/themes/uswds/img/icon-dot-gov.svg",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23066,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "usda-fsis",
+      "title": "Https",
+      "severity": "info",
+      "url": "https://www.fsis.usda.gov/themes/uswds/img/icon-https.svg",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23067,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "usda-fsis",
+      "title": "High - Class I",
+      "severity": "critical",
+      "url": "https://www.fsis.usda.gov/taxonomy/term/9",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23068,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "usda-fsis",
+      "title": "Misbranding",
+      "severity": "info",
+      "url": "https://www.fsis.usda.gov/taxonomy/term/13",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23069,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "usda-fsis",
+      "title": "Unreported Allergens",
+      "severity": "info",
+      "url": "https://www.fsis.usda.gov/taxonomy/term/14",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23070,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "usda-fsis",
+      "title": "Synear Foods USA, LLC Recalls Frozen Pork and Crab Soup Dumpling Products Due to Misbranding and Undeclared Allergens",
+      "severity": "info",
+      "url": "https://www.fsis.usda.gov/recalls-alerts/synear-foods-usa-llc-recalls-frozen-pork-and-crab-soup-dumpling-products-due",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23071,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "usda-fsis",
+      "title": "Synear Foods USA, LLC",
+      "severity": "info",
+      "url": "https://www.fsis.usda.gov/inspection/fsis-inspected-establishments/synear-foods-usa-llc",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23072,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "usda-fsis",
+      "title": "Public Health Alert",
+      "severity": "critical",
+      "url": "https://www.fsis.usda.gov/taxonomy/term/555",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23073,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "usda-fsis",
+      "title": "Product Contamination",
+      "severity": "info",
+      "url": "https://www.fsis.usda.gov/taxonomy/term/16",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23074,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "osha-news",
+      "title": "![News",
+      "severity": "info",
+      "url": "https://www.osha.gov/sites/default/files/inline-images/media-center-1.webp",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23075,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "osha-news",
+      "title": "![QuickTakes",
+      "severity": "info",
+      "url": "https://www.osha.gov/sites/default/files/inline-images/media-center-qt.webp",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23076,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "osha-news",
+      "title": "![Notebook computer showing a blog on screen",
+      "severity": "info",
+      "url": "https://www.osha.gov/sites/default/files/inline-images/media-center-2.webp",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23077,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "osha-news",
+      "title": "![Lectern with a microphone in front of an audience",
+      "severity": "info",
+      "url": "https://www.osha.gov/sites/default/files/inline-images/media-center-3.webp",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23078,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "osha-news",
+      "title": "![Megaphone",
+      "severity": "info",
+      "url": "https://www.osha.gov/sites/default/files/inline-images/media-center-4.webp",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23079,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "osha-news",
+      "title": "Keyboard keys with icons of a telephone handset and letter envelope",
+      "severity": "info",
+      "url": "https://www.osha.gov/sites/default/files/inline-images/media-center-5_2.webp",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
+    },
+    {
+      "id": 23080,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "hrsa-news",
       "title": "Skip to main content",
       "severity": "info",
-      "url": "https://dph.illinois.gov/search.html?contentType=news&q=#main",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.hrsa.gov/about/news/press-releases#main-content",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2849,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Toggle Search",
+      "id": 23081,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "hrsa-news",
+      "title": "Health Resources & Services Administration",
       "severity": "info",
-      "url": "https://dph.illinois.gov/search.html?contentType=news&q=#",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.hrsa.gov/",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2850,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Ticks and Mosquitoes and Bats, Oh My!",
+      "id": 23082,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "hrsa-news",
+      "title": "Call, Text, or Chat the Maternal Mental Health Hotline",
       "severity": "info",
-      "url": "https://dph.illinois.gov/resource-center/news/2026/may/ticks-and-mosquitoes-and-bats--oh-my-.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.hrsa.gov/about/news/press-releases#hotline-modal",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2851,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "IDPH Reminds Consumers to Use Caution After Listeria Outbreak Linked to Headcheese Deli Meat Product",
-      "severity": "critical",
-      "url": "https://dph.illinois.gov/resource-center/news/2026/may/idph-reminds-consumers-to-use-caution-after-listeria-outbreak-li.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2852,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "IDPH Update on Hantavirus",
+      "id": 23083,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "hrsa-news",
+      "title": "HRSA Highlights Opportunities for Health Centers to Advance Nutrition-Focused Care to Prevent Chronic Disease",
       "severity": "info",
-      "url": "https://dph.illinois.gov/resource-center/news/2026/may/idph-update-on-hantavirus.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.hrsa.gov/about/news/press-releases/nutrition-care-prevent-chronic-disease",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2853,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Illinois Rises to Top Tier in National Emergency Preparedness Rankings",
-      "severity": "critical",
-      "url": "https://dph.illinois.gov/resource-center/news/2026/may/release-20260508.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2854,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Illinois Maintains High Childhood Vaccination Rates Outpacing National Trends",
+      "id": 23084,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "hrsa-news",
+      "title": "HRSA Releases National Home Visiting Workforce Strategy, Recognizes National Home Visiting Week",
       "severity": "info",
-      "url": "https://dph.illinois.gov/resource-center/news/2026/may/illinois-maintains-high-childhood-vaccination-rates.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.hrsa.gov/about/news/press-releases/national-home-visiting-workforce-strategy-2026",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2855,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "IDPH Issues Updated Sport Fish Consumption Advisories",
+      "id": 23085,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "hrsa-news",
+      "title": "HRSA Announces More Than $135 Million to Expand Nutrition Services and Strengthen Rural Health Workforce",
       "severity": "info",
-      "url": "https://dph.illinois.gov/resource-center/news/2026/april/release-20260415.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.hrsa.gov/about/news/press-releases/hrsa-announces-expand-nutrition-services-strengthen-rural-health-workforce",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2856,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "IDPH Spotlights the Power of Prevention During 30 Days of Public Health in April",
+      "id": 23086,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "hrsa-news",
+      "title": "HRSA Honors National Donate Life Month, Advances Organ Transplant System Modernization",
       "severity": "info",
-      "url": "https://dph.illinois.gov/resource-center/news/2026/april/30daysofpublichealth2026.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.hrsa.gov/about/news/press-releases/hrsa-honors-national-donate-life-month",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2857,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Director Vohra Dear Colleagues",
+      "id": 23087,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "hrsa-news",
+      "title": "HRSA to Celebrate Upcoming Match Day with New Investments in Community-Based Medical and Dental Training",
       "severity": "info",
-      "url": "https://dph.illinois.gov/resource-center/communications/director-letters/2026/letter-03202026.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.hrsa.gov/about/news/press-releases/match-day-2026-new-investments",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     },
     {
-      "id": 2858,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Tax Season Provides Opportunity to Support Public Health Through Voluntary Contribution Program",
+      "id": 23088,
+      "ts": "2026-06-11T11:00:01.385Z",
+      "source": "hrsa-news",
+      "title": "HRSA Updates Ryan White HIV/AIDS Program Parts A and B Formula Funding Methodology to Ensure HIV Care Services Meet Patient Needs",
       "severity": "info",
-      "url": "https://dph.illinois.gov/resource-center/news/2026/march/taxseasonpublichealth.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2859,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "IDPH Releases Carbon Monoxide Surveillance Report",
-      "severity": "info",
-      "url": "https://dph.illinois.gov/resource-center/news/2026/march/carbonmonoxidesurveillancereport.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2860,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Advisory Boards",
-      "severity": "warn",
-      "url": "https://dph.illinois.gov/resource-center/advisory-boards.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2861,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Office of the Inspector General",
-      "severity": "info",
-      "url": "https://oeig.illinois.gov/",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2862,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Centers for Disease Control and Prevention",
-      "severity": "info",
-      "url": "https://www.cdc.gov/",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2863,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Office of Governor JB Pritzker",
-      "severity": "info",
-      "url": "https://gov.illinois.gov/",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2864,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Illinois Jobs",
-      "severity": "info",
-      "url": "https://illinois.jobs2web.com/",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2865,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Illinois.gov home page",
-      "severity": "info",
-      "url": "https://www.illinois.gov/",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2866,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Employment Opportunities",
-      "severity": "info",
-      "url": "https://dph.illinois.gov/about/employment-opportunities.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2867,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Community Ambassadors",
-      "severity": "info",
-      "url": "https://dph.illinois.gov/ambassador.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2868,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "List of Local Health Departments",
-      "severity": "info",
-      "url": "https://dph.illinois.gov/contact-us/regional-health-departments.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2869,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "File a Health Care Complaint",
-      "severity": "info",
-      "url": "https://dph.illinois.gov/topics-services/health-care-regulation/complaints.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
-    },
-    {
-      "id": 2870,
-      "ts": "2026-05-15T09:45:15.174Z",
-      "source": "idph-il",
-      "title": "Diseases A-Z List",
-      "severity": "info",
-      "url": "https://dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list.html",
-      "fetched_at": "2026-05-15T09:45:15.174Z"
+      "url": "https://www.hrsa.gov/about/news/press-releases/ryan-white-program-parts-a-b-formula-funding-update",
+      "fetched_at": "2026-06-11T11:00:01.385Z"
     }
   ],
   "court_cases": [
     {
-      "id": 798,
-      "court_id": "flmd",
-      "case_name": "INTAKE BREATHING TECHNOLOGY, LLC v. THE INDIVIDUAL PARTNERSHIP AND UNINCORPORATED ASSOCIATION IDENTIFIED ON SCHEDULE A",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73372925/intake-breathing-technology-llc-v-the-individual-partnership-and/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 802,
-      "court_id": "paed",
-      "case_name": "SPARAGE v. NOVO NORDISK INC.",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73367387/sparage-v-novo-nordisk-inc/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 813,
-      "court_id": "paed",
-      "case_name": "Koltick v. DREXEL UNIVERSITY",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73373460/koltick-v-drexel-university/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 814,
-      "court_id": "ilnd",
-      "case_name": "Kogut v. Camping World Holdings, Inc.",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73372869/kogut-v-camping-world-holdings-inc/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 815,
-      "court_id": "mnd",
-      "case_name": "United States v. Kadar",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73372558/united-states-v-kadar/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 816,
-      "court_id": "mnd",
-      "case_name": "United States v. Hassan",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73372259/united-states-v-hassan/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 818,
-      "court_id": "paed",
-      "case_name": "ARIAS MOREJON v. JALEPENOS, LLC",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73369826/arias-morejon-v-jalepenos-llc/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 819,
-      "court_id": "sdd",
-      "case_name": "LONE EAGLE v. SOUTH DAKOTA BOARD OF MINERALS AND ENVIRONMENT",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73369245/lone-eagle-v-south-dakota-board-of-minerals-and-environment/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 821,
-      "court_id": "paed",
-      "case_name": "SPRAGUE v. EXCEL COMMUNICATIONS WORLDWIDE, INC.",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73368827/sprague-v-excel-communications-worldwide-inc/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 822,
-      "court_id": "paed",
-      "case_name": "Ennett v. MAIN LINE HEALTH",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73368678/ennett-v-main-line-health/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 823,
-      "court_id": "mnd",
-      "case_name": "United States v. Mahamud",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73368658/united-states-v-mahamud/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 824,
-      "court_id": "mnd",
-      "case_name": "United States v. Dayib",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73368258/united-states-v-dayib/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 825,
-      "court_id": "dcd",
-      "case_name": "FELDESMAN LLP v. ADMINISTRATION FOR CHILDREN AND FAMILIES (ACF) WITHIN THE U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73367800/feldesman-llp-v-administration-for-children-and-families-acf-within-the/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 826,
-      "court_id": "dcd",
-      "case_name": "FELDESMAN LLP v. ADMINISTRATION FOR CHILDREN AND FAMILIES (ACF) WITHIN THE U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73367692/feldesman-llp-v-administration-for-children-and-families-acf-within-the/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 829,
-      "court_id": "nysd",
-      "case_name": "Traynham v. L'Oreal USA, Inc.",
-      "case_kind": "fda",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73369102/traynham-v-loreal-usa-inc/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 862,
-      "court_id": "njd",
-      "case_name": "CAPRICOR THERAPEUTICS, INC. v. NIPPON SHINYAKU CO., LTD.",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-20",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73371682/capricor-therapeutics-inc-v-nippon-shinyaku-co-ltd/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 736,
-      "court_id": "mad",
-      "case_name": "Gade v. mullin",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73364612/gade-v-mullin/",
-      "fetched_at": "2026-05-20T09:45:53.423Z"
-    },
-    {
-      "id": 738,
-      "court_id": "mssb",
-      "case_name": "Anna Elizabeth Ruffin",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73362595/anna-elizabeth-ruffin/",
-      "fetched_at": "2026-05-20T09:45:53.423Z"
-    },
-    {
-      "id": 739,
-      "court_id": "moed",
-      "case_name": "Swearengin v. Missouri Department of Mental Health",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73362314/swearengin-v-missouri-department-of-mental-health/",
-      "fetched_at": "2026-05-20T09:45:53.423Z"
-    },
-    {
-      "id": 740,
-      "court_id": "dcd",
-      "case_name": "FOUNDATION FOR INDIVIDUAL RIGHTS AND EXPRESSION v. UNITED STATES DEPARTMENT OF HOMELAND SECURITY",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73361609/foundation-for-individual-rights-and-expression-v-united-states-department/",
-      "fetched_at": "2026-05-20T09:45:53.423Z"
-    },
-    {
-      "id": 742,
-      "court_id": "dcd",
-      "case_name": "JUDICIAL WATCH, INC. v. U.S. DEPARTMENT OF JUSTICE",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73361259/judicial-watch-inc-v-us-department-of-justice/",
-      "fetched_at": "2026-05-20T09:45:53.423Z"
-    },
-    {
-      "id": 743,
-      "court_id": "mdd",
-      "case_name": "STATE OF MARYLAND v. UNITED STATES DEPARTMENT OF EDUCATION",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73360678/state-of-maryland-v-united-states-department-of-education/",
-      "fetched_at": "2026-05-20T09:45:53.423Z"
-    },
-    {
-      "id": 744,
-      "court_id": "ilnd",
-      "case_name": "Laurent v. Kelly, in his official capacity as Director of Illinois State Police",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73360669/laurent-v-kelly-in-his-official-capacity-as-director-of-illinois-state/",
-      "fetched_at": "2026-05-20T09:45:53.423Z"
-    },
-    {
-      "id": 803,
-      "court_id": "med",
-      "case_name": "PACHAMAMA SANCTUARY v. BLANCHE",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73366937/pachamama-sanctuary-v-blanche/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 804,
-      "court_id": "cand",
-      "case_name": "Pill v. Liang",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73366294/pill-v-liang/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 805,
-      "court_id": "utd",
-      "case_name": "Price v. Instructure Inc",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73365293/price-v-instructure-inc/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 806,
-      "court_id": "ilnd",
-      "case_name": "Schulz v. Camping World Holdings, Inc.",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73364730/schulz-v-camping-world-holdings-inc/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 827,
-      "court_id": "almd",
-      "case_name": "Kimner v. Beasley",
-      "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
-      "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73368765/kimner-v-beasley/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
-    },
-    {
-      "id": 830,
+      "id": 2422,
       "court_id": "cacd",
-      "case_name": "Dilena v. Waterboy, LLC",
-      "case_kind": "fda",
-      "date_filed": "2026-05-19",
+      "case_name": "Banks v. Netflix Worldwide Entertainment, LLC",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-13",
       "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73363491/dilena-v-waterboy-llc/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
+      "html_url": "https://www.courtlistener.com/docket/73481649/banks-v-netflix-worldwide-entertainment-llc/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
     },
     {
-      "id": 863,
-      "court_id": "mnd",
-      "case_name": "United States of America, The v. State of Minnesota",
+      "id": 2407,
+      "court_id": "njd",
+      "case_name": "STEELE v. NANO-X IMAGING LTD.",
       "case_kind": "public-health-litigation",
-      "date_filed": "2026-05-19",
+      "date_filed": "2026-06-12",
       "summary": "",
-      "html_url": "https://www.courtlistener.com/docket/73361329/united-states-of-america-the-v-state-of-minnesota/",
-      "fetched_at": "2026-05-21T09:45:56.712Z"
+      "html_url": "https://www.courtlistener.com/docket/73481048/steele-v-nano-x-imaging-ltd/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2411,
+      "court_id": "flmd",
+      "case_name": "Mason v. Lawrence",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73477105/mason-v-lawrence/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2423,
+      "court_id": "cacd",
+      "case_name": "Scott v. Dre Vision Studios LLC",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73481074/scott-v-dre-vision-studios-llc/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2424,
+      "court_id": "flmd",
+      "case_name": "DOE v. Ensemble RCM LLC, d/b/a Ensemble Health Partners",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73479516/doe-v-ensemble-rcm-llc-dba-ensemble-health-partners/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2425,
+      "court_id": "nced",
+      "case_name": "United States v. Carnes",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73478167/united-states-v-carnes/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2426,
+      "court_id": "wied",
+      "case_name": "Espinoza v. Vanzile",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73477351/espinoza-v-vanzile/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2427,
+      "court_id": "cacd",
+      "case_name": "Park v. Simha Partnership, Ltd.",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73477226/park-v-simha-partnership-ltd/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2429,
+      "court_id": "paed",
+      "case_name": "PHILLIPS v. TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73476978/phillips-v-trustees-of-the-university-of-pennsylvania/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2430,
+      "court_id": "ca1",
+      "case_name": "State of California v. Mullin",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73476893/state-of-california-v-mullin/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2431,
+      "court_id": "dcd",
+      "case_name": "STEIN v. DEPARTMENT OF STATE",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73476890/stein-v-department-of-state/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2432,
+      "court_id": "paed",
+      "case_name": "AMERICAN CIVIL LIBERTIES UNION OF PENNSYLVANIA v. UNITED STATES DEPARTMENT OF HOMELAND SECURITY",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73476640/american-civil-liberties-union-of-pennsylvania-v-united-states-department/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2437,
+      "court_id": "cadc",
+      "case_name": "Joyce Beatty v. Donald Trump",
+      "case_kind": "fda",
+      "date_filed": "2026-06-12",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73477160/joyce-beatty-v-donald-trump/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2269,
+      "court_id": "med",
+      "case_name": "PENOBSCOT COMMUNITY HEALTH CENTER v. COMMUNITY CARE PARTNERSHIP OF MAINE LLC",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73474077/penobscot-community-health-center-v-community-care-partnership-of-maine/",
+      "fetched_at": "2026-06-12T09:48:53.060Z"
+    },
+    {
+      "id": 2271,
+      "court_id": "flmd",
+      "case_name": "Bucknall v. Stepp's Towing Service Inc.",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73471834/bucknall-v-stepps-towing-service-inc/",
+      "fetched_at": "2026-06-12T09:48:53.060Z"
+    },
+    {
+      "id": 2272,
+      "court_id": "pamb",
+      "case_name": "Joseph Jason Wormuth and Danielle Wormuth",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73471357/joseph-jason-wormuth-and-danielle-wormuth/",
+      "fetched_at": "2026-06-12T09:48:53.060Z"
+    },
+    {
+      "id": 2273,
+      "court_id": "alsd",
+      "case_name": "Huddleston v. Burch",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73471136/huddleston-v-burch/",
+      "fetched_at": "2026-06-12T09:48:53.060Z"
+    },
+    {
+      "id": 2355,
+      "court_id": "wawd",
+      "case_name": "Puget Soundkeeper Alliance v. Republic Services Alliance Group Inc",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73475232/puget-soundkeeper-alliance-v-republic-services-alliance-group-inc/",
+      "fetched_at": "2026-06-13T09:47:59.973Z"
+    },
+    {
+      "id": 2415,
+      "court_id": "paed",
+      "case_name": "TURNER v. CITY OF PHILADELPHIA",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73475002/turner-v-city-of-philadelphia/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2416,
+      "court_id": "tnmd",
+      "case_name": "Todd v. Xsolis, Inc.",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73474322/todd-v-xsolis-inc/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2417,
+      "court_id": "flmd",
+      "case_name": "Paszotta v. Pierce, Jr.",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73472019/paszotta-v-pierce-jr/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2418,
+      "court_id": "nyed",
+      "case_name": "Brooklyn Center for Independence of the Disabled v. Hochul",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73470373/brooklyn-center-for-independence-of-the-disabled-v-hochul/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2433,
+      "court_id": "nmd",
+      "case_name": "United States v. Crofton",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73477050/united-states-v-crofton/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2434,
+      "court_id": "dcd",
+      "case_name": "GREEN v. UNITED STATES DEPARTMENT OF JUSTICE",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73476128/green-v-united-states-department-of-justice/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2435,
+      "court_id": "dcd",
+      "case_name": "J6ERS WERE DESTROYED BY WEAPONIZATION v. BLANCHE",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73476101/j6ers-were-destroyed-by-weaponization-v-blanche/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2436,
+      "court_id": "casd",
+      "case_name": "Booster Fuels, Inc. v. Madasu",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73475564/booster-fuels-inc-v-madasu/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2456,
+      "court_id": "txsd",
+      "case_name": "Gibson, IV v. Blue Cross and Blue Shield of Texas",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-11",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73475071/gibson-iv-v-blue-cross-and-blue-shield-of-texas/",
+      "fetched_at": "2026-06-14T09:49:49.454Z"
+    },
+    {
+      "id": 2188,
+      "court_id": "ncwd",
+      "case_name": "Antoine v. Crisp",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-10",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73467480/antoine-v-crisp/",
+      "fetched_at": "2026-06-11T09:45:51.179Z"
+    },
+    {
+      "id": 2189,
+      "court_id": "mssb",
+      "case_name": "Angela Rochelle Brazil",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-10",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73467329/angela-rochelle-brazil/",
+      "fetched_at": "2026-06-11T09:45:51.179Z"
+    },
+    {
+      "id": 2190,
+      "court_id": "nysd",
+      "case_name": "Caceres v. Williamson",
+      "case_kind": "public-health-litigation",
+      "date_filed": "2026-06-10",
+      "summary": "",
+      "html_url": "https://www.courtlistener.com/docket/73467111/caceres-v-williamson/",
+      "fetched_at": "2026-06-11T09:45:51.179Z"
     }
   ],
   "news": [
     {
-      "id": 2212,
+      "id": 4745,
       "headline": "The best coupons at CVS Pharmacy",
       "source": "cnn-health-rss",
       "publisher": "CNN Health",
-      "published_at": "2026-05-22T09:45:57.061Z",
+      "published_at": "2026-06-14T09:51:21.292Z",
       "url": "https://coupons.cnn.com/cvs",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2213,
+      "id": 4746,
       "headline": "The planet is getting hotter fast. This is what happens to your body in extreme heat",
       "source": "cnn-health-rss",
       "publisher": "CNN Health",
-      "published_at": "2026-05-22T09:45:57.061Z",
+      "published_at": "2026-06-14T09:51:21.292Z",
       "url": "https://www.cnn.com/2023/07/09/health/what-happens-to-your-body-extreme-heat-xpn/index.html",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2214,
+      "id": 4747,
       "headline": "What a medication abortion is like, according to a doctor",
       "source": "cnn-health-rss",
       "publisher": "CNN Health",
-      "published_at": "2026-05-22T09:45:57.061Z",
+      "published_at": "2026-06-14T09:51:21.292Z",
       "url": "https://www.cnn.com/2023/01/06/health/medication-abortion-process-wellness/index.html",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2215,
+      "id": 4748,
       "headline": "How to cool down without AC",
       "source": "cnn-health-rss",
       "publisher": "CNN Health",
-      "published_at": "2026-05-22T09:45:57.061Z",
+      "published_at": "2026-06-14T09:51:21.292Z",
       "url": "https://www.cnn.com/2022/07/18/health/how-to-stay-cool-without-air-conditioning-wellness/index.html",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2216,
+      "id": 4749,
       "headline": "The benefits of 'body doubling' when you have ADHD, according to experts",
       "source": "cnn-health-rss",
       "publisher": "CNN Health",
-      "published_at": "2026-05-22T09:45:57.061Z",
+      "published_at": "2026-06-14T09:51:21.292Z",
       "url": "https://www.cnn.com/2023/02/13/health/adhd-body-doubling-productivity-benefits-wellness/index.html",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2217,
+      "id": 4750,
       "headline": "If you think you can't focus for long, you're right",
       "source": "cnn-health-rss",
       "publisher": "CNN Health",
-      "published_at": "2026-05-22T09:45:57.061Z",
+      "published_at": "2026-06-14T09:51:21.292Z",
       "url": "https://www.cnn.com/2023/01/11/health/short-attention-span-wellness/index.html",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2238,
-      "headline": "What to know about the Japanese-style scalp massages catching on in the US",
+      "id": 4723,
+      "headline": "Want obesity drugs covered by insurance? Telehealth companies have a big say",
+      "source": "npr-health-rss",
+      "publisher": "NPR Health",
+      "published_at": "2026-06-14T09:00:00.000Z",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-drugs",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4771,
+      "headline": "Sugar-free diets may disrupt the gut microbiome, animal study indicates",
       "source": "medical-xpress-rss",
       "publisher": "Medical Xpress",
-      "published_at": "2026-05-22T09:10:01.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-japanese-style-scalp-massages.html",
+      "published_at": "2026-06-14T01:10:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-sugar-free-diets-disrupt-gut.html",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2184,
-      "headline": "On the Ground in South Sudan: Why Akobo Faces an Ebola Risk",
+      "id": 4772,
+      "headline": "Thrifty food plan costs vary widely across US regions and cities",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-14T00:30:03.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-thrifty-food-vary-widely-regions.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4773,
+      "headline": "Danish intelligence test may underestimate the abilities of bilingual young people",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T23:30:05.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-danish-intelligence-underestimate-abilities-bilingual.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4774,
+      "headline": "Study finds exercise decreases among people taking GLP-1 medication",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T22:40:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-decreases-people-glp-medication.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4775,
+      "headline": "Prenatal health and early diet may shape fatty liver risk, study suggests",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T22:30:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-prenatal-health-early-diet-fatty.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4776,
+      "headline": "Adding genetic data to steroid prescribing can help predict side effects, data suggest",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T22:00:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-adding-genetic-steroid-side-effects.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4777,
+      "headline": "Third electrode pair can sharpen deep brain stimulation technique, mouse experiments suggest",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T21:00:06.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-electrode-pair-sharpen-deep-brain.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4778,
+      "headline": "Q&amp;A: Researcher provides insights into melanoma prognosis",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T21:00:03.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-qa-insights-melanoma-prognosis.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4779,
+      "headline": "Endocrine-disrupting chemicals found in breast milk and infant urine up to age 6 months",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T20:30:03.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-endocrine-disrupting-chemicals-breast-infant.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4780,
+      "headline": "Phthalate exposure in early life may lead to anxiety, rat study suggests",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T20:30:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-phthalate-exposure-early-life-anxiety.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4781,
+      "headline": "Testosterone alone is not a replacement for lifestyle changes in older men at risk of type 2 diabetes, new study shows",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T20:20:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-testosterone-lifestyle-older-men-diabetes.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4782,
+      "headline": "Glucosamine supplements may speed memory loss from Alzheimer&#039;s, new research shows",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T19:30:02.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-glucosamine-supplements-memory-loss-alzheimer.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4703,
+      "headline": "Scientists Race to Test Treatments as Ebola Outbreak Widens",
       "source": "nyt-health-rss",
       "publisher": "NYT Health",
-      "published_at": "2026-05-22T09:06:47.000Z",
-      "url": "https://www.nytimes.com/2026/05/22/world/africa/ebola-south-sudan-congo.html",
+      "published_at": "2026-06-13T19:11:48.000Z",
+      "url": "https://www.nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2239,
-      "headline": "Researchers identify avenue for enhanced GLP-1-induced weight loss",
+      "id": 4751,
+      "headline": "GLP-1 and SGLT2 Users Face Different Risk for Diabetic Foot Complication",
+      "source": "medpage-rss",
+      "publisher": "MedPage Today",
+      "published_at": "2026-06-13T19:00:00.000Z",
+      "url": "https://www.medpagetoday.com/meetingcoverage/endo/121746",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4783,
+      "headline": "Women&#039;s thyroid cancer risk may be linked to reproductive lifespan and hormone therapy",
       "source": "medical-xpress-rss",
       "publisher": "Medical Xpress",
-      "published_at": "2026-05-22T09:00:06.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-avenue-glp-weight-loss.html",
+      "published_at": "2026-06-13T18:50:05.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-women-thyroid-cancer-linked-reproductive.html",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2240,
-      "headline": "COVID-19 mRNA vaccine plus immune system enhancer may reduce need for repeated boosters, say researchers",
+      "id": 4784,
+      "headline": "Type 1 diabetes diagnoses surge among Puerto Rican teens",
       "source": "medical-xpress-rss",
       "publisher": "Medical Xpress",
-      "published_at": "2026-05-22T09:00:04.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-covid-mrna-vaccine-immune-boosters.html",
+      "published_at": "2026-06-13T18:50:03.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-diabetes-surge-puerto-rican-teens.html",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2190,
-      "headline": "&apos;We&apos;ll never know if he could have been saved.&apos; The gaps in Trump&apos;s rural health fund",
+      "id": 4785,
+      "headline": "Study suggests testosterone therapy in men may be overprescribed, inconsistent with clinical guidelines",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T18:50:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-testosterone-therapy-men-overprescribed-inconsistent.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4786,
+      "headline": "How a simple blood test could help detect heart damage during breast cancer treatment",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T18:00:05.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-simple-blood-heart-breast-cancer.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4787,
+      "headline": "Vitamin C levels in blood plasma linked with brain connectivity and volume in older adults",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T18:00:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-vitamin-blood-plasma-linked-brain.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4752,
+      "headline": "Visceral Fat and Cardiometabolic Risk Factors; Autoantibodies and IBD",
+      "source": "medpage-rss",
+      "publisher": "MedPage Today",
+      "published_at": "2026-06-13T18:00:00.000Z",
+      "url": "https://www.medpagetoday.com/podcasts/healthwatch/121734",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4788,
+      "headline": "Simple blood test unveils hidden risks of unstable coronary plaques",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T16:30:04.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-simple-blood-unveils-hidden-unstable.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4789,
+      "headline": "AI tool shown to reduce eye care disparities for African American adults with diabetes",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T16:00:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-ai-tool-shown-eye-disparities.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4753,
+      "headline": "In Our Dog-Eat-Dog Medical Culture, Physicians Lose",
+      "source": "medpage-rss",
+      "publisher": "MedPage Today",
+      "published_at": "2026-06-13T16:00:00.000Z",
+      "url": "https://www.medpagetoday.com/opinion/second-opinions/121736",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4790,
+      "headline": "Could a once-a-day pill replace weight loss injections? Phase II oral GLP-1 drug trial shows promising results",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T15:40:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-day-pill-weight-loss-phase.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4791,
+      "headline": "Key mechanism regulating the anti-inflammatory function of extracellular vesicles identified",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T15:00:05.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-key-mechanism-anti-inflammatory-function.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4792,
+      "headline": "Diabetes substantially increases mortality risk for organ transplant recipients, analysis reveals",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T14:50:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-diabetes-substantially-mortality-transplant-recipients.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4793,
+      "headline": "AI model identifies patients at risk of underdiagnosed cause of high blood pressure",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T14:30:03.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-ai-patients-underdiagnosed-high-blood.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4794,
+      "headline": "GLP-1s tied to elevated risk of fainting, dizziness",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T14:30:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-glp-1s-elevated-fainting-dizziness.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4754,
+      "headline": "FDA's E-Cigarette Authorization: Fruity Vapes Not Better Than Tobacco Ones",
+      "source": "medpage-rss",
+      "publisher": "MedPage Today",
+      "published_at": "2026-06-13T14:00:00.000Z",
+      "url": "https://www.medpagetoday.com/washington-watch/fdageneral/121724",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4795,
+      "headline": "Always losing your way? Psychologists investigate topographical disorientation at festival",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T13:30:03.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-psychologists-topographical-disorientation-festival.html",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4755,
+      "headline": "Endocrine Society Issues First Guideline on Central Precocious Puberty",
+      "source": "medpage-rss",
+      "publisher": "MedPage Today",
+      "published_at": "2026-06-13T13:00:00.000Z",
+      "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4724,
+      "headline": "4 things to know about the new sunscreen ingredient the FDA approved",
       "source": "npr-health-rss",
       "publisher": "NPR Health",
-      "published_at": "2026-05-22T09:00:00.000Z",
-      "url": "https://www.npr.org/2026/05/22/nx-s1-5821038/rural-health-hospitals-50-billion-big-beautiful-bill-obbba",
+      "published_at": "2026-06-13T12:00:00.000Z",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2191,
-      "headline": "Eli Lilly says its next gen obesity drug is more powerful than Zepbound and Wegovy",
+      "id": 4725,
+      "headline": "Some quarantined cruise ship passengers push to return home",
       "source": "npr-health-rss",
       "publisher": "NPR Health",
-      "published_at": "2026-05-22T08:44:35.000Z",
-      "url": "https://www.npr.org/2026/05/22/nx-s1-5830044/eli-lilly-says-its-next-gen-obesity-drug-is-more-powerful-than-zepbound-and-wegovy",
+      "published_at": "2026-06-13T11:39:39.000Z",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5853598/some-quarantined-cruise-ship-passengers-push-to-return-home",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2241,
-      "headline": "Deadly DR Congo Ebola outbreak spreads to M23-held South Kivu",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-22T08:40:02.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-deadly-dr-congo-ebola-outbreak.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2242,
-      "headline": "Can AI help predict how you might be feeling in the future?",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-22T02:40:01.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-ai-future.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2243,
-      "headline": "Researcher develops &#039;smart, tiny bubbles&#039; to treat cancer and heart disease",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-22T01:40:04.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-smart-tiny-cancer-heart-disease.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2171,
-      "headline": "2 Minnesota Autism Therapy Providers Charged in $46 Million Medicaid Fraud Case",
-      "source": "nyt-health-rss",
-      "publisher": "NYT Health",
-      "published_at": "2026-05-22T01:25:24.000Z",
-      "url": "https://www.nytimes.com/2026/05/21/us/politics/medicaid-fraud-minnesota-autism.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2244,
-      "headline": "Bacterial STIs reach record highs in Europe, and congenital syphilis cases nearly double",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-22T01:00:02.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-bacterial-stis-highs-europe-congenital.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2185,
-      "headline": "Trump Officials’ Strict Stand on Ebola Leaves Health Experts ‘Stunned’",
-      "source": "nyt-health-rss",
-      "publisher": "NYT Health",
-      "published_at": "2026-05-22T00:22:27.000Z",
-      "url": "https://www.nytimes.com/2026/05/21/us/hantavirus-ebola-quarantine-trump.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2245,
-      "headline": "Elite immune cells lead the fight against multiple myeloma",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-22T00:20:01.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-elite-immune-cells-multiple-myeloma.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2246,
-      "headline": "Exercising in the open air is the best ally to combat winter vitamin D deficiency, study says",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T23:40:04.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-air-ally-combat-winter-vitamin.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2247,
-      "headline": "Molecular pathways behind inflammation in alcohol-associated liver disease mapped",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T23:20:03.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-molecular-pathways-inflammation-alcohol-liver.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2248,
-      "headline": "UK&#039;s younger generations likelier to experience poor health earlier in life than previous cohorts, research shows",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T23:10:02.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-uk-younger-generations-likelier-poor.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2249,
-      "headline": "Spinal stimulation data reveal why high-frequency pulses may miss key nerve pathways",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T23:00:02.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-spinal-reveal-high-frequency-pulses.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2250,
-      "headline": "Mental disorders have nearly doubled since 1990, now affecting 1.2 billion people worldwide",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T22:30:02.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-mental-disorders-affecting-billion-people.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2192,
-      "headline": "A nurse found guilty of negligent homicide is now a a sought-after speaker",
+      "id": 4726,
+      "headline": "A plan to get lifesaving food to hungry kids was working well -- until it wasn&apos;t",
       "source": "npr-health-rss",
       "publisher": "NPR Health",
-      "published_at": "2026-05-21T22:29:52.000Z",
-      "url": "https://www.npr.org/2026/05/21/nx-s1-5822515/a-nurse-found-guilty-of-negligent-homicide-is-now-a-a-sought-after-speaker",
+      "published_at": "2026-06-13T11:07:38.000Z",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5787791/malnourished-children-senegal-therapeutic-food-plumpynut",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2251,
-      "headline": "Machine learning personalizes depression treatment with the help of wearable technology",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T22:20:03.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-machine-personalizes-depression-treatment-wearable.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2252,
-      "headline": "Data-driven biomaterials steer pancreatic cancer organoids into new cell states",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T22:00:04.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-driven-biomaterials-pancreatic-cancer-organoids.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2218,
-      "headline": "House Hearing on the Physician Fee Schedule, MACRA Finds Much Agreement on Problems",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T21:40:48.000Z",
-      "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/121415",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2253,
-      "headline": "Novel combination therapy could reduce leukemia relapse rate, extending window for bone marrow transplants",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T21:40:03.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-combination-therapy-leukemia-relapse-window.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2219,
-      "headline": "What Was Erectile Dysfunction Linked With?",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T21:23:46.000Z",
-      "url": "https://www.medpagetoday.com/quizzes/news-quiz/121414",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2254,
-      "headline": "One‑week radiotherapy course shown to be safe and effective in the long term for early‑stage breast cancer",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T21:20:05.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-oneweek-radiotherapy-shown-safe-effective.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2220,
-      "headline": "Funding Cuts and Empty Beds: Critics Question the U.S. Response to  Ebola",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T21:19:46.000Z",
-      "url": "https://www.medpagetoday.com/infectiousdisease/ebola/121413",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2255,
-      "headline": "Oral drug proves highly effective against chemotherapy-related low platelets in GI cancer trial",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T21:00:08.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-oral-drug-highly-effective-chemotherapy.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2256,
-      "headline": "Clinical trial tests virus-immunotherapy combination for neuroendocrine tumors",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T21:00:06.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-clinical-trial-virus-immunotherapy-combination.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2257,
-      "headline": "Child death rates in the United States have increased, study finds",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T21:00:03.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-child-death-states.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2221,
-      "headline": "Short-Term Fasting Enhances Chemotherapy Response in Advanced Ovarian Cancer",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T21:00:00.000Z",
-      "url": "https://www.medpagetoday.com/meetingcoverage/asco/121405",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2222,
-      "headline": "GLP-1s Linked to Lower Risk of Cancer Spread in Four Tumor Types",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T21:00:00.000Z",
-      "url": "https://www.medpagetoday.com/meetingcoverage/asco/121397",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2258,
-      "headline": "&#039;Pink noise&#039; can help make anesthesia work better during surgery",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T20:40:07.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-pink-noise-anesthesia-surgery.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2259,
-      "headline": "Dermatologists and oncologists call for overhaul of widely used cancer side-effect grading system",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T20:40:01.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-dermatologists-oncologists-overhaul-widely-cancer.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2260,
-      "headline": "Why energy fades with age: Missing membrane lipid may destabilize mitochondria",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T20:20:05.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-energy-age-membrane-lipid-destabilize.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2261,
-      "headline": "Survey highlights persistent uncertainty on STI vaccines",
-      "source": "medical-xpress-rss",
-      "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T20:20:01.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-survey-highlights-persistent-uncertainty-sti.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2193,
-      "headline": "American passenger feels &apos;betrayed&apos; by federal order to stay in hantavirus quarantine",
+      "id": 4727,
+      "headline": "&apos;Cool Ladies Club&apos; is directed by 10 working-class women. They live up to the title",
       "source": "npr-health-rss",
       "publisher": "NPR Health",
-      "published_at": "2026-05-21T20:19:09.000Z",
-      "url": "https://www.npr.org/2026/05/21/nx-s1-5827015/american-passenger-order-hantavirus-quarantine",
+      "published_at": "2026-06-13T10:56:45.000Z",
+      "url": "https://www.npr.org/2026/06/13/g-s1-125467/cool-ladies-club-movies-working-class-women-documentary-india",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2262,
-      "headline": "Early detection of type 1 diabetes in children is feasible from routine pediatric care",
+      "id": 4728,
+      "headline": "COMIC: How excessive heat kills and how to stay safe",
+      "source": "npr-health-rss",
+      "publisher": "NPR Health",
+      "published_at": "2026-06-13T10:00:00.000Z",
+      "url": "https://www.npr.org/2026/06/13/g-s1-126350/heat-wave-safety-weather-heatstroke",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4756,
+      "headline": "Talquetamab Regimens Boost Survival in Multiple Myeloma",
+      "source": "medpage-rss",
+      "publisher": "MedPage Today",
+      "published_at": "2026-06-13T10:00:00.000Z",
+      "url": "https://www.medpagetoday.com/meetingcoverage/eha/121744",
+      "state": null,
+      "fetched_at": "2026-06-14T09:51:21.292Z"
+    },
+    {
+      "id": 4669,
+      "headline": "Why women with HIV are still dying early, even when virus is not main cause",
       "source": "medical-xpress-rss",
       "publisher": "Medical Xpress",
-      "published_at": "2026-05-21T20:10:01.000Z",
-      "url": "https://medicalxpress.com/news/2026-05-early-diabetes-children-feasible-routine.html",
+      "published_at": "2026-06-13T09:30:53.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-women-hiv-dying-early-virus.html",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-13T09:49:31.417Z"
     },
     {
-      "id": 2223,
-      "headline": "Ebola Outbreak Goes Viral; Marinating in UV Damage; Fibermaxxing Gone Too Far?",
+      "id": 4670,
+      "headline": "Long-read DNA test lifts rare disease diagnoses and could replace 15 other tests",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T08:50:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-dna-rare-disease.html",
+      "state": null,
+      "fetched_at": "2026-06-13T09:49:31.417Z"
+    },
+    {
+      "id": 4671,
+      "headline": "Grandparents are a vital resource in the child mental health crisis, says psychologist",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T04:10:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-grandparents-vital-resource-child-mental.html",
+      "state": null,
+      "fetched_at": "2026-06-13T09:49:31.417Z"
+    },
+    {
+      "id": 4672,
+      "headline": "Written exposure therapy can provide transformative, scalable PTSD care",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T03:20:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-written-exposure-therapy-scalable-ptsd.html",
+      "state": null,
+      "fetched_at": "2026-06-13T09:49:31.417Z"
+    },
+    {
+      "id": 4673,
+      "headline": "Tourette patients face high suicide risk, pain and discrimination, report reveals",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T02:00:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-tourette-patients-high-suicide-pain.html",
+      "state": null,
+      "fetched_at": "2026-06-13T09:49:31.417Z"
+    },
+    {
+      "id": 4674,
+      "headline": "Q&amp;A: The dismantling of US global aid is a cascading crisis, say experts",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T01:00:02.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-qa-dismantling-global-aid-cascading.html",
+      "state": null,
+      "fetched_at": "2026-06-13T09:49:31.417Z"
+    },
+    {
+      "id": 4675,
+      "headline": "How overlooked social connections can prevent suicide",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-13T00:20:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-overlooked-social-suicide.html",
+      "state": null,
+      "fetched_at": "2026-06-13T09:49:31.417Z"
+    },
+    {
+      "id": 4676,
+      "headline": "Healthy lifespan cut short by sex-dependent depressive symptoms in older adults",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-12T23:20:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-healthy-lifespan-short-sex-depressive.html",
+      "state": null,
+      "fetched_at": "2026-06-13T09:49:31.417Z"
+    },
+    {
+      "id": 4677,
+      "headline": "Fructose sends a weaker satiety signal to the brain than glucose",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-12T22:20:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-fructose-weaker-satiety-brain-glucose.html",
+      "state": null,
+      "fetched_at": "2026-06-13T09:49:31.417Z"
+    },
+    {
+      "id": 4678,
+      "headline": "Results of non-invasive prenatal testing compare well to those from invasive methods, with better safety and cost",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-12T22:10:02.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-results-invasive-prenatal-methods-safety.html",
+      "state": null,
+      "fetched_at": "2026-06-13T09:49:31.417Z"
+    },
+    {
+      "id": 4679,
+      "headline": "Severe COVID-19 reveals distinct immune patterns tied to metabolism, not just antiviral response",
+      "source": "medical-xpress-rss",
+      "publisher": "Medical Xpress",
+      "published_at": "2026-06-12T21:40:01.000Z",
+      "url": "https://medicalxpress.com/news/2026-06-severe-covid-reveals-distinct-immune.html",
+      "state": null,
+      "fetched_at": "2026-06-13T09:49:31.417Z"
+    },
+    {
+      "id": 4757,
+      "headline": "Study Linking Vaccines to Autism Retracted",
       "source": "medpage-rss",
       "publisher": "MedPage Today",
-      "published_at": "2026-05-21T19:57:45.000Z",
-      "url": "https://www.medpagetoday.com/popmedicine/popmedicine/121407",
+      "published_at": "2026-06-12T21:36:51.000Z",
+      "url": "https://www.medpagetoday.com/neurology/autism/121745",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2224,
-      "headline": "Psychosis and Cannabis Legalization: Where's the Evidence?",
+      "id": 4758,
+      "headline": "Drinking in Pregnancy on the Rise, CDC Data Show",
       "source": "medpage-rss",
       "publisher": "MedPage Today",
-      "published_at": "2026-05-21T19:47:37.000Z",
-      "url": "https://www.medpagetoday.com/meetingcoverage/apa/121404",
+      "published_at": "2026-06-12T21:11:17.000Z",
+      "url": "https://www.medpagetoday.com/obgyn/pregnancy/121743",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2225,
-      "headline": "Trump Admin Expands Its Use of AI in Hunt for Healthcare Fraud",
+      "id": 4759,
+      "headline": "FDA Approves Prostate Cancer Combo That Warranted Advisory Meeting",
       "source": "medpage-rss",
       "publisher": "MedPage Today",
-      "published_at": "2026-05-21T19:31:38.000Z",
-      "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121403",
+      "published_at": "2026-06-12T21:10:07.000Z",
+      "url": "https://www.medpagetoday.com/hematologyoncology/prostatecancer/121742",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2226,
-      "headline": "Here's What Happened the First Time Ebola Hit U.S. Shores",
+      "id": 4760,
+      "headline": "Adjuvant Combination for Kidney Cancer Gets FDA's Blessing",
       "source": "medpage-rss",
       "publisher": "MedPage Today",
-      "published_at": "2026-05-21T19:17:55.000Z",
-      "url": "https://www.medpagetoday.com/infectiousdisease/ebola/121402",
+      "published_at": "2026-06-12T21:06:59.000Z",
+      "url": "https://www.medpagetoday.com/hematologyoncology/renalcellcarcinoma/121741",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     },
     {
-      "id": 2186,
-      "headline": "U.S. Adds Security Measures at Dulles to Receive Citizens Who Have Been in Ebola Outbreak Region",
-      "source": "nyt-health-rss",
-      "publisher": "NYT Health",
-      "published_at": "2026-05-21T18:52:38.000Z",
-      "url": "https://www.nytimes.com/2026/05/21/us/politics/us-entry-restrictions-ebola-outbreak.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2227,
-      "headline": "A 'Youthful' Brain May Boost Alzheimer's Resilience",
+      "id": 4761,
+      "headline": "Top Pro Athletes Credit a Tiny New Scope for Their Faster Recoveries",
       "source": "medpage-rss",
       "publisher": "MedPage Today",
-      "published_at": "2026-05-21T18:02:20.000Z",
-      "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/121399",
+      "published_at": "2026-06-12T20:59:27.000Z",
+      "url": "https://www.medpagetoday.com/sportsmedicine/elitesports/121740",
       "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2194,
-      "headline": "Abortion pills &quot;just in case&quot;? Planned Parenthood will offer them in two states",
-      "source": "npr-health-rss",
-      "publisher": "NPR Health",
-      "published_at": "2026-05-21T17:29:35.000Z",
-      "url": "https://www.npr.org/2026/05/21/nx-s1-5827444/abortion-pills-mifepristone-misoprostol-planned-parenthood-advance-provision",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2228,
-      "headline": "A Surgeon Reveals What's Behind the Musty 'BBL Smell'",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T17:16:56.000Z",
-      "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/121396",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2229,
-      "headline": "Women-Only Trial Supports Self-Expanding TAVR as the Way to Go",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T16:54:02.000Z",
-      "url": "https://www.medpagetoday.com/meetingcoverage/europcr/121395",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2230,
-      "headline": "Why This Texas Doctor Dumped His Medicare Advantage Plan Contracts",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T16:28:10.000Z",
-      "url": "https://www.medpagetoday.com/practicemanagement/practicemanagement/121392",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2231,
-      "headline": "Appeals in Congo for Supplies as Aid Groups Say Ebola Outbreak Is 'Gaining Momentum'",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T15:16:16.000Z",
-      "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121389",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2195,
-      "headline": "Smokers in China are being chided by anti-smoking women",
-      "source": "npr-health-rss",
-      "publisher": "NPR Health",
-      "published_at": "2026-05-21T15:13:47.000Z",
-      "url": "https://www.npr.org/2026/05/21/g-s1-122873/smoking-cigarettes-china",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2232,
-      "headline": "Stoking Sexual Arousal and Desire: GLP-1s, Nerve Stimulation, 'Scream Cream'",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T15:10:30.000Z",
-      "url": "https://www.medpagetoday.com/meetingcoverage/aua/121388",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2233,
-      "headline": "$45M Botox Scheme; Man Accused of Slamming Nurse's Head Into Wall; Doc's Hit-and-Run",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T14:20:46.000Z",
-      "url": "https://www.medpagetoday.com/special-reports/features/121387",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2234,
-      "headline": "U.S. Backs New Ebola Treatment; Candy-Like Tobacco Targeted; 1 in 10 Surgeons Quit",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T13:38:59.000Z",
-      "url": "https://www.medpagetoday.com/infectiousdisease/ebola/121386",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2235,
-      "headline": "Steatosis and Cardiovascular Events; Golimumab Biosimilar OK'd; Daily Stress and IBS",
-      "source": "medpage-rss",
-      "publisher": "MedPage Today",
-      "published_at": "2026-05-21T12:39:06.000Z",
-      "url": "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/121385",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
-    },
-    {
-      "id": 2170,
-      "headline": "Experimental Drug Yields Dramatic Weight Loss",
-      "source": "nyt-health-rss",
-      "publisher": "NYT Health",
-      "published_at": "2026-05-21T10:45:05.000Z",
-      "url": "https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html",
-      "state": null,
-      "fetched_at": "2026-05-22T09:45:57.061Z"
+      "fetched_at": "2026-06-14T09:51:21.292Z"
     }
   ],
   "outbreaks": [
     {
-      "id": 25026,
-      "condition": "covid-19",
-      "location_kind": "state",
-      "location_name": "Alabama",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25027,
+      "id": 307689,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Alabama",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25028,
+      "id": 307690,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Alabama",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 13,
-      "week_of": "2026-05-16",
+      "deaths": 20,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25029,
+      "id": 307691,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "Alaska",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25030,
+      "id": 307692,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Alaska",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25031,
+      "id": 307693,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Alaska",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25032,
+      "id": 307694,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Arizona",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25033,
+      "id": 307695,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Arizona",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 26,
-      "week_of": "2026-05-16",
+      "deaths": 22,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25034,
-      "condition": "covid-19",
+      "id": 307696,
+      "condition": "influenza",
       "location_kind": "state",
       "location_name": "Arkansas",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25035,
+      "id": 307697,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Arkansas",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 18,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25036,
+      "id": 307698,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "California",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 139,
-      "week_of": "2026-05-16",
+      "deaths": 149,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25037,
-      "condition": "covid-19",
-      "location_kind": "state",
-      "location_name": "Colorado",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25038,
+      "id": 307699,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Colorado",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25039,
-      "condition": "pneumonia",
+      "id": 307700,
+      "condition": "covid-19",
       "location_kind": "state",
-      "location_name": "Colorado",
+      "location_name": "Connecticut",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 11,
-      "week_of": "2026-05-16",
+      "deaths": 0,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25040,
+      "id": 307701,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Connecticut",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25041,
+      "id": 307702,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Connecticut",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 23,
-      "week_of": "2026-05-16",
+      "deaths": 29,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25042,
+      "id": 307703,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "Delaware",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25043,
-      "condition": "influenza",
-      "location_kind": "state",
-      "location_name": "Delaware",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25044,
+      "id": 307704,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "District of Columbia",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25045,
+      "id": 307705,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "District of Columbia",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25046,
-      "condition": "pneumonia",
-      "location_kind": "state",
-      "location_name": "District of Columbia",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25047,
-      "condition": "covid-19",
-      "location_kind": "state",
-      "location_name": "Florida",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25048,
-      "condition": "influenza",
-      "location_kind": "state",
-      "location_name": "Florida",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25049,
+      "id": 307706,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Florida",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 91,
-      "week_of": "2026-05-16",
+      "deaths": 103,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25050,
+      "id": 307707,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "Georgia",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25051,
-      "condition": "influenza",
+      "id": 307708,
+      "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Georgia",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
+      "deaths": 24,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25052,
+      "id": 307709,
+      "condition": "covid-19",
+      "location_kind": "state",
+      "location_name": "Hawaii",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307710,
+      "condition": "influenza",
+      "location_kind": "state",
+      "location_name": "Hawaii",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307711,
+      "condition": "covid-19",
+      "location_kind": "state",
+      "location_name": "Idaho",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307712,
+      "condition": "influenza",
+      "location_kind": "state",
+      "location_name": "Idaho",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307713,
       "condition": "pneumonia",
       "location_kind": "state",
-      "location_name": "Georgia",
+      "location_name": "Illinois",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 20,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25053,
-      "condition": "covid-19",
-      "location_kind": "state",
-      "location_name": "Hawaii",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25054,
-      "condition": "influenza",
-      "location_kind": "state",
-      "location_name": "Hawaii",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25055,
-      "condition": "covid-19",
-      "location_kind": "state",
-      "location_name": "Idaho",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25056,
-      "condition": "influenza",
-      "location_kind": "state",
-      "location_name": "Idaho",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25057,
-      "condition": "influenza",
-      "location_kind": "state",
-      "location_name": "Illinois",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25058,
-      "condition": "pneumonia",
-      "location_kind": "state",
-      "location_name": "Illinois",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 41,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25059,
+      "id": 307714,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "Indiana",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25060,
+      "id": 307715,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Indiana",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25061,
+      "id": 307716,
+      "condition": "covid-19",
+      "location_kind": "state",
+      "location_name": "Iowa",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307717,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Iowa",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25062,
+      "id": 307718,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "Kansas",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25063,
-      "condition": "influenza",
-      "location_kind": "state",
-      "location_name": "Kansas",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25064,
+      "id": 307719,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Kansas",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 14,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25065,
+      "id": 307720,
+      "condition": "covid-19",
+      "location_kind": "state",
+      "location_name": "Kentucky",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307721,
+      "condition": "influenza",
+      "location_kind": "state",
+      "location_name": "Kentucky",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307722,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Kentucky",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 10,
-      "week_of": "2026-05-16",
+      "deaths": 11,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25066,
+      "id": 307723,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "Louisiana",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25067,
+      "id": 307724,
+      "condition": "influenza",
+      "location_kind": "state",
+      "location_name": "Louisiana",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307725,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "Maine",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25068,
+      "id": 307726,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Maine",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25069,
+      "id": 307727,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Maine",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 16,
-      "week_of": "2026-05-16",
+      "deaths": 14,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25070,
+      "id": 307728,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "Maryland",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25071,
+      "id": 307729,
+      "condition": "influenza",
+      "location_kind": "state",
+      "location_name": "Maryland",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307730,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Maryland",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 38,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25072,
+      "id": 307731,
+      "condition": "covid-19",
+      "location_kind": "state",
+      "location_name": "Massachusetts",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307732,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Massachusetts",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25073,
+      "id": 307733,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Massachusetts",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 32,
-      "week_of": "2026-05-16",
+      "deaths": 43,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25074,
-      "condition": "influenza",
-      "location_kind": "state",
-      "location_name": "Michigan",
-      "case_count": null,
-      "hospitalizations": null,
-      "deaths": 0,
-      "week_of": "2026-05-16",
-      "source": "cdc-nchs-r8kw",
-      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
-    },
-    {
-      "id": 25075,
+      "id": 307734,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Michigan",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 56,
-      "week_of": "2026-05-16",
+      "deaths": 36,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25076,
+      "id": 307735,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Minnesota",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25077,
+      "id": 307736,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Minnesota",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 31,
-      "week_of": "2026-05-16",
+      "deaths": 28,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25078,
+      "id": 307737,
+      "condition": "covid-19",
+      "location_kind": "state",
+      "location_name": "Mississippi",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307738,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Mississippi",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25079,
+      "id": 307739,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Mississippi",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 13,
-      "week_of": "2026-05-16",
+      "deaths": 23,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25080,
+      "id": 307740,
+      "condition": "covid-19",
+      "location_kind": "state",
+      "location_name": "Missouri",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307741,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Missouri",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25081,
+      "id": 307742,
       "condition": "pneumonia",
       "location_kind": "state",
       "location_name": "Missouri",
       "case_count": null,
       "hospitalizations": null,
-      "deaths": 26,
-      "week_of": "2026-05-16",
+      "deaths": 20,
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25082,
+      "id": 307743,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "Montana",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25083,
+      "id": 307744,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Montana",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25084,
+      "id": 307745,
       "condition": "covid-19",
       "location_kind": "state",
       "location_name": "Nebraska",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     },
     {
-      "id": 25085,
+      "id": 307746,
       "condition": "influenza",
       "location_kind": "state",
       "location_name": "Nebraska",
       "case_count": null,
       "hospitalizations": null,
       "deaths": 0,
-      "week_of": "2026-05-16",
+      "week_of": "2026-06-06",
       "source": "cdc-nchs-r8kw",
       "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
-      "fetched_at": "2026-05-22T09:30:02.044Z"
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307747,
+      "condition": "influenza",
+      "location_kind": "state",
+      "location_name": "Nevada",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 0,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
+    },
+    {
+      "id": 307748,
+      "condition": "pneumonia",
+      "location_kind": "state",
+      "location_name": "Nevada",
+      "case_count": null,
+      "hospitalizations": null,
+      "deaths": 19,
+      "week_of": "2026-06-06",
+      "source": "cdc-nchs-r8kw",
+      "source_url": "https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Ending-Date-and-S/r8kw-7aab",
+      "fetched_at": "2026-06-14T09:30:04.002Z"
     }
   ],
   "runs": [
     {
-      "id": 477,
-      "ts": "2026-05-23T04:00:14.833Z",
-      "source_kind": "cdc",
-      "items_inserted": 30,
-      "items_skipped": 10,
-      "error_message": null
-    },
-    {
-      "id": 476,
-      "ts": "2026-05-23T03:00:14.064Z",
-      "source_kind": "cdc",
-      "items_inserted": 20,
-      "items_skipped": 10,
-      "error_message": null
-    },
-    {
-      "id": 475,
-      "ts": "2026-05-23T02:00:14.557Z",
-      "source_kind": "cdc",
-      "items_inserted": 20,
-      "items_skipped": 10,
-      "error_message": null
-    },
-    {
-      "id": 474,
-      "ts": "2026-05-23T01:00:19.273Z",
-      "source_kind": "cdc",
-      "items_inserted": 30,
-      "items_skipped": 10,
-      "error_message": null
-    },
-    {
-      "id": 473,
-      "ts": "2026-05-23T00:00:18.206Z",
-      "source_kind": "cdc",
-      "items_inserted": 30,
-      "items_skipped": 10,
-      "error_message": null
-    },
-    {
-      "id": 472,
-      "ts": "2026-05-22T23:00:38.752Z",
-      "source_kind": "cdc",
-      "items_inserted": 30,
-      "items_skipped": 10,
-      "error_message": null
-    },
-    {
-      "id": 471,
-      "ts": "2026-05-22T22:00:22.233Z",
+      "id": 1352,
+      "ts": "2026-06-14T13:01:22.877Z",
       "source_kind": "cdc",
       "items_inserted": 31,
       "items_skipped": 9,
       "error_message": null
     },
     {
-      "id": 470,
-      "ts": "2026-05-22T21:05:52.981Z",
+      "id": 1351,
+      "ts": "2026-06-14T12:01:04.960Z",
       "source_kind": "cdc",
       "items_inserted": 31,
       "items_skipped": 9,
       "error_message": null
     },
     {
-      "id": 469,
-      "ts": "2026-05-22T20:00:16.157Z",
+      "id": 1350,
+      "ts": "2026-06-14T11:05:43.278Z",
       "source_kind": "cdc",
       "items_inserted": 31,
       "items_skipped": 9,
       "error_message": null
     },
     {
-      "id": 468,
-      "ts": "2026-05-22T19:00:12.963Z",
-      "source_kind": "cdc",
-      "items_inserted": 31,
-      "items_skipped": 9,
-      "error_message": null
-    },
-    {
-      "id": 467,
-      "ts": "2026-05-22T18:00:12.149Z",
-      "source_kind": "cdc",
-      "items_inserted": 31,
-      "items_skipped": 9,
-      "error_message": null
-    },
-    {
-      "id": 466,
-      "ts": "2026-05-22T17:00:16.880Z",
-      "source_kind": "cdc",
-      "items_inserted": 31,
-      "items_skipped": 9,
-      "error_message": null
-    },
-    {
-      "id": 465,
-      "ts": "2026-05-22T16:00:15.077Z",
-      "source_kind": "cdc",
-      "items_inserted": 31,
-      "items_skipped": 9,
-      "error_message": null
-    },
-    {
-      "id": 464,
-      "ts": "2026-05-22T15:00:12.072Z",
-      "source_kind": "cdc",
-      "items_inserted": 31,
-      "items_skipped": 9,
-      "error_message": null
-    },
-    {
-      "id": 463,
-      "ts": "2026-05-22T14:00:13.259Z",
-      "source_kind": "cdc",
-      "items_inserted": 31,
-      "items_skipped": 9,
-      "error_message": null
-    },
-    {
-      "id": 462,
-      "ts": "2026-05-22T13:00:12.961Z",
-      "source_kind": "cdc",
-      "items_inserted": 31,
-      "items_skipped": 9,
-      "error_message": null
-    },
-    {
-      "id": 461,
-      "ts": "2026-05-22T12:00:12.052Z",
-      "source_kind": "cdc",
-      "items_inserted": 31,
-      "items_skipped": 9,
-      "error_message": null
-    },
-    {
-      "id": 460,
-      "ts": "2026-05-22T11:01:31.706Z",
-      "source_kind": "cdc",
-      "items_inserted": 31,
-      "items_skipped": 9,
-      "error_message": null
-    },
-    {
-      "id": 459,
-      "ts": "2026-05-22T10:15:11.948Z",
+      "id": 1349,
+      "ts": "2026-06-14T10:15:06.779Z",
       "source_kind": "county:ca",
-      "items_inserted": 1934,
-      "items_skipped": 66,
+      "items_inserted": 4836,
+      "items_skipped": 164,
       "error_message": null
     },
     {
-      "id": 458,
-      "ts": "2026-05-22T10:15:11.215Z",
+      "id": 1348,
+      "ts": "2026-06-14T10:15:05.095Z",
       "source_kind": "county:ny",
-      "items_inserted": 2000,
+      "items_inserted": 5000,
       "items_skipped": 0,
+      "error_message": null
+    },
+    {
+      "id": 1347,
+      "ts": "2026-06-14T10:15:04.163Z",
+      "source_kind": "county:nwss",
+      "items_inserted": 4733,
+      "items_skipped": 267,
+      "error_message": null
+    },
+    {
+      "id": 1346,
+      "ts": "2026-06-14T10:01:05.550Z",
+      "source_kind": "cdc",
+      "items_inserted": 31,
+      "items_skipped": 9,
+      "error_message": null
+    },
+    {
+      "id": 1345,
+      "ts": "2026-06-14T10:00:34.347Z",
+      "source_kind": "state-dph",
+      "items_inserted": 8,
+      "items_skipped": 80,
+      "error_message": null
+    },
+    {
+      "id": 1344,
+      "ts": "2026-06-14T09:52:47.273Z",
+      "source_kind": "news",
+      "items_inserted": 102,
+      "items_skipped": 8,
+      "error_message": null
+    },
+    {
+      "id": 1343,
+      "ts": "2026-06-14T09:51:21.275Z",
+      "source_kind": "courtlistener",
+      "items_inserted": 79,
+      "items_skipped": 0,
+      "error_message": null
+    },
+    {
+      "id": 1342,
+      "ts": "2026-06-14T09:49:49.434Z",
+      "source_kind": "state-feeds",
+      "items_inserted": 0,
+      "items_skipped": 1,
+      "error_message": null
+    },
+    {
+      "id": 1341,
+      "ts": "2026-06-14T09:48:25.681Z",
+      "source_kind": "state-feed.salud-pr",
+      "items_inserted": 0,
+      "items_skipped": 0,
+      "error_message": "js-heavy; pending alternate scraper"
+    },
+    {
+      "id": 1340,
+      "ts": "2026-06-14T09:46:56.574Z",
+      "source_kind": "cdc",
+      "items_inserted": 68,
+      "items_skipped": 22,
+      "error_message": null
+    },
+    {
+      "id": 1339,
+      "ts": "2026-06-14T09:31:06.086Z",
+      "source_kind": "outbreaks-deep:3yf8",
+      "items_inserted": 11242,
+      "items_skipped": 0,
+      "error_message": null
+    },
+    {
+      "id": 1338,
+      "ts": "2026-06-14T09:30:59.287Z",
+      "source_kind": "outbreaks-deep:r8kw",
+      "items_inserted": 6918,
+      "items_skipped": 0,
+      "error_message": null
+    },
+    {
+      "id": 1337,
+      "ts": "2026-06-14T09:04:14.619Z",
+      "source_kind": "cdc",
+      "items_inserted": 31,
+      "items_skipped": 9,
+      "error_message": null
+    },
+    {
+      "id": 1336,
+      "ts": "2026-06-14T07:30:07.082Z",
+      "source_kind": "cdc-fluview",
+      "items_inserted": 29,
+      "items_skipped": 13,
+      "error_message": null
+    },
+    {
+      "id": 1335,
+      "ts": "2026-06-14T06:01:35.461Z",
+      "source_kind": "cdc",
+      "items_inserted": 31,
+      "items_skipped": 9,
+      "error_message": null
+    },
+    {
+      "id": 1334,
+      "ts": "2026-06-14T05:02:09.142Z",
+      "source_kind": "cdc",
+      "items_inserted": 31,
+      "items_skipped": 9,
+      "error_message": null
+    },
+    {
+      "id": 1333,
+      "ts": "2026-06-14T04:01:51.247Z",
+      "source_kind": "cdc",
+      "items_inserted": 31,
+      "items_skipped": 9,
       "error_message": null
     }
   ]
