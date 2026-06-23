@@ -45,6 +45,82 @@ function writeJson(file, data) {
   fs.writeFileSync(file, JSON.stringify(data, null, 2));
 }
 
+// ---------------------------------------------------------------------------
+// Country name normalizer
+// Root-cause fix (2026-06-23): source connectors emit raw country text from
+// WHO/Africa-CDC/ECDC without normalization, producing:
+//   - Duplicate "DR Congo" facets: "Democratic Republic of the Congo",
+//     "Democratic Republic Of Congo", "Basankusu, Equateur- Democratic Republic..."
+//   - Text fragments as countries: "Multi-country with a focus on countries
+//     experiencing current surges" (leaked WHO source note, not a country)
+// Fix: normalize origin_country at publish time to canonical ISO display names.
+// ---------------------------------------------------------------------------
+const COUNTRY_CANONICAL = {
+  // DRC variants
+  "democratic republic of the congo": "DR Congo",
+  "democratic republic of congo": "DR Congo",
+  "drc": "DR Congo",
+  "dr congo": "DR Congo",
+  "dr. congo": "DR Congo",
+  "congo, the democratic republic of the": "DR Congo",
+  // Republic of Congo
+  "republic of congo": "Republic of Congo",
+  "republic of the congo": "Republic of Congo",
+  "congo": "Republic of Congo",
+  // Other common aliases
+  "united states of america": "United States",
+  "usa": "United States",
+  "united kingdom": "United Kingdom",
+  "uk": "United Kingdom",
+  "great britain": "United Kingdom",
+  "south korea": "South Korea",
+  "republic of korea": "South Korea",
+  "north korea": "North Korea",
+  "democratic people's republic of korea": "North Korea",
+  "taiwan": "Taiwan",
+  "taiwan, province of china": "Taiwan",
+  "ivory coast": "Côte d'Ivoire",
+  "cote d'ivoire": "Côte d'Ivoire",
+  "iran": "Iran",
+  "iran, islamic republic of": "Iran",
+  "russia": "Russia",
+  "russian federation": "Russia",
+  "vietnam": "Vietnam",
+  "viet nam": "Vietnam",
+  "bolivia": "Bolivia",
+  "bolivia (plurinational state of)": "Bolivia",
+  "venezuela": "Venezuela",
+  "venezuela, bolivarian republic of": "Venezuela",
+};
+
+// Max length for a valid country name — longer strings are likely text fragments
+const MAX_COUNTRY_LEN = 60;
+
+function normalizeCountry(raw) {
+  if (!raw || typeof raw !== "string") return raw;
+  const trimmed = raw.trim();
+  // Drop text fragments (too long to be a country name)
+  if (trimmed.length > MAX_COUNTRY_LEN) return null;
+  // Remove city/province prefixes that appear before country names
+  // e.g. "Basankusu, Equateur- Democratic Republic of the Congo"
+  const withoutPrefix = trimmed.replace(/^[^-]+[-–]\s*/, "").trim();
+  const lower = withoutPrefix.toLowerCase();
+  if (COUNTRY_CANONICAL[lower]) return COUNTRY_CANONICAL[lower];
+  // Also try the original
+  const lowerOrig = trimmed.toLowerCase();
+  if (COUNTRY_CANONICAL[lowerOrig]) return COUNTRY_CANONICAL[lowerOrig];
+  // Return the prefix-stripped version (title-cased if all-caps)
+  const result = withoutPrefix || trimmed;
+  return result;
+}
+
+function normalizeEvents(events) {
+  return events.map((e) => ({
+    ...e,
+    origin_country: normalizeCountry(e.origin_country) ?? e.origin_country,
+  }));
+}
+
 function findLatestScrape() {
   if (!fs.existsSync(DATA_DIR)) return null;
   const days = fs.readdirSync(DATA_DIR)
@@ -161,7 +237,9 @@ async function main() {
   let publishMode, eventsToPublish, metaToPublish;
   if (v.ok) {
     publishMode = "fresh";
-    eventsToPublish = scrape.events;
+    // Normalize origin_country before publishing (fixes DR Congo duplicates +
+    // text-fragment leak; root-cause fix 2026-06-23)
+    eventsToPublish = normalizeEvents(scrape.events);
     metaToPublish = {
       version: "0.1.0",
       status: "ok",
@@ -178,7 +256,9 @@ async function main() {
     // Republish last-known-good with stale flag
     publishMode = "stale";
     const previousEventsFile = path.join(PUBLIC_DATA, "events.json");
-    eventsToPublish = readJson(previousEventsFile, []);
+    // Also normalize stale events on re-publish (idempotent; prev events may be
+    // from a connector run before the normalization fix was deployed)
+    eventsToPublish = normalizeEvents(readJson(previousEventsFile, []));
     const prevMeta = readJson(path.join(PUBLIC_DATA, "meta.json"), {});
     metaToPublish = {
       ...prevMeta,
