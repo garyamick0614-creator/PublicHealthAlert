@@ -6,7 +6,7 @@
 
 $ErrorActionPreference = 'Stop'
 
-$project   = 'C:\Tools\PublicHealthAlert'
+$project   = 'H:\TCG-Fabric\external\PublicHealthAlert'
 $scrapeCmd = Join-Path $project 'tasks\run-scrape.cmd'
 $verifyCmd = Join-Path $project 'tasks\run-verify.cmd'
 

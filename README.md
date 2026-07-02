@@ -48,7 +48,7 @@ GitHub (this repo) -> Netlify (static publish from public/)
             +------------------------+
 ```
 
-The local PC at `C:\Tools\PublicHealthAlert\` is the canonical store. Daily raw archives (`data/`), run logs (`logs/`), and last-known-good state (`state/`) are not in git. Only normalized, published JSON in `public/data/` is committed.
+The local PC at `H:\TCG-Fabric\external\PublicHealthAlert\` is the canonical store. Daily raw archives (`data/`), run logs (`logs/`), and last-known-good state (`state/`) are not in git. Only normalized, published JSON in `public/data/` is committed.
 
 ## Repository layout
 
