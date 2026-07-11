@@ -7,8 +7,8 @@
   "source_count": 11,
   "total_sources": 11,
   "operator": "TCG Solutions",
-  "run": "ceafd9ce-13ab-4370-ab1e-f5c91da15976",
+  "run": "eaa9b039-84cf-409f-921c-90eeb25bdad7",
   "scrape_run": "fb7af2ad-1a87-4f51-b1ab-942d1ed95413",
-  "stale_reason": "scrape is 409.0h old (limit 6h)",
-  "last_verify_attempt": "2026-07-10T06:00:05.050Z"
+  "stale_reason": "scrape is 433.0h old (limit 6h)",
+  "last_verify_attempt": "2026-07-11T06:00:02.129Z"
 }
